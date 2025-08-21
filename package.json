@@ -1,0 +1,18 @@
+{
+  "name": "whispers",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "fetchEarningsFromWhispers.js",
+  "scripts": {
+    "start": "node fetchEarningsFromWhispers.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "axios-cookiejar-support": "^2.0.0",
+    "discord.js": "^14.0.0",
+    "dotenv": "^17.2.1",
+    "node-fetch": "^2.6.7",
+    "rss-parser": "^3.12.0",
+    "tough-cookie": "^4.1.4"
+  }
+}
