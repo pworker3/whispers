@@ -13510,5 +13510,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.047771290504316444
+  },
+  {
+    "epsDate": "2025-08-22T07:03:00",
+    "ticker": "UI",
+    "name": "Ubiquiti Inc.",
+    "summary": "Ubiquiti (UI) reported earnings of $3.54 per share on revenue of $759.15 million for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $1.91 per share on  revenue of $615.07 million. The company beat consensus estimates by 85.34% while revenue grew 49.60% on a year-over-year basis.<br /><br />Ubiquiti Inc. is focused on democratizing network technology on a global scale — aggregate shipments of over 126 million devices play a key role in creating networking infrastructure in over 200 countries and territories around the world. ",
+    "subject": "Ubiquiti Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2508224897",
+    "eps": 3.54,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.91,
+    "whisper": 999,
+    "highEstimate": 1.94,
+    "lowEstimate": 1.94,
+    "revenue": 759.153,
+    "revenueEstimate": 615.07,
+    "earningsGrowth": 1.058139534883721,
+    "revenueGrowth": 0.4959829425315443,
+    "earningsSurprise": 0.8534031413612565,
+    "revenueSurprise": 0.2342546376835157,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.3472090093854526
   }
 ]
