@@ -13486,5 +13486,29 @@
     "revenueSurprise": -0.0003139169863969306,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.019925749432038568
+  },
+  {
+    "epsDate": "2025-08-22T06:45:00",
+    "ticker": "BJ",
+    "name": "BJ's Wholesale Club, Inc.",
+    "summary": "BJ's Wholesale Club (BJ) reported earnings of $1.14 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $1.10 per share on  revenue of $5.47 billion. The Earnings Whisper number was $1.17 per share. The company missed expectations by 2.56%.<br /><br />BJ's Wholesale Club Holdings, Inc. is a leading operator of membership warehouse clubs in the Eastern United States.",
+    "subject": "BJ's Wholesale Club Missed Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508228463",
+    "eps": 1.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.1,
+    "whisper": 1.17,
+    "highEstimate": 1.21,
+    "lowEstimate": 1.04,
+    "revenue": null,
+    "revenueEstimate": 5470,
+    "earningsGrowth": 0.045871559633027525,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02564102564102564,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.047771290504316444
   }
 ]
