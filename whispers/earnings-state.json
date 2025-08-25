@@ -13534,5 +13534,29 @@
     "revenueSurprise": 0.2342546376835157,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3472090093854526
+  },
+  {
+    "epsDate": "2025-08-25T06:30:00",
+    "ticker": "PDD",
+    "name": "Pinduoduo Inc.",
+    "summary": "Pinduoduo (PDD) reported earnings of $3.08 per share on  for the  second quarter ended June 2025.  The consensus earnings estimate was $1.91 per share on  revenue of $14.35 billion. The Earnings Whisper number was $1.87 per share. The company beat expectations by 64.71%.<br /><br />Pinduoduo is a mobile-only marketplace that connects millions of agricultural producers with consumers across China. ",
+    "subject": "Pinduoduo Beat Expectations",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508257385",
+    "eps": 3.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.91,
+    "whisper": 1.87,
+    "highEstimate": 1.99,
+    "lowEstimate": 1.83,
+    "revenue": null,
+    "revenueEstimate": 14350,
+    "earningsGrowth": 0.037037037037037035,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.6470588235294118,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 4.708333333333333,
+    "prevRevenueGrowth": 0.09653315678767863
   }
 ]
