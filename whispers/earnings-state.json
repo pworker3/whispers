@@ -13654,5 +13654,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -1
+  },
+  {
+    "epsDate": "2025-08-25T16:47:00",
+    "ticker": "HEI",
+    "name": "HEICO Corporation",
+    "summary": "HEICO (HEI) reported earnings of $1.26 per share on revenue of $1.15 billion for the  fiscal third quarter ended July 2025.  The consensus earnings estimate was $1.12 per share on  revenue of $1.11 billion. The Earnings Whisper number was $1.15 per share. The company beat expectations by 9.57% while revenue grew 15.66% on a year-over-year basis.<br /><br />HEICO Corporation is engaged primarily in the design, production, servicing and distribution of products and services to certain niche segments of the aviation, defense, space, medical, telecommunications and electronics industries",
+    "subject": "HEICO Beat Expectations",
+    "quarter": " fiscal third quarter ended July 2025",
+    "fileName": "2508255211",
+    "eps": 1.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.12,
+    "whisper": 1.15,
+    "highEstimate": 1.19,
+    "lowEstimate": 1.07,
+    "revenue": 1147.591,
+    "revenueEstimate": 1110,
+    "earningsGrowth": 0.29896907216494845,
+    "revenueGrowth": 0.15655895816158494,
+    "earningsSurprise": 0.09565217391304348,
+    "revenueSurprise": 0.03386576576576576,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14907446658188497
   }
 ]
