@@ -13558,5 +13558,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 4.708333333333333,
     "prevRevenueGrowth": 0.09653315678767863
+  },
+  {
+    "epsDate": "2025-08-25T07:00:00",
+    "ticker": "NSSC",
+    "name": "NAPCO Security Technologies, Inc.",
+    "summary": "NAPCO Security Technologies (NSSC) reported earnings of $0.33 per share on  for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.28 per share on  revenue of $44.20 million. The company beat consensus estimates by 17.86%.<br /><br />NAPCO Security Technologies Inc is engaged in manufacturing of security products, encompassing access control systems, door security products, intrusion and fire alarm systems and video surveillance products.",
+    "subject": "NAPCO Security Technologies Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2508257671",
+    "eps": 0.33,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.28,
+    "whisper": 999,
+    "highEstimate": 0.28,
+    "lowEstimate": 0.28,
+    "revenue": null,
+    "revenueEstimate": 44.2,
+    "earningsGrowth": -0.08333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.17857142857142858,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1076988653662695
   }
 ]
