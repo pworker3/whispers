@@ -13630,5 +13630,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -5.9393939393939394,
     "prevRevenueGrowth": -0.07623318385650224
+  },
+  {
+    "epsDate": "2025-08-25T16:00:00",
+    "ticker": "MOLN",
+    "name": "Molecular Partners AG",
+    "summary": "Molecular Partners AG (MOLN) reported a loss of $0.67 per share on revenue of $0.00 million for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.53 per share on  revenue of $25.33 million. The company missed consensus estimates by 26.42% while revenue fell 100.00% compared to the same quarter a year ago.<br /><br />Molecular Partners AG is a clinical-stage biotech company developing DARPin therapeutics, a new class of custom-built protein drugs designed to address challenges current modalities cannot. ",
+    "subject": "Molecular Partners AG Missed Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508257737",
+    "eps": -0.67,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.53,
+    "whisper": 999,
+    "highEstimate": -0.53,
+    "lowEstimate": -0.53,
+    "revenue": 0,
+    "revenueEstimate": 25.33,
+    "earningsGrowth": -0.3137254901960784,
+    "revenueGrowth": -1,
+    "earningsSurprise": -0.2641509433962264,
+    "revenueSurprise": -1,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -1
   }
 ]
