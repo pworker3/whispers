@@ -13846,5 +13846,29 @@
     "revenueSurprise": -0.4487609970674487,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.7016356417239129
+  },
+  {
+    "epsDate": "2025-08-26T14:35:00",
+    "ticker": "TUYA",
+    "name": "Tuya Inc.",
+    "summary": "Tuya (TUYA) reported earnings of $0.02 per share on revenue of $80.13 million for the  second quarter ended June 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $77.84 million. The company reported in-line with consensus estimates while revenue grew 9.35% on a year-over-year basis.<br /><br />Tuya Inc. is a global leading IoT cloud development platform with a mission to build an IoT developer ecosystem and enable everything to be smart. ",
+    "subject": "Tuya Reported In-line with Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508269291",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.03,
+    "lowEstimate": 0.03,
+    "revenue": 80.13,
+    "revenueEstimate": 77.84,
+    "earningsGrowth": 1,
+    "revenueGrowth": 0.09349199634274485,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.029419321685508735,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.21123220135577828
   }
 ]
