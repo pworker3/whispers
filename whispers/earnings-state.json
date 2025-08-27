@@ -14110,5 +14110,29 @@
     "revenueSurprise": -0.46983790999237224,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.06453113733666734
+  },
+  {
+    "epsDate": "2025-08-27T06:00:00",
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "summary": "Royal Bank of Canada (RY) reported earnings of $2.77 per share on  for the  fiscal third quarter ended July 2025.  The consensus earnings estimate was $2.36 per share on  revenue of $11.45 billion. The Earnings Whisper number was $2.40 per share. The company beat expectations by 15.42%.<br /><br />Royal Bank Of Canada is a financial services company which provides personal and commercial banking, wealth management services, insurance, corporate and investment banking and transaction processing services.",
+    "subject": "Royal Bank of Canada Beat Expectations",
+    "quarter": " fiscal third quarter ended July 2025",
+    "fileName": "2508274106",
+    "eps": 2.77,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.36,
+    "whisper": 2.4,
+    "highEstimate": 2.46,
+    "lowEstimate": 2.26,
+    "revenue": null,
+    "revenueEstimate": 11450,
+    "earningsGrowth": 0.1638655462184874,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.15416666666666667,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.06494407483661303
   }
 ]
