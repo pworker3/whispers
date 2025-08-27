@@ -14806,5 +14806,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.010722100656455142
+  },
+  {
+    "epsDate": "2025-08-27T16:50:00",
+    "ticker": "NOAH",
+    "name": "Noah Holdings",
+    "summary": "Noah (NOAH) reported earnings of $0.37 per share on revenue of $87.87 million for the  second quarter ended June 2025.  The consensus revenue estimate was  revenue of $86.31 million. Revenue grew 3.69% on a year-over-year basis.<br /><br />Noah Holdings Ltd., is an independent service provider focusing on distributing wealth management products to the high net worth population in China. It provides direct access to China’s high net worth population.",
+    "subject": "Noah Reported Earnings",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508270285",
+    "eps": 0.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 87.874,
+    "revenueEstimate": 86.31,
+    "earningsGrowth": 0.7619047619047619,
+    "revenueGrowth": 0.036934768243179456,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.018120727609778706,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05855935971542908
   }
 ]
