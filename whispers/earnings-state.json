@@ -14374,5 +14374,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 8.333333333333334,
     "prevRevenueGrowth": -0.20633593847954193
+  },
+  {
+    "epsDate": "2025-08-27T09:00:00",
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "summary": "Williams-Sonoma (WSM) reported earnings of $2.00 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $1.79 per share on  revenue of $1.81 billion. The Earnings Whisper number was $1.88 per share. The company beat expectations by 6.38%.<br /><br />The company  said it expects fiscal  2026 revenue of $7.75 billion to $7.98 billion. The company's previous guidance was revenue of $7.60 billion to $7.83 billion, and the current consensus revenue estimate is $7.72 billion for the year ending January 31, 2026.<br /><br />Williams-Sonoma Inc is a multi-channel specialty retailer of home furnishings in the United States and Canada.",
+    "subject": "Williams-Sonoma Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508278702",
+    "eps": 2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.79,
+    "whisper": 1.88,
+    "highEstimate": 1.96,
+    "lowEstimate": 1.69,
+    "revenue": null,
+    "revenueEstimate": 1810,
+    "earningsGrowth": 0.14942528735632185,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.06382978723404255,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0420182997781188
   }
 ]
