@@ -14134,5 +14134,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.06494407483661303
+  },
+  {
+    "epsDate": "2025-08-27T06:45:00",
+    "ticker": "FL",
+    "name": "Foot Locker, Inc.",
+    "summary": "Foot Locker (FL) reported a loss of $0.27 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.05 per share on  revenue of $1.86 billion. The company missed consensus estimates by 640.00%.<br /><br />Foot Locker, Inc. is a leading footwear and apparel retailer that unlocks the \"inner sneakerhead\" in all of us.",
+    "subject": "Foot Locker Missed Consensus Estimates",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508279635",
+    "eps": -0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.05,
+    "whisper": 999,
+    "highEstimate": 0.09,
+    "lowEstimate": 0.03,
+    "revenue": null,
+    "revenueEstimate": 1860,
+    "earningsGrowth": -4.4,
+    "revenueGrowth": null,
+    "earningsSurprise": -6.4,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.04523682810005322
   }
 ]
