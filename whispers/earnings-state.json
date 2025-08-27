@@ -14854,5 +14854,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.32142857142857145
+  },
+  {
+    "epsDate": "2025-08-27T18:00:00",
+    "ticker": "TCOM",
+    "name": "Trip.com Group Limited",
+    "summary": "Trip.com Group Limited (TCOM) reported earnings of $1.01 per share on revenue of $2.08 billion for the  second quarter ended June 2025.  The consensus earnings estimate was $0.98 per share on  revenue of $2.04 billion. The Earnings Whisper number was $1.03 per share. The company missed expectations by 1.94% while revenue grew 18.10% on a year-over-year basis.<br /><br />Trip.com Group Limited  is a leading one-stop travel platform globally, integrating a comprehensive suite of travel products and services and differentiated travel content.",
+    "subject": "Trip.com Group Limited Missed Expectations",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508279988",
+    "eps": 1.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.98,
+    "whisper": 1.03,
+    "highEstimate": 1.05,
+    "lowEstimate": 0.91,
+    "revenue": 2075,
+    "revenueEstimate": 2040,
+    "earningsGrowth": 0.16091954022988506,
+    "revenueGrowth": 0.18099032441661925,
+    "earningsSurprise": -0.019417475728155338,
+    "revenueSurprise": 0.01715686274509804,
+    "prevEarningsGrowth": 6.3,
+    "prevRevenueGrowth": 0.15827774408732564
   }
 ]
