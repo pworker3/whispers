@@ -14830,5 +14830,29 @@
     "revenueSurprise": 0.018120727609778706,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05855935971542908
+  },
+  {
+    "epsDate": "2025-08-27T16:57:00",
+    "ticker": "PAHC",
+    "name": "Phibro Animal Health Corporation",
+    "summary": "Phibro Animal Health (PAHC) reported earnings of $0.57 per share on  for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.52 per share on  revenue of $361.15 million. The Earnings Whisper number was $0.59 per share. The company missed expectations by 3.39%.<br /><br />The company  said it expects fiscal  2026  earnings of $2.52 to $2.70 per share on revenue of $1.43 billion to $1.48 billion. The current consensus earnings estimate is $2.30 per share on revenue of $1.41 billion for the year ending June 30, 2026.<br /><br />Phibro Animal Health Corp is an animal health and mineral nutrition company. It develops, manufactures and markets products for food animals including poultry, swine, beef and dairy cattle and aquaculture.",
+    "subject": "Phibro Animal Health Missed Expectations",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2508274476",
+    "eps": 0.57,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.52,
+    "whisper": 0.59,
+    "highEstimate": 0.54,
+    "lowEstimate": 0.5,
+    "revenue": null,
+    "revenueEstimate": 361.15,
+    "earningsGrowth": 0.3902439024390244,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.03389830508474576,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.32142857142857145
   }
 ]
