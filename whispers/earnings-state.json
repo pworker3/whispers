@@ -15094,5 +15094,29 @@
     "revenueSurprise": 0.08285689384695834,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11910572648827683
+  },
+  {
+    "epsDate": "2025-08-28T07:00:00",
+    "ticker": "VSCO",
+    "name": "Victoria's Secret & Co.",
+    "summary": "Victoria's Secret (VSCO) reported earnings of $0.33 per share on revenue of $1.46 billion for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.13 per share on  revenue of $1.41 billion. The Earnings Whisper number was $0.16 per share. The company beat expectations by 106.25% while revenue grew 2.96% on a year-over-year basis.<br /><br />The company  said it expects  a third-quarter loss of $0.75 to $0.55 per share on revenue of $1.39 billion to $1.42 billion. The current consensus estimate is a loss of $0.58 per share on revenue of $1.35 billion for the quarter ending October 31, 2025. The company also said it now expects fiscal  2026 revenue of $6.33 billion to $6.41 billion. The company's previous guidance was revenue of $6.20 billion to $6.30 billion and the current consensus revenue estimate is $6.24 billion for the year ending January 31, 2026.<br /><br />Victoria’s Secret is the world’s largest intimates specialty retailer offering a wide assortment of modern, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear and athleisure, as well as award-winning prestige fragrances and body care. ",
+    "subject": "Victoria's Secret Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508289377",
+    "eps": 0.33,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.13,
+    "whisper": 0.16,
+    "highEstimate": 0.16,
+    "lowEstimate": 0.09,
+    "revenue": 1459.137,
+    "revenueEstimate": 1410,
+    "earningsGrowth": -0.175,
+    "revenueGrowth": 0.029596533429109513,
+    "earningsSurprise": 1.0625,
+    "revenueSurprise": 0.034848936170212765,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.004776224362642908
   }
 ]
