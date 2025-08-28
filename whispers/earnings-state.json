@@ -15358,5 +15358,29 @@
     "revenueSurprise": -0.000987248322147651,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.02337326863465739
+  },
+  {
+    "epsDate": "2025-08-28T16:07:00",
+    "ticker": "AFRM",
+    "name": "Affirm Holdings, Inc.",
+    "summary": "Affirm (AFRM) reported earnings of $0.20 per share on revenue of $876.42 million for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.11 per share on  revenue of $839.88 million. The Earnings Whisper number was $0.14 per share. The company beat expectations by 42.86% while revenue grew 32.95% on a year-over-year basis.<br /><br />The company  said in its <a href=\"https://investors.affirm.com/static-files/8e83cdf4-14a0-4e3e-905c-4c85a36fc573\">shareholders letter</a> it expects  first quarter  revenue of $855.0 million to $885.0 million. The current consensus revenue estimate is $862.88 million for the quarter ending September 30, 2025.<br /><br />Affirm’s mission is to deliver honest financial products that improve lives. ",
+    "subject": "Affirm Beat Expectations",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2508286379",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.11,
+    "whisper": 0.14,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.07,
+    "revenue": 876.417,
+    "revenueEstimate": 839.88,
+    "earningsGrowth": 2.4285714285714284,
+    "revenueGrowth": 0.32954633373028813,
+    "earningsSurprise": 0.42857142857142855,
+    "revenueSurprise": 0.04350264323474782,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.35923888801142745
   }
 ]
