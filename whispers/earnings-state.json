@@ -15382,5 +15382,29 @@
     "revenueSurprise": 0.04350264323474782,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.35923888801142745
+  },
+  {
+    "epsDate": "2025-08-28T16:01:00",
+    "ticker": "IREN",
+    "name": "Iris Energy Limited ",
+    "summary": "Iris Energy Limited (IREN) reported earnings of $0.08 per share on revenue of $187.29 million for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $193.77 million. The Earnings Whisper number was $0.19 per share. The company missed expectations by 57.89%.<br /><br />Iris Energy is a sustainable Bitcoin mining company that supports the decarbonization of energy markets and the global Bitcoin network.",
+    "subject": "Iris Energy Limited Missed Expectations",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2508280153",
+    "eps": 0.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 0.19,
+    "highEstimate": 0.21,
+    "lowEstimate": 0.14,
+    "revenue": 187.293,
+    "revenueEstimate": 193.77,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.5789473684210527,
+    "revenueSurprise": -0.03342622697011921,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
