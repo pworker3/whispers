@@ -14878,5 +14878,29 @@
     "revenueSurprise": 0.01715686274509804,
     "prevEarningsGrowth": 6.3,
     "prevRevenueGrowth": 0.15827774408732564
+  },
+  {
+    "epsDate": "2025-08-27T17:34:00",
+    "ticker": "BMA",
+    "name": "Banco Macro S.A.",
+    "summary": "Banco Macro S.A. (BMA) reported earnings of $1.95 per share on revenue of $1.18 billion for the  second quarter ended June 2025.  The consensus earnings estimate was $1.99 per share on  revenue of $848.73 million. The company missed consensus estimates by 2.01% while revenue grew 14.59% on a year-over-year basis.<br /><br />Macro Bank Inc provides standard banking products and services. The Company has two categories of customers: retail customers and corporate customers.",
+    "subject": "Banco Macro S.A. Missed Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2508270508",
+    "eps": 1.95,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.99,
+    "whisper": 999,
+    "highEstimate": 2.1,
+    "lowEstimate": 1.87,
+    "revenue": 1176.275,
+    "revenueEstimate": 848.73,
+    "earningsGrowth": 1.486284289276808,
+    "revenueGrowth": 0.14586824037345011,
+    "earningsSurprise": -0.020100502512562814,
+    "revenueSurprise": 0.3859236741955628,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.5912426771447697
   }
 ]
