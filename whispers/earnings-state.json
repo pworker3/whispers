@@ -15454,5 +15454,29 @@
     "revenueSurprise": -0.7340761194029851,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03749886030015135
+  },
+  {
+    "epsDate": "2025-08-29T05:34:00",
+    "ticker": "BABA",
+    "name": "Alibaba Group Holding Ltd.",
+    "summary": "Alibaba Group Holding (BABA) reported earnings of $2.06 per share on  for the  fiscal first quarter ended June 2025.  The consensus earnings estimate was $2.13 per share on  revenue of $34.26 billion. The Earnings Whisper number was $2.10 per share. The company missed expectations by 1.90%.<br /><br />Alibaba Group Holding Ltd is an online & mobile commerce company. Through its subsidiaries, it provides retail and wholesale marketplaces available through both personal computer and mobile interfaces.",
+    "subject": "Alibaba Group Holding Missed Expectations",
+    "quarter": " fiscal first quarter ended June 2025",
+    "fileName": "2508295486",
+    "eps": 2.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.13,
+    "whisper": 2.1,
+    "highEstimate": 2.14,
+    "lowEstimate": 2.11,
+    "revenue": null,
+    "revenueEstimate": 34260,
+    "earningsGrowth": 0.00980392156862745,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.01904761904761905,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 2.358974358974359,
+    "prevRevenueGrowth": 0.06036642910605617
   }
 ]
