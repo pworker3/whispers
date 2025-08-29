@@ -15478,5 +15478,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 2.358974358974359,
     "prevRevenueGrowth": 0.06036642910605617
+  },
+  {
+    "epsDate": "2025-08-29T06:00:00",
+    "ticker": "DOOO",
+    "name": "BRP Inc.",
+    "summary": "BRP (DOOO) reported earnings of $0.67 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.33 per share on  revenue of $1.30 billion. The Earnings Whisper number was $0.39 per share. The company beat expectations by 71.79%.<br /><br />BRP is a global leader in the world of powersports vehicles, propulsion systems and boats, built on over 75 years of ingenuity and intensive consumer focus. ",
+    "subject": "BRP Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508294555",
+    "eps": 0.67,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.33,
+    "whisper": 0.39,
+    "highEstimate": 0.35,
+    "lowEstimate": 0.26,
+    "revenue": null,
+    "revenueEstimate": 1300,
+    "earningsGrowth": 0.4888888888888889,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.717948717948718,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.13171490502446886
   }
 ]
