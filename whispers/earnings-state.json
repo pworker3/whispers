@@ -15526,5 +15526,29 @@
     "revenueSurprise": -0.03930061552443508,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-08-29T10:00:00",
+    "ticker": "WOOF",
+    "name": "Petco Health and Wellness Company, Inc.",
+    "summary": "Petco Health and Wellness Company (WOOF) reported earnings of $0.05 per share on revenue of $1.49 billion for the  fiscal second quarter ended July 2025.  The consensus estimate was a loss of $0.02 per share on  revenue of $1.49 billion. The Earnings Whisper number was $0.01 per share. The company beat expectations by 400.00% while revenue fell 2.31% compared to the same quarter a year ago.<br /><br />The company  said it expects  third quarter  revenue of approximately $1.47 billion and continues to expect fiscal 2026 revenue of approximately $5.96 billion. The current consensus revenue estimate is $1.48 billion for the quarter ending October 31, 2025 and revenue of $5.98 billion for the year ending January 31, 2026.<br /><br />Petco is a category-defining health and wellness company focused on improving the lives of pets, pet parents and our own Petco partners. ",
+    "subject": "Petco Health and Wellness Company Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2508298588",
+    "eps": 0.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.02,
+    "whisper": 0.01,
+    "highEstimate": 0.01,
+    "lowEstimate": 0,
+    "revenue": 1488.529,
+    "revenueEstimate": 1490,
+    "earningsGrowth": 2,
+    "revenueGrowth": -0.023117889686990363,
+    "earningsSurprise": 4,
+    "revenueSurprise": -0.000987248322147651,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.02337326863465739
   }
 ]
