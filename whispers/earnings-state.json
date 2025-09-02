@@ -15838,5 +15838,29 @@
     "revenueSurprise": 0.003072340425531915,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.0560731591495999
+  },
+  {
+    "epsDate": "2025-09-02T05:30:00",
+    "ticker": "NIO",
+    "name": "NIO Inc.",
+    "summary": "NIO (NIO) reported a loss of $0.26 per share on  for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.30 per share on  revenue of $2.76 billion. The Earnings Whisper number was a loss of $0.27 per share. The company beat expectations by 3.70%.<br /><br />The company  said it expects  third quarter  revenue of $3.05 billion to $3.19 billion. The current consensus revenue estimate is $3.45 billion for the quarter ending September 30, 2025.<br /><br />NIO Inc. is a pioneer and a leading company in the global smart electric vehicle market.",
+    "subject": "NIO Beat Expectations",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509021535",
+    "eps": -0.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.3,
+    "whisper": -0.27,
+    "highEstimate": -0.3,
+    "lowEstimate": -0.3,
+    "revenue": null,
+    "revenueEstimate": 2760,
+    "earningsGrowth": 0.23529411764705882,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.037037037037037035,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.20847755277520713
   }
 ]
