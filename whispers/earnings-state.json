@@ -15910,5 +15910,29 @@
     "revenueSurprise": -0.006311801242236025,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.00939071410769524
+  },
+  {
+    "epsDate": "2025-09-02T16:05:00",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "summary": "Zscaler (ZS) reported earnings of $0.89 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $0.80 per share on  revenue of $706.19 million. The Earnings Whisper number was $0.84 per share. The company beat expectations by 5.95%.<br /><br />Zscaler accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. ",
+    "subject": "Zscaler Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509021937",
+    "eps": 0.89,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.8,
+    "whisper": 0.84,
+    "highEstimate": 0.85,
+    "lowEstimate": 0.79,
+    "revenue": null,
+    "revenueEstimate": 706.19,
+    "earningsGrowth": 18.8,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05952380952380952,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -0.9107142857142857,
+    "prevRevenueGrowth": 0.2256557743026495
   }
 ]
