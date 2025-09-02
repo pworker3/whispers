@@ -15886,5 +15886,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.020386550172094255
+  },
+  {
+    "epsDate": "2025-09-02T08:00:00",
+    "ticker": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "summary": "Academy Sports and Outdoors (ASO) reported earnings of $1.89 per share on revenue of $1.60 billion for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $2.12 per share on  revenue of $1.61 billion. The Earnings Whisper number was $2.15 per share. The company missed expectations by 12.09% while revenue grew 3.28% on a year-over-year basis.<br /><br />Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. ",
+    "subject": "Academy Sports and Outdoors Missed Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509021052",
+    "eps": 1.89,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.12,
+    "whisper": 2.15,
+    "highEstimate": 2.23,
+    "lowEstimate": 2.01,
+    "revenue": 1599.838,
+    "revenueEstimate": 1610,
+    "earningsGrowth": -0.015625,
+    "revenueGrowth": 0.032833219279784116,
+    "earningsSurprise": -0.12093023255813953,
+    "revenueSurprise": -0.006311801242236025,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.00939071410769524
   }
 ]
