@@ -15862,5 +15862,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.20847755277520713
+  },
+  {
+    "epsDate": "2025-09-02T06:50:00",
+    "ticker": "SIG",
+    "name": "Signet Jewelers Ltd",
+    "summary": "Signet Jewelers (SIG) reported earnings of $1.61 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $1.21 per share on  revenue of $1.50 billion. The Earnings Whisper number was $1.26 per share. The company beat expectations by 27.78%.<br /><br />The company  said it expects third-quarter revenue of $1.34 billion to $1.38 billion. The current consensus revenue estimate is $1.35 billion for the quarter ending October 31, 2025. The company also said it now expects fiscal  2026  earnings of $8.04 to $9.57 per share on revenue of $6.67 billion to $6.82 billion. The company's previous guidance was earnings of $7.70 to $9.38 per share on revenue of $6.57 billion to $6.80 billion, and the current consensus earnings estimate is $9.12 per share on revenue of $6.76 billion for the year ending January 31, 2026.<br /><br />Signet Jewelers Ltd is engaged in retailing of jewelry, watches and associated services. The Company' operational divisions are in United Kingdom and United States.",
+    "subject": "Signet Jewelers Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509029611",
+    "eps": 1.61,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.21,
+    "whisper": 1.26,
+    "highEstimate": 1.37,
+    "lowEstimate": 1.05,
+    "revenue": null,
+    "revenueEstimate": 1500,
+    "earningsGrowth": 0.288,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.2777777777777778,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.020386550172094255
   }
 ]
