@@ -16414,5 +16414,29 @@
     "revenueSurprise": 0.05162586773839971,
     "prevEarningsGrowth": -2.42,
     "prevRevenueGrowth": 0.10123326903968671
+  },
+  {
+    "epsDate": "2025-09-03T17:00:00",
+    "ticker": "DSGX",
+    "name": "Descartes Systems Group, Inc.",
+    "summary": "Descartes Systems Group (DSGX) reported earnings of $0.43 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.49 per share on  revenue of $177.22 million. The company missed consensus estimates by 12.24%.<br /><br />Descartes Systems Group Inc is focused on logistics & supply chain management business processes. It' a provider of on-demand, cloud-based SaaS solutions focused on improving the productivity, performance and security of logistics intensive business.",
+    "subject": "Descartes Systems Group Missed Consensus Estimates",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509032921",
+    "eps": 0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.49,
+    "whisper": 999,
+    "highEstimate": 0.52,
+    "lowEstimate": 0.42,
+    "revenue": null,
+    "revenueEstimate": 177.22,
+    "earningsGrowth": 0.075,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.12244897959183673,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11490736580595713
   }
 ]
