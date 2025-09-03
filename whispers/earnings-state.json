@@ -16390,5 +16390,29 @@
     "revenueSurprise": -0.01781818181818182,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-03T16:05:00",
+    "ticker": "BASE",
+    "name": "Couchbase, Inc.",
+    "summary": "Couchbase (BASE) reported a loss of $0.29 per share on revenue of $57.57 million for the  fiscal second quarter ended July 2025.  The consensus estimate was a loss of $0.33 per share on  revenue of $54.74 million. The company beat consensus estimates by 12.12% while revenue grew 11.59% on a year-over-year basis.<br /><br />ouchbase's mission is to simplify how developers and architects develop, deploy and run modern applications wherever they are.",
+    "subject": "Couchbase Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509034327",
+    "eps": -0.29,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.33,
+    "whisper": 999,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.09,
+    "revenue": 57.566,
+    "revenueEstimate": 54.74,
+    "earningsGrowth": 0.2564102564102564,
+    "revenueGrowth": 0.11585803175095466,
+    "earningsSurprise": 0.12121212121212122,
+    "revenueSurprise": 0.05162586773839971,
+    "prevEarningsGrowth": -2.42,
+    "prevRevenueGrowth": 0.10123326903968671
   }
 ]
