@@ -16102,5 +16102,29 @@
     "revenueSurprise": 0.04164919163904485,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04884436546903345
+  },
+  {
+    "epsDate": "2025-09-03T07:15:00",
+    "ticker": "CPB",
+    "name": "Campbell Soup Co.",
+    "summary": "Campbell Soup (CPB) reported earnings of $0.62 per share on revenue of $2.32 billion for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $0.57 per share on  revenue of $2.33 billion. The Earnings Whisper number was $0.57 per share. The company beat expectations by 8.77% while revenue grew 1.22% on a year-over-year basis.<br /><br />Campbell Soup Co together with its subsidiaries is engaged in manufacturing and marketing of branded convenience food products.",
+    "subject": "Campbell Soup Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509031350",
+    "eps": 0.62,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.57,
+    "whisper": 0.57,
+    "highEstimate": 0.6,
+    "lowEstimate": 0.55,
+    "revenue": 2321,
+    "revenueEstimate": 2330,
+    "earningsGrowth": -0.015873015873015872,
+    "revenueGrowth": 0.012211077191452245,
+    "earningsSurprise": 0.08771929824561403,
+    "revenueSurprise": -0.0038626609442060085,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.044744617982271
   }
 ]
