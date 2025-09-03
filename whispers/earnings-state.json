@@ -15982,5 +15982,29 @@
     "revenueSurprise": 0.0220350679087858,
     "prevEarningsGrowth": 2.6578947368421053,
     "prevRevenueGrowth": 0.15037361307663152
+  },
+  {
+    "epsDate": "2025-09-03T06:30:00",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "summary": "Dollar Tree (DLTR) reported earnings of $0.77 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $4.46 billion. The Earnings Whisper number was $0.41 per share. The company beat expectations by 87.80%.<br /><br />Dollar Tree Stores\r\nInc is a operator of discount variety stores offering merchandise at the fixed\r\nprice of $1.00. At January 31, 2015, the Company operated 5,367 discount\r\nvariety retail stores.",
+    "subject": "Dollar Tree Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509039236",
+    "eps": 0.77,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 0.41,
+    "highEstimate": 0.45,
+    "lowEstimate": 0.32,
+    "revenue": null,
+    "revenueEstimate": 4460,
+    "earningsGrowth": 0.14925373134328357,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.8780487804878049,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.3921365684938686
   }
 ]
