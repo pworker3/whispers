@@ -16678,5 +16678,29 @@
     "revenueSurprise": 1.3855968858131489,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05095788269166882
+  },
+  {
+    "epsDate": "2025-09-04T07:30:00",
+    "ticker": "WLY",
+    "name": "Wiley",
+    "summary": "Wiley (WLY) reported earnings of $0.49 per share on  for the  fiscal first quarter ended July 2025. .<br /><br />Wiley is a global leader in research and education, unlocking human potential by enabling discovery, powering education, and shaping workforces. ",
+    "subject": "Wiley Reported Earnings",
+    "quarter": " fiscal first quarter ended July 2025",
+    "fileName": "2509041401",
+    "eps": 0.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": null,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.0425531914893617,
+    "revenueGrowth": null,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.055248996181112196
   }
 ]
