@@ -16462,5 +16462,29 @@
     "revenueSurprise": -0.0011231162922945691,
     "prevEarningsGrowth": -2.25531914893617,
     "prevRevenueGrowth": 0.25560688301189516
+  },
+  {
+    "epsDate": "2025-09-04T06:10:00",
+    "ticker": "SCVL",
+    "name": "Shoe Carnival, Inc.",
+    "summary": "Shoe Carnival (SCVL) reported earnings of $0.70 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.55 per share on  revenue of $318.61 million. The Earnings Whisper number was $0.55 per share. The company beat expectations by 27.27%.<br /><br />Shoe Carnival is a family footwear retailer, offers customers an assortment of moderately priced dress, casual and athletic footwear for men, women and children.",
+    "subject": "Shoe Carnival Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509044769",
+    "eps": 0.7,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.55,
+    "whisper": 0.55,
+    "highEstimate": 0.6,
+    "lowEstimate": 0.6,
+    "revenue": null,
+    "revenueEstimate": 318.61,
+    "earningsGrowth": -0.1566265060240964,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.2727272727272727,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.07540825329182828
   }
 ]
