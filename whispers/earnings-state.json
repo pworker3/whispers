@@ -17110,5 +17110,29 @@
     "revenueSurprise": 0.012388766901652606,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04934750206418821
+  },
+  {
+    "epsDate": "2025-09-04T16:15:00",
+    "ticker": "CPRT",
+    "name": "Copart Inc.",
+    "summary": "Copart (CPRT) reported earnings of $0.41 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $0.37 per share on  revenue of $1.15 billion. The Earnings Whisper number was $0.38 per share. The company beat expectations by 7.89%.<br /><br />Copart Inc is a provider of online auctions and vehicle remarketing services in United States, Canada, United Kingdom and Brazil. It provides vehicle sellers with services to process and sell vehicles over the internet.",
+    "subject": "Copart Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509048552",
+    "eps": 0.41,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.37,
+    "whisper": 0.38,
+    "highEstimate": 0.38,
+    "lowEstimate": 0.36,
+    "revenue": null,
+    "revenueEstimate": 1150,
+    "earningsGrowth": 0.24242424242424243,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.07894736842105263,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07492244462009175
   }
 ]
