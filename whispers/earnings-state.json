@@ -17134,5 +17134,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07492244462009175
+  },
+  {
+    "epsDate": "2025-09-04T16:10:00",
+    "ticker": "IOT",
+    "name": "Samsara Inc. ",
+    "summary": "Samsara Inc. (IOT) reported earnings of $0.12 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.07 per share on  revenue of $372.32 million. The Earnings Whisper number was $0.09 per share. The company beat expectations by 33.33%.<br /><br />The company  said it expects third-quarter non-GAAP earnings of $0.11 to $0.12 per share on revenue of $398.0 million to $400.0 million. The current consensus earnings estimate is $0.11 per share on revenue of $393.92 million for the quarter ending October 31, 2025. The company also said it now expects fiscal  2026 non-GAAP earnings of $0.45 to $0.47 per share on revenue of $1.574 billion to $1.578 billion. The company's previous guidance was earnings of $0.39 to $0.41 per share on revenue of $1.547 billion to $1.555 billion and the current consensus earnings estimate is $0.42 per share on revenue of $1.55 billion for the year ending January 31, 2026.<br /><br />Samsara is the pioneer of the Connected Operations Cloud, which allows businesses that depend on physical operations to harness IoT (Internet of Things) data to develop actionable business insights and improve their operations. ",
+    "subject": "Samsara Inc. Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509042274",
+    "eps": 0.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.07,
+    "whisper": 0.09,
+    "highEstimate": 0.08,
+    "lowEstimate": 0.07,
+    "revenue": null,
+    "revenueEstimate": 372.32,
+    "earningsGrowth": 2.3333333333333335,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.3333333333333333,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -1.5185185185185186,
+    "prevRevenueGrowth": 0.3069113655308023
   }
 ]
