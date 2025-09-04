@@ -16654,5 +16654,29 @@
     "revenueSurprise": 0.019473684210526317,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.11981077097117
+  },
+  {
+    "epsDate": "2025-09-04T07:00:00",
+    "ticker": "VBNK",
+    "name": "VersaBank",
+    "summary": "VersaBank (VBNK) reported earnings of $0.22 per share on revenue of $55.16 million for the  fiscal third quarter ended July 2025.  The consensus earnings estimate was $0.20 per share on  revenue of $23.12 million. The company beat consensus estimates by 10.00% while revenue grew 2.48% on a year-over-year basis.<br /><br />VersaBank became the world's first fully digital financial institution when it adopted its highly efficient business-to-business model using its proprietary state-of-the-art financial technology to profitably address underserved segments of the Canadian banking market in the pursuit of superior net interest margins while mitigating risk. ",
+    "subject": "VersaBank Beat Consensus Estimates",
+    "quarter": " fiscal third quarter ended July 2025",
+    "fileName": "2509044765",
+    "eps": 0.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.2,
+    "whisper": 999,
+    "highEstimate": 0.21,
+    "lowEstimate": 0.19,
+    "revenue": 55.155,
+    "revenueEstimate": 23.12,
+    "earningsGrowth": -0.15384615384615385,
+    "revenueGrowth": 0.02478586425372996,
+    "earningsSurprise": 0.1,
+    "revenueSurprise": 1.3855968858131489,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05095788269166882
   }
 ]
