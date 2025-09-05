@@ -17302,5 +17302,29 @@
     "revenueSurprise": 0.02962962962962963,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.04632841145575265
+  },
+  {
+    "epsDate": "2025-09-05T08:45:00",
+    "ticker": "AI",
+    "name": "C3.ai, Inc. ",
+    "summary": "C3.ai, Inc. (AI) reported a loss of $0.37 per share on revenue of $70.26 million for the  fiscal first quarter ended July 2025.  The consensus estimate was a loss of $0.21 per share on  revenue of $70.34 million. The Earnings Whisper number was a loss of $0.27 per share. The company missed expectations by 37.04% while revenue fell 19.44% compared to the same quarter a year ago.<br /><br />The company  said it expects  second quarter  revenue of $72.0 million to $80.0 million. The current consensus revenue estimate is $95.85 million for the quarter ending October 31, 2025.<br /><br />C3 AI is the Enterprise AI application software company.",
+    "subject": "C3.ai, Inc. Missed Expectations",
+    "quarter": " fiscal first quarter ended July 2025",
+    "fileName": "2509056269",
+    "eps": -0.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.21,
+    "whisper": -0.27,
+    "highEstimate": -0.37,
+    "lowEstimate": -0.39,
+    "revenue": 70.261,
+    "revenueEstimate": 70.34,
+    "earningsGrowth": 0.26,
+    "revenueGrowth": -0.19437469184639905,
+    "earningsSurprise": -0.37037037037037035,
+    "revenueSurprise": -0.0011231162922945691,
+    "prevEarningsGrowth": -2.25531914893617,
+    "prevRevenueGrowth": 0.25560688301189516
   }
 ]
