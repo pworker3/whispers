@@ -17278,5 +17278,29 @@
     "revenueSurprise": -0.06586440677966102,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2113172349466266
+  },
+  {
+    "epsDate": "2025-09-05T06:58:00",
+    "ticker": "ABM",
+    "name": "ABM Industries, Inc.",
+    "summary": "ABM Industries (ABM) reported earnings of $0.82 per share on revenue of $2.22 billion for the  fiscal third quarter ended July 2025.  The consensus earnings estimate was $0.95 per share on  revenue of $2.16 billion. The Earnings Whisper number was $0.97 per share. The company missed expectations by 15.46% while revenue grew 6.20% on a year-over-year basis.<br /><br />ABM is one of the world’s largest providers of integrated facility services. ",
+    "subject": "ABM Industries Missed Expectations",
+    "quarter": " fiscal third quarter ended July 2025",
+    "fileName": "2509053754",
+    "eps": 0.82,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.95,
+    "whisper": 0.97,
+    "highEstimate": 0.98,
+    "lowEstimate": 0.91,
+    "revenue": 2224,
+    "revenueEstimate": 2160,
+    "earningsGrowth": -0.1276595744680851,
+    "revenueGrowth": 0.061980708623818166,
+    "earningsSurprise": -0.15463917525773196,
+    "revenueSurprise": 0.02962962962962963,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04632841145575265
   }
 ]
