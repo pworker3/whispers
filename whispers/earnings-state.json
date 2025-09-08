@@ -17590,5 +17590,29 @@
     "revenueSurprise": 0.08888888888888889,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.27788978494623656
+  },
+  {
+    "epsDate": "2025-09-08T16:30:00",
+    "ticker": "CASY",
+    "name": "Casey’s General Stores, Inc.",
+    "summary": "Casey’s General Stores (CASY) reported earnings of $5.77 per share on revenue of $4.57 billion for the .  The consensus earnings estimate was $5.01 per share on  revenue of $4.55 billion. The Earnings Whisper number was $5.24 per share. The company beat expectations by 10.11% while revenue grew 11.45% on a year-over-year basis.<br /><br />Casey' General Stores Inc, together with its subsidiaries, operates convenience stores under the Caseys General Store name in 14 Midwestern states. Its stores offers a selection of food, beverage, and tobacco products, as well as other nonfood items.",
+    "subject": "Casey’s General Stores Beat Expectations",
+    "quarter": "",
+    "fileName": "2509089515",
+    "eps": 5.77,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.01,
+    "whisper": 5.24,
+    "highEstimate": 5.4,
+    "lowEstimate": 4.64,
+    "revenue": 4567.106,
+    "revenueEstimate": 4550,
+    "earningsGrowth": 0.19461697722567287,
+    "revenueGrowth": 0.11454346630835507,
+    "earningsSurprise": 0.10114503816793893,
+    "revenueSurprise": 0.0037595604395604396,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 3.428009049962292
   }
 ]
