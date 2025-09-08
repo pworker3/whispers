@@ -17494,5 +17494,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.31838086918984065
+  },
+  {
+    "epsDate": "2025-09-08T07:05:00",
+    "ticker": "PL",
+    "name": "Planet Labs PBC ",
+    "summary": "Planet Labs PBC (PL) reported a loss of $0.03 per share on revenue of $73.39 million for the .  The consensus estimate was a loss of $0.04 per share on  revenue of $65.88 million. The Earnings Whisper number was a loss of $0.02 per share. The company missed expectations by 50.00% while revenue grew 20.12% on a year-over-year basis.<br /><br />The company  said it expects  third quarter  revenue of $71.0 million to $74.0 million and now expects fiscal 2026 revenue of $281.0 million to $289.0 million. The company's previous guidance was fiscal year revenue of $265.0 million to $280.0 million.  The current consensus revenue estimate is $68.62 million for the quarter ending October 31, 2025, and revenue of $272.47 million for the year ending January 31, 2026.<br /><br />Planet is a leading provider of global, daily satellite imagery and geospatial solutions.",
+    "subject": "Planet Labs PBC Missed Expectations",
+    "quarter": "",
+    "fileName": "2509084254",
+    "eps": -0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.04,
+    "whisper": -0.02,
+    "highEstimate": -0.01,
+    "lowEstimate": -0.04,
+    "revenue": 73.386,
+    "revenueEstimate": 65.88,
+    "earningsGrowth": 0.7692307692307693,
+    "revenueGrowth": 0.20123747790218033,
+    "earningsSurprise": -0.5,
+    "revenueSurprise": 0.1139344262295082,
+    "prevEarningsGrowth": -2.1666666666666665,
+    "prevRevenueGrowth": 0.0963765718067505
   }
 ]
