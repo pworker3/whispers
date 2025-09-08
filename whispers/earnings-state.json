@@ -17566,5 +17566,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1405667257005938
+  },
+  {
+    "epsDate": "2025-09-08T16:05:00",
+    "ticker": "AVO",
+    "name": "Mission Produce, Inc.",
+    "summary": "Mission Produce (AVO) reported earnings of $0.24 per share on revenue of $357.70 million for the .  The consensus earnings estimate was $0.11 per share on  revenue of $328.50 million. The Earnings Whisper number was $0.15 per share. The company beat expectations by 60.00% while revenue grew 10.40% on a year-over-year basis.<br /><br />Mission Produce is the global leader in the worldwide avocado business.",
+    "subject": "Mission Produce Beat Expectations",
+    "quarter": "",
+    "fileName": "2509085252",
+    "eps": 0.24,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.11,
+    "whisper": 0.15,
+    "highEstimate": 0.13,
+    "lowEstimate": 0.13,
+    "revenue": 357.7,
+    "revenueEstimate": 328.5,
+    "earningsGrowth": 0.14285714285714285,
+    "revenueGrowth": 0.10401234567901235,
+    "earningsSurprise": 0.6,
+    "revenueSurprise": 0.08888888888888889,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.27788978494623656
   }
 ]
