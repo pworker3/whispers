@@ -17614,5 +17614,29 @@
     "revenueSurprise": 0.0037595604395604396,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 3.428009049962292
+  },
+  {
+    "epsDate": "2025-09-04T17:00:00",
+    "ticker": "CANG",
+    "name": "Cango Inc.",
+    "summary": "Cango (CANG) reported a loss of $0.02 per share on revenue of $139.84 million for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.08 per share. The company beat consensus estimates by 75.00% while revenue grew 2,154.41% on a year-over-year basis.<br /><br />Cango Inc. is a leading automotive transaction service platform in China connecting car buyers, dealers, financial institutions, and other industry participants.",
+    "subject": "Cango Beat Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509045565",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.08,
+    "whisper": 999,
+    "highEstimate": null,
+    "lowEstimate": null,
+    "revenue": 139.841,
+    "revenueEstimate": null,
+    "earningsGrowth": -1.2,
+    "revenueGrowth": 21.544091568595842,
+    "earningsSurprise": 0.75,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 15.277628334454159
   }
 ]
