@@ -17470,5 +17470,29 @@
     "revenueSurprise": -0.024450787951913598,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.1693055959398377
+  },
+  {
+    "epsDate": "2025-09-05T19:46:00",
+    "ticker": "NFE",
+    "name": "New Fortress Energy LLC",
+    "summary": "New Fortress Energy LLC (NFE) reported a loss of $2.02 per share on  for the .  The consensus estimate was a loss of $0.29 per share on  revenue of $686.21 million. The company missed consensus estimates by 596.55%.<br /><br />New Fortress Energy Inc. is a global energy infrastructure company founded to help accelerate the world’s transition to clean energy. ",
+    "subject": "New Fortress Energy LLC Missed Consensus Estimates",
+    "quarter": "",
+    "fileName": "2509054433",
+    "eps": -2.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.29,
+    "whisper": 999,
+    "highEstimate": 0.54,
+    "lowEstimate": -0.72,
+    "revenue": null,
+    "revenueEstimate": 686.21,
+    "earningsGrowth": -3.926829268292683,
+    "revenueGrowth": null,
+    "earningsSurprise": -5.9655172413793105,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.31838086918984065
   }
 ]
