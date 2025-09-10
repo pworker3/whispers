@@ -18238,5 +18238,29 @@
     "revenueSurprise": 0.007857142857142858,
     "prevEarningsGrowth": -0.05555555555555555,
     "prevRevenueGrowth": 0.08279978107706608
+  },
+  {
+    "epsDate": "2025-09-10T08:00:00",
+    "ticker": "DAKT",
+    "name": "Daktronics Inc.",
+    "summary": "Daktronics (DAKT) reported earnings of $0.33 per share on revenue of $218.97 million for the  fiscal first quarter ended July 2025.  The consensus earnings estimate was $0.24 per share on  revenue of $197.00 million. The company beat consensus estimates by 37.50% while revenue fell 3.15% compared to the same quarter a year ago.<br /><br />Daktronics Inc along with its subsidiaries is engaged in the design, manufacture and sale of electronic display systems and related products for Commercial, Live Events, Schools and Theatres, and Transportation.",
+    "subject": "Daktronics Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended July 2025",
+    "fileName": "2509106684",
+    "eps": 0.33,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.24,
+    "whisper": 999,
+    "highEstimate": 0.24,
+    "lowEstimate": 0.24,
+    "revenue": 218.972,
+    "revenueEstimate": 197,
+    "earningsGrowth": -0.08333333333333333,
+    "revenueGrowth": -0.03147447011783022,
+    "earningsSurprise": 0.375,
+    "revenueSurprise": 0.11153299492385786,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.20070872707059478
   }
 ]
