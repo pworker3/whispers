@@ -18358,5 +18358,29 @@
     "revenueSurprise": -0.12773405698778834,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-10T16:14:00",
+    "ticker": "LSAK",
+    "name": "Lesaka Technologies, Inc.",
+    "summary": "Lesaka Technologies (LSAK) reported a loss of $0.35 per share on revenue of $82.00 million for the  fiscal fourth quarter ended June 2025.  The consensus estimate was a loss of $0.01 per share on  revenue of $131.00 million. The company missed consensus estimates by 3,400.00% while revenue fell 43.85% compared to the same quarter a year ago.<br /><br />The company  said it expects  first quarter  revenue of $85.78 million to $94.36 million. The current consensus revenue estimate is $158.00 million for the quarter ending September 30, 2025. The company also said it expects fiscal  2026 non-GAAP earnings of at least $0.26 per share on revenue of $365.99 million to $394.58 million. The current consensus earnings estimate is $0.27 per share on revenue of $633.50 million for the year ending June 30, 2026.<br /><br />Lesaka Technologies, (Lesaka™) is a South African Fintech company that utilizes its proprietary banking and payment technologies to deliver superior financial services solutions to merchants (B2B) and consumers (B2C) in Southern Africa.",
+    "subject": "Lesaka Technologies Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509107056",
+    "eps": -0.35,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.01,
+    "whisper": 999,
+    "highEstimate": 0.04,
+    "lowEstimate": 0.04,
+    "revenue": 82,
+    "revenueEstimate": 131,
+    "earningsGrowth": -3.375,
+    "revenueGrowth": -0.43853306492474975,
+    "earningsSurprise": -34,
+    "revenueSurprise": -0.37404580152671757,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.018264179342084318
   }
 ]
