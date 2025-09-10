@@ -18310,5 +18310,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.013368191589817773
+  },
+  {
+    "epsDate": "2025-09-10T16:05:00",
+    "ticker": "VNCE",
+    "name": "Vince Holding Corp.",
+    "summary": "Vince Holding (VNCE) reported earnings of $0.38 per share on revenue of $73.24 million for the  fiscal second quarter ended July 2025.  The consensus estimate was a loss of $0.08 per share on  revenue of $71.63 million. The company beat consensus estimates by 575.00% while revenue fell 1.25% compared to the same quarter a year ago.<br /><br />Vince Holding Corp is a diversified apparel company that designs and markets a collection of fashion brands for men and women.",
+    "subject": "Vince Holding Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509103104",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.08,
+    "whisper": 999,
+    "highEstimate": -0.1,
+    "lowEstimate": -0.27,
+    "revenue": 73.241,
+    "revenueEstimate": 71.63,
+    "earningsGrowth": 6.6,
+    "revenueGrowth": -0.012511965915679057,
+    "earningsSurprise": 5.75,
+    "revenueSurprise": 0.022490576574061148,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.020922411316354295
   }
 ]
