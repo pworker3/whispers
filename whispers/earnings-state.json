@@ -18382,5 +18382,29 @@
     "revenueSurprise": -0.37404580152671757,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.018264179342084318
+  },
+  {
+    "epsDate": "2025-09-10T16:30:00",
+    "ticker": "CULP",
+    "name": "Culp, Inc.",
+    "summary": "Culp (CULP) reported a loss of $0.02 per share on revenue of $50.69 million for the  fiscal first quarter ended July 2025.  The consensus estimate was a loss of $0.12 per share on  revenue of $57.50 million. The company beat consensus estimates by 83.33% while revenue fell 10.34% compared to the same quarter a year ago.<br /><br />Culp, Inc. is one of the largest marketers of mattress fabrics for bedding and upholstery fabrics for residential and commercial furniture in North America. ",
+    "subject": "Culp Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended July 2025",
+    "fileName": "2509101971",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.12,
+    "whisper": 999,
+    "highEstimate": -0.12,
+    "lowEstimate": -0.12,
+    "revenue": 50.691,
+    "revenueEstimate": 57.5,
+    "earningsGrowth": 0.9459459459459459,
+    "revenueGrowth": -0.10340131241487875,
+    "earningsSurprise": 0.8333333333333334,
+    "revenueSurprise": -0.11841739130434782,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.01524390243902439
   }
 ]
