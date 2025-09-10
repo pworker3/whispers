@@ -18262,5 +18262,29 @@
     "revenueSurprise": 0.11153299492385786,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.20070872707059478
+  },
+  {
+    "epsDate": "2025-09-10T09:25:00",
+    "ticker": "TEN",
+    "name": "TEN Ltd. ",
+    "summary": "TEN Ltd. (TEN) reported earnings of $0.67 per share on revenue of $193.31 million for the  second quarter ended June 2025.  The consensus earnings estimate was $0.59 per share on  revenue of $156.87 million. The Earnings Whisper number was $0.65 per share. The company beat expectations by 3.08% while revenue fell 9.69% compared to the same quarter a year ago.<br /><br />TEN is one of the first and most established public shipping companies in the world.",
+    "subject": "TEN Ltd. Beat Expectations",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509106731",
+    "eps": 0.67,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.59,
+    "whisper": 0.65,
+    "highEstimate": 0.59,
+    "lowEstimate": 0.59,
+    "revenue": 193.309,
+    "revenueEstimate": 156.87,
+    "earningsGrowth": -0.46825396825396826,
+    "revenueGrowth": -0.0969190161407115,
+    "earningsSurprise": 0.03076923076923077,
+    "revenueSurprise": 0.23228788168547204,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
