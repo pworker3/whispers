@@ -18406,5 +18406,29 @@
     "revenueSurprise": -0.11841739130434782,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01524390243902439
+  },
+  {
+    "epsDate": "2025-09-10T17:08:00",
+    "ticker": "AVAV",
+    "name": "AeroVironment, Inc",
+    "summary": "AeroVironment (AVAV) reported earnings of $0.32 per share on revenue of $454.68 million for the  fiscal first quarter ended July 2025.  The consensus earnings estimate was $0.34 per share on  revenue of $453.50 million. The Earnings Whisper number was $0.40 per share. The company missed expectations by 20.00% while revenue grew 139.96% on a year-over-year basis.<br /><br />The company  said it now expects fiscal  2026  earnings of $3.60 to $3.70 per share and continues to expect revenue of $1.90 billion to $2.00 billion. The company's previous guidance was earnings of $2.80 to $3.00 per share, and the current consensus earnings estimate is $3.23 per share on revenue of $2.00 billion for the year ending April 30, 2026.<br /><br />AeroVironment Inc is engaged in the design, develop, produce, support and operate a technological portfolio of products and services. It supplies unmanned aircraft systems, UAS, tactical missile systems and related services within the US DoD.",
+    "subject": "AeroVironment Missed Expectations",
+    "quarter": " fiscal first quarter ended July 2025",
+    "fileName": "2509106441",
+    "eps": 0.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.34,
+    "whisper": 0.4,
+    "highEstimate": 0.69,
+    "lowEstimate": -0.05,
+    "revenue": 454.676,
+    "revenueEstimate": 453.5,
+    "earningsGrowth": -0.6404494382022472,
+    "revenueGrowth": 1.3995609104774571,
+    "earningsSurprise": -0.2,
+    "revenueSurprise": 0.00259316427783903,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.396341742013108
   }
 ]
