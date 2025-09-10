@@ -18286,5 +18286,29 @@
     "revenueSurprise": 0.23228788168547204,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-10T16:05:00",
+    "ticker": "OXM",
+    "name": "Oxford Industries, Inc.",
+    "summary": "Oxford Industries (OXM) reported earnings of $1.26 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $1.21 per share on  revenue of $407.65 million. The Earnings Whisper number was $1.15 per share. The company beat expectations by 9.57%.<br /><br />Oxford Industries, Inc is an apparel company, which designs, sources, markets and distributes products bearing the trademarks of its company-owned lifestyle brands as well as certain licensed and private label apparel products.",
+    "subject": "Oxford Industries Beat Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509106945",
+    "eps": 1.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.21,
+    "whisper": 1.15,
+    "highEstimate": 1.26,
+    "lowEstimate": 1.15,
+    "revenue": null,
+    "revenueEstimate": 407.65,
+    "earningsGrowth": -0.5451263537906137,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.09565217391304348,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.013368191589817773
   }
 ]
