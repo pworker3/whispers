@@ -18214,5 +18214,29 @@
     "revenueSurprise": 0.025791058605513086,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.12985378435912176
+  },
+  {
+    "epsDate": "2025-09-10T07:05:00",
+    "ticker": "CHWY",
+    "name": "Chewy, Inc.",
+    "summary": "Chewy (CHWY) reported earnings of $0.33 per share on revenue of $3.10 billion for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.33 per share on  revenue of $3.08 billion. The Earnings Whisper number was $0.34 per share. The company missed expectations by 2.94% while revenue grew 8.59% on a year-over-year basis.<br /><br /> Chewy Inc. operates as an online pet retailer. The Company offers pet products which include dry and wet food, toys, mats, biscuits, vitamins and supplements. Chewy Inc. is based in Dania Beach, United States.   \n",
+    "subject": "Chewy Missed Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509100025",
+    "eps": 0.33,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.33,
+    "whisper": 0.34,
+    "highEstimate": 0.35,
+    "lowEstimate": 0.32,
+    "revenue": 3104.2,
+    "revenueEstimate": 3080,
+    "earningsGrowth": 5.6,
+    "revenueGrowth": 0.0859203614090728,
+    "earningsSurprise": -0.029411764705882353,
+    "revenueSurprise": 0.007857142857142858,
+    "prevEarningsGrowth": -0.05555555555555555,
+    "prevRevenueGrowth": 0.08279978107706608
   }
 ]
