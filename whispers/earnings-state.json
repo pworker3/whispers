@@ -18670,5 +18670,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11966545614614284
+  },
+  {
+    "epsDate": "2025-09-11T16:15:00",
+    "ticker": "FARM",
+    "name": "Farmer Brothers Company",
+    "summary": "Farmer Brothers (FARM) reported a loss of $0.02 per share on revenue of $85.14 million for the  fiscal fourth quarter ended June 2025.  The consensus estimate was a loss of $0.19 per share on  revenue of $78.30 million. The company beat consensus estimates by 89.47% while revenue grew 0.88% on a year-over-year basis.<br /><br />Farmer Bros Co is engaged in roasting, packaging, and distribution of coffee, tea, and culinary products to restaurant chains, hotels, casinos, hospitals, foodservice providers, convenience stores, and gourmet coffee houses.",
+    "subject": "Farmer Brothers Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509117416",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.19,
+    "whisper": 999,
+    "highEstimate": -0.19,
+    "lowEstimate": -0.19,
+    "revenue": 85.141,
+    "revenueEstimate": 78.3,
+    "earningsGrowth": 0.9090909090909091,
+    "revenueGrowth": 0.008827432579743116,
+    "earningsSurprise": 0.8947368421052632,
+    "revenueSurprise": 0.0873690932311622,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.0387075610956208
   }
 ]
