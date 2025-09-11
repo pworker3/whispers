@@ -18550,5 +18550,29 @@
     "revenueSurprise": 0.13293641878229612,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1750599520383693
+  },
+  {
+    "epsDate": "2025-09-11T08:00:00",
+    "ticker": "VRA",
+    "name": "Vera Bradley, Inc.",
+    "summary": "Vera Bradley (VRA) reported a loss of $0.02 per share on revenue of $70.86 million for the  fiscal second quarter ended July 2025.  The consensus estimate was a loss of $0.15 per share on  revenue of $78.52 million. The company beat consensus estimates by 86.67% while revenue fell 36.06% compared to the same quarter a year ago.<br /><br />Vera Bradley, Inc. designs, manufactures and markets stylish functional accessories for women. Its products include handbags, accessories and travel and leisure items.",
+    "subject": "Vera Bradley Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509117151",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.15,
+    "whisper": 999,
+    "highEstimate": -0.15,
+    "lowEstimate": -0.15,
+    "revenue": 70.858,
+    "revenueEstimate": 78.52,
+    "earningsGrowth": -1.1538461538461537,
+    "revenueGrowth": -0.3606143184566241,
+    "earningsSurprise": 0.8666666666666667,
+    "revenueSurprise": -0.09758023433520122,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.3591801793977892
   }
 ]
