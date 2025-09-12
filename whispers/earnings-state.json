@@ -18694,5 +18694,29 @@
     "revenueSurprise": 0.0873690932311622,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.0387075610956208
+  },
+  {
+    "epsDate": "2025-09-12T08:00:00",
+    "ticker": "OCCI",
+    "name": "OFS Credit Company, Inc.",
+    "summary": "OFS Credit Company (OCCI) reported earnings of $0.31 per share on revenue of $11.88 million for the  fiscal third quarter ended July 2025. . Revenue grew 59.37% on a year-over-year basis.<br /><br /> OFS Credit Company Inc. operates as a closed-end management investment company. It primarily focuses on investing in debt and subordinated securities; corporate credit investments including leveraged loans and high yield bonds; opportunistic credit investments. OFS Credit Company Inc. is based in Chicago, United States.   \n",
+    "subject": "OFS Credit Company Reported Earnings",
+    "quarter": " fiscal third quarter ended July 2025",
+    "fileName": "2509120833",
+    "eps": 0.31,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 11.875,
+    "revenueEstimate": 0.000999,
+    "earningsGrowth": -0.3404255319148936,
+    "revenueGrowth": 0.5937458059320897,
+    "earningsSurprise": null,
+    "revenueSurprise": 11885.886886886887,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2689210950080515
   }
 ]
