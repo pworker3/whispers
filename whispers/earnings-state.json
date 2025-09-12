@@ -18718,5 +18718,29 @@
     "revenueSurprise": 11885.886886886887,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2689210950080515
+  },
+  {
+    "epsDate": "2025-09-12T08:30:00",
+    "ticker": "PRE",
+    "name": "Prenetics Global Limited",
+    "summary": "Prenetics Global Limited (PRE) reported a loss of $0.82 per share on revenue of $17.68 million for the  second quarter ended June 2025. . Revenue grew 197.54% on a year-over-year basis.<br /><br />The company  said it expects  2025 revenue of $85.0 million to $100.0 million. The company's previous guidance was revenue of $80.0 million to $100.0 million and the current consensus revenue estimate is $90.4 million for the year ending December 31, 2025.<br /><br />Prenetics is a major global diagnostics and genetic testing company with the mission to bring health closer to millions of people globally and decentralize healthcare by making the three pillars — Prevention, Diagnostics and Personalized Care — comprehensive and accessible to anyone, at anytime and anywhere. ",
+    "subject": "Prenetics Global Limited Reported Earnings",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509128082",
+    "eps": -0.82,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 17.68,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.06818181818181818,
+    "revenueGrowth": 1.9754291484348705,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.69951660689225
   }
 ]
