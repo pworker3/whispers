@@ -18766,5 +18766,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.10951551015380123
+  },
+  {
+    "epsDate": "2025-09-15T16:05:00",
+    "ticker": "PLAY",
+    "name": "Dave & Buster's Entertainment, Inc.",
+    "summary": "Dave & Buster's (PLAY) reported earnings of $0.32 per share on  for the  fiscal second quarter ended July 2025.  The consensus earnings estimate was $0.88 per share on  revenue of $561.95 million. The Earnings Whisper number was $0.85 per share. The company missed expectations by 62.35%.<br /><br />Dave & Buster' Entertainment Inc is an owner and operator of high-volume venues that combine dining and entertainment in North America for both adults and families.",
+    "subject": "Dave & Buster's Missed Expectations",
+    "quarter": " fiscal second quarter ended July 2025",
+    "fileName": "2509159312",
+    "eps": 0.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.88,
+    "whisper": 0.85,
+    "highEstimate": 1.01,
+    "lowEstimate": 0.8,
+    "revenue": null,
+    "revenueEstimate": 561.95,
+    "earningsGrowth": -0.7142857142857143,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.6235294117647059,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.034687978234994046
   }
 ]
