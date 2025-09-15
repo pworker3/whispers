@@ -18742,5 +18742,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.69951660689225
+  },
+  {
+    "epsDate": "2025-09-15T07:00:00",
+    "ticker": "HAIN",
+    "name": "Hain Celestial Group Inc",
+    "summary": "Hain Celestial Group (HAIN) reported a loss of $0.02 per share on  for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $375.41 million. The Earnings Whisper number was $0.05 per share. The company missed expectations by 140.00%.<br /><br />Hain Celestial Group Inc and its subsidiaries manufactures, markets, distributes, and sells natural and organic products. Its product portfolio includes grocery, snacks, tea and personal care products.",
+    "subject": "Hain Celestial Group Missed Expectations",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509158469",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 0.05,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.04,
+    "revenue": null,
+    "revenueEstimate": 375.41,
+    "earningsGrowth": -1.1538461538461537,
+    "revenueGrowth": null,
+    "earningsSurprise": -1.4,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.10951551015380123
   }
 ]
