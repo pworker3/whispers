@@ -18838,5 +18838,29 @@
     "revenueSurprise": -0.4467312348668281,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-16T06:45:00",
+    "ticker": "FERG",
+    "name": "Ferguson plc",
+    "summary": "Ferguson plc (FERG) reported earnings of $3.48 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $3.00 per share on  revenue of $8.45 billion. The Earnings Whisper number was $3.09 per share. The company beat expectations by 12.62%.<br /><br />Ferguson plc  is a leading value-added distributor in North America providing expertise, solutions and products from infrastructure, plumbing and appliances to HVAC, fire, fabrication and more. ",
+    "subject": "Ferguson plc Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509168843",
+    "eps": 3.48,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3,
+    "whisper": 3.09,
+    "highEstimate": 3.14,
+    "lowEstimate": 2.84,
+    "revenue": null,
+    "revenueEstimate": 8450,
+    "earningsGrowth": 0.16778523489932887,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.1262135922330097,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04282977558839628
   }
 ]
