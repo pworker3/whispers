@@ -18982,5 +18982,29 @@
     "revenueSurprise": -0.02921169176262179,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.16621673069601633
+  },
+  {
+    "epsDate": "2025-09-17T16:05:00",
+    "ticker": "CBRL",
+    "name": "Cracker Barrel Old Country Store, Inc.",
+    "summary": "Cracker Barrel Old Country Store (CBRL) reported earnings of $0.74 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $0.78 per share on  revenue of $856.87 million. The Earnings Whisper number was $0.74 per share. The company reported in-line with expectations.<br /><br />The company  said it expects fiscal  2026 revenue of $3.35 billion to $3.45 billion. The current consensus revenue estimate is $3.54 billion for the year ending July 31, 2026.<br /><br />Cracker Barrel Old Country Store Inc is engaged in the operation and development of the Cracker Barrel Old Country Store® concept. It offers home-style country cooking featuring many of its own recipes.",
+    "subject": "Cracker Barrel Old Country Store Reported In-line with Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509175597",
+    "eps": 0.74,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.78,
+    "whisper": 0.74,
+    "highEstimate": 0.92,
+    "lowEstimate": 0.72,
+    "revenue": null,
+    "revenueEstimate": 856.87,
+    "earningsGrowth": -0.24489795918367346,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0049098374197654
   }
 ]
