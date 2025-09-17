@@ -18910,5 +18910,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-17T05:00:00",
+    "ticker": "QSG",
+    "name": "QuantaSing Group Limited",
+    "summary": "QuantaSing Group Limited (QSG) reported earnings of $0.27 per share on revenue of $86.25 million for the  fiscal fourth quarter ended June 2025.  The consensus revenue estimate was  revenue of $68.18 million. Revenue fell 37.33% compared to the same quarter a year ago.<br /><br />QuantaSing is a leading online service provider dedicated to improving people’s quality of life and well-being by providing lifelong personal learning and development opportunities. ",
+    "subject": "QuantaSing Group Limited Reported Earnings",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509170477",
+    "eps": 0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 0.15,
+    "lowEstimate": 0.15,
+    "revenue": 86.246,
+    "revenueEstimate": 68.18,
+    "earningsGrowth": -0.46,
+    "revenueGrowth": -0.37328508312986863,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.2649750660017601,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.3994731215638363
   }
 ]
