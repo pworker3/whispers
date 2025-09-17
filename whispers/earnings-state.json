@@ -19030,5 +19030,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-17T17:00:00",
+    "ticker": "SANG",
+    "name": "Sangoma Technologies Corporation",
+    "summary": "Sangoma Technologies (SANG) reported earnings of $0.02 per share on revenue of $59.36 million for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.01 per share on  revenue of $58.29 million. The company beat consensus estimates by 100.00% while revenue fell 2.58% compared to the same quarter a year ago.<br /><br />Sangoma is a trusted leader in delivering value-based Communications as a Service (CaaS) solutions for businesses of all sizes. Sangoma simplifies communications by providing businesses with the industry’s most comprehensive suite of cloud-native communications solutions, which work together seamlessly to streamline business processes. ",
+    "subject": "Sangoma Technologies Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509170522",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.01,
+    "whisper": 999,
+    "highEstimate": 0.02,
+    "lowEstimate": 0,
+    "revenue": 59.362,
+    "revenueEstimate": 58.29,
+    "earningsGrowth": 1.4,
+    "revenueGrowth": -0.025798404831456987,
+    "earningsSurprise": 1,
+    "revenueSurprise": 0.01839080459770115,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.04879926612718278
   }
 ]
