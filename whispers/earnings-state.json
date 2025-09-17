@@ -19054,5 +19054,29 @@
     "revenueSurprise": 0.01839080459770115,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04879926612718278
+  },
+  {
+    "epsDate": "2025-09-17T17:52:00",
+    "ticker": "BLSH",
+    "name": "Bullish",
+    "summary": "Bullish (BLSH) reported a loss of $0.05 per share on revenue of $57.00 million for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.04 per share on  revenue of $55.80 million. The company missed consensus estimates by 25.00%.<br /><br />Bullish is an institutionally focused global digital asset platform that provides market infrastructure and information services. ",
+    "subject": "Bullish Missed Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509176323",
+    "eps": -0.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.04,
+    "whisper": 999,
+    "highEstimate": -0.06,
+    "lowEstimate": -0.06,
+    "revenue": 57,
+    "revenueEstimate": 55.8,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.25,
+    "revenueSurprise": 0.021505376344086023,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
