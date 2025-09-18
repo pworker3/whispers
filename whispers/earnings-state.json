@@ -19102,5 +19102,29 @@
     "revenueSurprise": 0.007342840266644165,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05936588578417537
+  },
+  {
+    "epsDate": "2025-09-18T07:00:00",
+    "ticker": "DRI",
+    "name": "Darden Restaurants, Inc.",
+    "summary": "Darden Restaurants (DRI) reported earnings of $1.97 per share on revenue of $3.04 billion for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $2.00 per share on  revenue of $3.04 billion. The Earnings Whisper number was $2.02 per share. The company missed expectations by 2.48% while revenue grew 10.44% on a year-over-year basis.<br /><br />Darden is a restaurant company featuring a portfolio of differentiated brands that include Olive Garden, LongHorn Steakhouse, Yard House, Ruth's Chris Steak House, Cheddar's Scratch Kitchen, The Capital Grille, Seasons 52, Eddie V's, and Bahama Breeze.",
+    "subject": "Darden Restaurants Missed Expectations",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2509186349",
+    "eps": 1.97,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2,
+    "whisper": 2.02,
+    "highEstimate": 2.2,
+    "lowEstimate": 1.91,
+    "revenue": 3044.7,
+    "revenueEstimate": 3040,
+    "earningsGrowth": 0.12571428571428572,
+    "revenueGrowth": 0.1043525571273123,
+    "earningsSurprise": -0.024752475247524754,
+    "revenueSurprise": 0.0015460526315789474,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.106313191086464
   }
 ]
