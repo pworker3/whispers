@@ -19078,5 +19078,29 @@
     "revenueSurprise": 0.021505376344086023,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-18T06:00:00",
+    "ticker": "FDS",
+    "name": "FactSet Research Systems, Inc.",
+    "summary": "FactSet Research Systems (FDS) reported earnings of $4.05 per share on revenue of $596.90 million for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $4.15 per share on  revenue of $592.55 million. The Earnings Whisper number was $4.15 per share. The company missed expectations by 2.41% while revenue grew 6.17% on a year-over-year basis.<br /><br />FactSet Research Systems, Inc., provides integrated financial information\r\nand analytical applications to the global investment community.",
+    "subject": "FactSet Research Systems Missed Expectations",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2509181088",
+    "eps": 4.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.15,
+    "whisper": 4.15,
+    "highEstimate": 4.24,
+    "lowEstimate": 4.07,
+    "revenue": 596.901,
+    "revenueEstimate": 592.55,
+    "earningsGrowth": 0.08288770053475936,
+    "revenueGrowth": 0.06174813718566954,
+    "earningsSurprise": -0.024096385542168676,
+    "revenueSurprise": 0.007342840266644165,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05936588578417537
   }
 ]
