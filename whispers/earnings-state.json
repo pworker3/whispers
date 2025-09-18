@@ -19174,5 +19174,29 @@
     "revenueSurprise": -0.05571135574065548,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07033059591492946
+  },
+  {
+    "epsDate": "2025-09-18T16:05:00",
+    "ticker": "RSSS",
+    "name": "Research Solutions, Inc.",
+    "summary": "Research Solutions (RSSS) reported earnings of $0.07 per share on revenue of $12.44 million for the  fiscal fourth quarter ended June 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $12.39 million. The company beat consensus estimates by 250.00% while revenue grew 2.51% on a year-over-year basis.<br /><br />Research Solutions, Inc. provides cloud-based technologies to streamline the process of obtaining, managing, and creating intellectual property. ",
+    "subject": "Research Solutions Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509187166",
+    "eps": 0.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.04,
+    "lowEstimate": 0.04,
+    "revenue": 12.438,
+    "revenueEstimate": 12.39,
+    "earningsGrowth": 6,
+    "revenueGrowth": 0.025053568485248062,
+    "earningsSurprise": 2.5,
+    "revenueSurprise": 0.00387409200968523,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04498184219214262
   }
 ]
