@@ -19222,5 +19222,29 @@
     "revenueSurprise": -0.028635281146637267,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04427424867595937
+  },
+  {
+    "epsDate": "2025-09-19T06:02:00",
+    "ticker": "MNY",
+    "name": "MoneyHero Limited",
+    "summary": "MoneyHero Limited (MNY) reported breakeven results on revenue of $18.02 million for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.02 per share on  revenue of $19.92 million. The company beat consensus estimates by 100.00% while revenue fell 12.83% compared to the same quarter a year ago.<br /><br />MoneyHero Limited is a market leader in the online personal finance and digital insurance aggregation and comparison sector in Greater Southeast Asia. ",
+    "subject": "MoneyHero Limited Beat Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509191982",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.02,
+    "whisper": 999,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.02,
+    "revenue": 18.022,
+    "revenueEstimate": 19.92,
+    "earningsGrowth": 1,
+    "revenueGrowth": -0.1282770629776531,
+    "earningsSurprise": 1,
+    "revenueSurprise": -0.09528112449799196,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 15.402344983089064
   }
 ]
