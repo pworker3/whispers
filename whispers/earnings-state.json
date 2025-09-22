@@ -19246,5 +19246,29 @@
     "revenueSurprise": -0.09528112449799196,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 15.402344983089064
+  },
+  {
+    "epsDate": "2025-09-22T16:10:00",
+    "ticker": "FLY",
+    "name": "Firefly Aerospace",
+    "summary": "Firefly Aerospace (FLY) reported a loss of $5.78 per share on  for the  second quarter ended June 2025.  The consensus estimate was a loss of $0.41 per share. The company missed consensus estimates by 1,309.76%.<br /><br />Firefly Aerospace is a space and defense technology company that enables government and commercial customers to launch, land, and operate in space – anywhere, anytime. ",
+    "subject": "Firefly Aerospace Missed Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509223158",
+    "eps": -5.78,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.41,
+    "whisper": 999,
+    "highEstimate": null,
+    "lowEstimate": null,
+    "revenue": null,
+    "revenueEstimate": null,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -13.097560975609756,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
