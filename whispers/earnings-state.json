@@ -19270,5 +19270,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-22T16:05:00",
+    "ticker": "BNTC",
+    "name": "Benitec Biopharma Inc. ",
+    "summary": "Benitec Biopharma Inc. (BNTC) reported a loss of $0.42 per share on revenue of $0.00 million for the  fiscal fourth quarter ended June 2025.  The consensus estimate was a loss of $0.28 per share. The company missed consensus estimates by 50.00%.<br /><br />Benitec Biopharma Inc. is a clinical-stage biotechnology company focused on the advancement of novel genetic medicines.",
+    "subject": "Benitec Biopharma Inc. Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509222686",
+    "eps": -0.42,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.28,
+    "whisper": 999,
+    "highEstimate": -0.17,
+    "lowEstimate": -0.26,
+    "revenue": 0,
+    "revenueEstimate": null,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.5,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
