@@ -19294,5 +19294,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-23T06:55:00",
+    "ticker": "AZO",
+    "name": "AutoZone, Inc.",
+    "summary": "AutoZone (AZO) reported earnings of $48.71 per share on revenue of $6.24 billion for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $50.52 per share on  revenue of $6.23 billion. The Earnings Whisper number was $52.05 per share. The company missed expectations by 6.42% while revenue grew 0.60% on a year-over-year basis.<br /><br />AutoZone Inc is a retailer and distributor of automotive replacement parts and accessories in the United States. The Company operates stores which carries an extensive product line for cars, sport utility vehicles, vans and light trucks and among others.",
+    "subject": "AutoZone Missed Expectations",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2509233286",
+    "eps": 48.71,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 50.52,
+    "whisper": 52.05,
+    "highEstimate": 52.74,
+    "lowEstimate": 49.68,
+    "revenue": 6242.726,
+    "revenueEstimate": 6230,
+    "earningsGrowth": 0.01247141966327167,
+    "revenueGrowth": 0.006018326033216338,
+    "earningsSurprise": -0.06416906820365034,
+    "revenueSurprise": 0.002042696629213483,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.054032537005797444
   }
 ]
