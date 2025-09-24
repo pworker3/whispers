@@ -19582,5 +19582,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.10540801830375603
+  },
+  {
+    "epsDate": "2025-09-24T16:15:00",
+    "ticker": "WS",
+    "name": "Worthington Steel, Inc.",
+    "summary": "Worthington Steel (WS) reported earnings of $0.77 per share on  for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $0.72 per share on  revenue of $736.00 million. The company beat consensus estimates by 6.94%.",
+    "subject": "Worthington Steel Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2509240638",
+    "eps": 0.77,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.72,
+    "whisper": 999,
+    "highEstimate": 0.72,
+    "lowEstimate": 0.72,
+    "revenue": null,
+    "revenueEstimate": 736,
+    "earningsGrowth": 0.375,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.06944444444444445,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.08572996706915477
   }
 ]
