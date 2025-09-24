@@ -19414,5 +19414,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08201147485656429
+  },
+  {
+    "epsDate": "2025-09-24T06:30:00",
+    "ticker": "THO",
+    "name": "THOR Industries, Inc.",
+    "summary": "THOR Industries (THO) reported earnings of $2.36 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus earnings estimate was $1.16 per share on  revenue of $2.31 billion. The Earnings Whisper number was $1.12 per share. The company beat expectations by 110.71%.<br /><br />The company  said it expects fiscal  2026  earnings of $3.75 to $4.25 per share on revenue of $9.00 billion to $9.50 billion. The current consensus earnings estimate is $4.29 per share on revenue of $9.58 billion for the year ending July 31, 2026.<br /><br />Thor Industries Inc manufactures and sells a range of recreational vehicles and small and mid-size buses in the United States and Canada. The Company’s two reportable segments include towable recreational vehicles and motorized recreational vehicles.",
+    "subject": "THOR Industries Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509244067",
+    "eps": 2.36,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.16,
+    "whisper": 1.12,
+    "highEstimate": 1.39,
+    "lowEstimate": 0.84,
+    "revenue": null,
+    "revenueEstimate": 2310,
+    "earningsGrowth": 0.40476190476190477,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.1071428571428572,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.033452059949027405
   }
 ]
