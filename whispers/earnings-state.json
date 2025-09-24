@@ -19462,5 +19462,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-24T08:30:00",
+    "ticker": "CTAS",
+    "name": "Cintas Corporation",
+    "summary": "Cintas (CTAS) reported earnings of $1.20 per share on  for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $1.19 per share on  revenue of $2.69 billion. The Earnings Whisper number was $1.22 per share. The company missed expectations by 1.64%.<br /><br />The company  said it expects fiscal  2026  earnings of $4.74 to $4.86 per share on revenue of $11.06 billion to $11.18 billion. The company's previous guidance was earnings of $4.71 to $4.85 per share on revenue of $11.00 billion to $11.15 billion, and the current consensus earnings estimate is $4.83 per share on revenue of $11.10 billion for the year ending May 31, 2026.<br /><br />Cintas Corp is a provider of corporate identity uniforms. It operates in four segments: Rental Uniforms & Ancillary Products, Uniform Direct Sales, First Aid, Safety & Fire Protection Services, & Document Management Services.",
+    "subject": "Cintas Missed Expectations",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2509242784",
+    "eps": 1.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.19,
+    "whisper": 1.22,
+    "highEstimate": 1.23,
+    "lowEstimate": 1.13,
+    "revenue": null,
+    "revenueEstimate": 2690,
+    "earningsGrowth": 0.09090909090909091,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.01639344262295082,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07961237345377357
   }
 ]
