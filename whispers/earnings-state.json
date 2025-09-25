@@ -19678,5 +19678,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.060891301300911506
+  },
+  {
+    "epsDate": "2025-09-25T06:00:00",
+    "ticker": "LUXE",
+    "name": "LuxExperience B.V",
+    "summary": "LuxExperience B.V (LUXE) reported earnings of $5.30 per share on revenue of $666.94 million for the  fiscal fourth quarter ended June 2025.  The consensus estimate was a loss of $0.18 per share on  revenue of $642.60 million. The company beat consensus estimates by 3,044.44%.<br /><br />LuxExperience is the leading digital, multi-brand luxury group and the online shopping destination for luxury enthusiasts worldwide.",
+    "subject": "LuxExperience B.V Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended June 2025",
+    "fileName": "2509256884",
+    "eps": 5.3,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.18,
+    "whisper": 999,
+    "highEstimate": -0.27,
+    "lowEstimate": -0.27,
+    "revenue": 666.936,
+    "revenueEstimate": 642.6,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 30.444444444444443,
+    "revenueSurprise": 0.037871148459383754,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
