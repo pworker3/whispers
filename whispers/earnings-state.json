@@ -19630,5 +19630,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07158133369085404
+  },
+  {
+    "epsDate": "2025-09-25T06:39:00",
+    "ticker": "ACN",
+    "name": "Accenture Ltd.",
+    "summary": "Accenture (ACN) reported earnings of $3.03 per share on  for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $2.98 per share on  revenue of $17.33 billion. The Earnings Whisper number was $3.06 per share. The company missed expectations by 0.98%.<br /><br />Accenture PLC is a professional service company. The Company is engaged in providing management consulting, technology and outsourcing services to clients.",
+    "subject": "Accenture Missed Expectations",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2509252225",
+    "eps": 3.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.98,
+    "whisper": 3.06,
+    "highEstimate": 3.08,
+    "lowEstimate": 2.93,
+    "revenue": null,
+    "revenueEstimate": 17330,
+    "earningsGrowth": 0.08602150537634409,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.00980392156862745,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07658061691290917
   }
 ]
