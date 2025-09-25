@@ -19606,5 +19606,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.08572996706915477
+  },
+  {
+    "epsDate": "2025-09-25T06:00:00",
+    "ticker": "SNX",
+    "name": "TD SYNNEX",
+    "summary": "TD SYNNEX (SNX) reported earnings of $3.58 per share on  for the  fiscal third quarter ended August 2025.  The consensus earnings estimate was $3.06 per share on  revenue of $15.14 billion. The Earnings Whisper number was $3.10 per share. The company beat expectations by 15.48%.<br /><br />TD SYNNEX  is a leading global distributor and solutions aggregator for the IT ecosystem.",
+    "subject": "TD SYNNEX Beat Expectations",
+    "quarter": " fiscal third quarter ended August 2025",
+    "fileName": "2509253193",
+    "eps": 3.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.06,
+    "whisper": 3.1,
+    "highEstimate": 3.04,
+    "lowEstimate": 2.97,
+    "revenue": null,
+    "revenueEstimate": 15140,
+    "earningsGrowth": 0.3161764705882353,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.15483870967741936,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07158133369085404
   }
 ]
