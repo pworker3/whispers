@@ -19894,5 +19894,29 @@
     "revenueSurprise": 0.04299825682742592,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-09-25T16:15:00",
+    "ticker": "KNOP",
+    "name": "KNOT Offshore Partners LP",
+    "summary": "KNOT Offshore Partners LP (KNOP) reported earnings of $0.20 per share on revenue of $87.06 million for the  second quarter ended June 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $81.63 million. The company beat consensus estimates by 17.65%.<br /><br />KNOT Offshore Partners LP is a limited partnership that owns, operates and acquires shuttle tankers under long-term charters of five or more years.",
+    "subject": "KNOT Offshore Partners LP Beat Consensus Estimates",
+    "quarter": " second quarter ended June 2025",
+    "fileName": "2509252533",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 999,
+    "highEstimate": 0.17,
+    "lowEstimate": 0.17,
+    "revenue": 87.06,
+    "revenueEstimate": 81.63,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.17647058823529413,
+    "revenueSurprise": 0.06651966188901139,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
