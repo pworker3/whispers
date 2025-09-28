@@ -19966,5 +19966,29 @@
     "revenueSurprise": -0.07766657342657343,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.060891301300911506
+  },
+  {
+    "epsDate": "2025-09-28T07:09:00",
+    "ticker": "KMX",
+    "name": "CarMax, Inc.",
+    "summary": "CarMax (KMX) reported earnings of $0.64 per share on revenue of $6.59 billion for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $1.03 per share on  revenue of $7.15 billion. The Earnings Whisper number was $1.03 per share. The company missed expectations by 37.86% while revenue fell 5.97% compared to the same quarter a year ago.<br /><br />CarMax, the nation’s largest retailer of used autos, revolutionized the automotive retail industry by driving integrity, honesty and transparency in every interaction. ",
+    "subject": "CarMax Missed Expectations",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2509286016",
+    "eps": 0.64,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.03,
+    "whisper": 1.03,
+    "highEstimate": 1.13,
+    "lowEstimate": 0.9,
+    "revenue": 6594.684,
+    "revenueEstimate": 7150,
+    "earningsGrowth": -0.24705882352941178,
+    "revenueGrowth": -0.05971957911630507,
+    "earningsSurprise": -0.3786407766990291,
+    "revenueSurprise": -0.07766657342657343,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.060891301300911506
   }
 ]
