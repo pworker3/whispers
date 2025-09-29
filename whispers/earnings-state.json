@@ -20110,5 +20110,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 2.8275862068965516,
     "prevRevenueGrowth": 0.35571776989553167
+  },
+  {
+    "epsDate": "2025-09-29T16:05:00",
+    "ticker": "MTN",
+    "name": "Vail Resorts, Inc.",
+    "summary": "Vail Resorts (MTN) reported a loss of $5.08 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus estimate was a loss of $4.78 per share on  revenue of $269.98 million. The company missed consensus estimates by 6.28%.<br /><br />Vail Resorts Inc, through its subsidiaries, is a mountain resort operator. The Company' operations are grouped into three business segments: Mountain, Lodging and Real Estate.",
+    "subject": "Vail Resorts Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509296062",
+    "eps": -5.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -4.78,
+    "whisper": 999,
+    "highEstimate": -4.53,
+    "lowEstimate": -5.03,
+    "revenue": null,
+    "revenueEstimate": 269.98,
+    "earningsGrowth": -0.08779443254817987,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.06276150627615062,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.00956609692959147
   }
 ]
