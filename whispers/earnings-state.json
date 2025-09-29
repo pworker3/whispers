@@ -19990,5 +19990,29 @@
     "revenueSurprise": -0.07766657342657343,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.060891301300911506
+  },
+  {
+    "epsDate": "2025-09-29T09:15:00",
+    "ticker": "CCL",
+    "name": "Carnival Corp.",
+    "summary": "Carnival (CCL) reported earnings of $1.43 per share on  for the  fiscal third quarter ended August 2025.  The consensus earnings estimate was $1.32 per share on  revenue of $8.05 billion. The Earnings Whisper number was $1.37 per share. The company beat expectations by 4.38%.<br /><br />The company  said it expects  fourth quarter   earnings of approximately $0.23 per share. The current consensus earnings estimate is $0.21 per share for the quarter ending November 30, 2025.<br /><br />Carnival Corporation & plc is the largest global cruise company, and among the largest leisure travel companies",
+    "subject": "Carnival Beat Expectations",
+    "quarter": " fiscal third quarter ended August 2025",
+    "fileName": "2509295098",
+    "eps": 1.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.32,
+    "whisper": 1.37,
+    "highEstimate": 1.39,
+    "lowEstimate": 1.27,
+    "revenue": null,
+    "revenueEstimate": 8050,
+    "earningsGrowth": 0.12598425196850394,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.043795620437956206,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09462030790520672
   }
 ]
