@@ -20182,5 +20182,29 @@
     "revenueSurprise": -0.07766657342657343,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.060891301300911506
+  },
+  {
+    "epsDate": "2025-09-30T07:00:00",
+    "ticker": "UNFI",
+    "name": "United Natural Foods, Inc.",
+    "summary": "United Natural Foods (UNFI) reported a loss of $0.11 per share on  for the  fiscal fourth quarter ended July 2025.  The consensus estimate was a loss of $0.27 per share on  revenue of $7.63 billion. The Earnings Whisper number was a loss of $0.15 per share. The company beat expectations by 26.67%.<br /><br />The company  said it expects fiscal  2026  earnings of $1.50 to $2.30 per share on revenue of $31.60 billion to $32.0 billion. The current consensus earnings estimate is $1.53 per share on revenue of $32.6 billion for the year ending July 31, 2026.<br /><br />United Natural Foods Inc is a distributor of natural, organic and specialty foods and non-food products in the United States and Canada. Its products consist of national, regional and private label brands.",
+    "subject": "United Natural Foods Beat Expectations",
+    "quarter": " fiscal fourth quarter ended July 2025",
+    "fileName": "2509307622",
+    "eps": -0.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.27,
+    "whisper": -0.15,
+    "highEstimate": -0.17,
+    "lowEstimate": -0.27,
+    "revenue": null,
+    "revenueEstimate": 7630,
+    "earningsGrowth": -12,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.26666666666666666,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07481995198719658
   }
 ]
