@@ -20254,5 +20254,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.039642657733109994
+  },
+  {
+    "epsDate": "2025-09-30T16:15:00",
+    "ticker": "NKE",
+    "name": "Nike Inc",
+    "summary": "Nike (NKE) reported earnings of $0.49 per share on  for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $0.27 per share on  revenue of $10.98 billion. The Earnings Whisper number was $0.32 per share. The company beat expectations by 53.13%.<br /><br />NIKE, Inc. is the world's leading designer, marketer and distributor of authentic athletic footwear, apparel, equipment and accessories for a wide variety of sports and fitness activities. ",
+    "subject": "Nike Beat Expectations",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2509309522",
+    "eps": 0.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.27,
+    "whisper": 0.32,
+    "highEstimate": 0.35,
+    "lowEstimate": 0.22,
+    "revenue": null,
+    "revenueEstimate": 10980,
+    "earningsGrowth": -0.3,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.53125,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.11970490242741552
   }
 ]
