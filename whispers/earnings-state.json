@@ -20350,5 +20350,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.7223422998834249
+  },
+  {
+    "epsDate": "2025-10-01T06:45:00",
+    "ticker": "RPM",
+    "name": "RPM International Inc.",
+    "summary": "RPM International (RPM) reported earnings of $1.88 per share on  for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $1.87 per share on  revenue of $2.04 billion. The Earnings Whisper number was $1.92 per share. The company missed expectations by 2.08%.<br /><br />RPM International Inc manufactures, markets, and sells various specialty chemical product lines, including high-quality specialty paints, protective coatings, roofing systems, sealants and adhesives.",
+    "subject": "RPM International Missed Expectations",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2510011468",
+    "eps": 1.88,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.87,
+    "whisper": 1.92,
+    "highEstimate": 1.93,
+    "lowEstimate": 1.83,
+    "revenue": null,
+    "revenueEstimate": 2040,
+    "earningsGrowth": 0.021739130434782608,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.020833333333333332,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03675598046572913
   }
 ]
