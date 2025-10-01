@@ -20398,5 +20398,29 @@
     "revenueSurprise": 0.008659003831417624,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04270621838328917
+  },
+  {
+    "epsDate": "2025-10-01T08:00:00",
+    "ticker": "NG",
+    "name": "NovaGold Resources Inc.",
+    "summary": "NovaGold Resources (NG) reported a loss of $0.04 per share on revenue of $0.00 million for the  fiscal third quarter ended August 2025.  The consensus estimate was a loss of $0.04 per share. The company reported in-line with consensus estimates.<br /><br />Novagold Resources Inc is a mineral exploration company engaged in the exploration and development of gold and copper mineral properties.",
+    "subject": "NovaGold Resources Reported In-line with Estimates",
+    "quarter": " fiscal third quarter ended August 2025",
+    "fileName": "2510018227",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.04,
+    "whisper": 999,
+    "highEstimate": -0.07,
+    "lowEstimate": -0.07,
+    "revenue": 0,
+    "revenueEstimate": null,
+    "earningsGrowth": -0.3333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
