@@ -20542,5 +20542,29 @@
     "revenueSurprise": 0.008713450292397661,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.00991966893865628
+  },
+  {
+    "epsDate": "2025-10-07T16:05:00",
+    "ticker": "PENG",
+    "name": "Penguin Solutions, Inc.",
+    "summary": "Penguin Solutions (PENG) reported earnings of $0.43 per share on  for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $0.37 per share on  revenue of $339.99 million. The Earnings Whisper number was $0.43 per share. The company reported in-line with expectations.",
+    "subject": "Penguin Solutions Reported In-line with Expectations",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2510072992",
+    "eps": 0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.37,
+    "whisper": 0.43,
+    "highEstimate": 0.37,
+    "lowEstimate": 0.37,
+    "revenue": null,
+    "revenueEstimate": 339.99,
+    "earningsGrowth": 0.8695652173913043,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
