@@ -20566,5 +20566,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-10-07T16:05:00",
+    "ticker": "SAR",
+    "name": "Saratoga Investment Corp",
+    "summary": "Saratoga Investment (SAR) reported earnings of $0.58 per share on revenue of $30.63 million for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $0.67 per share on  revenue of $32.40 million. The company missed consensus estimates by 13.43% while revenue fell 28.78% compared to the same quarter a year ago.<br /><br />Saratoga Investment Corp is a closed end management investment company that invests primarily in leveraged loans and mezzanine debt issued by private U.S. middle-market companies.",
+    "subject": "Saratoga Investment Missed Consensus Estimates",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2510071625",
+    "eps": 0.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.67,
+    "whisper": 999,
+    "highEstimate": 0.69,
+    "lowEstimate": 0.66,
+    "revenue": 30.626,
+    "revenueEstimate": 32.4,
+    "earningsGrowth": -0.5639097744360902,
+    "revenueGrowth": -0.287817129037509,
+    "earningsSurprise": -0.13432835820895522,
+    "revenueSurprise": -0.054753086419753086,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.16440870779254357
   }
 ]
