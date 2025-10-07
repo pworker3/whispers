@@ -20518,5 +20518,29 @@
     "revenueSurprise": 0.08603960396039603,
     "prevEarningsGrowth": -3,
     "prevRevenueGrowth": -0.15126506024096387
+  },
+  {
+    "epsDate": "2025-10-07T06:30:00",
+    "ticker": "MKC",
+    "name": "McCormick & Company, Incorporated",
+    "summary": "McCormick & Company, (MKC) reported earnings of $0.85 per share on revenue of $1.72 billion for the  fiscal third quarter ended August 2025.  The consensus earnings estimate was $0.81 per share on  revenue of $1.71 billion. The Earnings Whisper number was $0.81 per share. The company beat expectations by 4.94% while revenue grew 2.68% on a year-over-year basis.<br /><br />McCormick & Company Inc manufactures, markets and distributes spices, seasoning mixes, condiments and other flavorful products to the entire food industryretail outlets, food manufacturers and foodservice businesses.",
+    "subject": "McCormick & Company, Beat Expectations",
+    "quarter": " fiscal third quarter ended August 2025",
+    "fileName": "2510071217",
+    "eps": 0.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.81,
+    "whisper": 0.81,
+    "highEstimate": 0.83,
+    "lowEstimate": 0.79,
+    "revenue": 1724.9,
+    "revenueEstimate": 1710,
+    "earningsGrowth": 0.024096385542168676,
+    "revenueGrowth": 0.026848434337421123,
+    "earningsSurprise": 0.04938271604938271,
+    "revenueSurprise": 0.008713450292397661,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.00991966893865628
   }
 ]
