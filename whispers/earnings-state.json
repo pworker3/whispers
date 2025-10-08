@@ -20614,5 +20614,29 @@
     "revenueSurprise": 0.0027916875312969454,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.011245653998321545
+  },
+  {
+    "epsDate": "2025-10-08T16:05:00",
+    "ticker": "RGP",
+    "name": "Resources Connection, Inc. ",
+    "summary": "Resources Connection, Inc. (RGP) reported a loss of $0.04 per share on revenue of $120.23 million for the  fiscal first quarter ended August 2025.  The consensus estimate was a loss of $0.17 per share on  revenue of $118.82 million. The company beat consensus estimates by 76.47% while revenue fell 12.20% compared to the same quarter a year ago.<br /><br />Regency Energy Partners LP is engaged in the gathering, processing,\r\ncontract compression, marketing and transportation of natural gas and the\r\ntransportation, fractionation and storage of NGLs.",
+    "subject": "Resources Connection, Inc. Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2510086558",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.17,
+    "whisper": 999,
+    "highEstimate": -0.13,
+    "lowEstimate": -0.17,
+    "revenue": 120.229,
+    "revenueEstimate": 118.82,
+    "earningsGrowth": 0.7647058823529411,
+    "revenueGrowth": -0.1219994888085588,
+    "earningsSurprise": 0.7647058823529411,
+    "revenueSurprise": 0.011858273018010436,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05977138692829863
   }
 ]
