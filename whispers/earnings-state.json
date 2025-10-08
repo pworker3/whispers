@@ -20638,5 +20638,29 @@
     "revenueSurprise": 0.011858273018010436,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05977138692829863
+  },
+  {
+    "epsDate": "2025-10-08T16:15:00",
+    "ticker": "AZZ",
+    "name": "AZZ Inc.",
+    "summary": "AZZ (AZZ) reported earnings of $1.55 per share on revenue of $417.28 million for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $1.56 per share on  revenue of $429.45 million. The Earnings Whisper number was $1.62 per share. The company missed expectations by 4.32% while revenue grew 2.02% on a year-over-year basis.<br /><br />The company  said it continues to expect fiscal  2026  earnings of $5.75 to $6.25 per share on revenue of $1.625 billion to $1.725 billion. The current consensus earnings estimate is $6.02 per share on revenue of $1.68 billion for the year ending February 28, 2026.<br /><br />AZZ Inc is an specialty electrical equipment manufacturer and provides engineered services to the global power generation, industrial, transmission and distribution markets. It also provides galvanizing services.",
+    "subject": "AZZ Missed Expectations",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2510083492",
+    "eps": 1.55,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.56,
+    "whisper": 1.62,
+    "highEstimate": 1.61,
+    "lowEstimate": 1.52,
+    "revenue": 417.275,
+    "revenueEstimate": 429.45,
+    "earningsGrowth": 0.13138686131386862,
+    "revenueGrowth": 0.020214812949411624,
+    "earningsSurprise": -0.043209876543209874,
+    "revenueSurprise": -0.028350215391780183,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.021185456235116456
   }
 ]
