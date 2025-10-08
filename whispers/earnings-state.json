@@ -20662,5 +20662,29 @@
     "revenueSurprise": -0.028350215391780183,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.021185456235116456
+  },
+  {
+    "epsDate": "2025-10-08T16:15:00",
+    "ticker": "RELL",
+    "name": "Richardson Electronics Ltd.",
+    "summary": "Richardson Electronics (RELL) reported earnings of $0.13 per share on revenue of $54.61 million for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $51.51 million. The company beat consensus estimates by 550.00% while revenue grew 1.64% on a year-over-year basis.<br /><br />Richardson Electronics, Ltd. is a leading global provider of engineered solutions, power grid and microwave tubes and related consumables; power conversion and RF and microwave components; high value flat panel detector solutions, replacement parts, tubes and service training for diagnostic imaging equipment; and customized display solutions. ",
+    "subject": "Richardson Electronics Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2510082463",
+    "eps": 0.13,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.04,
+    "lowEstimate": -0.01,
+    "revenue": 54.607,
+    "revenueEstimate": 51.51,
+    "earningsGrowth": 2.25,
+    "revenueGrowth": 0.016416938110749187,
+    "earningsSurprise": 5.5,
+    "revenueSurprise": 0.06012424771888954,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09530544180352092
   }
 ]
