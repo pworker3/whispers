@@ -20806,5 +20806,29 @@
     "revenueSurprise": 0.029574761295403092,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.047868611535765264
+  },
+  {
+    "epsDate": "2025-10-09T08:00:00",
+    "ticker": "BYRN",
+    "name": "Byrna Technologies Inc.",
+    "summary": "Byrna Technologies (BYRN) reported earnings of $0.09 per share on revenue of $28.18 million for the  fiscal third quarter ended August 2025.  The consensus earnings estimate was $0.05 per share on  revenue of $28.20 million. The Earnings Whisper number was $0.10 per share. The company missed expectations by 10.00% while revenue grew 35.13% on a year-over-year basis.<br /><br />The company  said it expects fiscal  2025 revenue of $115.7 million to $120.1 million. The current consensus revenue estimate is  $116.8 million for the year ending November 30, 2025.<br /><br />Byrna is a technology company, specializing in the development, manufacture, and sale of innovative non-lethal personal protection solutions. ",
+    "subject": "Byrna Technologies Missed Expectations",
+    "quarter": " fiscal third quarter ended August 2025",
+    "fileName": "2510092704",
+    "eps": 0.09,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.05,
+    "whisper": 0.1,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.05,
+    "revenue": 28.179,
+    "revenueEstimate": 28.2,
+    "earningsGrowth": 1.25,
+    "revenueGrowth": 0.3512515584540136,
+    "earningsSurprise": -0.1,
+    "revenueSurprise": -0.0007446808510638298,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.40633479698061076
   }
 ]
