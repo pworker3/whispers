@@ -20902,5 +20902,29 @@
     "revenueSurprise": -0.5771826459560793,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 2.6434005954349984
+  },
+  {
+    "epsDate": "2025-10-09T18:11:00",
+    "ticker": "APOG",
+    "name": "Apogee Enterprises, Inc.",
+    "summary": "Apogee Enterprises (APOG) reported earnings of $0.98 per share on  for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $0.86 per share on  revenue of $334.37 million. The Earnings Whisper number was $0.89 per share. The company beat expectations by 10.11%.<br /><br />Apogee Enterprises Inc provides technologies, involving the design and development of value-added glass products, services and systems.",
+    "subject": "Apogee Enterprises Beat Expectations",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2510097492",
+    "eps": 0.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.86,
+    "whisper": 0.89,
+    "highEstimate": 0.86,
+    "lowEstimate": 0.86,
+    "revenue": null,
+    "revenueEstimate": 334.37,
+    "earningsGrowth": -0.3194444444444444,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.10112359550561797,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04556642816636301
   }
 ]
