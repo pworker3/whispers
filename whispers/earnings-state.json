@@ -20782,5 +20782,29 @@
     "revenueSurprise": 0.0023869346733668344,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.009999555575307763
+  },
+  {
+    "epsDate": "2025-10-09T07:00:00",
+    "ticker": "NEOG",
+    "name": "Neogen Corp.",
+    "summary": "Neogen (NEOG) reported earnings of $0.02 per share on revenue of $209.19 million for the  fiscal first quarter ended August 2025.  The consensus earnings estimate was $0.03 per share on  revenue of $203.18 million. The company missed consensus estimates by 33.33% while revenue fell 3.58% compared to the same quarter a year ago.<br /><br />The company  said it continues to expect fiscal  2026 revenue of $820.0 million to $840.0 million. The current consensus revenue estimate is  $818.26 million for the year ending May 31, 2026.<br /><br />Neogen Corp and subsidiaries develop, manufacture and market a diverse line of products dedicated to food and animal safety.",
+    "subject": "Neogen Missed Consensus Estimates",
+    "quarter": " fiscal first quarter ended August 2025",
+    "fileName": "2510096414",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.03,
+    "whisper": 999,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.05,
+    "revenue": 209.189,
+    "revenueEstimate": 203.18,
+    "earningsGrowth": -0.7142857142857143,
+    "revenueGrowth": -0.03583543813720248,
+    "earningsSurprise": -0.3333333333333333,
+    "revenueSurprise": 0.029574761295403092,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.047868611535765264
   }
 ]
