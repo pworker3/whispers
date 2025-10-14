@@ -21094,5 +21094,29 @@
     "revenueSurprise": 0.03977635782747604,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.12861602497398544
+  },
+  {
+    "epsDate": "2025-10-14T07:10:00",
+    "ticker": "SOTK",
+    "name": "Sono-Tek Corp",
+    "summary": "Sono-Tek (SOTK) reported earnings of $0.03 per share on revenue of $5.16 million for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $5.20 million. The company beat consensus estimates by 50.00% while revenue grew 0.02% on a year-over-year basis.<br /><br />Sono-Tek Corporation is the leading developer and manufacturer of ultrasonic coating systems for applying precise, thin film coatings to protect, strengthen or smooth surfaces on parts and components for the microelectronics/electronics, alternative energy, medical and industrial markets, including specialized glass applications in construction and automotive.",
+    "subject": "Sono-Tek Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2510145095",
+    "eps": 0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.02,
+    "lowEstimate": 0.02,
+    "revenue": 5.163,
+    "revenueEstimate": 5.2,
+    "earningsGrowth": 0.5,
+    "revenueGrowth": 0.00019372336303758234,
+    "earningsSurprise": 0.5,
+    "revenueSurprise": -0.007115384615384615,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.020274299344066785
   }
 ]
