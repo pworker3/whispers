@@ -21262,5 +21262,29 @@
     "revenueSurprise": 0.008250562839359024,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.19849017757570558
+  },
+  {
+    "epsDate": "2025-10-14T16:30:00",
+    "ticker": "EQBK",
+    "name": "Equity Bancshares",
+    "summary": "Equity Bancshares (EQBK) reported earnings of $1.21 per share on revenue of $99.97 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.99 per share on  revenue of $68.60 million. The company beat consensus estimates by 22.22% while revenue grew 18.61% on a year-over-year basis.<br /><br />Equity Bancshares, Inc. is the holding company for Equity Bank, offering a full range of financial solutions, including commercial loans, consumer banking, mortgage loans, trust and wealth management services and treasury management services, while delivering the high-quality, relationship-based customer service of a community bank.",
+    "subject": "Equity Bancshares Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510144161",
+    "eps": 1.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.99,
+    "whisper": 999,
+    "highEstimate": 1.01,
+    "lowEstimate": 0.95,
+    "revenue": 99.971,
+    "revenueEstimate": 68.6,
+    "earningsGrowth": -0.07633587786259542,
+    "revenueGrowth": 0.18614888113713485,
+    "earningsSurprise": 0.2222222222222222,
+    "revenueSurprise": 0.45730320699708454,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.015626114876917587
   }
 ]
