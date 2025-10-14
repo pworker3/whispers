@@ -21166,5 +21166,29 @@
     "revenueSurprise": 0.000835978835978836,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.025361213909517254
+  },
+  {
+    "epsDate": "2025-10-14T08:00:00",
+    "ticker": "C",
+    "name": "Citigroup, Inc.",
+    "summary": "Citigroup (C) reported earnings of $2.24 per share on revenue of $43.84 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.91 per share on  revenue of $21.01 billion. The Earnings Whisper number was $1.99 per share. The company beat expectations by 12.56% while revenue grew 0.99% on a year-over-year basis.<br /><br />The company  said in its <a href=\"https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32025/2025psqtr3rslt.pdf\">earnings presentation</a> it now expects  2025 revenue to be above $84.0 billion. The company's previous guidance was revenue of approximately $84.0 billion, and the current consensus revenue estimate is $84.7 billion for the year ending December 31, 2025.<br /><br />Citi is a preeminent banking partner for institutions with cross-border needs, a global leader in wealth management and a valued personal bank in its home market of the United States.",
+    "subject": "Citigroup Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "4000000254",
+    "eps": 2.24,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.91,
+    "whisper": 1.99,
+    "highEstimate": 2.1,
+    "lowEstimate": 1.41,
+    "revenue": 43840,
+    "revenueEstimate": 21010,
+    "earningsGrowth": 0.48344370860927155,
+    "revenueGrowth": 0.009928816604851528,
+    "earningsSurprise": 0.12562814070351758,
+    "revenueSurprise": 1.0866254164683484,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.006591138320080688
   }
 ]
