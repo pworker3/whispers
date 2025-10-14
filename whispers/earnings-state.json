@@ -21238,5 +21238,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03021758441241758
+  },
+  {
+    "epsDate": "2025-10-14T16:23:00",
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "summary": "Karooooo (KARO) reported earnings of $0.47 per share on revenue of $76.13 million for the  fiscal second quarter ended August 2025.  The consensus earnings estimate was $0.46 per share on  revenue of $75.51 million. The company beat consensus estimates by 2.17% while revenue grew 25.42% on a year-over-year basis.<br /><br />Karooooo, headquartered in Singapore, is a leading global provider of a mobility SaaS platform that maximizes the value of automotive and workflow\r\ndata by providing real-time data analytics solutions for smart transportation to over 1.4 million connected vehicles. ",
+    "subject": "Karooooo Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended August 2025",
+    "fileName": "2510145729",
+    "eps": 0.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.46,
+    "whisper": 999,
+    "highEstimate": 0.5,
+    "lowEstimate": 0.43,
+    "revenue": 76.133,
+    "revenueEstimate": 75.51,
+    "earningsGrowth": 0.175,
+    "revenueGrowth": 0.2542297490980379,
+    "earningsSurprise": 0.021739130434782608,
+    "revenueSurprise": 0.008250562839359024,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.19849017757570558
   }
 ]
