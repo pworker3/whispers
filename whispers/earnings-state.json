@@ -21214,5 +21214,29 @@
     "revenueSurprise": 1.0866254164683484,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.006591138320080688
+  },
+  {
+    "epsDate": "2025-10-14T16:00:00",
+    "ticker": "HWC",
+    "name": "Hancock Whitney Corporation",
+    "summary": "Hancock Whitney (HWC) reported earnings of $1.49 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.41 per share on  revenue of $387.84 million. The Earnings Whisper number was $1.45 per share. The company beat expectations by 2.76%.<br /><br /> Hancock Whitney Corporation operates bank offices and financial centers. It offers financial products and services which include traditional and online banking; commercial and small business banking; private banking; trust and investment services; healthcare banking; certain insurance services and mortgage services. The company operates primarily in Mississippi, Alabama, Florida, Louisiana, Texas, Nashville, Tennessee, New Jersey and New York. Hancock Whitney Corporation, formerly known as Hancock Holding Company, is headquartered in Gulfport, Mississippi.   \n",
+    "subject": "Hancock Whitney Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510140349",
+    "eps": 1.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.41,
+    "whisper": 1.45,
+    "highEstimate": 1.45,
+    "lowEstimate": 1.36,
+    "revenue": null,
+    "revenueEstimate": 387.84,
+    "earningsGrowth": 0.12030075187969924,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.027586206896551724,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03021758441241758
   }
 ]
