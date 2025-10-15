@@ -21286,5 +21286,29 @@
     "revenueSurprise": 0.45730320699708454,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.015626114876917587
+  },
+  {
+    "epsDate": "2025-10-15T01:00:00",
+    "ticker": "ASML",
+    "name": "ASML Holding",
+    "summary": "ASML (ASML) reported earnings of $6.39 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $6.27 per share on  revenue of $8.81 billion. The Earnings Whisper number was $6.49 per share. The company missed expectations by 1.54%.<br /><br />ASML Holding NV is a provider of lithography systems for the semiconductor industry, manufactures complex machines that are critical to the production of integrated circuits or chips. Its products include TWINSCAN, PAS 5500, Optics, among others.",
+    "subject": "ASML Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510153160",
+    "eps": 6.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 6.27,
+    "whisper": 6.49,
+    "highEstimate": 6.69,
+    "lowEstimate": 6.02,
+    "revenue": null,
+    "revenueEstimate": 8810,
+    "earningsGrowth": 0.10172413793103448,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.015408320493066256,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 454,
+    "prevRevenueGrowth": 0.2987315272017242
   }
 ]
