@@ -21862,5 +21862,29 @@
     "revenueSurprise": 0.6822826949503552,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.16728715001750447
+  },
+  {
+    "epsDate": "2025-10-15T18:00:00",
+    "ticker": "GSBC",
+    "name": "Great Southern Bancorp, Inc.",
+    "summary": "Great Southern Bancorp (GSBC) reported earnings of $1.56 per share on revenue of $86.14 million for the  third quarter ended September 2025.  The consensus earnings estimate was $1.55 per share on  revenue of $58.20 million. The company beat consensus estimates by 0.65% while revenue fell 5.12% compared to the same quarter a year ago.<br /><br />Great Southern Bancorp Inc is a bank holding company & a financial holding company. Its banking operation is engaged in the business of originating residential & commercial real estate loans, construction loans, commercial business loans & consumer loans.",
+    "subject": "Great Southern Bancorp Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510156409",
+    "eps": 1.56,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.55,
+    "whisper": 999,
+    "highEstimate": 1.55,
+    "lowEstimate": 1.55,
+    "revenue": 86.141,
+    "revenueEstimate": 58.2,
+    "earningsGrowth": 0.10638297872340426,
+    "revenueGrowth": -0.05118517865797242,
+    "earningsSurprise": 0.0064516129032258064,
+    "revenueSurprise": 0.48008591065292094,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.017331423534596737
   }
 ]
