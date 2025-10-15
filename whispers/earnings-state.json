@@ -21838,5 +21838,29 @@
     "revenueSurprise": 0.38681729098103024,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.00031615042274986014
+  },
+  {
+    "epsDate": "2025-10-15T17:45:00",
+    "ticker": "PNFP",
+    "name": "Pinnacle Financial Partners, Inc",
+    "summary": "Pinnacle Financial Partners (PNFP) reported earnings of $2.27 per share on revenue of $869.19 million for the  third quarter ended September 2025.  The consensus earnings estimate was $2.05 per share on  revenue of $516.67 million. The Earnings Whisper number was $2.11 per share. The company beat expectations by 7.58% while revenue grew 7.29% on a year-over-year basis.<br /><br />Pinnacle Financial Partners Inc is a bank holding company of Pinnacle Bank. It operates as a community bank in the urban markets of Nashville and Knoxville, Tennessee.",
+    "subject": "Pinnacle Financial Partners Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510158090",
+    "eps": 2.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.05,
+    "whisper": 2.11,
+    "highEstimate": 2.09,
+    "lowEstimate": 2,
+    "revenue": 869.185,
+    "revenueEstimate": 516.67,
+    "earningsGrowth": 0.22043010752688172,
+    "revenueGrowth": 0.0729261690122416,
+    "earningsSurprise": 0.07582938388625593,
+    "revenueSurprise": 0.6822826949503552,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.16728715001750447
   }
 ]
