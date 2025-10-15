@@ -21766,5 +21766,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.09764463615538334
+  },
+  {
+    "epsDate": "2025-10-15T16:39:00",
+    "ticker": "SLG",
+    "name": "SL Green Realty Corp.",
+    "summary": "SL Green Realty (SLG) reported earnings of $1.58 per share on revenue of $244.82 million for the  third quarter ended September 2025.  The consensus earnings estimate was $1.34 per share on  revenue of $149.62 million. The Earnings Whisper number was $1.37 per share. The company beat expectations by 15.33% while revenue grew 6.59% on a year-over-year basis.<br /><br />SL Green Realty Corp is a self-managed real estate\r\ninvestment trust, with in-house capabilities in property management,\r\nacquisitions, financing, development, construction and leasing.",
+    "subject": "SL Green Realty Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510156403",
+    "eps": 1.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.34,
+    "whisper": 1.37,
+    "highEstimate": 1.48,
+    "lowEstimate": 1.22,
+    "revenue": 244.817,
+    "revenueEstimate": 149.62,
+    "earningsGrowth": 0.39823008849557523,
+    "revenueGrowth": 0.06585369039274504,
+    "earningsSurprise": 0.15328467153284672,
+    "revenueSurprise": 0.636258521588023,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08570146306435689
   }
 ]
