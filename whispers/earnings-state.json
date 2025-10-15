@@ -21430,5 +21430,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.033620015637216574
+  },
+  {
+    "epsDate": "2025-10-15T07:30:00",
+    "ticker": "ABT",
+    "name": "Abbott",
+    "summary": "Abbott (ABT) reported earnings of $1.30 per share on revenue of $11.37 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.30 per share on  revenue of $11.42 billion. The Earnings Whisper number was $1.31 per share. The company missed expectations by 0.76% while revenue grew 6.90% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $5.12 to $5.18 per share. The company's previous guidance was earnings of $5.10 to $5.20 per share, and the current consensus earnings estimate is $5.15 per share for the year ending December 31, 2025.<br /><br />Abbott Laboratories discovers, develops, manufactures and sells health care products. Its products include branded generic pharmaceuticals manufactured internationally, marketed and sold outside the United States.",
+    "subject": "Abbott Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510157552",
+    "eps": 1.3,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.3,
+    "whisper": 1.31,
+    "highEstimate": 1.3,
+    "lowEstimate": 1.29,
+    "revenue": 11369,
+    "revenueEstimate": 11420,
+    "earningsGrowth": 0.0743801652892562,
+    "revenueGrowth": 0.06901739539257169,
+    "earningsSurprise": -0.007633587786259542,
+    "revenueSurprise": -0.00446584938704028,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07372072853425846
   }
 ]
