@@ -21454,5 +21454,29 @@
     "revenueSurprise": -0.00446584938704028,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07372072853425846
+  },
+  {
+    "epsDate": "2025-10-15T07:28:00",
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "summary": "Morgan Stanley (MS) reported earnings of $2.80 per share on revenue of $31.19 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $2.08 per share on  revenue of $16.25 billion. The Earnings Whisper number was $2.20 per share. The company beat expectations by 27.27% while revenue grew 13.94% on a year-over-year basis.<br /><br />Morgan Stanley through its subsidiaries and affiliates, provides financial products and services to a diversified group of clients and customers, including corporations, governments, financial institutions and individuals.",
+    "subject": "Morgan Stanley Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510154401",
+    "eps": 2.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.08,
+    "whisper": 2.2,
+    "highEstimate": 2.2,
+    "lowEstimate": 1.96,
+    "revenue": 31189,
+    "revenueEstimate": 16250,
+    "earningsGrowth": 0.48936170212765956,
+    "revenueGrowth": 0.13944907204442497,
+    "earningsSurprise": 0.2727272727272727,
+    "revenueSurprise": 0.9193230769230769,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10834182999131453
   }
 ]
