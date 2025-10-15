@@ -21310,5 +21310,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 454,
     "prevRevenueGrowth": 0.2987315272017242
+  },
+  {
+    "epsDate": "2025-10-15T06:00:00",
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "summary": "Synchrony Financial (SYF) reported earnings of $2.86 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $2.22 per share on  revenue of $4.71 billion. The Earnings Whisper number was $2.31 per share. The company beat expectations by 23.81%.<br /><br />Synchrony Financial provides credit products through programs established with a diverse group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations and healthcare service providers.",
+    "subject": "Synchrony Financial Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510157808",
+    "eps": 2.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.22,
+    "whisper": 2.31,
+    "highEstimate": 2.46,
+    "lowEstimate": 1.91,
+    "revenue": null,
+    "revenueEstimate": 4710,
+    "earningsGrowth": 0.4742268041237113,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.23809523809523808,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0007165890361877463
   }
 ]
