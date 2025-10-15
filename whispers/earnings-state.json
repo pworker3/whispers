@@ -21550,5 +21550,29 @@
     "revenueSurprise": 0.46369747899159663,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10162848109489367
+  },
+  {
+    "epsDate": "2025-10-15T08:16:00",
+    "ticker": "PGR",
+    "name": "Progressive Corp.",
+    "summary": "Progressive (PGR) reported earnings of $4.05 per share on revenue of $22.51 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $5.08 per share on  revenue of $22.42 billion. The Earnings Whisper number was $5.14 per share. The company missed expectations by 21.21% while revenue grew 14.16% on a year-over-year basis.<br /><br />Progressive Corp is an insurance holding company, whose subsidiaries provides personal and commercial automobile insurance and other property-casualty insurance and related services throughout the United States.",
+    "subject": "Progressive Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510155973",
+    "eps": 4.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.08,
+    "whisper": 5.14,
+    "highEstimate": 5.46,
+    "lowEstimate": 4.01,
+    "revenue": 22512,
+    "revenueEstimate": 22420,
+    "earningsGrowth": 0.13128491620111732,
+    "revenueGrowth": 0.14164004259850904,
+    "earningsSurprise": -0.21206225680933852,
+    "revenueSurprise": 0.004103479036574487,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2133911978957004
   }
 ]
