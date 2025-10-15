@@ -21526,5 +21526,29 @@
     "revenueSurprise": 0.49695833333333334,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.031431701356703465
+  },
+  {
+    "epsDate": "2025-10-15T08:15:00",
+    "ticker": "CTBI",
+    "name": "Community Trust Bancorp Inc.",
+    "summary": "Community Trust Bancorp (CTBI) reported earnings of $1.32 per share on revenue of $104.51 million for the  third quarter ended September 2025.  The consensus earnings estimate was $1.38 per share on  revenue of $71.40 million. The company missed consensus estimates by 4.35% while revenue grew 9.57% on a year-over-year basis.<br /><br />Community Trust Bancorp, Inc. is a bank holding company, through its subsidiaries provides commercial and personal banking and wealth management services.",
+    "subject": "Community Trust Bancorp Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510154313",
+    "eps": 1.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.38,
+    "whisper": 999,
+    "highEstimate": 1.43,
+    "lowEstimate": 1.34,
+    "revenue": 104.508,
+    "revenueEstimate": 71.4,
+    "earningsGrowth": 0.07317073170731707,
+    "revenueGrowth": 0.09573586923472116,
+    "earningsSurprise": -0.043478260869565216,
+    "revenueSurprise": 0.46369747899159663,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10162848109489367
   }
 ]
