@@ -22102,5 +22102,29 @@
     "revenueSurprise": 0.04571879936808847,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.44414561521467677
+  },
+  {
+    "epsDate": "2025-10-16T07:10:00",
+    "ticker": "CMC",
+    "name": "Commercial Metals Company",
+    "summary": "Commercial Metals (CMC) reported earnings of $1.37 per share on revenue of $2.11 billion for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $1.32 per share on  revenue of $2.07 billion. The Earnings Whisper number was $1.35 per share. The company beat expectations by 1.48% while revenue grew 5.93% on a year-over-year basis.<br /><br />Commercial Metals Co recycles, manufactures, fabricates and distributes\r\nsteel and metal products and related materials and services through a network\r\nof locations throughout the United States and internationally.",
+    "subject": "Commercial Metals Beat Expectations",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2510169470",
+    "eps": 1.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.32,
+    "whisper": 1.35,
+    "highEstimate": 1.37,
+    "lowEstimate": 1.25,
+    "revenue": 2114.518,
+    "revenueEstimate": 2070,
+    "earningsGrowth": 0.5222222222222223,
+    "revenueGrowth": 0.059298679607584406,
+    "earningsSurprise": 0.014814814814814815,
+    "revenueSurprise": 0.021506280193236714,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.02814598132774593
   }
 ]
