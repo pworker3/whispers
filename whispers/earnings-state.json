@@ -22414,5 +22414,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11834441057828969
+  },
+  {
+    "epsDate": "2025-10-16T16:30:00",
+    "ticker": "SFNC",
+    "name": "Simmons First National Corp.",
+    "summary": "Simmons First National (SFNC) reported earnings of $0.46 per share on revenue of $357.73 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.48 per share on  revenue of $228.90 million. The company missed consensus estimates by 4.17% while revenue grew 1.80% on a year-over-year basis.<br /><br />Simmons First National Corp is a financial holding company. The Company through its subsidiaries is engaged in providing banking services including home loan, investment banking, and personal banking services to individual and corporate customers.",
+    "subject": "Simmons First National Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510169459",
+    "eps": 0.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.48,
+    "whisper": 999,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.46,
+    "revenue": 357.728,
+    "revenueEstimate": 228.9,
+    "earningsGrowth": 0.24324324324324326,
+    "revenueGrowth": 0.017952927986250033,
+    "earningsSurprise": -0.041666666666666664,
+    "revenueSurprise": 0.5628134556574923,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.040454403883536855
   }
 ]
