@@ -22438,5 +22438,29 @@
     "revenueSurprise": 0.5628134556574923,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.040454403883536855
+  },
+  {
+    "epsDate": "2025-10-16T17:00:00",
+    "ticker": "WAFD",
+    "name": "Washington Federal, Inc.",
+    "summary": "Washington Federal (WAFD) reported earnings of $0.72 per share on revenue of $344.93 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.75 per share on  revenue of $190.22 million. The Earnings Whisper number was $0.78 per share. The company missed expectations by 7.69% while revenue fell 11.55% compared to the same quarter a year ago.<br /><br />Washington Federal Inc is a bank holding company which\r\noperates through its subsidiaries. It activities include accepting deposits &\r\nlending out loans of various types. The Bank is also engaged in\r\nreal estate investment & insurance brokerage activities.",
+    "subject": "Washington Federal Missed Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2510169434",
+    "eps": 0.72,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.75,
+    "whisper": 0.78,
+    "highEstimate": 0.78,
+    "lowEstimate": 0.72,
+    "revenue": 344.925,
+    "revenueEstimate": 190.22,
+    "earningsGrowth": 0.02857142857142857,
+    "revenueGrowth": -0.11552022565549074,
+    "earningsSurprise": -0.07692307692307693,
+    "revenueSurprise": 0.813295131952476,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.14469594033177255
   }
 ]
