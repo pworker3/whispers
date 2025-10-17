@@ -22558,5 +22558,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.024434389140271493
+  },
+  {
+    "epsDate": "2025-10-17T06:50:00",
+    "ticker": "SLB",
+    "name": "SLB ",
+    "summary": "SLB (SLB) reported earnings of $0.69 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.66 per share on  revenue of $8.95 billion. The Earnings Whisper number was $0.65 per share. The company beat expectations by 6.15%.<br /><br />SLB is a global technology company that drives energy innovation for a balanced planet. ",
+    "subject": "SLB Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510178706",
+    "eps": 0.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.66,
+    "whisper": 0.65,
+    "highEstimate": 0.73,
+    "lowEstimate": 0.65,
+    "revenue": null,
+    "revenueEstimate": 8950,
+    "earningsGrowth": -0.2247191011235955,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.06153846153846154,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.06488674909727542
   }
 ]
