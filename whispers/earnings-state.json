@@ -22486,5 +22486,29 @@
     "revenueSurprise": -0.012243259586713098,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.10118511851185119
+  },
+  {
+    "epsDate": "2025-10-17T06:00:00",
+    "ticker": "RF",
+    "name": "Regions Financial Corporation",
+    "summary": "Regions Financial (RF) reported earnings of $0.63 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.60 per share on  revenue of $1.92 billion. The Earnings Whisper number was $0.63 per share. The company reported in-line with expectations.<br /><br />Regions Financial Corporation is one of the nation’s largest full-service providers of consumer and commercial banking, wealth management, and mortgage products and services. ",
+    "subject": "Regions Financial Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510179883",
+    "eps": 0.63,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.6,
+    "whisper": 0.63,
+    "highEstimate": 0.61,
+    "lowEstimate": 0.58,
+    "revenue": null,
+    "revenueEstimate": 1920,
+    "earningsGrowth": 0.10526315789473684,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.053315994798439535
   }
 ]
