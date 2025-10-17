@@ -22534,5 +22534,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.030170753626909744
+  },
+  {
+    "epsDate": "2025-10-17T06:30:00",
+    "ticker": "FITB",
+    "name": "Fifth Third Bancorp",
+    "summary": "Fifth Third Bancorp (FITB) reported earnings of $0.91 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.87 per share on  revenue of $2.28 billion. The Earnings Whisper number was $0.90 per share. The company beat expectations by 1.11%.<br /><br />Fifth Third Bancorp along with its subsidiaries provides financial products and services such as checking, savings and money market accounts, and credit products such as credit cards, installment loans, mortgage loans and leases.",
+    "subject": "Fifth Third Bancorp Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510173238",
+    "eps": 0.91,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.87,
+    "whisper": 0.9,
+    "highEstimate": 0.99,
+    "lowEstimate": 0.82,
+    "revenue": null,
+    "revenueEstimate": 2280,
+    "earningsGrowth": 0.07058823529411765,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.011111111111111112,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.024434389140271493
   }
 ]
