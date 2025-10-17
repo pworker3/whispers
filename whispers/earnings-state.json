@@ -22630,5 +22630,29 @@
     "revenueSurprise": 0.43193571673708003,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.045166402535657686
+  },
+  {
+    "epsDate": "2025-10-17T07:01:00",
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares Incorporated",
+    "summary": "Huntington Bancshares (HBAN) reported earnings of $0.41 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $2.05 billion. The Earnings Whisper number was $0.39 per share. The company beat expectations by 5.13%.<br /><br />Huntington Bancshares Inc is a multi-state financial holding company. It provides full-service commercial, small business, consumer, and mortgage banking services, as well as automobile financing, investment management services, & among others..",
+    "subject": "Huntington Bancshares Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510170754",
+    "eps": 0.41,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 0.39,
+    "highEstimate": 0.39,
+    "lowEstimate": 0.36,
+    "revenue": null,
+    "revenueEstimate": 2050,
+    "earningsGrowth": 0.24242424242424243,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05128205128205128,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.020222446916076844
   }
 ]
