@@ -22654,5 +22654,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.020222446916076844
+  },
+  {
+    "epsDate": "2025-10-17T07:25:00",
+    "ticker": "ALLY",
+    "name": "Ally Financial",
+    "summary": "Ally Financial (ALLY) reported earnings of $1.15 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.99 per share on  revenue of $2.09 billion. The Earnings Whisper number was $1.09 per share. The company beat expectations by 5.50%.<br /><br />Ally Financial Inc offers financial products and services to automotive dealers and their customers. The Company is engaged in Dealer Financial Services and Mortgage, Corporate and Other business.",
+    "subject": "Ally Financial Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510170417",
+    "eps": 1.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.99,
+    "whisper": 1.09,
+    "highEstimate": 1.04,
+    "lowEstimate": 0.94,
+    "revenue": null,
+    "revenueEstimate": 2090,
+    "earningsGrowth": 0.21052631578947367,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05504587155963303,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.041
   }
 ]
