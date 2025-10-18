@@ -22678,5 +22678,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.041
+  },
+  {
+    "epsDate": "2025-10-17T07:30:00",
+    "ticker": "WBS",
+    "name": "Webster Financial Corp.",
+    "summary": "Webster Financial (WBS) reported earnings of $1.54 per share on revenue of $1.13 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.52 per share on  revenue of $724.41 million. The Earnings Whisper number was $1.55 per share. The company missed expectations by 0.65% while revenue grew 6.35% on a year-over-year basis.<br /><br />Webster Financial Corp through its Webster Bank and non-banking financial services subsidiaries, delivers financial services to individuals, families and businesses throughout southern New England and eastern New York State.",
+    "subject": "Webster Financial Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510172994",
+    "eps": 1.54,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.52,
+    "whisper": 1.55,
+    "highEstimate": 1.54,
+    "lowEstimate": 1.44,
+    "revenue": 1129.208,
+    "revenueEstimate": 724.41,
+    "earningsGrowth": 0.14925373134328357,
+    "revenueGrowth": 0.06348064237844273,
+    "earningsSurprise": -0.0064516129032258064,
+    "revenueSurprise": 0.5587968139589459,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07526134319800822
   }
 ]
