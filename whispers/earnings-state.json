@@ -22774,5 +22774,29 @@
     "revenueSurprise": 0.24055183946488295,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.008628544606124196
+  },
+  {
+    "epsDate": "2025-10-20T08:00:00",
+    "ticker": "DX",
+    "name": "Dynex Capital, Inc.",
+    "summary": "Dynex Capital (DX) reported earnings of $0.25 per share on revenue of $149.68 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.44 per share on  revenue of $29.26 million. The Earnings Whisper number was $0.49 per share. The company missed expectations by 48.98% while revenue grew 79.35% on a year-over-year basis.<br /><br />ynex Capital, Inc. is an internally managed real estate investment trust, or REIT, which invests in mortgage assets on a leveraged basis. ",
+    "subject": "Dynex Capital Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510202741",
+    "eps": 0.25,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.44,
+    "whisper": 0.49,
+    "highEstimate": 0.44,
+    "lowEstimate": 0.44,
+    "revenue": 149.679,
+    "revenueEstimate": 29.26,
+    "earningsGrowth": 3.5,
+    "revenueGrowth": 0.7934649763953127,
+    "earningsSurprise": -0.4897959183673469,
+    "revenueSurprise": 4.115481886534518,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.46929813027585665
   }
 ]
