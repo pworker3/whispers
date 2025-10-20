@@ -23062,5 +23062,29 @@
     "revenueSurprise": 0.916166719292706,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11191329336218825
+  },
+  {
+    "epsDate": "2025-10-20T19:00:00",
+    "ticker": "FLXS",
+    "name": "Flexsteel Industries Inc.",
+    "summary": "Flexsteel Industries (FLXS) reported earnings of $1.31 per share on revenue of $110.44 million for the  fiscal first quarter ended September 2025.  The consensus earnings estimate was $0.78 per share on  revenue of $105.38 million. The company beat consensus estimates by 67.95% while revenue grew 6.18% on a year-over-year basis.<br /><br />Flexsteel Industries, Inc., and Subsidiaries, is one of the largest manufacturers, importers, and marketers of residential furniture products in the United States.",
+    "subject": "Flexsteel Industries Beat Consensus Estimates",
+    "quarter": " fiscal first quarter ended September 2025",
+    "fileName": "2510206072",
+    "eps": 1.31,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.78,
+    "whisper": 999,
+    "highEstimate": 0.78,
+    "lowEstimate": 0.78,
+    "revenue": 110.439,
+    "revenueEstimate": 105.38,
+    "earningsGrowth": 0.7702702702702703,
+    "revenueGrowth": 0.0618419914044247,
+    "earningsSurprise": 0.6794871794871795,
+    "revenueSurprise": 0.0480072119946859,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.034189962281857396
   }
 ]
