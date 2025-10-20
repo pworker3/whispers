@@ -23038,5 +23038,29 @@
     "revenueSurprise": 0.5990256799789652,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07606736921882433
+  },
+  {
+    "epsDate": "2025-10-20T17:41:00",
+    "ticker": "RBB",
+    "name": "RBB Bancorp",
+    "summary": "RBB Bancorp (RBB) reported earnings of $0.59 per share on revenue of $60.69 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.41 per share on  revenue of $31.67 million. The company beat consensus estimates by 43.90% while revenue grew 0.85% on a year-over-year basis.<br /><br />RBB Bancorp is a community-based financial holding company headquartered in Los Angeles, California. ",
+    "subject": "RBB Bancorp Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510208804",
+    "eps": 0.59,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.41,
+    "whisper": 999,
+    "highEstimate": 0.44,
+    "lowEstimate": 0.39,
+    "revenue": 60.685,
+    "revenueEstimate": 31.67,
+    "earningsGrowth": 0.5128205128205128,
+    "revenueGrowth": 0.008542321051669409,
+    "earningsSurprise": 0.43902439024390244,
+    "revenueSurprise": 0.916166719292706,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11191329336218825
   }
 ]
