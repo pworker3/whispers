@@ -23014,5 +23014,29 @@
     "revenueSurprise": 0.4236559139784946,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06364172068355922
+  },
+  {
+    "epsDate": "2025-10-20T16:50:00",
+    "ticker": "WTFC",
+    "name": "Wintrust Financial Corp.",
+    "summary": "Wintrust Financial (WTFC) reported earnings of $3.06 per share on revenue of $1.09 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $2.63 per share on  revenue of $684.58 million. The Earnings Whisper number was $2.74 per share. The company beat expectations by 11.68% while revenue grew 7.14% on a year-over-year basis.<br /><br />Wintrust Financial Corp is a financial holding company. The\r\nCompany provides community banking, specialty finance and wealth management\r\nservices.",
+    "subject": "Wintrust Financial Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510208736",
+    "eps": 3.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.63,
+    "whisper": 2.74,
+    "highEstimate": 2.74,
+    "lowEstimate": 2.5,
+    "revenue": 1094.661,
+    "revenueEstimate": 684.58,
+    "earningsGrowth": 0.2388663967611336,
+    "revenueGrowth": 0.07135789443807738,
+    "earningsSurprise": 0.11678832116788321,
+    "revenueSurprise": 0.5990256799789652,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07606736921882433
   }
 ]
