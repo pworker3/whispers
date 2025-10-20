@@ -22726,5 +22726,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.031029065200314218
+  },
+  {
+    "epsDate": "2025-10-20T06:45:00",
+    "ticker": "SMMT",
+    "name": "Summit Therapeutics Plc",
+    "summary": "Summit Therapeutics Plc (SMMT) reported a loss of $0.31 per share on revenue of $0.00 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.14 per share on  revenue of $27.76 million. The Earnings Whisper number was a loss of $0.16 per share. The company missed expectations by 93.75%.<br /><br />Summit Therapeutics Inc. is a biopharmaceutical oncology company focused on the discovery, development, and commercialization of patient-, physician-, caregiver- and societal-friendly medicinal therapies intended to improve quality of life, increase potential duration of life, and resolve serious unmet medical needs.",
+    "subject": "Summit Therapeutics Plc Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510200157",
+    "eps": -0.31,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.14,
+    "whisper": -0.16,
+    "highEstimate": -0.09,
+    "lowEstimate": -0.21,
+    "revenue": 0,
+    "revenueEstimate": 27.76,
+    "earningsGrowth": -2.875,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.9375,
+    "revenueSurprise": -1,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
