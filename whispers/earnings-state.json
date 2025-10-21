@@ -23590,5 +23590,29 @@
     "revenueSurprise": 0.024371860465116277,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.042590150783047856
+  },
+  {
+    "epsDate": "2025-10-21T07:00:00",
+    "ticker": "VMI",
+    "name": "Valmont Industries Inc.",
+    "summary": "Valmont Industries (VMI) reported earnings of $4.98 per share on revenue of $1.05 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $4.64 per share on  revenue of $1.04 billion. The Earnings Whisper number was $4.75 per share. The company beat expectations by 4.84% while revenue grew 2.53% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $18.70 to $19.50 per share on revenue of approximately $4.10 billion. The company's previous guidance was earnings of $17.50 to $19.50 per share on revenue of $4.00 billion to $4.20 billion, and the current consensus earnings estimate is $18.71 per share on revenue of $4.11 billion for the year ending December 31, 2025.<br /><br />Valmont Industries Inc is a provider of engineered metal structures and components for infrastructure, and irrigation equipment for agriculture.",
+    "subject": "Valmont Industries Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510210985",
+    "eps": 4.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.64,
+    "whisper": 4.75,
+    "highEstimate": 4.75,
+    "lowEstimate": 4.58,
+    "revenue": 1045.98,
+    "revenueEstimate": 1040,
+    "earningsGrowth": 0.2116788321167883,
+    "revenueGrowth": 0.025294679834342148,
+    "earningsSurprise": 0.04842105263157895,
+    "revenueSurprise": 0.00575,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.010397821756848126
   }
 ]
