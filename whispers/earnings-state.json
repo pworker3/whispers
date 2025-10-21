@@ -23758,5 +23758,29 @@
     "revenueSurprise": 0.10277685950413223,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.14381960989956794
+  },
+  {
+    "epsDate": "2025-10-21T08:30:00",
+    "ticker": "BMI",
+    "name": "Badger Meter, Inc.",
+    "summary": "Badger Meter (BMI) reported earnings of $1.19 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.11 per share on  revenue of $229.36 million. The Earnings Whisper number was $1.13 per share. The company beat expectations by 5.31%.<br /><br />Badger Meter Inc is a manufacturer and marketer of products\r\nincorporating liquid flow measurement and control technologies. It\r\nserves water utilities, municipalities and commercial & industrial\r\ncustomers.",
+    "subject": "Badger Meter Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510214365",
+    "eps": 1.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.11,
+    "whisper": 1.13,
+    "highEstimate": 1.16,
+    "lowEstimate": 1.05,
+    "revenue": null,
+    "revenueEstimate": 229.36,
+    "earningsGrowth": 0.10185185185185185,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05309734513274336,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09894395775831033
   }
 ]
