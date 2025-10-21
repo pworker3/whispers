@@ -23734,5 +23734,29 @@
     "revenueSurprise": 0.9890299523485364,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-10-21T08:00:00",
+    "ticker": "PCAR",
+    "name": "PACCAR, Inc.",
+    "summary": "PACCAR (PCAR) reported earnings of $1.12 per share on revenue of $6.67 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.12 per share on  revenue of $6.05 billion. The Earnings Whisper number was $1.10 per share. The company beat expectations by 1.82% while revenue fell 19.03% compared to the same quarter a year ago.<br /><br />PACCAR Inc designs, manufactures and distributes light, medium and heavy duty trucks and related aftermarket parts.",
+    "subject": "PACCAR Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510213584",
+    "eps": 1.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.12,
+    "whisper": 1.1,
+    "highEstimate": 1.23,
+    "lowEstimate": 1.07,
+    "revenue": 6671.8,
+    "revenueEstimate": 6050,
+    "earningsGrowth": -0.3945945945945946,
+    "revenueGrowth": -0.19030570759353876,
+    "earningsSurprise": 0.01818181818181818,
+    "revenueSurprise": 0.10277685950413223,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.14381960989956794
   }
 ]
