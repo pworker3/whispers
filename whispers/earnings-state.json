@@ -23614,5 +23614,29 @@
     "revenueSurprise": 0.00575,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.010397821756848126
+  },
+  {
+    "epsDate": "2025-10-21T06:30:00",
+    "ticker": "GE",
+    "name": "GE Aerospace",
+    "summary": "GE Aerospace (GE) reported earnings of $1.66 per share on revenue of $12.18 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.46 per share on  revenue of $10.34 billion. The Earnings Whisper number was $1.60 per share. The company beat expectations by 3.75% while revenue grew 23.77% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $6.00 to $6.20 per share on revenue of approximately $41.24 billion. The company's previous guidance was earnings of $5.60 to $5.80 per share on revenue of approximately $40.39 billion, and the current consensus earnings estimate is $5.87 per share on revenue of $40.43 billion for the year ending December 31, 2025.<br /><br />GE Aerospace is a global aerospace propulsion, services, and systems leader with an installed base of approximately 45,000 commercial and 25,000 military aircraft engines. ",
+    "subject": "GE Aerospace Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "4000000256",
+    "eps": 1.66,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.46,
+    "whisper": 1.6,
+    "highEstimate": 1.52,
+    "lowEstimate": 1.39,
+    "revenue": 12181,
+    "revenueEstimate": 10340,
+    "earningsGrowth": 0.4434782608695652,
+    "revenueGrowth": 0.23765494818126398,
+    "earningsSurprise": 0.0375,
+    "revenueSurprise": 0.17804642166344295,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.21211787992082692
   }
 ]
