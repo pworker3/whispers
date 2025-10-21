@@ -23710,5 +23710,29 @@
     "revenueSurprise": 0.5640228013029316,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.054878048780487805
+  },
+  {
+    "epsDate": "2025-10-21T07:46:00",
+    "ticker": "GLXY",
+    "name": "Galaxy Digital Inc. ",
+    "summary": "Galaxy Digital Inc. (GLXY) reported earnings of $1.12 per share on revenue of $29.22 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $14.69 billion. The company beat consensus estimates by 194.74%.<br /><br />Galaxy Digital Inc. is a global leader in digital assets and data center infrastructure, delivering solutions that accelerate progress in finance and artificial intelligence. ",
+    "subject": "Galaxy Digital Inc. Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510213101",
+    "eps": 1.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 999,
+    "highEstimate": 0.77,
+    "lowEstimate": -0.02,
+    "revenue": 29218.85,
+    "revenueEstimate": 14690,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.9473684210526316,
+    "revenueSurprise": 0.9890299523485364,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
