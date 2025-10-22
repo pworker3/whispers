@@ -24862,5 +24862,29 @@
     "revenueSurprise": 0.019036144578313253,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.045056983832494034
+  },
+  {
+    "epsDate": "2025-10-22T16:30:00",
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "summary": "O'Reilly Automotive (ORLY) reported earnings of $0.85 per share on revenue of $4.71 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.83 per share on  revenue of $4.70 billion. The Earnings Whisper number was $0.86 per share. The company missed expectations by 1.16% while revenue grew 7.82% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $2.90 to $3.00 per share on revenue of $17.60 billion to $17.80 billion. The company's previous guidance was earnings of $2.85 to $2.95 per share on revenue of $17.50 billion to $17.80 billion, and the current consensus earnings estimate is $2.95 per share on revenue of $17.72 billion for the year ending December 31, 2025.<br /><br />O&#39;Reilly Automotive Inc is a specialty retailer of automotive aftermarket parts, tools, supplies, equipment and accessories in the United States, selling its products to both do-it-yourself \"DIY\" and professional service provider customers.",
+    "subject": "O'Reilly Automotive Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510220317",
+    "eps": 0.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.83,
+    "whisper": 0.86,
+    "highEstimate": 0.87,
+    "lowEstimate": 0.81,
+    "revenue": 4705.696,
+    "revenueEstimate": 4700,
+    "earningsGrowth": -0.9255039439088519,
+    "revenueGrowth": 0.07819084110963224,
+    "earningsSurprise": -0.011627906976744186,
+    "revenueSurprise": 0.0012119148936170212,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.059186587896964585
   }
 ]
