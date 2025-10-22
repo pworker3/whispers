@@ -24478,5 +24478,29 @@
     "revenueSurprise": -0.008107235142118863,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03523844682350572
+  },
+  {
+    "epsDate": "2025-10-22T06:30:00",
+    "ticker": "GEV",
+    "name": "GE Vernova Inc.",
+    "summary": "GE Vernova (GEV) reported earnings of $1.64 per share on revenue of $9.97 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.78 per share on  revenue of $9.17 billion. The Earnings Whisper number was $1.90 per share. The company missed expectations by 13.68% while revenue grew 11.85% on a year-over-year basis.<br /><br />The company  said it continues to expect  2025 revenue to be towards the higher end of $36.0 billion to $37.0 billion. The current consensus revenue estimate is $37.3 billion for the year ending December 31, 2025.<br /><br />GE Vernova is a purpose-built global energy company that includes Power, Wind, and Electrification segments and is supported by its accelerator businesses of Advanced Research, Consulting Services, and Financial Services. ",
+    "subject": "GE Vernova Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "4000000258",
+    "eps": 1.64,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.78,
+    "whisper": 1.9,
+    "highEstimate": 2.17,
+    "lowEstimate": 1.43,
+    "revenue": 9969,
+    "revenueEstimate": 9170,
+    "earningsGrowth": 3.6857142857142855,
+    "revenueGrowth": 0.11847862672500842,
+    "earningsSurprise": -0.1368421052631579,
+    "revenueSurprise": 0.0871319520174482,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1105558264261336
   }
 ]
