@@ -24334,5 +24334,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.01959616343713603
+  },
+  {
+    "epsDate": "2025-10-22T06:30:00",
+    "ticker": "BSX",
+    "name": "Boston Scientific Corporation",
+    "summary": "Boston Scientific (BSX) reported earnings of $0.75 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.71 per share on  revenue of $4.97 billion. The Earnings Whisper number was $0.73 per share. The company beat expectations by 2.74%.<br /><br />Boston Scientific Inc is a developer, manufacturer and marketer of medical devices that are used in a range of interventional medical specialties.",
+    "subject": "Boston Scientific Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510223694",
+    "eps": 0.75,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.71,
+    "whisper": 0.73,
+    "highEstimate": 0.72,
+    "lowEstimate": 0.7,
+    "revenue": null,
+    "revenueEstimate": 4970,
+    "earningsGrowth": 0.19047619047619047,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.0273972602739726,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.22839805825242718
   }
 ]
