@@ -24358,5 +24358,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.22839805825242718
+  },
+  {
+    "epsDate": "2025-10-22T06:55:00",
+    "ticker": "TDY",
+    "name": "Teledyne Technologies Inc.",
+    "summary": "Teledyne Technologies (TDY) reported earnings of $5.57 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $5.50 per share on  revenue of $1.53 billion. The Earnings Whisper number was $5.55 per share. The company beat expectations by 0.36%.<br /><br />Teledyne Technologies Inc provides enabling technologies for industrial\r\ngrowth markets such as deepwater oil & gas exploration & production,\r\noceanographic research, air & water quality environmental monitoring, & among others.",
+    "subject": "Teledyne Technologies Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510220273",
+    "eps": 5.57,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.5,
+    "whisper": 5.55,
+    "highEstimate": 5.69,
+    "lowEstimate": 5.43,
+    "revenue": null,
+    "revenueEstimate": 1530,
+    "earningsGrowth": 0.09215686274509804,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.0036036036036036037,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10159377046794266
   }
 ]
