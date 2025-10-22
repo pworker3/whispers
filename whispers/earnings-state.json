@@ -24310,5 +24310,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.48349669658382044
+  },
+  {
+    "epsDate": "2025-10-22T06:15:00",
+    "ticker": "TMHC",
+    "name": "Taylor Morrison Home Corporation",
+    "summary": "Taylor Morrison Home (TMHC) reported earnings of $2.11 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.93 per share on  revenue of $2.04 billion. The Earnings Whisper number was $2.03 per share. The company beat expectations by 3.94%.<br /><br />Taylor Morrison Home Corp is a public homebuilder in North America. It builds single-family detached and attached homes and develops land, which includes lifestyle and master-planned communities.",
+    "subject": "Taylor Morrison Home Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510223697",
+    "eps": 2.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.93,
+    "whisper": 2.03,
+    "highEstimate": 2.04,
+    "lowEstimate": 1.83,
+    "revenue": null,
+    "revenueEstimate": 2040,
+    "earningsGrowth": -0.10970464135021098,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.03940886699507389,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.01959616343713603
   }
 ]
