@@ -24934,5 +24934,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-10-22T16:05:00",
+    "ticker": "SAP",
+    "name": "SAP SE",
+    "summary": "SAP SE (SAP) reported earnings of $1.86 per share on revenue of $10.61 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.69 per share on  revenue of $10.57 billion. The Earnings Whisper number was $1.73 per share. The company beat expectations by 7.51% while revenue grew 13.97% on a year-over-year basis.<br /><br />SAP SE is engaged in selling licenses for software solutions and related support services. It also offers consulting, training and other services for its software solutions.",
+    "subject": "SAP SE Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510224681",
+    "eps": 1.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.69,
+    "whisper": 1.73,
+    "highEstimate": 1.81,
+    "lowEstimate": 1.59,
+    "revenue": 10609.12,
+    "revenueEstimate": 10570,
+    "earningsGrowth": 0.37777777777777777,
+    "revenueGrowth": 0.13968913662622315,
+    "earningsSurprise": 0.07514450867052024,
+    "revenueSurprise": 0.0037010406811731314,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14807439196546326
   }
 ]
