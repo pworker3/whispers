@@ -24454,5 +24454,29 @@
     "revenueSurprise": -0.008107235142118863,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03523844682350572
+  },
+  {
+    "epsDate": "2025-10-22T06:32:00",
+    "ticker": "T",
+    "name": "AT&T Corp.",
+    "summary": "AT&T (T) reported earnings of $0.54 per share on revenue of $30.71 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.55 per share on  revenue of $30.96 billion. The Earnings Whisper number was $0.57 per share. The company missed expectations by 5.26% while revenue grew 1.64% on a year-over-year basis.<br /><br />The company  said it continues to expect  2025  earnings of $1.97 to $2.07 per share. The current consensus earnings estimate is $2.05 per share for the year ending December 31, 2025.<br /><br />AT&T Inc. is a diversified, global leader in telecommunications, media and entertainment, and technology.",
+    "subject": "AT&T Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510226774",
+    "eps": 0.54,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.55,
+    "whisper": 0.57,
+    "highEstimate": 0.57,
+    "lowEstimate": 0.53,
+    "revenue": 30709,
+    "revenueEstimate": 30960,
+    "earningsGrowth": -0.1,
+    "revenueGrowth": 0.016416774236255916,
+    "earningsSurprise": -0.05263157894736842,
+    "revenueSurprise": -0.008107235142118863,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03523844682350572
   }
 ]
