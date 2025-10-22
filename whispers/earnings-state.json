@@ -24502,5 +24502,29 @@
     "revenueSurprise": 0.0871319520174482,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1105558264261336
+  },
+  {
+    "epsDate": "2025-10-22T08:00:00",
+    "ticker": "APH",
+    "name": "Amphenol Corp.",
+    "summary": "Amphenol (APH) reported earnings of $0.93 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.79 per share on  revenue of $5.48 billion. The Earnings Whisper number was $0.86 per share. The company beat expectations by 8.14%.<br /><br />The company  said it expects  fourth quarter   earnings of $0.89 to $0.91 per share on revenue of $6.0 billion to $6.1 billion. The current consensus earnings estimate is $0.79 per share on revenue of $5.7 billion for the quarter ending December 31, 2025.<br /><br />Amphenol Corporation designs, manufactures and markets electrical, electronic and fiber optic connectors, interconnect systems and coaxial and flat-ribbon cable.",
+    "subject": "Amphenol Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510225226",
+    "eps": 0.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.79,
+    "whisper": 0.86,
+    "highEstimate": 0.82,
+    "lowEstimate": 0.77,
+    "revenue": null,
+    "revenueEstimate": 5480,
+    "earningsGrowth": 0.86,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.08139534883720931,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.5653101365764468
   }
 ]
