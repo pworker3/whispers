@@ -25174,5 +25174,29 @@
     "revenueSurprise": -0.021295387634936214,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.07430142006413193
+  },
+  {
+    "epsDate": "2025-10-23T08:00:00",
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan Copper & Gold, Inc.",
+    "summary": "Freeport-McMoRan Copper & Gold (FCX) reported earnings of $0.50 per share on revenue of $6.97 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.41 per share on  revenue of $6.57 billion. The Earnings Whisper number was $0.50 per share. The company reported in-line with expectations while revenue grew 2.68% on a year-over-year basis.<br /><br />Freeport-McMoRan Inc, formerly Freeport-McMoRan Copper & Gold, deals in the mining of copper, gold and molybdenum.",
+    "subject": "Freeport-McMoRan Copper & Gold Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510231585",
+    "eps": 0.5,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.41,
+    "whisper": 0.5,
+    "highEstimate": 0.54,
+    "lowEstimate": 0.22,
+    "revenue": 6972,
+    "revenueEstimate": 6570,
+    "earningsGrowth": 0.3157894736842105,
+    "revenueGrowth": 0.026804123711340205,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.06118721461187215,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1446256038647343
   }
 ]
