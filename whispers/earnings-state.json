@@ -25534,5 +25534,29 @@
     "revenueSurprise": -0.021295387634936214,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.07430142006413193
+  },
+  {
+    "epsDate": "2025-10-24T08:00:00",
+    "ticker": "GNTX",
+    "name": "Gentex Corp.",
+    "summary": "Gentex (GNTX) reported earnings of $0.46 per share on revenue of $655.24 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.47 per share on  revenue of $667.88 million. The Earnings Whisper number was $0.52 per share. The company missed expectations by 11.54% while revenue grew 7.68% on a year-over-year basis.<br /><br />Gentex Corp designs and manufactures automatic-dimming rearview mirrors and electronics for the automotive industry, dimmable aircraft windows for the aviation industry, and commercial smoke alarms and signaling devices for the fire protection industry.",
+    "subject": "Gentex Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510241448",
+    "eps": 0.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.47,
+    "whisper": 0.52,
+    "highEstimate": 0.48,
+    "lowEstimate": 0.44,
+    "revenue": 655.236,
+    "revenueEstimate": 667.88,
+    "earningsGrowth": -0.1320754716981132,
+    "revenueGrowth": 0.07675925104268347,
+    "earningsSurprise": -0.11538461538461539,
+    "revenueSurprise": -0.018931544588848295,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1482425304489585
   }
 ]
