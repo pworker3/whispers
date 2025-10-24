@@ -25558,5 +25558,29 @@
     "revenueSurprise": -0.018931544588848295,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1482425304489585
+  },
+  {
+    "epsDate": "2025-10-24T10:00:00",
+    "ticker": "MOH",
+    "name": "Molina Healthcare Inc.",
+    "summary": "Molina Healthcare (MOH) reported earnings of $1.84 per share on revenue of $11.48 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $3.97 per share on  revenue of $10.90 billion. The Earnings Whisper number was $4.20 per share. The company missed expectations by 56.19% while revenue grew 11.00% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of approximately $14.00 per share on revenue of approximately $44.5 billion. The company's previous guidance was earnings of approximately $19.00 per share on revenue of approximately $44.0 billion, and the current consensus earnings estimate is $18.87 per share on revenue of $44.5 billion for the year ending December 31, 2025.<br /><br />Molina Healthcare Inc provides health care to individuals receiving government assistance. It offers cost-effective Medicaid-related solutions to meet the health care needs of low-income families and individuals.",
+    "subject": "Molina Healthcare Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510240553",
+    "eps": 1.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.97,
+    "whisper": 4.2,
+    "highEstimate": 4.29,
+    "lowEstimate": 3.59,
+    "revenue": 11477,
+    "revenueEstimate": 10900,
+    "earningsGrowth": -0.6938435940099834,
+    "revenueGrowth": 0.10996131528046421,
+    "earningsSurprise": -0.5619047619047619,
+    "revenueSurprise": 0.05293577981651376,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.15657894736842104
   }
 ]
