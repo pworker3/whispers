@@ -25414,5 +25414,29 @@
     "revenueSurprise": 0.03187683284457478,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07622986235417567
+  },
+  {
+    "epsDate": "2025-10-23T20:41:00",
+    "ticker": "ALK",
+    "name": "Alaska Air Group, Inc.",
+    "summary": "Alaska Air Group (ALK) reported earnings of $1.05 per share on revenue of $3.77 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.11 per share on  revenue of $3.75 billion. The Earnings Whisper number was $1.21 per share. The company missed expectations by 13.22% while revenue grew 22.59% on a year-over-year basis.<br /><br />Alaska Air Group Inc through its subsidiaries, provides passenger air, freight and mail services within the state of Alaska and on the West Coast.",
+    "subject": "Alaska Air Group Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510236030",
+    "eps": 1.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.11,
+    "whisper": 1.21,
+    "highEstimate": 4.15,
+    "lowEstimate": 1.05,
+    "revenue": 3766,
+    "revenueEstimate": 3750,
+    "earningsGrowth": -0.5333333333333333,
+    "revenueGrowth": 0.22591145833333334,
+    "earningsSurprise": -0.1322314049586777,
+    "revenueSurprise": 0.004266666666666667,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.27856403175699
   }
 ]
