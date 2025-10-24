@@ -25510,5 +25510,29 @@
     "revenueSurprise": 0.036706827309236946,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08892785571142285
+  },
+  {
+    "epsDate": "2025-10-24T08:00:00",
+    "ticker": "DOW",
+    "name": "Dow Chemical Co.",
+    "summary": "Dow Chemical (DOW) reported a loss of $0.19 per share on revenue of $9.97 billion for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.31 per share on  revenue of $10.19 billion. The Earnings Whisper number was a loss of $0.33 per share. The company beat expectations by 42.42% while revenue fell 8.33% compared to the same quarter a year ago.<br /><br />Dow Chemical Co is\r\nas an integrated science and technology company. The Company operates in five\r\nsegments: Agricultural Sciences, Consumer Solutions, Infrastructure Solutions,\r\nPerformance Materials & Chemicals and Performance Plastics.",
+    "subject": "Dow Chemical Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510241283",
+    "eps": -0.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.31,
+    "whisper": -0.33,
+    "highEstimate": -0.2,
+    "lowEstimate": -0.35,
+    "revenue": 9973,
+    "revenueEstimate": 10190,
+    "earningsGrowth": -1.4042553191489362,
+    "revenueGrowth": -0.08327971320893464,
+    "earningsSurprise": 0.42424242424242425,
+    "revenueSurprise": -0.021295387634936214,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.07430142006413193
   }
 ]
