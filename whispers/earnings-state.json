@@ -26830,5 +26830,29 @@
     "revenueSurprise": 0.06466666666666666,
     "prevEarningsGrowth": 7.44,
     "prevRevenueGrowth": 0.20966595593461265
+  },
+  {
+    "epsDate": "2025-10-27T16:05:00",
+    "ticker": "WELL",
+    "name": "Welltower Inc.",
+    "summary": "Welltower (WELL) reported earnings of $1.34 per share on revenue of $2.69 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.30 per share on  revenue of $2.65 billion. The Earnings Whisper number was $1.32 per share. The company beat expectations by 1.52% while revenue grew 30.65% on a year-over-year basis.<br /><br />The company  said it expects  2025 funds from operations of $5.24 to $5.30 per share. The company's previous guidance was FFO of $5.06 to $5.14 per share, and the current consensus FFO estimate is $5.12 per share for the year ending December 31, 2025.<br /><br />Welltower Inc. is one of the world's preeminent residential wellness and healthcare infrastructure companies. ",
+    "subject": "Welltower Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510277864",
+    "eps": 1.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.3,
+    "whisper": 1.32,
+    "highEstimate": 1.32,
+    "lowEstimate": 1.28,
+    "revenue": 2685.692,
+    "revenueEstimate": 2650,
+    "earningsGrowth": 0.2072072072072072,
+    "revenueGrowth": 0.3064845745630485,
+    "earningsSurprise": 0.015151515151515152,
+    "revenueSurprise": 0.013468679245283019,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.39638683883468756
   }
 ]
