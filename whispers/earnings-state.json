@@ -26806,5 +26806,29 @@
     "revenueSurprise": 0.044240196078431375,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.04690106883944034
+  },
+  {
+    "epsDate": "2025-10-27T16:15:00",
+    "ticker": "CLS",
+    "name": "Celestica, Inc.",
+    "summary": "Celestica (CLS) reported earnings of $1.58 per share on revenue of $3.19 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.47 per share on  revenue of $3.00 billion. The Earnings Whisper number was $1.62 per share. The company missed expectations by 2.47% while revenue grew 27.79% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  non-GAAP earnings of $1.65 to $1.81 per share on revenue of $3.325 billion to $3.575 billion. The current consensus earnings estimate is $1.52 per share on revenue of $3.09 billion for the quarter ending December 31, 2025.<br /><br />Celestica Inc delivers supply chain solutions to customers in the Communications, Consumer,\r\nDiversified (industrial, aerospace & defense, healthcare, solar,\r\nsemiconductor equipment & other), Servers and Storage end markets.",
+    "subject": "Celestica Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510272812",
+    "eps": 1.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.47,
+    "whisper": 1.62,
+    "highEstimate": 1.46,
+    "lowEstimate": 1.43,
+    "revenue": 3194,
+    "revenueEstimate": 3000,
+    "earningsGrowth": 0.6989247311827957,
+    "revenueGrowth": 0.2778555711142228,
+    "earningsSurprise": -0.024691358024691357,
+    "revenueSurprise": 0.06466666666666666,
+    "prevEarningsGrowth": 7.44,
+    "prevRevenueGrowth": 0.20966595593461265
   }
 ]
