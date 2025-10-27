@@ -26398,5 +26398,29 @@
     "revenueSurprise": 0.013529286550537482,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.07733546810482851
+  },
+  {
+    "epsDate": "2025-10-27T08:30:00",
+    "ticker": "BMRC",
+    "name": "Bank of Marin Bancorp",
+    "summary": "Bank of Marin Bancorp (BMRC) reported earnings of $0.47 per share on revenue of $41.81 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.42 per share on  revenue of $31.10 million. The company beat consensus estimates by 11.90% while revenue grew 6.65% on a year-over-year basis.<br /><br />Bank of Marin Bancorp is a bank holding company for Bank of Marin which offers commercial and retail deposit and lending programs, personal and business checking and savings accounts and wealth management and trust services.",
+    "subject": "Bank of Marin Bancorp Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510271760",
+    "eps": 0.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.42,
+    "whisper": 999,
+    "highEstimate": 0.45,
+    "lowEstimate": 0.39,
+    "revenue": 41.814,
+    "revenueEstimate": 31.1,
+    "earningsGrowth": 0.6785714285714286,
+    "revenueGrowth": 0.06649322825005739,
+    "earningsSurprise": 0.11904761904761904,
+    "revenueSurprise": 0.3445016077170418,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06153183006007705
   }
 ]
