@@ -26422,5 +26422,29 @@
     "revenueSurprise": 0.3445016077170418,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06153183006007705
+  },
+  {
+    "epsDate": "2025-10-27T08:30:00",
+    "ticker": "BCBP",
+    "name": "BCB Bancorp Inc.",
+    "summary": "BCB Bancorp (BCBP) reported earnings of $0.22 per share on revenue of $45.79 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.21 per share on  revenue of $25.68 million. The company beat consensus estimates by 4.76% while revenue fell 11.53% compared to the same quarter a year ago.<br /><br />BCB Community Bank is the wholly-owned subsidiary of BCB Bancorp, Inc. The Bank has 29 branch offices in Bayonne, Carteret, Edison, Hoboken, Fairfield, Holmdel, Jersey City, Lyndhurst, Maplewood, Monroe Township, Newark, Parsippany, Plainsboro, River Edge, Rutherford, South Orange, Union, and Woodbridge, New Jersey, and three branches in Hicksville and Staten Island, New York.",
+    "subject": "BCB Bancorp Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510272008",
+    "eps": 0.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.21,
+    "whisper": 999,
+    "highEstimate": 0.21,
+    "lowEstimate": 0.21,
+    "revenue": 45.787,
+    "revenueEstimate": 25.68,
+    "earningsGrowth": -0.3888888888888889,
+    "revenueGrowth": -0.11527834135219214,
+    "earningsSurprise": 0.047619047619047616,
+    "revenueSurprise": 0.7829828660436137,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.02064443530761074
   }
 ]
