@@ -27694,5 +27694,29 @@
     "revenueSurprise": 0.03316230591522055,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-10-28T17:15:00",
+    "ticker": "NGD",
+    "name": "New Gold Inc",
+    "summary": "New Gold (NGD) reported earnings of $0.25 per share on revenue of $462.50 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.18 per share on  revenue of $1.41 billion. The Earnings Whisper number was $0.19 per share. The company beat expectations by 31.58% while revenue grew 83.53% on a year-over-year basis.<br /><br />New Gold Inc is an intermediate gold producer. It is engaged in the acquisition, exploration and development of natural resource properties.",
+    "subject": "New Gold Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510283011",
+    "eps": 0.25,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.18,
+    "whisper": 0.19,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.15,
+    "revenue": 462.5,
+    "revenueEstimate": 1410,
+    "earningsGrowth": 2.125,
+    "revenueGrowth": 0.8353174603174603,
+    "earningsSurprise": 0.3157894736842105,
+    "revenueSurprise": -0.6719858156028369,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.41338221814848763
   }
 ]
