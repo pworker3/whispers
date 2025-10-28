@@ -27382,5 +27382,29 @@
     "revenueSurprise": -0.005601840831548044,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.006122071018110583
+  },
+  {
+    "epsDate": "2025-10-28T08:30:00",
+    "ticker": "ARQT",
+    "name": "Arcutis Biotherapeutics, Inc.",
+    "summary": "Arcutis Biotherapeutics (ARQT) reported earnings of $0.06 per share on revenue of $99.22 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.10 per share on  revenue of $85.57 million. The Earnings Whisper number was a loss of $0.07 per share. The company beat expectations by 185.71% while revenue grew 121.69% on a year-over-year basis.<br /><br />Arcutis Biotherapeutics, Inc.  is an early commercial-stage medical dermatology company that champions meaningful innovation to address the urgent needs of individuals living with immune-mediated dermatological diseases and conditions.",
+    "subject": "Arcutis Biotherapeutics Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510283149",
+    "eps": 0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.1,
+    "whisper": -0.07,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.12,
+    "revenue": 99.219,
+    "revenueEstimate": 85.57,
+    "earningsGrowth": 1.1818181818181819,
+    "revenueGrowth": 1.2169366551223326,
+    "earningsSurprise": 1.8571428571428572,
+    "revenueSurprise": 0.159506836508122,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.6412599650009723
   }
 ]
