@@ -27142,5 +27142,29 @@
     "revenueSurprise": 0.1246917148362235,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.45633491221601385
+  },
+  {
+    "epsDate": "2025-10-28T07:01:00",
+    "ticker": "PYPL",
+    "name": "PayPal",
+    "summary": "PayPal (PYPL) reported earnings of $1.34 per share on revenue of $8.42 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.19 per share on  revenue of $8.20 billion. The Earnings Whisper number was $1.28 per share. The company beat expectations by 4.69% while revenue grew 7.26% on a year-over-year basis.<br /><br /> PayPal is one of the largest online payment solutions providers that enables it to offer smooth and secure transaction facility to both customers and merchants. The company's peer-to-peer payment service, Venmo, is the key catalyst behind the solid growth in its total payment volume. The company offers domestic and international person-to-person payment facilities with the help of PayPal and Xoom products. PayPal allows customers to send payments in more than 200 markets globally. It has connections with financial service providers worldwide. Further, the company supports withdrawal of funds from bank accounts in 56 currencies and holding balances in PayPal accounts in 25 currencies. Additionally, transfer of funds supports more than 100 currencies globally.Additionally, this San Jose, CA-based company is gaining from strategic acquisitions including Hyperwallet, Braintree and iZettle that are helping it in delivering better payment experience.   \n",
+    "subject": "PayPal Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510287905",
+    "eps": 1.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.19,
+    "whisper": 1.28,
+    "highEstimate": 1.23,
+    "lowEstimate": 1.17,
+    "revenue": 8417,
+    "revenueEstimate": 8200,
+    "earningsGrowth": 0.11666666666666667,
+    "revenueGrowth": 0.07263922518159806,
+    "earningsSurprise": 0.046875,
+    "revenueSurprise": 0.02646341463414634,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.051109701965757766
   }
 ]
