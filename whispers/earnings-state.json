@@ -27646,5 +27646,29 @@
     "revenueSurprise": -0.006367738543765881,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.057279418434099304
+  },
+  {
+    "epsDate": "2025-10-28T16:15:00",
+    "ticker": "AUR",
+    "name": "Aurora Innovation Inc",
+    "summary": "Aurora Innovation (AUR) reported a loss of $0.11 per share on revenue of $1.00 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.12 per share on  revenue of $1.28 million. The company beat consensus estimates by 8.33%.<br /><br /> Aurora provides platform which brings together software, hardware and data services to autonomously operate passenger vehicles, light commercial vehicles and heavy-duty trucks. Aurora, formerly known as Reinvent Technology Partners Y, is based in NEW YORK.   \n",
+    "subject": "Aurora Innovation Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510286086",
+    "eps": -0.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.12,
+    "whisper": 999,
+    "highEstimate": -0.12,
+    "lowEstimate": -0.12,
+    "revenue": 1,
+    "revenueEstimate": 1.28,
+    "earningsGrowth": 0.15384615384615385,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.08333333333333333,
+    "revenueSurprise": -0.21875,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
