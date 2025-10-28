@@ -27166,5 +27166,29 @@
     "revenueSurprise": 0.02646341463414634,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.051109701965757766
+  },
+  {
+    "epsDate": "2025-10-28T07:30:00",
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "summary": "NextEra Energy (NEE) reported earnings of $1.13 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.04 per share on  revenue of $8.12 billion. The Earnings Whisper number was $1.07 per share. The company beat expectations by 5.61%.<br /><br />NextEra Energy Inc is an electric power company in North America, with approximately 42,500 MW of generating capacity in 26 states in the U.S. and 4 provinces in Canada.",
+    "subject": "NextEra Energy Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510288303",
+    "eps": 1.13,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.04,
+    "whisper": 1.07,
+    "highEstimate": 1.07,
+    "lowEstimate": 1,
+    "revenue": null,
+    "revenueEstimate": 8120,
+    "earningsGrowth": 0.0970873786407767,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.056074766355140186,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10397100016477179
   }
 ]
