@@ -27670,5 +27670,29 @@
     "revenueSurprise": -0.21875,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-10-28T17:00:00",
+    "ticker": "TER",
+    "name": "Teradyne, Inc.",
+    "summary": "Teradyne (TER) reported earnings of $0.85 per share on revenue of $769.21 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.78 per share on  revenue of $744.52 million. The Earnings Whisper number was $0.82 per share. The company beat expectations by 3.66%.<br /><br />The company  said it expects fourth quarter earnings of $1.20 to $1.46 per share on revenue of $920.0 million to $1.00 billion. The current consensus earnings estimate is $1.02 per share on revenue of $815.84 million for the quarter ending December 31, 2025.<br /><br />Teradyne Inc designs, develops, manufactures and sells automatic test systems and solutions used to test test semiconductors, wireless products, hard disk drives, solid state disks and circuit boards.",
+    "subject": "Teradyne Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510281404",
+    "eps": 0.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.78,
+    "whisper": 0.82,
+    "highEstimate": 0.81,
+    "lowEstimate": 0.75,
+    "revenue": 769.21,
+    "revenueEstimate": 744.52,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.036585365853658534,
+    "revenueSurprise": 0.03316230591522055,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
