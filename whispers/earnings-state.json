@@ -27934,5 +27934,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3488082532906439
+  },
+  {
+    "epsDate": "2025-10-29T06:30:00",
+    "ticker": "CAT",
+    "name": "Caterpillar, Inc.",
+    "summary": "Caterpillar (CAT) reported earnings of $4.95 per share on revenue of $17.64 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $4.52 per share on  revenue of $16.75 billion. The Earnings Whisper number was $4.79 per share. The company beat expectations by 3.34% while revenue grew 9.51% on a year-over-year basis.<br /><br />Caterpillar Inc is a manufacturer of construction and mining\r\nequipment, diesel and natural gas engines, industrial gas turbines and\r\ndiesel-electric locomotives. The Company is also a U.S. exporter.",
+    "subject": "Caterpillar Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510298955",
+    "eps": 4.95,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.52,
+    "whisper": 4.79,
+    "highEstimate": 4.78,
+    "lowEstimate": 4.23,
+    "revenue": 17638,
+    "revenueEstimate": 16750,
+    "earningsGrowth": -0.0425531914893617,
+    "revenueGrowth": 0.0951198311188377,
+    "earningsSurprise": 0.033402922755741124,
+    "revenueSurprise": 0.053014925373134326,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.007190364911019234
   }
 ]
