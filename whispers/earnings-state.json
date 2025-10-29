@@ -28270,5 +28270,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.35609771836074083
+  },
+  {
+    "epsDate": "2025-10-29T17:33:00",
+    "ticker": "MELI",
+    "name": "MercadoLibre Inc",
+    "summary": "MercadoLibre (MELI) reported earnings of $8.32 per share on revenue of $7.41 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $9.43 per share on  revenue of $7.19 billion. The Earnings Whisper number was $10.13 per share. The company missed expectations by 17.87% while revenue grew 39.48% on a year-over-year basis.<br /><br />Mercadolibre Inc together with its subsidiaries hosts the online commerce platform in Latin America, which is focused on enabling e-commerce and its related services.",
+    "subject": "MercadoLibre Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510294041",
+    "eps": 8.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 9.43,
+    "whisper": 10.13,
+    "highEstimate": 10.48,
+    "lowEstimate": 9.26,
+    "revenue": 7409,
+    "revenueEstimate": 7190,
+    "earningsGrowth": 0.06257982120051085,
+    "revenueGrowth": 0.39476656626506024,
+    "earningsSurprise": -0.17867719644619942,
+    "revenueSurprise": 0.030458970792767732,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.33845850581509956
   }
 ]
