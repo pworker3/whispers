@@ -28246,5 +28246,29 @@
     "revenueSurprise": 0.0019817658349328216,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.016412325432255574
+  },
+  {
+    "epsDate": "2025-10-29T17:00:00",
+    "ticker": "AEM",
+    "name": "Agnico-Eagle Mines, Ltd",
+    "summary": "Agnico-Eagle Mines, (AEM) reported earnings of $2.10 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.76 per share on  revenue of $2.73 billion. The Earnings Whisper number was $1.80 per share. The company beat expectations by 16.67%.<br /><br />Agnico Eagle Mines Ltd is a gold mining company. It operates in Canada, Mexico and Finland.",
+    "subject": "Agnico-Eagle Mines, Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510299700",
+    "eps": 2.1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.76,
+    "whisper": 1.8,
+    "highEstimate": 1.96,
+    "lowEstimate": 1.4,
+    "revenue": null,
+    "revenueEstimate": 2730,
+    "earningsGrowth": 0.8421052631578947,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.16666666666666666,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.35609771836074083
   }
 ]
