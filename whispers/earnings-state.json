@@ -28294,5 +28294,29 @@
     "revenueSurprise": 0.030458970792767732,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.33845850581509956
+  },
+  {
+    "epsDate": "2025-10-29T18:16:00",
+    "ticker": "FI",
+    "name": "Fiserv, Inc.",
+    "summary": "Fiserv (FI) reported earnings of $2.04 per share on revenue of $5.26 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $2.64 per share on  revenue of $5.39 billion. The Earnings Whisper number was $2.71 per share. The company missed expectations by 24.72% while revenue grew 0.92% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $8.50 to $8.60 per share on revenue of $21.17 billion to $21.27 billion. The company's previous guidance was earnings of $10.15 to $10.30 per share on revenue of approximately $22.50 billion, and the current consensus earnings estimate is $10.17 per share on revenue of $20.83 billion for the year ending December 31, 2025.<br /><br />Fiserv Inc is a provider of financial services technology. The Company provides information management and electronic commerce systems and services, including transaction processing, electronic bill payment and presentment, among others.",
+    "subject": "Fiserv Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510294982",
+    "eps": 2.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.64,
+    "whisper": 2.71,
+    "highEstimate": 2.72,
+    "lowEstimate": 2.61,
+    "revenue": 5263,
+    "revenueEstimate": 5390,
+    "earningsGrowth": -0.11304347826086956,
+    "revenueGrowth": 0.009204218600191754,
+    "earningsSurprise": -0.24723247232472326,
+    "revenueSurprise": -0.023562152133580705,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08008615625611905
   }
 ]
