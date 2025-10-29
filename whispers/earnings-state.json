@@ -27910,5 +27910,29 @@
     "revenueSurprise": 0.04346913061738765,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.22356662315493522
+  },
+  {
+    "epsDate": "2025-10-29T07:30:00",
+    "ticker": "BA",
+    "name": "Boeing Co.",
+    "summary": "Boeing (BA) reported a loss of $7.47 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $3.68 per share on  revenue of $21.38 billion. The Earnings Whisper number was a loss of $2.05 per share. The company missed expectations by 264.39%.<br /><br />Boeing Co, together with its subsidiaries designs, develops, manufactures, sells and supports commercial jetliners, military aircraft, satellites, missile defense, human space flight and launch systems and services.",
+    "subject": "Boeing Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510299639",
+    "eps": -7.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -3.68,
+    "whisper": -2.05,
+    "highEstimate": -0.11,
+    "lowEstimate": -5.82,
+    "revenue": null,
+    "revenueEstimate": 21380,
+    "earningsGrowth": 0.28448275862068967,
+    "revenueGrowth": null,
+    "earningsSurprise": -2.6439024390243904,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.3488082532906439
   }
 ]
