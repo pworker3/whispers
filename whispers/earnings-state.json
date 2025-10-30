@@ -28438,5 +28438,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.018992055610724926
+  },
+  {
+    "epsDate": "2025-10-30T06:30:00",
+    "ticker": "COMM",
+    "name": "CommScope Holding Company, Inc.",
+    "summary": "CommScope Holding Company (COMM) reported earnings of $0.62 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.35 per share on  revenue of $1.42 billion. The Earnings Whisper number was $0.43 per share. The company beat expectations by 44.19%.<br /><br />CommScope Holding Co Inc is a provider of connectivity and essential infrastructure solutions for wireless, business enterprise and residential broadband networks. The Company' business segments are Wireless, Enterprise and Broadband.",
+    "subject": "CommScope Holding Company Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510302657",
+    "eps": 0.62,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.35,
+    "whisper": 0.43,
+    "highEstimate": 0.45,
+    "lowEstimate": 0.32,
+    "revenue": null,
+    "revenueEstimate": 1420,
+    "earningsGrowth": 8.75,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.4418604651162791,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0008652390222799049
   }
 ]
