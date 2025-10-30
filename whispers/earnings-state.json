@@ -28414,5 +28414,29 @@
     "revenueSurprise": -0.006335498134586155,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3767551725646297
+  },
+  {
+    "epsDate": "2025-10-30T06:30:00",
+    "ticker": "MRK",
+    "name": "Merck & Co., Inc.",
+    "summary": "Merck & Co. (MRK) reported earnings of $2.58 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $2.36 per share on  revenue of $17.06 billion. The Earnings Whisper number was $2.44 per share. The company beat expectations by 5.74%.<br /><br />Merck & Co Inc is a health care company that delivers health solutions through its prescription medicines, vaccines, biologic therapies, animal health, and consumer care products.",
+    "subject": "Merck & Co. Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510307062",
+    "eps": 2.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.36,
+    "whisper": 2.44,
+    "highEstimate": 2.47,
+    "lowEstimate": 2.29,
+    "revenue": null,
+    "revenueEstimate": 17060,
+    "earningsGrowth": 0.643312101910828,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05737704918032787,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.018992055610724926
   }
 ]
