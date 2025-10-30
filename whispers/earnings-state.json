@@ -28534,5 +28534,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.021052277014281865
+  },
+  {
+    "epsDate": "2025-10-30T08:00:00",
+    "ticker": "MA",
+    "name": "Mastercard Inc",
+    "summary": "Mastercard (MA) reported earnings of $4.38 per share on revenue of $8.60 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $4.31 per share on  revenue of $8.49 billion. The Earnings Whisper number was $4.35 per share. The company beat expectations by 0.69% while revenue grew 16.73% on a year-over-year basis.<br /><br />Mastercard powers economies and empowers people in 200+ countries and territories worldwide. ",
+    "subject": "Mastercard Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510303422",
+    "eps": 4.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.31,
+    "whisper": 4.35,
+    "highEstimate": 4.4,
+    "lowEstimate": 4.19,
+    "revenue": 8602,
+    "revenueEstimate": 8490,
+    "earningsGrowth": 0.12596401028277635,
+    "revenueGrowth": 0.1673225675125526,
+    "earningsSurprise": 0.006896551724137931,
+    "revenueSurprise": 0.013191990577149587,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.16836661399224248
   }
 ]
