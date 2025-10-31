@@ -29062,5 +29062,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.12424532541372775
+  },
+  {
+    "epsDate": "2025-10-31T07:49:00",
+    "ticker": "ABBV",
+    "name": "AbbVie Inc.",
+    "summary": "AbbVie (ABBV) reported earnings of $1.86 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.77 per share on  revenue of $15.59 billion. The Earnings Whisper number was $1.88 per share. The company missed expectations by 1.06%.<br /><br />AbbVie Inc is a research-based biopharmaceutical company. Its products are used to treat diseases including rheumatoid arthritis, psoriasis, Crohn' disease, HIV, cystic fibrosis complications.",
+    "subject": "AbbVie Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2510311876",
+    "eps": 1.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.77,
+    "whisper": 1.88,
+    "highEstimate": 1.88,
+    "lowEstimate": 1.75,
+    "revenue": null,
+    "revenueEstimate": 15590,
+    "earningsGrowth": -0.38,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.010638297872340425,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06645000691467294
   }
 ]
