@@ -29878,5 +29878,29 @@
     "revenueSurprise": 0.06885245901639345,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3664845484036196
+  },
+  {
+    "epsDate": "2025-11-03T07:10:00",
+    "ticker": "CIFR",
+    "name": "Cipher Mining Inc",
+    "summary": "Cipher Mining (CIFR) reported a loss of $0.01 per share on revenue of $71.71 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.08 per share on  revenue of $75.48 million. The Earnings Whisper number was a loss of $0.06 per share. The company beat expectations by 83.33% while revenue grew 197.51% on a year-over-year basis.<br /><br />Cipher is an emerging technology company focused on the development and operation of bitcoin mining data centers in the United States.",
+    "subject": "Cipher Mining Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511037188",
+    "eps": -0.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.08,
+    "whisper": -0.06,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.11,
+    "revenue": 71.707,
+    "revenueEstimate": 75.48,
+    "earningsGrowth": 0.9615384615384616,
+    "revenueGrowth": 1.9751472906812713,
+    "earningsSurprise": 0.8333333333333334,
+    "revenueSurprise": -0.04998675145733969,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1835742229950011
   }
 ]
