@@ -29902,5 +29902,29 @@
     "revenueSurprise": -0.04998675145733969,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1835742229950011
+  },
+  {
+    "epsDate": "2025-11-03T06:30:00",
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "summary": "IDEXX Laboratories (IDXX) reported earnings of $3.40 per share on revenue of $1.11 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $3.14 per share on  revenue of $1.07 billion. The Earnings Whisper number was $3.21 per share. The company beat expectations by 5.92% while revenue grew 13.29% on a year-over-year basis.<br /><br />The company  said it expects  2025  earnings of $12.81 to $13.01 per share on revenue of $4.27 billion to $4.30 billion. The company's previous guidance was earnings of $12.40 to $12.76 per share on revenue of $4.21 billion to $4.28 billion, and the current consensus earnings estimate is $12.61 per share on revenue of $4.23 billion for the year ending December 31, 2025.<br /><br />IDEXX Laboratories Inc develops, manufactures and distributes products and provide services for the veterinary, bioresearch, water, livestock, poultry and dairy markets.",
+    "subject": "IDEXX Laboratories Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511031344",
+    "eps": 3.4,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.14,
+    "whisper": 3.21,
+    "highEstimate": 3.18,
+    "lowEstimate": 3.09,
+    "revenue": 1105.239,
+    "revenueEstimate": 1070,
+    "earningsGrowth": 0.21428571428571427,
+    "revenueGrowth": 0.1329474969324776,
+    "earningsSurprise": 0.059190031152647975,
+    "revenueSurprise": 0.03293364485981309,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10550151557726455
   }
 ]
