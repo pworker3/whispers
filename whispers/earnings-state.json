@@ -30238,5 +30238,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.022975929978118162
+  },
+  {
+    "epsDate": "2025-11-03T16:15:00",
+    "ticker": "FN",
+    "name": "Fabrinet",
+    "summary": "Fabrinet (FN) reported earnings of $2.93 per share on revenue of $978.13 million for the  fiscal first quarter ended September 2025.  The consensus earnings estimate was $2.82 per share on  revenue of $936.17 million. The Earnings Whisper number was $2.85 per share. The company beat expectations by 2.81% while revenue grew 21.62% on a year-over-year basis.<br /><br />Fabrinet provides optical packaging and precision optical, electro-mechanical and electronic manufacturing services to original equipment manufacturers of optical communication components, modules and sub-systems, industrial lasers and sensors.",
+    "subject": "Fabrinet Beat Expectations",
+    "quarter": " fiscal first quarter ended September 2025",
+    "fileName": "2511037301",
+    "eps": 2.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.82,
+    "whisper": 2.85,
+    "highEstimate": 2.84,
+    "lowEstimate": 2.83,
+    "revenue": 978.128,
+    "revenueEstimate": 936.17,
+    "earningsGrowth": 0.3627906976744186,
+    "revenueGrowth": 0.2162322127555867,
+    "earningsSurprise": 0.028070175438596492,
+    "revenueSurprise": 0.04481878291335975,
+    "prevEarningsGrowth": 10.341463414634147,
+    "prevRevenueGrowth": 0.20767171007127674
   }
 ]
