@@ -29686,5 +29686,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.056265984654731455
+  },
+  {
+    "epsDate": "2025-11-03T06:30:00",
+    "ticker": "LQDA",
+    "name": "Liquidia Technologies, Inc.",
+    "summary": "Liquidia Technologies (LQDA) reported a loss of $0.04 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.45 per share on  revenue of $15.60 million. The company beat consensus estimates by 91.11%.<br /><br /> Liquidia Technologies, Inc. is a late-stage clinical biopharmaceutical company. It focused on the development and commercialization of human therapeutics using our proprietary PRINT technology to transform the lives of patients.  The company's product candidate consists of LIQ861 for the treatment of pulmonary arterial hypertension and LIQ865 for the treatment of local post-operative pain which are in clinical stage. Liquidia Technologies, Inc. is based in NC, United States.   \n",
+    "subject": "Liquidia Technologies Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511036950",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.45,
+    "whisper": 999,
+    "highEstimate": -0.37,
+    "lowEstimate": -0.51,
+    "revenue": null,
+    "revenueEstimate": 15.6,
+    "earningsGrowth": 0.8918918918918919,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.9111111111111111,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.9734185733512786
   }
 ]
