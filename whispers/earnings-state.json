@@ -29662,5 +29662,29 @@
     "revenueSurprise": -0.05256107171000788,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.15723503671289774
+  },
+  {
+    "epsDate": "2025-11-03T06:00:00",
+    "ticker": "CNA",
+    "name": "CNA Financial Corp.",
+    "summary": "CNA Financial (CNA) reported earnings of $1.50 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.25 per share on  revenue of $3.43 billion. The company beat consensus estimates by 20.00%.<br /><br />CNA Financial Corp is an insurance holding company. The Company offers commercial, property and casualty coverage, risk management, information services, warranty and claims administration.",
+    "subject": "CNA Financial Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511033014",
+    "eps": 1.5,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.25,
+    "whisper": 999,
+    "highEstimate": 1.32,
+    "lowEstimate": 1.17,
+    "revenue": null,
+    "revenueEstimate": 3430,
+    "earningsGrowth": 0.3888888888888889,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.2,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.056265984654731455
   }
 ]
