@@ -30214,5 +30214,29 @@
     "revenueSurprise": 0.14736842105263157,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4812726540475232
+  },
+  {
+    "epsDate": "2025-11-03T16:30:00",
+    "ticker": "GT",
+    "name": "Goodyear Tire & Rubber Company",
+    "summary": "Goodyear Tire & Rubber (GT) reported earnings of $0.28 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.15 per share on  revenue of $4.63 billion. The Earnings Whisper number was $0.14 per share. The company beat expectations by 100.00%.<br /><br />Goodyear Tire &\r\nRubber Co is engaged in manufacturing of tires. The Company develops,\r\nmanufactures, markets and distributes tires for various applications. It also\r\nmanufactures and markets rubber-related chemicals for various applications.",
+    "subject": "Goodyear Tire & Rubber Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511034101",
+    "eps": 0.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.15,
+    "whisper": 0.14,
+    "highEstimate": 0.25,
+    "lowEstimate": 0.09,
+    "revenue": null,
+    "revenueEstimate": 4630,
+    "earningsGrowth": -0.24324324324324326,
+    "revenueGrowth": null,
+    "earningsSurprise": 1,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.022975929978118162
   }
 ]
