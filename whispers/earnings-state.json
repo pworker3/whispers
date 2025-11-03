@@ -29974,5 +29974,29 @@
     "revenueSurprise": 0.011995766200164648,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.004121393780442113
+  },
+  {
+    "epsDate": "2025-11-03T09:22:00",
+    "ticker": "ON",
+    "name": "onsemi",
+    "summary": "onsemi (ON) reported earnings of $0.63 per share on revenue of $1.55 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.59 per share on  revenue of $1.52 billion. The Earnings Whisper number was $0.62 per share. The company beat expectations by 1.61% while revenue fell 11.98% compared to the same quarter a year ago.<br /><br />The company  said it expects  fourth quarter   earnings of $0.57 to $0.67 per share on revenue of $1.48 billion to $1.58 billion. The current consensus earnings estimate is $0.62 per share on revenue of $1.53 billion for the quarter ending December 31, 2025.<br /><br />ON Semiconductor is driving energy efficient electronics innovations that help make the world greener, safer, inclusive and connected. ",
+    "subject": "onsemi Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511037298",
+    "eps": 0.63,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.59,
+    "whisper": 0.62,
+    "highEstimate": 0.67,
+    "lowEstimate": 0.58,
+    "revenue": 1550.9,
+    "revenueEstimate": 1520,
+    "earningsGrowth": -0.36363636363636365,
+    "revenueGrowth": -0.11975708042454168,
+    "earningsSurprise": 0.016129032258064516,
+    "revenueSurprise": 0.020328947368421054,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1535846011987091
   }
 ]
