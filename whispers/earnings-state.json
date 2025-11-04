@@ -30934,5 +30934,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 1.5833333333333333,
     "prevRevenueGrowth": 0.6441947565543071
+  },
+  {
+    "epsDate": "2025-11-04T07:10:00",
+    "ticker": "MARA",
+    "name": "Marathon Digital Holdings, Inc.",
+    "summary": "Marathon Digital (MARA) reported earnings of $0.27 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.26 per share on  revenue of $245.03 million. The Earnings Whisper number was a loss of $0.16 per share. The company beat expectations by 268.75%.<br /><br />Marathon is a digital asset technology company that focuses on supporting and securing the Bitcoin ecosystem. ",
+    "subject": "Marathon Digital Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511048207",
+    "eps": 0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.26,
+    "whisper": -0.16,
+    "highEstimate": -0.26,
+    "lowEstimate": -0.26,
+    "revenue": null,
+    "revenueEstimate": 245.03,
+    "earningsGrowth": 1.7105263157894737,
+    "revenueGrowth": null,
+    "earningsSurprise": 2.6875,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.643148981321354
   }
 ]
