@@ -30742,5 +30742,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01967995229102475
+  },
+  {
+    "epsDate": "2025-11-04T06:00:00",
+    "ticker": "SPOT",
+    "name": "Spotify Technology S.A.",
+    "summary": "Spotify Technology S.A. (SPOT) reported earnings of $3.77 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.87 per share on  revenue of $4.89 billion. The company beat consensus estimates by 101.60%.<br /><br />Spotify is the world’s most popular audio streaming subscription service with a community of more than 345 million Monthly Active Users and 155 million Premium Subscribers. ",
+    "subject": "Spotify Technology S.A. Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511043761",
+    "eps": 3.77,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.87,
+    "whisper": 999,
+    "highEstimate": 2.33,
+    "lowEstimate": 0.72,
+    "revenue": null,
+    "revenueEstimate": 4890,
+    "earningsGrowth": 1.371069182389937,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.0160427807486632,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.16096345121749153
   }
 ]
