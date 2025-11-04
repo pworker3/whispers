@@ -30958,5 +30958,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.643148981321354
+  },
+  {
+    "epsDate": "2025-11-04T07:20:00",
+    "ticker": "VITL",
+    "name": "Vital Farms",
+    "summary": "Vital Farms (VITL) reported earnings of $0.36 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.30 per share on  revenue of $191.08 million. The Earnings Whisper number was $0.34 per share. The company beat expectations by 5.88%.<br /><br />Vital Farms, a Certified B Corporation, offers a range of ethically produced pasture-raised foods nationwide. ",
+    "subject": "Vital Farms Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511045043",
+    "eps": 0.36,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.3,
+    "whisper": 0.34,
+    "highEstimate": 0.32,
+    "lowEstimate": 0.26,
+    "revenue": null,
+    "revenueEstimate": 191.08,
+    "earningsGrowth": 1.25,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.058823529411764705,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.25360952044942603
   }
 ]
