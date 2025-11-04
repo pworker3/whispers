@@ -30982,5 +30982,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.25360952044942603
+  },
+  {
+    "epsDate": "2025-11-04T07:30:00",
+    "ticker": "WING",
+    "name": "Wingstop Inc.",
+    "summary": "Wingstop (WING) reported earnings of $1.09 per share on revenue of $175.74 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.91 per share on  revenue of $183.74 million. The Earnings Whisper number was $0.97 per share. The company beat expectations by 12.37% while revenue grew 8.15% on a year-over-year basis.<br /><br />Wingstop Inc. operates and franchises more than 1,850 locations worldwide. ",
+    "subject": "Wingstop Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511044091",
+    "eps": 1.09,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.91,
+    "whisper": 0.97,
+    "highEstimate": 1.08,
+    "lowEstimate": 0.85,
+    "revenue": 175.736,
+    "revenueEstimate": 183.74,
+    "earningsGrowth": 0.23863636363636365,
+    "revenueGrowth": 0.08146561803837586,
+    "earningsSurprise": 0.12371134020618557,
+    "revenueSurprise": -0.043561554370305865,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11965394768110264
   }
 ]
