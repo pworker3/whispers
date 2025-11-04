@@ -30766,5 +30766,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.16096345121749153
+  },
+  {
+    "epsDate": "2025-11-04T06:22:00",
+    "ticker": "RACE",
+    "name": "Ferrari N.V.",
+    "summary": "Ferrari N.V. (RACE) reported earnings of $2.46 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $2.35 per share on  revenue of $1.98 billion. The Earnings Whisper number was $2.48 per share. The company missed expectations by 0.81%.<br /><br /> Ferrari N.V. is engaged in designing, manufacturing and selling sports cars. Its products include sports car models consists of 458 Italia, 488 GTB, 458 Spider, 488 Spider, F12 Berlinetta, 458 Speciale and 458 Speciale A as well as two grand tourer (GT) cars: California T and FF. The Company also produces a limited edition supercar, LaFerrari and limited series and one-off cars. It operates primarily in Europe, the Middle East, India, Africa, Americas, Greater China and Rest of Asia-Pacific region. Ferrari N.V. is headquartered in Maranello, Italy.   \n",
+    "subject": "Ferrari N.V. Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511046866",
+    "eps": 2.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.35,
+    "whisper": 2.48,
+    "highEstimate": 2.35,
+    "lowEstimate": 2.35,
+    "revenue": null,
+    "revenueEstimate": 1980,
+    "earningsGrowth": 0.07423580786026202,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.008064516129032258,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10026513799005217
   }
 ]
