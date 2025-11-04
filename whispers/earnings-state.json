@@ -30910,5 +30910,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.18233644859813083
+  },
+  {
+    "epsDate": "2025-11-04T07:00:00",
+    "ticker": "DAVE",
+    "name": "Dave, Inc.",
+    "summary": "Dave (DAVE) reported earnings of $4.24 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $2.34 per share on  revenue of $131.17 million. The Earnings Whisper number was $2.40 per share. The company beat expectations by 76.67%.<br /><br />Dave is a banking app on a mission to build products that level the financial playing field. ",
+    "subject": "Dave Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511047893",
+    "eps": 4.24,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.34,
+    "whisper": 2.4,
+    "highEstimate": 2.32,
+    "lowEstimate": 2.25,
+    "revenue": null,
+    "revenueEstimate": 131.17,
+    "earningsGrowth": 6.709090909090909,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.7666666666666667,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 1.5833333333333333,
+    "prevRevenueGrowth": 0.6441947565543071
   }
 ]
