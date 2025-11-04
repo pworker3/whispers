@@ -30886,5 +30886,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.17276728666761323
+  },
+  {
+    "epsDate": "2025-11-04T06:55:00",
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "summary": "Uber Technologies (UBER) reported earnings of $3.11 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.67 per share on  revenue of $13.26 billion. The Earnings Whisper number was $0.71 per share. The company beat expectations by 338.03%.<br /><br />Uber's mission is to create opportunity through movement.",
+    "subject": "Uber Technologies Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511045012",
+    "eps": 3.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.67,
+    "whisper": 0.71,
+    "highEstimate": 0.75,
+    "lowEstimate": 0.56,
+    "revenue": null,
+    "revenueEstimate": 13260,
+    "earningsGrowth": 1.5916666666666666,
+    "revenueGrowth": null,
+    "earningsSurprise": 3.380281690140845,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.18233644859813083
   }
 ]
