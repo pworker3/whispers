@@ -31390,5 +31390,29 @@
     "revenueSurprise": 0.044699200673117376,
     "prevEarningsGrowth": -1.2857142857142858,
     "prevRevenueGrowth": 0.34065008701510135
+  },
+  {
+    "epsDate": "2025-11-04T16:10:00",
+    "ticker": "OUST",
+    "name": "Ouster, Inc.",
+    "summary": "Ouster (OUST) reported a loss of $0.37 per share on revenue of $39.53 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.43 per share on  revenue of $36.75 million. The company beat consensus estimates by 13.95% while revenue grew 40.78% on a year-over-year basis.<br /><br />Ouster is a leading global provider of high-resolution scanning and solid-state digital lidar sensors, Velodyne Lidar sensors, and software solutions for the automotive, industrial, robotics, and smart infrastructure industries.",
+    "subject": "Ouster Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511049278",
+    "eps": -0.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.43,
+    "whisper": 999,
+    "highEstimate": -0.43,
+    "lowEstimate": -0.43,
+    "revenue": 39.525,
+    "revenueEstimate": 36.75,
+    "earningsGrowth": 0.3148148148148148,
+    "revenueGrowth": 0.40783615316117544,
+    "earningsSurprise": 0.13953488372093023,
+    "revenueSurprise": 0.07551020408163266,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.29859207113745834
   }
 ]
