@@ -31342,5 +31342,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -1.6666666666666667,
     "prevRevenueGrowth": 1.0159131865548852
+  },
+  {
+    "epsDate": "2025-11-04T17:00:00",
+    "ticker": "KGC",
+    "name": "Kinross Gold Corp.",
+    "summary": "Kinross Gold (KGC) reported earnings of $0.44 per share on revenue of $1.80 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.39 per share on  revenue of $1.53 billion. The Earnings Whisper number was $0.36 per share. The company beat expectations by 22.22% while revenue grew 25.84% on a year-over-year basis.<br /><br />Kinross is a Canadian-based global senior gold mining company with operations and projects in the United States, Brazil, Mauritania, Chile and Canada.",
+    "subject": "Kinross Gold Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511048761",
+    "eps": 0.44,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.39,
+    "whisper": 0.36,
+    "highEstimate": 0.39,
+    "lowEstimate": 0.23,
+    "revenue": 1802.1,
+    "revenueEstimate": 1530,
+    "earningsGrowth": 0.8333333333333334,
+    "revenueGrowth": 0.25844972067039107,
+    "earningsSurprise": 0.2222222222222222,
+    "revenueSurprise": 0.17784313725490197,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.4173841738417384
   }
 ]
