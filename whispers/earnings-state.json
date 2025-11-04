@@ -30262,5 +30262,29 @@
     "revenueSurprise": 0.04481878291335975,
     "prevEarningsGrowth": 10.341463414634147,
     "prevRevenueGrowth": 0.20767171007127674
+  },
+  {
+    "epsDate": "2025-11-03T19:06:00",
+    "ticker": "UUUU",
+    "name": "Energy Fuels Inc.",
+    "summary": "Energy Fuels (UUUU) reported a loss of $0.07 per share on revenue of $17.71 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.08 per share on  revenue of $9.85 million. The Earnings Whisper number was a loss of $0.06 per share. The company missed expectations by 16.67% while revenue grew 337.61% on a year-over-year basis.<br /><br />Energy Fuels Inc is engaged in uranium mining and related activities, including acquisition, exploration and development of uranium and vanadium bearing properties, and extraction, processing and selling of uranium and vanadium.",
+    "subject": "Energy Fuels Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511034583",
+    "eps": -0.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.08,
+    "whisper": -0.06,
+    "highEstimate": -0.06,
+    "lowEstimate": -0.09,
+    "revenue": 17.71,
+    "revenueEstimate": 9.85,
+    "earningsGrowth": 0,
+    "revenueGrowth": 3.3760810476896466,
+    "earningsSurprise": -0.16666666666666666,
+    "revenueSurprise": 0.7979695431472081,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.5169170776465191
   }
 ]
