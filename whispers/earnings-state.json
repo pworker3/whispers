@@ -31318,5 +31318,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 2,
     "prevRevenueGrowth": 0.17127624125291568
+  },
+  {
+    "epsDate": "2025-11-04T16:05:00",
+    "ticker": "UPST",
+    "name": "Upstart Holdings, Inc.",
+    "summary": "Upstart (UPST) reported earnings of $0.23 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.42 per share on  revenue of $281.02 million. The Earnings Whisper number was $0.47 per share. The company missed expectations by 51.06%.<br /><br />Upstart is a leading AI lending platform partnering with banks to expand access to affordable credit.",
+    "subject": "Upstart Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511041583",
+    "eps": 0.23,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.42,
+    "whisper": 0.47,
+    "highEstimate": 0.46,
+    "lowEstimate": 0.38,
+    "revenue": null,
+    "revenueEstimate": 281.02,
+    "earningsGrowth": 1.511111111111111,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.5106382978723404,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -1.6666666666666667,
+    "prevRevenueGrowth": 1.0159131865548852
   }
 ]
