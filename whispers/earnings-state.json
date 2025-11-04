@@ -30718,5 +30718,29 @@
     "revenueSurprise": 0.480025,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.7118788053993879
+  },
+  {
+    "epsDate": "2025-11-04T06:00:00",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker",
+    "summary": "Stanley Black & Decker (SWK) reported earnings of $1.43 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $1.19 per share on  revenue of $3.77 billion. The Earnings Whisper number was $1.27 per share. The company beat expectations by 12.60%.<br /><br />Stanley Black & Decker is a worldwide leader in tools and outdoor operating manufacturing facilities worldwide.",
+    "subject": "Stanley Black & Decker Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511044466",
+    "eps": 1.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.19,
+    "whisper": 1.27,
+    "highEstimate": 1.34,
+    "lowEstimate": 1.09,
+    "revenue": null,
+    "revenueEstimate": 3770,
+    "earningsGrowth": 0.1721311475409836,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.12598425196850394,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.01967995229102475
   }
 ]
