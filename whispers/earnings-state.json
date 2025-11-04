@@ -31366,5 +31366,29 @@
     "revenueSurprise": 0.17784313725490197,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4173841738417384
+  },
+  {
+    "epsDate": "2025-11-04T16:05:00",
+    "ticker": "CLOV",
+    "name": "Clover Health",
+    "summary": "Clover Health (CLOV) reported breakeven results on revenue of $496.65 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $475.40 million. The Earnings Whisper number was $0.04 per share. The company missed expectations by 100.00% while revenue grew 50.05% on a year-over-year basis.<br /><br />Clover Health is a physician enablement company committed to bringing access to great healthcare to everyone on Medicare.",
+    "subject": "Clover Health Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511048627",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 0.04,
+    "highEstimate": 0.02,
+    "lowEstimate": 0.02,
+    "revenue": 496.65,
+    "revenueEstimate": 475.4,
+    "earningsGrowth": 1,
+    "revenueGrowth": 0.5005166381659647,
+    "earningsSurprise": -1,
+    "revenueSurprise": 0.044699200673117376,
+    "prevEarningsGrowth": -1.2857142857142858,
+    "prevRevenueGrowth": 0.34065008701510135
   }
 ]
