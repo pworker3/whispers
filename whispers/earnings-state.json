@@ -31966,5 +31966,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.35639433339802057
+  },
+  {
+    "epsDate": "2025-11-05T16:05:00",
+    "ticker": "BROS",
+    "name": "Dutch Bros Inc. ",
+    "summary": "Dutch Bros Inc. (BROS) reported earnings of $0.15 per share on revenue of $423.58 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.15 per share on  revenue of $411.13 million. The Earnings Whisper number was $0.19 per share. The company missed expectations by 21.05% while revenue grew 25.24% on a year-over-year basis.<br /><br />The company  said it expects  2025 revenue of $1.61 billion to $1.615 billion. The company's previous guidance was revenue of $1.59 billion to $1.60 billion, and the current consensus revenue estimate is $1.60 billion for the year ending December 31, 2025.<br /><br />Dutch Bros is a high growth operator and franchisor of drive-thru shops that focus on serving high QUALITY, hand-crafted beverages with unparalleled SPEED and superior SERVICE.",
+    "subject": "Dutch Bros Inc. Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511053122",
+    "eps": 0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.15,
+    "whisper": 0.19,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.15,
+    "revenue": 423.584,
+    "revenueEstimate": 411.13,
+    "earningsGrowth": 0.07142857142857142,
+    "revenueGrowth": 0.25242155807599964,
+    "earningsSurprise": -0.21052631578947367,
+    "revenueSurprise": 0.030292121713326684,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2797475055244708
   }
 ]
