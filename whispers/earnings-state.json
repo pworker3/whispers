@@ -31942,5 +31942,29 @@
     "revenueSurprise": 0.06074766355140187,
     "prevEarningsGrowth": 0.16666666666666666,
     "prevRevenueGrowth": 0.12140575079872204
+  },
+  {
+    "epsDate": "2025-11-05T16:21:00",
+    "ticker": "AMC",
+    "name": "AMC Entertainment Holdings, Inc",
+    "summary": "AMC Entertainment (AMC) reported a loss of $0.21 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.18 per share on  revenue of $1.24 billion. The Earnings Whisper number was a loss of $0.15 per share. The company missed expectations by 40.00%.<br /><br />AMC Entertainment Holdings Inc is engaged in theatrical exhibition. It is principally involved in the theatrical exhibition business and owns, operates or has interests in theatres located in the United States.",
+    "subject": "AMC Entertainment Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511059630",
+    "eps": -0.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.18,
+    "whisper": -0.15,
+    "highEstimate": -0.12,
+    "lowEstimate": -0.22,
+    "revenue": null,
+    "revenueEstimate": 1240,
+    "earningsGrowth": -4.25,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.4,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.35639433339802057
   }
 ]
