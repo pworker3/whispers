@@ -31510,5 +31510,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05439137134052388
+  },
+  {
+    "epsDate": "2025-11-05T07:05:00",
+    "ticker": "DOCN",
+    "name": "DigitalOcean",
+    "summary": "DigitalOcean (DOCN) reported earnings of $0.38 per share on revenue of $229.63 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.67 per share on  revenue of $226.53 million. The Earnings Whisper number was $0.55 per share. The company missed expectations by 30.91% while revenue grew 15.69% on a year-over-year basis.<br /><br />DigitalOcean simplifies cloud computing so developers and businesses can spend more time building software that changes the world. ",
+    "subject": "DigitalOcean Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511051388",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.67,
+    "whisper": 0.55,
+    "highEstimate": 0.55,
+    "lowEstimate": 0.48,
+    "revenue": 229.634,
+    "revenueEstimate": 226.53,
+    "earningsGrowth": 0.15151515151515152,
+    "revenueGrowth": 0.15693960218455896,
+    "earningsSurprise": -0.3090909090909091,
+    "revenueSurprise": 0.013702379375800116,
+    "prevEarningsGrowth": 0.8461538461538461,
+    "prevRevenueGrowth": 0.13624555788773665
   }
 ]
