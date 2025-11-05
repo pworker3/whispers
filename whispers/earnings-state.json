@@ -31486,5 +31486,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4501849830803973
+  },
+  {
+    "epsDate": "2025-11-05T07:00:00",
+    "ticker": "MCD",
+    "name": "McDonalds Corp.",
+    "summary": "McDonalds (MCD) reported earnings of $3.22 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $3.35 per share on  revenue of $7.07 billion. The Earnings Whisper number was $3.29 per share. The company missed expectations by 2.13%.<br /><br />McDonald' Corp franchises and operates McDonald' restaurants in the food service industry. Its geographic segments include the United States, Europe, and Asia-Pacific, Middle East and Africa.",
+    "subject": "McDonalds Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511055520",
+    "eps": 3.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.35,
+    "whisper": 3.29,
+    "highEstimate": 3.49,
+    "lowEstimate": 3.27,
+    "revenue": null,
+    "revenueEstimate": 7070,
+    "earningsGrowth": -0.0030959752321981426,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02127659574468085,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05439137134052388
   }
 ]
