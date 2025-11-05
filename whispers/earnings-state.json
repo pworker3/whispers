@@ -31438,5 +31438,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0964116452268111
+  },
+  {
+    "epsDate": "2025-11-05T02:30:00",
+    "ticker": "NVO",
+    "name": "Novo Nordisk A\\/S",
+    "summary": "Novo Nordisk A\\/S (NVO) reported earnings of $0.69 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.77 per share on  revenue of $11.88 billion. The Earnings Whisper number was $0.80 per share. The company missed expectations by 13.75%.<br /><br />Novo-Nordisk A/S is a healthcare company that is engaged in the discovery, development, manufacturing and marketing of pharmaceutical products. The Company has two business segments: diabetes care and biopharmaceuticals.",
+    "subject": "Novo Nordisk A\\/S Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "4000000261",
+    "eps": 0.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.77,
+    "whisper": 0.8,
+    "highEstimate": 0.94,
+    "lowEstimate": 0.65,
+    "revenue": null,
+    "revenueEstimate": 11880,
+    "earningsGrowth": -0.23333333333333334,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.1375,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.19003694357820985
   }
 ]
