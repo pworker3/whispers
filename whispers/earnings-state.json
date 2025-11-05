@@ -31534,5 +31534,29 @@
     "revenueSurprise": 0.013702379375800116,
     "prevEarningsGrowth": 0.8461538461538461,
     "prevRevenueGrowth": 0.13624555788773665
+  },
+  {
+    "epsDate": "2025-11-05T07:00:00",
+    "ticker": "U",
+    "name": "Unity",
+    "summary": "Unity (U) reported earnings of $0.20 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $447.59 million. The Earnings Whisper number was $0.20 per share. The company reported in-line with expectations.<br /><br />The company  said it expects  fourth quarter  revenue of $480.0 million to $490.0 million. The current consensus revenue estimate is $476.6 million for the quarter ending December 31, 2025.<br /><br />Unity is the world’s leading platform for creating and operating interactive, real-time 3D (RT3D) content. ",
+    "subject": "Unity Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511057294",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 0.2,
+    "highEstimate": 0.19,
+    "lowEstimate": 0.13,
+    "revenue": null,
+    "revenueEstimate": 447.59,
+    "earningsGrowth": 1.6451612903225807,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.018508254703856794
   }
 ]
