@@ -31414,5 +31414,29 @@
     "revenueSurprise": 0.07551020408163266,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.29859207113745834
+  },
+  {
+    "epsDate": "2025-11-05T06:00:00",
+    "ticker": "HUM",
+    "name": "Humana, Inc.",
+    "summary": "Humana (HUM) reported earnings of $3.24 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $2.91 per share on  revenue of $31.98 billion. The Earnings Whisper number was $3.24 per share. The company reported in-line with expectations.<br /><br />Humana Inc is a health care company that offers a insurance products and\r\nhealth and wellness services. Its segments include Retail, Employer Group, and\r\nHealthcare Services.",
+    "subject": "Humana Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511057506",
+    "eps": 3.24,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.91,
+    "whisper": 3.24,
+    "highEstimate": 3.35,
+    "lowEstimate": 2.51,
+    "revenue": null,
+    "revenueEstimate": 31980,
+    "earningsGrowth": -0.22115384615384615,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0964116452268111
   }
 ]
