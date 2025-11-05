@@ -31918,5 +31918,29 @@
     "revenueSurprise": -0.06164297601833411,
     "prevEarningsGrowth": 3.4054054054054053,
     "prevRevenueGrowth": 0.09018204680146821
+  },
+  {
+    "epsDate": "2025-11-05T16:04:00",
+    "ticker": "ARM",
+    "name": "Arm Holdings plc ",
+    "summary": "Arm Holdings plc (ARM) reported earnings of $0.34 per share on revenue of $1.14 billion for the  fiscal second quarter ended September 2025.  The consensus earnings estimate was $0.34 per share on  revenue of $1.07 billion. The Earnings Whisper number was $0.37 per share. The company missed expectations by 8.11% while revenue grew 34.48% on a year-over-year basis.<br /><br />Arm technology is building the future of computing.",
+    "subject": "Arm Holdings plc Missed Expectations",
+    "quarter": " fiscal second quarter ended September 2025",
+    "fileName": "2511051849",
+    "eps": 0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.34,
+    "whisper": 0.37,
+    "highEstimate": 0.35,
+    "lowEstimate": 0.32,
+    "revenue": 1135,
+    "revenueEstimate": 1070,
+    "earningsGrowth": 1.4285714285714286,
+    "revenueGrowth": 0.3447867298578199,
+    "earningsSurprise": -0.08108108108108109,
+    "revenueSurprise": 0.06074766355140187,
+    "prevEarningsGrowth": 0.16666666666666666,
+    "prevRevenueGrowth": 0.12140575079872204
   }
 ]
