@@ -32206,5 +32206,29 @@
     "revenueSurprise": 0.04222436659331349,
     "prevEarningsGrowth": -0.7246376811594203,
     "prevRevenueGrowth": 0.28124423698896134
+  },
+  {
+    "epsDate": "2025-11-06T16:01:00",
+    "ticker": "TTD",
+    "name": "Trade Desk, Inc.",
+    "summary": "Trade Desk (TTD) reported earnings of $0.45 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.43 per share on  revenue of $718.16 million. The Earnings Whisper number was $0.46 per share. The company missed expectations by 2.17%.<br /><br />The company  said it expects  fourth quarter  revenue of at least $840.0 million. The current consensus revenue estimate is $831.27 million for the quarter ending December 31, 2025.<br /><br />The Trade Desk is a technology company that empowers buyers of advertising. ",
+    "subject": "Trade Desk Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511069651",
+    "eps": 0.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.43,
+    "whisper": 0.46,
+    "highEstimate": 0.49,
+    "lowEstimate": 0.41,
+    "revenue": null,
+    "revenueEstimate": 718.16,
+    "earningsGrowth": 1.368421052631579,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.021739130434782608,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -0.027777777777777776,
+    "prevRevenueGrowth": 0.18730476434864426
   }
 ]
