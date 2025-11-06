@@ -32110,5 +32110,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2904483808481887
+  },
+  {
+    "epsDate": "2025-11-06T06:00:00",
+    "ticker": "CELH",
+    "name": "Celsius Holdings, Inc.",
+    "summary": "Celsius (CELH) reported a loss of $0.27 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.28 per share on  revenue of $720.68 million. The Earnings Whisper number was $0.31 per share. The company missed expectations by 187.10%.<br /><br />Celsius Holdings, Inc.  is a global consumer packaged goods company with a proprietary, clinically proven formula for its master brand CELSIUS®. ",
+    "subject": "Celsius Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511068022",
+    "eps": -0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.28,
+    "whisper": 0.31,
+    "highEstimate": 0.38,
+    "lowEstimate": 0.19,
+    "revenue": null,
+    "revenueEstimate": 720.68,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -1.8709677419354838,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
