@@ -32134,5 +32134,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-06T07:00:00",
+    "ticker": "QBTS",
+    "name": "D-Wave Quantum Inc.",
+    "summary": "D-Wave Quantum (QBTS) reported a loss of $0.05 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.07 per share on  revenue of $3.12 million. The Earnings Whisper number was a loss of $0.08 per share. The company beat expectations by 37.50%.<br /><br />D-Wave is a leader in the development and delivery of quantum computing systems, software, and services, and is the world’s first commercial supplier of quantum computers—and the only company building both annealing quantum computers and gate-model quantum computers. ",
+    "subject": "D-Wave Quantum Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511066544",
+    "eps": -0.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.07,
+    "whisper": -0.08,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.09,
+    "revenue": null,
+    "revenueEstimate": 3.12,
+    "earningsGrowth": 0.5454545454545454,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.375,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.41777370590929913
   }
 ]
