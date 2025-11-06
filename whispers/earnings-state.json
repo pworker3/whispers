@@ -32086,5 +32086,29 @@
     "revenueSurprise": 0.026883116883116884,
     "prevEarningsGrowth": 2.4,
     "prevRevenueGrowth": 0.16357273280584297
+  },
+  {
+    "epsDate": "2025-11-06T06:00:00",
+    "ticker": "OSCR",
+    "name": "Oscar Health, Inc.",
+    "summary": "Oscar Health (OSCR) reported a loss of $0.53 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.55 per share on  revenue of $3.09 billion. The Earnings Whisper number was a loss of $0.51 per share. The company missed expectations by 3.92%.<br /><br />Oscar Health, Inc. (“Oscar”) is the first health insurance company built around a full stack technology platform and a relentless focus on serving its members. ",
+    "subject": "Oscar Health Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511062052",
+    "eps": -0.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.55,
+    "whisper": -0.51,
+    "highEstimate": -0.5,
+    "lowEstimate": -0.62,
+    "revenue": null,
+    "revenueEstimate": 3090,
+    "earningsGrowth": -1.4090909090909092,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.0392156862745098,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2904483808481887
   }
 ]
