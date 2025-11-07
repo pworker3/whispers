@@ -32566,5 +32566,29 @@
     "revenueSurprise": 0.03375410792714764,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2934026652574272
+  },
+  {
+    "epsDate": "2025-11-07T06:50:00",
+    "ticker": "CEG",
+    "name": "Constellation Energy Group, Inc.",
+    "summary": "Constellation Energy Group (CEG) reported earnings of $3.04 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $3.04 per share on  revenue of $6.29 billion. The Earnings Whisper number was $3.04 per share. The company reported in-line with expectations.<br /><br /> Baltimore Gas and Electric Company consists primarily of generating, purchasing, and selling electricity and purchasing, transporting, and selling natural gas.   \n",
+    "subject": "Constellation Energy Group Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511075383",
+    "eps": 3.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.04,
+    "whisper": 3.04,
+    "highEstimate": 3.31,
+    "lowEstimate": 2.64,
+    "revenue": null,
+    "revenueEstimate": 6290,
+    "earningsGrowth": 0.10948905109489052,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.114337899543379
   }
 ]
