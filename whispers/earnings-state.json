@@ -32662,5 +32662,29 @@
     "revenueSurprise": 0.1515284677111196,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3253983014072283
+  },
+  {
+    "epsDate": "2025-11-07T16:05:00",
+    "ticker": "VSAT",
+    "name": "ViaSat, Inc.",
+    "summary": "ViaSat (VSAT) reported a loss of $0.02 per share on revenue of $1.14 billion for the  fiscal second quarter ended September 2025.  The consensus earnings estimate was $0.03 per share on  revenue of $1.15 billion. The Earnings Whisper number was $0.01 per share. The company missed expectations by 300.00% while revenue grew 1.66% on a year-over-year basis.<br /><br />Viasat Inc is engaged in the provision of high-speed fixed and mobile broadband services. The Company also offers advanced satellite and other wireless networks and secure networking systems, products and services.",
+    "subject": "ViaSat Missed Expectations",
+    "quarter": " fiscal second quarter ended September 2025",
+    "fileName": "2511071573",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.03,
+    "whisper": 0.01,
+    "highEstimate": -0.09,
+    "lowEstimate": -0.12,
+    "revenue": 1140.893,
+    "revenueEstimate": 1150,
+    "earningsGrowth": 0.9813084112149533,
+    "revenueGrowth": 0.016601292746257112,
+    "earningsSurprise": -3,
+    "revenueSurprise": -0.00791913043478261,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.039587735028318805
   }
 ]
