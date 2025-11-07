@@ -32638,5 +32638,29 @@
     "revenueSurprise": -0.3273342354533153,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10533159947984395
+  },
+  {
+    "epsDate": "2025-11-07T07:00:00",
+    "ticker": "CGC",
+    "name": "Canopy Growth Corporation",
+    "summary": "Canopy Growth (CGC) reported a loss of $0.01 per share on revenue of $60.27 million for the  fiscal second quarter ended September 2025.  The consensus estimate was a loss of $0.11 per share on  revenue of $52.34 million. The Earnings Whisper number was a loss of $0.09 per share. The company beat expectations by 88.89% while revenue grew 11.17% on a year-over-year basis.<br /><br />Canopy Growth is a world-leading diversified cannabis and cannabinoid-based consumer product company, driven by a passion to improve lives, end prohibition, and strengthen communities by unleashing the full potential of cannabis.",
+    "subject": "Canopy Growth Beat Expectations",
+    "quarter": " fiscal second quarter ended September 2025",
+    "fileName": "2511074141",
+    "eps": -0.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.11,
+    "whisper": -0.09,
+    "highEstimate": -0.08,
+    "lowEstimate": -0.15,
+    "revenue": 60.271,
+    "revenueEstimate": 52.34,
+    "earningsGrowth": 0.9894736842105263,
+    "revenueGrowth": 0.11168289803747972,
+    "earningsSurprise": 0.8888888888888888,
+    "revenueSurprise": 0.1515284677111196,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.3253983014072283
   }
 ]
