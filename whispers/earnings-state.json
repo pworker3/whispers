@@ -33574,5 +33574,29 @@
     "revenueSurprise": 0.04153924136183155,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.09159247086943531
+  },
+  {
+    "epsDate": "2025-11-10T17:38:00",
+    "ticker": "BYND",
+    "name": "Beyond Meat, Inc.",
+    "summary": "Beyond Meat (BYND) reported a loss of $0.47 per share on revenue of $70.22 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.41 per share on  revenue of $68.89 million. The Earnings Whisper number was a loss of $0.48 per share. The company beat expectations by 2.08% while revenue fell 13.32% compared to the same quarter a year ago.<br /><br />Beyond Meat, Inc. is a leading plant-based meat company offering a portfolio of revolutionary plant-based meats made from simple ingredients without GMOs, no added hormones or antibiotics, and 0 mg of cholesterol per serving. ",
+    "subject": "Beyond Meat Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511102933",
+    "eps": -0.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.41,
+    "whisper": -0.48,
+    "highEstimate": -0.41,
+    "lowEstimate": -0.41,
+    "revenue": 70.218,
+    "revenueEstimate": 68.89,
+    "earningsGrowth": -0.14634146341463414,
+    "revenueGrowth": -0.13317532034664098,
+    "earningsSurprise": 0.020833333333333332,
+    "revenueSurprise": 0.01927710843373494,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.19560015023877234
   }
 ]
