@@ -33550,5 +33550,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -5.333333333333333,
     "prevRevenueGrowth": 0.35996837676821863
+  },
+  {
+    "epsDate": "2025-11-10T17:00:00",
+    "ticker": "MVST",
+    "name": "Microvast Holdings, Inc. ",
+    "summary": "Microvast Holdings, Inc. (MVST) reported earnings of $0.04 per share on revenue of $123.29 million for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $118.37 million. Revenue grew 21.60% on a year-over-year basis.<br /><br />The company  said it continues to expect  2025 revenue of $450.0 million to $475.0 million. The current consensus revenue estimate is $462.33 million for the year ending December 31, 2025.<br /><br />Microvast is a technology innovator that designs, develops and manufactures lithium-ion battery solutions. ",
+    "subject": "Microvast Holdings, Inc. Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511102660",
+    "eps": 0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 123.287,
+    "revenueEstimate": 118.37,
+    "earningsGrowth": 1,
+    "revenueGrowth": 0.21599203061506292,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.04153924136183155,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09159247086943531
   }
 ]
