@@ -33526,5 +33526,29 @@
     "revenueSurprise": -0.0004464285714285714,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.06149149585695595
+  },
+  {
+    "epsDate": "2025-11-10T16:15:00",
+    "ticker": "RKLB",
+    "name": "Rocket Lab USA, Inc.",
+    "summary": "Rocket Lab USA (RKLB) reported a loss of $0.03 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.09 per share on  revenue of $149.82 million. The Earnings Whisper number was a loss of $0.11 per share. The company beat expectations by 72.73%.<br /><br />The company  said it expects  fourth quarter  revenue of $170.0 million to $180.0 million. The current consensus revenue estimate is $174.55 million for the quarter ending December 31, 2025.<br /><br />Rocket Lab is an end-to-end space company with an established track record of mission success. ",
+    "subject": "Rocket Lab USA Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511102766",
+    "eps": -0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.09,
+    "whisper": -0.11,
+    "highEstimate": -0.04,
+    "lowEstimate": -0.06,
+    "revenue": null,
+    "revenueEstimate": 149.82,
+    "earningsGrowth": 0.7,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.7272727272727273,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -5.333333333333333,
+    "prevRevenueGrowth": 0.35996837676821863
   }
 ]
