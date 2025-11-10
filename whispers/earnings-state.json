@@ -33214,5 +33214,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 8.630276899893259
+  },
+  {
+    "epsDate": "2025-11-10T06:30:00",
+    "ticker": "VG",
+    "name": "Venture Global, Inc.",
+    "summary": "Venture Global (VG) reported earnings of $0.16 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.22 per share on  revenue of $3.23 billion. The Earnings Whisper number was $0.25 per share. The company missed expectations by 36.00%.<br /><br />Vonage Holdings Corp is a provider of communications services through Voice over Internet Protocol devices.",
+    "subject": "Venture Global Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511104946",
+    "eps": 0.16,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.22,
+    "whisper": 0.25,
+    "highEstimate": 0.23,
+    "lowEstimate": 0.22,
+    "revenue": null,
+    "revenueEstimate": 3230,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.36,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
