@@ -34126,5 +34126,29 @@
     "revenueSurprise": 0.1328337399790868,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 30.434
+  },
+  {
+    "epsDate": "2025-11-11T03:12:00",
+    "ticker": "FLR",
+    "name": "Fluor Corp.",
+    "summary": "Fluor (FLR) reported earnings of $0.68 per share on revenue of $3.37 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.44 per share on  revenue of $4.12 billion. The company beat consensus estimates by 54.55% while revenue fell 17.73% compared to the same quarter a year ago.<br /><br />The company  said it expects  2025  earnings of $2.10 to $2.25 per share. The company's previous guidance was  earnings of $1.95 to $2.15 per share, and the current consensus earnings estimate is $2.03 per share for the year ending December 31, 2025.<br /><br />Fluor Corp through its subsidiaries engages in professional services providing engineering, procurement, construction and maintenance as well as project management services.",
+    "subject": "Fluor Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511111075",
+    "eps": 0.68,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.44,
+    "whisper": 999,
+    "highEstimate": 0.48,
+    "lowEstimate": 0.41,
+    "revenue": 3368,
+    "revenueEstimate": 4120,
+    "earningsGrowth": 0.3333333333333333,
+    "revenueGrowth": -0.17733268197361993,
+    "earningsSurprise": 0.5454545454545454,
+    "revenueSurprise": -0.1825242718446602,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.058907026259758695
   }
 ]
