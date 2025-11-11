@@ -34270,5 +34270,29 @@
     "revenueSurprise": -0.022947419787727217,
     "prevEarningsGrowth": -0.5135135135135135,
     "prevRevenueGrowth": -0.02401131670885973
+  },
+  {
+    "epsDate": "2025-11-11T16:00:00",
+    "ticker": "OKLO",
+    "name": "Oklo Inc.",
+    "summary": "Oklo (OKLO) reported a loss of $0.20 per share on revenue of $0.00 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.13 per share on  revenue of $1.50 million. The Earnings Whisper number was a loss of $0.12 per share. The company missed expectations by 66.67%.<br /><br />Oklo Inc. is developing fast fission power plants to provide clean, reliable, and affordable energy at scale. ",
+    "subject": "Oklo Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511110981",
+    "eps": -0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.13,
+    "whisper": -0.12,
+    "highEstimate": -0.09,
+    "lowEstimate": -0.17,
+    "revenue": 0,
+    "revenueEstimate": 1.5,
+    "earningsGrowth": -1.5,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.6666666666666666,
+    "revenueSurprise": -1,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
