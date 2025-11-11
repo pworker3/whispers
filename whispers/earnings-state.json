@@ -34294,5 +34294,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-11T16:05:00",
+    "ticker": "LPTH",
+    "name": "LightPath Technologies Inc.",
+    "summary": "LightPath Technologies (LPTH) reported a loss of $0.05 per share on revenue of $15.06 million for the  fiscal first quarter ended September 2025.  The consensus estimate was a loss of $0.06 per share on  revenue of $11.88 million. The Earnings Whisper number was a loss of $0.07 per share. The company beat expectations by 28.57% while revenue grew 79.26% on a year-over-year basis.<br /><br />LightPath Technologies Inc manufactures optical components & assemblies including precision molded glass aspheric optics, proprietary fiber-optic collimators, GRADIUM glass lenses & other optical materials used to produce products that manipulate light.",
+    "subject": "LightPath Technologies Beat Expectations",
+    "quarter": " fiscal first quarter ended September 2025",
+    "fileName": "2511111762",
+    "eps": -0.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.06,
+    "whisper": -0.07,
+    "highEstimate": -0.06,
+    "lowEstimate": -0.06,
+    "revenue": 15.058,
+    "revenueEstimate": 11.88,
+    "earningsGrowth": -0.25,
+    "revenueGrowth": 0.7926190476190477,
+    "earningsSurprise": 0.2857142857142857,
+    "revenueSurprise": 0.26750841750841753,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.414176511466296
   }
 ]
