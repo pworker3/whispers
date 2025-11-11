@@ -34150,5 +34150,29 @@
     "revenueSurprise": -0.1825242718446602,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.058907026259758695
+  },
+  {
+    "epsDate": "2025-11-10T16:05:00",
+    "ticker": "RNA",
+    "name": "Prosensa Holding B.V.",
+    "summary": "Prosensa Holding B.V. (RNA) reported a loss of $1.27 per share on revenue of $12.48 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $1.05 per share on  revenue of $2.50 million. The company missed consensus estimates by 20.95% while revenue grew 434.03% on a year-over-year basis.<br /><br /> Avidity Biosciences Inc. is a biopharmaceutical company pioneering a new class of oligonucleotide-based therapies called Antibody Oligonucleotide Conjugates(TM). The company's AOC platform design, engineer and develop therapeutics which combine the tissue selectivity of monoclonal antibodies and the precision of oligonucleotide therapies. Its lead product candidate consist  AOC 1001, is designed to treat myotonic dystrophy type 1,and other muscle programs are focused on the treatment of muscle atrophy, Duchenne muscular dystrophy, facioscapulohumeral muscular dystrophy and Pompe disease. Avidity Biosciences Inc. is based in SAN DIEGO.   \n",
+    "subject": "Prosensa Holding B.V. Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511109195",
+    "eps": -1.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -1.05,
+    "whisper": 999,
+    "highEstimate": -0.61,
+    "lowEstimate": -1.27,
+    "revenue": 12.475,
+    "revenueEstimate": 2.5,
+    "earningsGrowth": -0.9538461538461539,
+    "revenueGrowth": 4.3403253424657535,
+    "earningsSurprise": -0.20952380952380953,
+    "revenueSurprise": 3.99,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.8811735941320293
   }
 ]
