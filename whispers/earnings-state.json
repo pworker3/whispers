@@ -34438,5 +34438,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-11T18:15:00",
+    "ticker": "ORLA",
+    "name": "Orla Mining Ltd.",
+    "summary": "Orla Mining (ORLA) reported earnings of $0.21 per share on revenue of $274.97 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.20 per share on  revenue of $986.00 million. The Earnings Whisper number was $0.22 per share. The company missed expectations by 4.55% while revenue grew 176.89% on a year-over-year basis.<br /><br />Orla is operating the Camino Rojo Oxide Gold Mine, a gold and silver open-pit and heap leach mine, located in Zacatecas State, Central Mexico. ",
+    "subject": "Orla Mining Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511119425",
+    "eps": 0.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.2,
+    "whisper": 0.22,
+    "highEstimate": 0.28,
+    "lowEstimate": 0.15,
+    "revenue": 274.973,
+    "revenueEstimate": 986,
+    "earningsGrowth": 2.5,
+    "revenueGrowth": 1.7689186059391584,
+    "earningsSurprise": -0.045454545454545456,
+    "revenueSurprise": -0.7211227180527383,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 2.1186827480193924
   }
 ]
