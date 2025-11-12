@@ -34774,5 +34774,29 @@
     "revenueSurprise": -0.015165483543837005,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1830103453300306
+  },
+  {
+    "epsDate": "2025-11-12T17:02:00",
+    "ticker": "MFC",
+    "name": "Manulife Financial Corp.",
+    "summary": "Manulife Financial (MFC) reported earnings of $0.84 per share on revenue of $12.90 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.74 per share on  revenue of $28.52 billion. The Earnings Whisper number was $0.74 per share. The company beat expectations by 13.51% while revenue grew 20.64% on a year-over-year basis.<br /><br />Manulife Financial Corp, together with its subsidiaries, provides\r\nfinancial protection and wealth management products & services to personal & business clients, & asset management services to institutional\r\ncustomers in Asia, Canada, and the United States.",
+    "subject": "Manulife Financial Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511122818",
+    "eps": 0.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.74,
+    "whisper": 0.74,
+    "highEstimate": 0.76,
+    "lowEstimate": 0.72,
+    "revenue": 12899.77,
+    "revenueEstimate": 28520,
+    "earningsGrowth": 0.1506849315068493,
+    "revenueGrowth": 0.20643161094224924,
+    "earningsSurprise": 0.13513513513513514,
+    "revenueSurprise": -0.5476938990182328,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.20087299354988297
   }
 ]
