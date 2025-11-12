@@ -34750,5 +34750,29 @@
     "revenueSurprise": 0.16,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2067876874506709
+  },
+  {
+    "epsDate": "2025-11-12T17:01:00",
+    "ticker": "PAAS",
+    "name": "Pan American Silver Corp.",
+    "summary": "Pan American Silver (PAAS) reported earnings of $0.48 per share on revenue of $854.60 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.49 per share on  revenue of $867.76 million. The Earnings Whisper number was $0.55 per share. The company missed expectations by 12.73% while revenue grew 19.34% on a year-over-year basis.<br /><br />Pan American Silver Corp operates, develops and explores for silver producing properties and assets. It also produces and sells gold, zinc, lead and copper.",
+    "subject": "Pan American Silver Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511123821",
+    "eps": 0.48,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.49,
+    "whisper": 0.55,
+    "highEstimate": 0.62,
+    "lowEstimate": 0.39,
+    "revenue": 854.6,
+    "revenueEstimate": 867.76,
+    "earningsGrowth": 0.5,
+    "revenueGrowth": 0.19340874179583856,
+    "earningsSurprise": -0.12727272727272726,
+    "revenueSurprise": -0.015165483543837005,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1830103453300306
   }
 ]
