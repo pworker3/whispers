@@ -34726,5 +34726,29 @@
     "revenueSurprise": -0.004347826086956522,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3717948717948718
+  },
+  {
+    "epsDate": "2025-11-12T17:10:00",
+    "ticker": "DPRO",
+    "name": "Draganfly Inc",
+    "summary": "Draganfly (DPRO) reported a loss of $0.18 per share on revenue of $1.57 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.19 per share on  revenue of $1.35 million. The company beat consensus estimates by 5.26% while revenue grew 13.31% on a year-over-year basis.<br /><br /> Draganfly Inc. is a drone manufacturer and systems developer. The company offers drone solutions, software, and AI systems serving the public safety, agriculture, industrial inspections, security, mapping and surveying markets. Draganfly Inc. is based in Los Angeles, CA.   \n",
+    "subject": "Draganfly Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511124617",
+    "eps": -0.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.19,
+    "whisper": 999,
+    "highEstimate": -0.19,
+    "lowEstimate": -0.19,
+    "revenue": 1.566,
+    "revenueEstimate": 1.35,
+    "earningsGrowth": 0.7804878048780488,
+    "revenueGrowth": 0.13314037626628075,
+    "earningsSurprise": 0.05263157894736842,
+    "revenueSurprise": 0.16,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2067876874506709
   }
 ]
