@@ -34462,5 +34462,29 @@
     "revenueSurprise": -0.7211227180527383,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 2.1186827480193924
+  },
+  {
+    "epsDate": "2025-11-11T08:36:00",
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "summary": "Nebius Group (NBIS) reported a loss of $0.39 per share on revenue of $146.10 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.52 per share on  revenue of $150.63 million. The Earnings Whisper number was a loss of $0.45 per share. The company beat expectations by 13.33%.<br /><br />The company  said during its <a href=\"https://nebius-q3-2025-earnings-call.open-exchange.net/replay\">conference call</a> it expects  2025 revenue of $500.0 million to $550.0 million. The company's previous guidance was revenue of $450.0 million to $630.0 million, and the current consensus revenue estimate is $570.83 million for the year ending December 31, 2025.",
+    "subject": "Nebius Group Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511119716",
+    "eps": -0.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.52,
+    "whisper": -0.45,
+    "highEstimate": -0.45,
+    "lowEstimate": -0.55,
+    "revenue": 146.1,
+    "revenueEstimate": 150.63,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.13333333333333333,
+    "revenueSurprise": -0.03007369049990042,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
