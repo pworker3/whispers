@@ -35638,5 +35638,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -2,
     "prevRevenueGrowth": 0.00032599010438927567
+  },
+  {
+    "epsDate": "2025-11-13T08:00:00",
+    "ticker": "BTM",
+    "name": "Bitcoin Depot Inc.",
+    "summary": "Bitcoin Depot (BTM) reported earnings of $0.08 per share on revenue of $162.48 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $152.66 million. The company beat consensus estimates by 100.00% while revenue grew 20.12% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  revenue of $112.0 million to $115.0 million. The current consensus revenue estimate is $143.6 million for the quarter ending December 31, 2025.<br /><br />Bitcoin Depot Inc. was founded in 2016 with the mission to connect those who prefer to use cash to the broader, digital financial system. ",
+    "subject": "Bitcoin Depot Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511134668",
+    "eps": 0.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 999,
+    "highEstimate": 0.14,
+    "lowEstimate": -0.07,
+    "revenue": 162.482,
+    "revenueEstimate": 152.66,
+    "earningsGrowth": 2.6,
+    "revenueGrowth": 0.20115915458597924,
+    "earningsSurprise": 1,
+    "revenueSurprise": 0.06433905410716625,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05544994051488354
   }
 ]
