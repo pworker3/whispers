@@ -35758,5 +35758,29 @@
     "revenueSurprise": 0.006968876860622463,
     "prevEarningsGrowth": 3.606060606060606,
     "prevRevenueGrowth": 0.07557542882275327
+  },
+  {
+    "epsDate": "2025-11-13T06:55:00",
+    "ticker": "LAC",
+    "name": "Lithium Americas Corp.",
+    "summary": "Lithium Americas (LAC) reported a loss of $0.02 per share on revenue of $0.00 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.05 per share. The company beat consensus estimates by 60.00%.<br /><br /> Lithium Americas Corp. owns Lithium Nevada and RheoMinerals Inc., a supplier of rheology modifiers for oilbased drilling fluids, coatings and specialty chemicals. Lithium Americas Corp. is based in Vancouver, Canada.   \n",
+    "subject": "Lithium Americas Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511132608",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.05,
+    "whisper": 999,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.1,
+    "revenue": 0,
+    "revenueEstimate": null,
+    "earningsGrowth": -1,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.6,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
