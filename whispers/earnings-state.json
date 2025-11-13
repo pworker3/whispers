@@ -35734,5 +35734,29 @@
     "revenueSurprise": 0.3581696615127455,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11491595325876398
+  },
+  {
+    "epsDate": "2025-11-13T09:05:00",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "summary": "Cisco Systems (CSCO) reported earnings of $1.00 per share on revenue of $14.88 billion for the  fiscal first quarter ended October 2025.  The consensus earnings estimate was $0.98 per share on  revenue of $14.78 billion. The Earnings Whisper number was $1.00 per share. The company reported in-line with expectations while revenue grew 7.53% on a year-over-year basis.<br /><br />The company  said it expects  second quarter  non-GAAP earnings of $1.01 to $1.03 per share on revenue of $15.0 billion to $15.20 billion. The current consensus earnings estimate is $0.99 per share on revenue of $14.65 billion for the quarter ending January 31, 2026. The company said it expects fiscal  2026 non-GAAP earnings of $4.08 to $4.14 per share on revenue of $60.20 billion to $61.00 billion. The company's previous guidance was earnings of $4.00 to $4.06 per share on revenue of $59.0 billion to $60.0 billion, and the current consensus earnings estimate is $4.05 per share on revenue of $59.59 billion for the year ending July 31, 2026.<br /><br />Cisco Systems Inc is engaged in designing, manufacturing and selling of Internet Protocol (IP) based networking products and services related to the communications and information technology (IT) industry.",
+    "subject": "Cisco Systems Reported In-line with Expectations",
+    "quarter": " fiscal first quarter ended October 2025",
+    "fileName": "2511135171",
+    "eps": 1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.98,
+    "whisper": 1,
+    "highEstimate": 1,
+    "lowEstimate": 0.97,
+    "revenue": 14883,
+    "revenueEstimate": 14780,
+    "earningsGrowth": 0.3333333333333333,
+    "revenueGrowth": 0.07528357777617224,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.006968876860622463,
+    "prevEarningsGrowth": 3.606060606060606,
+    "prevRevenueGrowth": 0.07557542882275327
   }
 ]
