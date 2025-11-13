@@ -35926,5 +35926,29 @@
     "revenueSurprise": 0.17678807602573818,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.08446620848036368
+  },
+  {
+    "epsDate": "2025-11-13T16:30:00",
+    "ticker": "POET",
+    "name": "POET Technologies Inc.",
+    "summary": "POET Technologies (POET) reported a loss of $0.11 per share on revenue of $0.30 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.09 per share on  revenue of $0.40 million. The company missed consensus estimates by 22.22% while revenue grew 7,350.00% on a year-over-year basis.",
+    "subject": "POET Technologies Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511135617",
+    "eps": -0.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.09,
+    "whisper": 999,
+    "highEstimate": -0.09,
+    "lowEstimate": -0.09,
+    "revenue": 0.298,
+    "revenueEstimate": 0.4,
+    "earningsGrowth": 0.45,
+    "revenueGrowth": 73.5,
+    "earningsSurprise": -0.2222222222222222,
+    "revenueSurprise": -0.255,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
