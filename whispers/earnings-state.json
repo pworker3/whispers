@@ -35950,5 +35950,29 @@
     "revenueSurprise": -0.255,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-13T17:00:00",
+    "ticker": "NU",
+    "name": "Nu Holdings Ltd.",
+    "summary": "Nu Holdings (NU) reported earnings of $0.16 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.15 per share on  revenue of $4.04 billion. The Earnings Whisper number was $0.16 per share. The company reported in-line with expectations.<br /><br />Nu is one of the world’s largest digital banking platforms, serving more than 48 million customers across Brazil, Mexico and Colombia. ",
+    "subject": "Nu Holdings Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511139947",
+    "eps": 0.16,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.15,
+    "whisper": 0.16,
+    "highEstimate": 0.16,
+    "lowEstimate": 0.14,
+    "revenue": null,
+    "revenueEstimate": 4040,
+    "earningsGrowth": 0.3333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2877739284464338
   }
 ]
