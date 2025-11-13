@@ -35614,5 +35614,29 @@
     "revenueSurprise": -0.08743499063865197,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3682970677577336
+  },
+  {
+    "epsDate": "2025-11-13T07:30:00",
+    "ticker": "SSYS",
+    "name": "Stratasys Ltd.",
+    "summary": "Stratasys (SSYS) reported earnings of $0.02 per share on  for the  third quarter ended September 2025.  The consensus estimate was for breakeven results on  revenue of $136.42 million. The Earnings Whisper number was $0.02 per share. The company reported in-line with expectations.<br /><br />The company  said it continues to expect  2025 non-GAAP earnings of $0.13 to $0.16 per share on revenue of $550.0 million to $650.0 million. The current consensus earnings estimate is $0.14 per share on revenue of $552.87 million for the year ending December 31, 2025.<br /><br />Stratasys Ltd provides additive manufacturing solutions for the creation of parts used in the processes of designing and manufacturing products and for the direct manufacture of end parts. It offers 3D printers and 3D production systems.",
+    "subject": "Stratasys Reported In-line with Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511136870",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0,
+    "whisper": 0.02,
+    "highEstimate": 0.02,
+    "lowEstimate": -0.01,
+    "revenue": null,
+    "revenueEstimate": 136.42,
+    "earningsGrowth": 1.25,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -2,
+    "prevRevenueGrowth": 0.00032599010438927567
   }
 ]
