@@ -36550,5 +36550,29 @@
     "revenueSurprise": -0.12258064516129032,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.1122931850367863
+  },
+  {
+    "epsDate": "2025-11-14T16:01:00",
+    "ticker": "FEMY",
+    "name": "Femasys Inc.",
+    "summary": "Femasys (FEMY) reported a loss of $0.10 per share on revenue of $0.73 million for the  third quarter ended September 2025. . Revenue grew 31.35% on a year-over-year basis.<br /><br />Femasys Inc. is a biomedical company aiming to meet women's needs worldwide by developing a suite of products and product candidates that include minimally invasive, in-office technologies for reproductive health.",
+    "subject": "Femasys Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511146107",
+    "eps": -0.1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 0.729,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.5833333333333334,
+    "revenueGrowth": 0.31351351351351353,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.8423423423423423
   }
 ]
