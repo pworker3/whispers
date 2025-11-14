@@ -36046,5 +36046,29 @@
     "revenueSurprise": 0.016832700010270103,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.17913434154964156
+  },
+  {
+    "epsDate": "2025-11-13T16:05:00",
+    "ticker": "RCAT",
+    "name": "Red Cat Holdings Inc",
+    "summary": "Red Cat Holdings (RCAT) reported a loss of $0.16 per share on revenue of $9.65 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.07 per share on  revenue of $25.00 million. The Earnings Whisper number was a loss of $0.09 per share. The company missed expectations by 77.78%.<br /><br />The company  said it expects  fourth quarter  revenue of $20.0 million to $23.0 million. The current consensus revenue estimate is $45.0 million for the quarter ending December 31, 2025.<br /><br />Red Cat provides products, services and solutions to the drone industry through its four wholly owned subsidiaries. ",
+    "subject": "Red Cat Holdings Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511135517",
+    "eps": -0.16,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.07,
+    "whisper": -0.09,
+    "highEstimate": -0.07,
+    "lowEstimate": -0.07,
+    "revenue": 9.646,
+    "revenueEstimate": 25,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.7777777777777778,
+    "revenueSurprise": -0.61416,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
