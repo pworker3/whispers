@@ -36022,5 +36022,29 @@
     "revenueSurprise": -0.5166666666666667,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.9386526157320286
+  },
+  {
+    "epsDate": "2025-11-14T07:15:00",
+    "ticker": "TWST",
+    "name": "Twist Bioscience Corporation",
+    "summary": "Twist Bioscience (TWST) reported a loss of $0.45 per share on revenue of $99.01 million for the  fiscal fourth quarter ended September 2025.  The consensus estimate was a loss of $0.40 per share on  revenue of $97.37 million. The company missed consensus estimates by 12.50% while revenue grew 16.88% on a year-over-year basis.<br /><br />Twist Bioscience is a leading and rapidly growing synthetic biology and genomics company that has developed a disruptive DNA synthesis platform to industrialize the engineering of biology. ",
+    "subject": "Twist Bioscience Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511142851",
+    "eps": -0.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.4,
+    "whisper": 999,
+    "highEstimate": -0.34,
+    "lowEstimate": -0.46,
+    "revenue": 99.009,
+    "revenueEstimate": 97.37,
+    "earningsGrowth": 0.23728813559322035,
+    "revenueGrowth": 0.1687994333608783,
+    "earningsSurprise": -0.125,
+    "revenueSurprise": 0.016832700010270103,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.17913434154964156
   }
 ]
