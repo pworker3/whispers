@@ -36502,5 +36502,29 @@
     "revenueSurprise": 0.03142547587469412,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.13271525101620651
+  },
+  {
+    "epsDate": "2025-11-14T08:30:00",
+    "ticker": "STRR",
+    "name": "Star Equity Holdings, Inc.",
+    "summary": "Star Equity (STRR) reported earnings of $0.02 per share on revenue of $47.96 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.32 per share on  revenue of $45.68 million. The company missed consensus estimates by 93.75% while revenue grew 251.01% on a year-over-year basis.<br /><br /> Star Equity Holdings Inc. is a diversified holding company. Its operating divisions include Healthcare, Building & Construction and Real Estate & Investments. Star Equity Holdings Inc., formerly known as Digirad Corporation, is based in SUWANEE, Ga.   \n",
+    "subject": "Star Equity Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511145571",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.32,
+    "whisper": 999,
+    "highEstimate": 0.32,
+    "lowEstimate": 0.32,
+    "revenue": 47.959,
+    "revenueEstimate": 45.68,
+    "earningsGrowth": 1.0689655172413792,
+    "revenueGrowth": 2.5101368659884358,
+    "earningsSurprise": -0.9375,
+    "revenueSurprise": 0.04989054290718038,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.7583623822591411
   }
 ]
