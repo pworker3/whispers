@@ -36694,5 +36694,29 @@
     "revenueSurprise": -0.42096774193548386,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-14T16:31:00",
+    "ticker": "BEEM",
+    "name": "Beam Global",
+    "summary": "Beam Global (BEEM) reported a loss of $0.28 per share on revenue of $5.79 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.25 per share on  revenue of $9.03 million. The company missed consensus estimates by 12.00% while revenue fell 49.59% compared to the same quarter a year ago.<br /><br />Beam Global is a CleanTech leader that produces innovative, sustainable technology for electric vehicle (EV) charging, outdoor media, and energy security, without the construction, disruption, risks and costs of grid-tied solutions. ",
+    "subject": "Beam Global Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511146371",
+    "eps": -0.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.25,
+    "whisper": 999,
+    "highEstimate": -0.24,
+    "lowEstimate": -0.26,
+    "revenue": 5.788,
+    "revenueEstimate": 9.03,
+    "earningsGrowth": -4.111111111111111,
+    "revenueGrowth": -0.4959066364744818,
+    "earningsSurprise": -0.12,
+    "revenueSurprise": -0.35902547065337764,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.5223467458817175
   }
 ]
