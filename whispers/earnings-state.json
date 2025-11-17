@@ -37078,5 +37078,29 @@
     "revenueSurprise": -0.03414125200642055,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2280999565749477
+  },
+  {
+    "epsDate": "2025-11-17T16:38:00",
+    "ticker": "JHX",
+    "name": "James Hardie Industries N.V.",
+    "summary": "James Hardie Industries N.V. (JHX) reported earnings of $0.26 per share on revenue of $1.29 billion for the  fiscal second quarter ended September 2025.  The consensus earnings estimate was $0.25 per share on  revenue of $1.29 billion. The Earnings Whisper number was $0.27 per share. The company missed expectations by 3.70% while revenue grew 34.49% on a year-over-year basis.<br /><br />James Hardie Industries PLC manufactures & sells fibre cement products. It offers products in the building & construction markets, including new residential construction, manufactured housing, repair & remodelling & commercial building applications.",
+    "subject": "James Hardie Industries N.V. Missed Expectations",
+    "quarter": " fiscal second quarter ended September 2025",
+    "fileName": "2511177447",
+    "eps": 0.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.25,
+    "whisper": 0.27,
+    "highEstimate": 0.27,
+    "lowEstimate": 0.23,
+    "revenue": 1292.2,
+    "revenueEstimate": 1290,
+    "earningsGrowth": -0.2777777777777778,
+    "revenueGrowth": 0.34492089925062447,
+    "earningsSurprise": -0.037037037037037035,
+    "revenueSurprise": 0.0017054263565891472,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.09275128541183587
   }
 ]
