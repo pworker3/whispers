@@ -36934,5 +36934,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-17T08:00:00",
+    "ticker": "JJSF",
+    "name": "J & J Snack Foods Corp.",
+    "summary": "J & J Snack Foods (JJSF) reported earnings of $1.58 per share on revenue of $410.24 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $1.06 per share on  revenue of $407.00 million. The company beat consensus estimates by 49.06% while revenue fell 3.87% compared to the same quarter a year ago.<br /><br />J&J Snack Foods Corp manufactures nutritional snack foods and distributes frozen beverages which are marketed nationally to the food service and retail supermarket industries. It' brand names include SUPERPRETZEL, BAVARIAN BAKERY, LUIGI’S & WHOLE FRUIT.",
+    "subject": "J & J Snack Foods Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511176841",
+    "eps": 1.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.06,
+    "whisper": 999,
+    "highEstimate": 1.06,
+    "lowEstimate": 1.06,
+    "revenue": 410.243,
+    "revenueEstimate": 407,
+    "earningsGrowth": -0.0125,
+    "revenueGrowth": -0.0386942421430513,
+    "earningsSurprise": 0.49056603773584906,
+    "revenueSurprise": 0.007968058968058968,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03258500262525656
   }
 ]
