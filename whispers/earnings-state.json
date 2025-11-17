@@ -37102,5 +37102,29 @@
     "revenueSurprise": 0.0017054263565891472,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.09275128541183587
+  },
+  {
+    "epsDate": "2025-11-17T17:00:00",
+    "ticker": "TCOM",
+    "name": "Trip.com Group Limited",
+    "summary": "Trip.com Group Limited (TCOM) reported earnings of $3.76 per share on revenue of $2.58 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.26 per share on  revenue of $2.54 billion. The Earnings Whisper number was $1.19 per share. The company beat expectations by 215.97% while revenue grew 14.11% on a year-over-year basis.<br /><br />Trip.com Group Limited  is a leading one-stop travel platform globally, integrating a comprehensive suite of travel products and services and differentiated travel content.",
+    "subject": "Trip.com Group Limited Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511175960",
+    "eps": 3.76,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.26,
+    "whisper": 1.19,
+    "highEstimate": 1.18,
+    "lowEstimate": 1.11,
+    "revenue": 2580,
+    "revenueEstimate": 2540,
+    "earningsGrowth": 2.2413793103448274,
+    "revenueGrowth": 0.14108801415302963,
+    "earningsSurprise": 2.1596638655462184,
+    "revenueSurprise": 0.015748031496062992,
+    "prevEarningsGrowth": 7.85,
+    "prevRevenueGrowth": 0.08708025042686397
   }
 ]
