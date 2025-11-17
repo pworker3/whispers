@@ -36982,5 +36982,29 @@
     "revenueSurprise": -0.42096774193548386,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-17T06:15:00",
+    "ticker": "HTHT",
+    "name": "H World Group Limited ",
+    "summary": "H World Group Limited (HTHT) reported earnings of $0.63 per share on revenue of $978.00 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.60 per share on  revenue of $944.94 million. The Earnings Whisper number was $0.65 per share. The company missed expectations by 3.08% while revenue grew 6.54% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  revenue of $864.90 million to $898.82 million. The current consensus revenue estimate is $887.93 million for the quarter ending December 31, 2025.<br /><br />China Lodging Group Ltd is a multi-brand hotel group in China with leased, manachised and franchised models.",
+    "subject": "H World Group Limited Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511176872",
+    "eps": 0.63,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.6,
+    "whisper": 0.65,
+    "highEstimate": 0.64,
+    "lowEstimate": 0.64,
+    "revenue": 978,
+    "revenueEstimate": 944.94,
+    "earningsGrowth": 0.08620689655172414,
+    "revenueGrowth": 0.06535947712418301,
+    "earningsSurprise": -0.03076923076923077,
+    "revenueSurprise": 0.03498634833957712,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06028368794326241
   }
 ]
