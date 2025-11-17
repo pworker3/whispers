@@ -37126,5 +37126,29 @@
     "revenueSurprise": 0.015748031496062992,
     "prevEarningsGrowth": 7.85,
     "prevRevenueGrowth": 0.08708025042686397
+  },
+  {
+    "epsDate": "2025-11-17T17:31:00",
+    "ticker": "IIIV",
+    "name": "i3 Verticals, Inc.",
+    "summary": "i3 Verticals (IIIV) reported earnings of $0.20 per share on revenue of $54.90 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.33 per share on  revenue of $53.73 million. The Earnings Whisper number was $0.25 per share. The company missed expectations by 20.00% while revenue fell 9.80% compared to the same quarter a year ago.<br /><br />The company  said it expects fiscal  2026 non-GAAP earnings of $1.06 to $1.16 per share on revenue of $217.0 million to $232.0 million. The current consensus earnings estimate is $1.18 per share on revenue of $230.3 million for the year ending September 30, 2026.<br /><br />The Company delivers seamless integrated software and services to customers in strategic vertical markets. ",
+    "subject": "i3 Verticals Missed Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511170861",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.33,
+    "whisper": 0.25,
+    "highEstimate": 0.27,
+    "lowEstimate": 0.25,
+    "revenue": 54.901,
+    "revenueEstimate": 53.73,
+    "earningsGrowth": 1.5,
+    "revenueGrowth": -0.09797252891692955,
+    "earningsSurprise": -0.2,
+    "revenueSurprise": 0.021794155965010237,
+    "prevEarningsGrowth": -1.16,
+    "prevRevenueGrowth": -0.07380837660831237
   }
 ]
