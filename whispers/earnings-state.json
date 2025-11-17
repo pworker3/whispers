@@ -37006,5 +37006,29 @@
     "revenueSurprise": 0.03498634833957712,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06028368794326241
+  },
+  {
+    "epsDate": "2025-11-17T16:10:00",
+    "ticker": "XP",
+    "name": "XP Inc.",
+    "summary": "XP (XP) reported earnings of $0.46 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.45 per share on  revenue of $857.32 million. The Earnings Whisper number was $0.47 per share. The company missed expectations by 2.13%.<br /><br />XP is a leading, technology-driven financial services platform and a trusted provider of low-fee financial products and services in Brazil. ",
+    "subject": "XP Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511170293",
+    "eps": 0.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.45,
+    "whisper": 0.47,
+    "highEstimate": 0.46,
+    "lowEstimate": 0.46,
+    "revenue": null,
+    "revenueEstimate": 857.32,
+    "earningsGrowth": 0.1794871794871795,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02127659574468085,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 9.75,
+    "prevRevenueGrowth": 0.017978355315251215
   }
 ]
