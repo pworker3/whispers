@@ -36958,5 +36958,29 @@
     "revenueSurprise": 0.007968058968058968,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03258500262525656
+  },
+  {
+    "epsDate": "2025-11-17T09:10:00",
+    "ticker": "VENU",
+    "name": "Venu Holding Corporation",
+    "summary": "Venu Holding (VENU) reported a loss of $0.15 per share on revenue of $5.39 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.21 per share on  revenue of $9.30 million. The company beat consensus estimates by 28.57% while revenue fell 1.23% compared to the same quarter a year ago.<br /><br />Venu Holding Corporation is a premier hospitality and live music venue developer dedicated to building luxury, experience-driven entertainment destinations. ",
+    "subject": "Venu Holding Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511177031",
+    "eps": -0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.21,
+    "whisper": 999,
+    "highEstimate": -0.21,
+    "lowEstimate": -0.21,
+    "revenue": 5.385,
+    "revenueEstimate": 9.3,
+    "earningsGrowth": -0.15384615384615385,
+    "revenueGrowth": -0.012289068231841525,
+    "earningsSurprise": 0.2857142857142857,
+    "revenueSurprise": -0.42096774193548386,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
