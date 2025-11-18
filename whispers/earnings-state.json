@@ -37870,5 +37870,29 @@
     "revenueSurprise": 0.0017054263565891472,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.09275128541183587
+  },
+  {
+    "epsDate": "2025-11-18T17:53:00",
+    "ticker": "CCIF",
+    "name": "Carlyle Credit Income Fund",
+    "summary": "Carlyle Credit Income Fund (CCIF) reported earnings of $0.15 per share on revenue of $7.74 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.21 per share. The company missed consensus estimates by 28.57% while revenue fell 2.09% compared to the same quarter a year ago.",
+    "subject": "Carlyle Credit Income Fund Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511188341",
+    "eps": 0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.21,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 7.736,
+    "revenueEstimate": 0.000999,
+    "earningsGrowth": -0.5,
+    "revenueGrowth": -0.020883432476901657,
+    "earningsSurprise": -0.2857142857142857,
+    "revenueSurprise": 7742.743743743744,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1660571583367195
   }
 ]
