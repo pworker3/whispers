@@ -37822,5 +37822,29 @@
     "revenueSurprise": 0.01696060544631394,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-18T17:00:00",
+    "ticker": "QFIN",
+    "name": "Qifu Technology, Inc. ",
+    "summary": "Qifu Technology, Inc. (QFIN) reported earnings of $1.52 per share on revenue of $731.25 million for the  third quarter ended September 2025.  The consensus earnings estimate was $1.68 per share on  revenue of $684.31 million. The Earnings Whisper number was $1.70 per share. The company missed expectations by 10.59% while revenue grew 17.42% on a year-over-year basis.<br /><br />Qifu Technology is a leading AI-empowered Credit-Tech platform in China.",
+    "subject": "Qifu Technology, Inc. Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511187964",
+    "eps": 1.52,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.68,
+    "whisper": 1.7,
+    "highEstimate": 1.7,
+    "lowEstimate": 1.66,
+    "revenue": 731.247,
+    "revenueEstimate": 684.31,
+    "earningsGrowth": -0.12643678160919541,
+    "revenueGrowth": 0.1742337140141053,
+    "earningsSurprise": -0.10588235294117647,
+    "revenueSurprise": 0.06859025880083588,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.27193799207956076
   }
 ]
