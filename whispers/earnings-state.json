@@ -37558,5 +37558,29 @@
     "revenueSurprise": 0.0935284112050178,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.6883256888746925
+  },
+  {
+    "epsDate": "2025-11-18T03:00:00",
+    "ticker": "FUTU",
+    "name": "Futu Holdings Ltd",
+    "summary": "Futu Holdings (FUTU) reported earnings of $2.93 per share on revenue of $822.90 million for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $752.52 million. Revenue grew 86.06% on a year-over-year basis.<br /><br />utu Holdings Limited  is an advanced technology company transforming the investing experience by offering a fully digitized brokerage and wealth management platform. ",
+    "subject": "Futu Holdings Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511187723",
+    "eps": 2.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 822.902,
+    "revenueEstimate": 752.52,
+    "earningsGrowth": 1.421487603305785,
+    "revenueGrowth": 0.8606326452167228,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.0935284112050178,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.6883256888746925
   }
 ]
