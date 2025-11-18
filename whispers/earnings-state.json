@@ -37582,5 +37582,29 @@
     "revenueSurprise": 0.0935284112050178,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.6883256888746925
+  },
+  {
+    "epsDate": "2025-11-18T08:00:00",
+    "ticker": "NTIC",
+    "name": "Northern Technologies International Corporation",
+    "summary": "Northern Technologies International (NTIC) reported a loss of $0.06 per share on revenue of $22.32 million for the  fiscal fourth quarter ended August 2025.  The consensus earnings estimate was $0.08 per share on  revenue of $22.40 million. The company missed consensus estimates by 175.00% while revenue fell 4.42% compared to the same quarter a year ago.<br /><br />Northern Technologies International Corporation develops and markets proprietary environmentally beneficial products and services in over 60 countries either directly or via a network of subsidiaries, joint ventures, independent distributors and agents. ",
+    "subject": "Northern Technologies International Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended August 2025",
+    "fileName": "2511187177",
+    "eps": -0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.08,
+    "whisper": 999,
+    "highEstimate": 0.08,
+    "lowEstimate": 0.08,
+    "revenue": 22.316,
+    "revenueEstimate": 22.4,
+    "earningsGrowth": -1.3,
+    "revenueGrowth": -0.04424172341427898,
+    "earningsSurprise": -1.75,
+    "revenueSurprise": -0.00375,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03978536208063425
   }
 ]
