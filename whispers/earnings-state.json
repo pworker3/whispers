@@ -38398,5 +38398,29 @@
     "revenueSurprise": 0.01797979797979798,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06927531927531927
+  },
+  {
+    "epsDate": "2025-11-19T07:30:00",
+    "ticker": "NYAX",
+    "name": "Nayax Ltd. ",
+    "summary": "Nayax Ltd. (NYAX) reported earnings of $0.09 per share on revenue of $104.28 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.21 per share on  revenue of $110.33 million. The company missed consensus estimates by 57.14% while revenue grew 25.63% on a year-over-year basis.<br /><br />The company  said it expects  2025 revenue of $400.0 million to $405.0 million. The company's previous guidance was revenue of $410.0 million to $425.0 million, and the current consensus revenue estimate is $410.21 million for the year ending December 31, 2025.<br /><br />Nayax is a global commerce enablement, payments and loyalty platform designed to help merchants scale their business. ",
+    "subject": "Nayax Ltd. Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511198441",
+    "eps": 0.09,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.21,
+    "whisper": 999,
+    "highEstimate": 0.32,
+    "lowEstimate": 0.13,
+    "revenue": 104.28,
+    "revenueEstimate": 110.33,
+    "earningsGrowth": 3.5,
+    "revenueGrowth": 0.25630986085175594,
+    "earningsSurprise": -0.5714285714285714,
+    "revenueSurprise": -0.054835493519441676,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2241346190787199
   }
 ]
