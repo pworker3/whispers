@@ -38734,5 +38734,29 @@
     "revenueSurprise": -0.0011,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.22164952377086197
+  },
+  {
+    "epsDate": "2025-11-19T17:00:00",
+    "ticker": "ZTO",
+    "name": "ZTO Express Inc.",
+    "summary": "ZTO Express (ZTO) reported earnings of $0.43 per share on revenue of $1.67 billion for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $6.76 billion. Revenue grew 9.56% on a year-over-year basis.<br /><br />ZTO Express (Cayman) Inc.  is a leading and fast-growing express delivery company in China. ",
+    "subject": "ZTO Express Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511197400",
+    "eps": 0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 1666.624,
+    "revenueEstimate": 6760,
+    "earningsGrowth": 0.04878048780487805,
+    "revenueGrowth": 0.09561117604599581,
+    "earningsSurprise": null,
+    "revenueSurprise": -0.7534579881656804,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11905278120684959
   }
 ]
