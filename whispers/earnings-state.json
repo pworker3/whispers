@@ -37918,5 +37918,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.015814466208767912
+  },
+  {
+    "epsDate": "2025-11-19T06:30:00",
+    "ticker": "TGT",
+    "name": "Target Corp.",
+    "summary": "Target (TGT) reported earnings of $1.78 per share on  for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $1.76 per share on  revenue of $25.42 billion. The Earnings Whisper number was $1.75 per share. The company beat expectations by 1.71%.<br /><br />The company  said it expects  fourth quarter  revenue of approximately $30.14 billion. The current consensus revenue estimate is $30.68 billion for the quarter ending January 31, 2026. The company also said it now expects fiscal  2026  earnings of $7.00 to $8.00 per share. The company's previous guidance was  earnings of $7.00 to $9.00 per share, and the current consensus earnings estimate is $7.32 per share for the year ending January 31, 2026.<br /><br />Target Corp is engaged in operating general merchandise discount stores in the United States.",
+    "subject": "Target Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511197774",
+    "eps": 1.78,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.76,
+    "whisper": 1.75,
+    "highEstimate": 2.05,
+    "lowEstimate": 1.48,
+    "revenue": null,
+    "revenueEstimate": 25420,
+    "earningsGrowth": -0.03783783783783784,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.017142857142857144,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.009468804023259468
   }
 ]
