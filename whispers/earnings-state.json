@@ -37894,5 +37894,29 @@
     "revenueSurprise": 7742.743743743744,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1660571583367195
+  },
+  {
+    "epsDate": "2025-11-19T06:00:00",
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc.",
+    "summary": "Lowe's Companies (LOW) reported earnings of $3.06 per share on  for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $2.97 per share on  revenue of $20.96 billion. The Earnings Whisper number was $3.01 per share. The company beat expectations by 1.66%.<br /><br />The company  said it expects fiscal  2026  earnings of approximately $12.25 per share on revenue of approximately $86.0 billion. The company's previous guidance was  earnings of $12.20 to $12.45 per share on revenue of $84.50 billion to $85.50 billion, and the current consensus earnings estimate is $12.28 per share on revenue of $85.17 billion for the year ending January 31, 2026.<br /><br />Lowe' Companies Inc is a home improvement retailer, which serves home-owners, renters and Commercial Business Customers.",
+    "subject": "Lowe's Companies Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511198195",
+    "eps": 3.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.97,
+    "whisper": 3.01,
+    "highEstimate": 3.11,
+    "lowEstimate": 2.93,
+    "revenue": null,
+    "revenueEstimate": 20960,
+    "earningsGrowth": 0.058823529411764705,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.016611295681063124,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.015814466208767912
   }
 ]
