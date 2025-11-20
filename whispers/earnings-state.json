@@ -38782,5 +38782,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-20T06:45:00",
+    "ticker": "J",
+    "name": "Jacobs",
+    "summary": "Jacobs (J) reported earnings of $1.75 per share on  for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $1.67 per share on  revenue of $3.14 billion. The Earnings Whisper number was $1.72 per share. The company beat expectations by 1.74%.<br /><br /> JACOBS SOLUTNS provides a full spectrum of professional services including consulting, technical, scientific and project delivery for the government and private sector. JACOBS SOLUTNS, formerly known as JACOBS ENGIN GR, is based in DALLAS.   \n",
+    "subject": "Jacobs Beat Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511209105",
+    "eps": 1.75,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.67,
+    "whisper": 1.72,
+    "highEstimate": 1.68,
+    "lowEstimate": 1.65,
+    "revenue": null,
+    "revenueEstimate": 3140,
+    "earningsGrowth": 0.2773722627737226,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.01744186046511628,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.2835375911598032
   }
 ]
