@@ -38854,5 +38854,29 @@
     "revenueSurprise": 0.014044404270945145,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.047639294888829835
+  },
+  {
+    "epsDate": "2025-11-20T07:00:00",
+    "ticker": "ZIM",
+    "name": "ZIM Integrated Shipping Services Ltd.",
+    "summary": "ZIM Integrated Shipping Services (ZIM) reported earnings of $1.02 per share on revenue of $1.78 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $1.67 per share on  revenue of $1.93 billion. The Earnings Whisper number was $1.75 per share. The company missed expectations by 41.71% while revenue fell 35.73% compared to the same quarter a year ago.<br /><br />ZIM (NYSE: ZIM) is a global, asset-light container liner shipping company with a leadership position in the markets in which it operates. Founded in Israel in 1945, ZIM is one of the oldest shipping liners, with over 75 years of experience, providing customers with innovative seaborne transportation and logistics services, with a reputation for industry-leading transit times, schedule reliability and service excellence.",
+    "subject": "ZIM Integrated Shipping Services Missed Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511208846",
+    "eps": 1.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.67,
+    "whisper": 1.75,
+    "highEstimate": 2.07,
+    "lowEstimate": 1.26,
+    "revenue": 1777.2,
+    "revenueEstimate": 1930,
+    "earningsGrowth": -0.8907922912205567,
+    "revenueGrowth": -0.3572978446405323,
+    "earningsSurprise": -0.41714285714285715,
+    "revenueSurprise": -0.07917098445595855,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1536272379178309
   }
 ]
