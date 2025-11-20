@@ -38806,5 +38806,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.2835375911598032
+  },
+  {
+    "epsDate": "2025-11-20T06:55:00",
+    "ticker": "BBWI",
+    "name": "Bath & Body Works, Inc.",
+    "summary": "Bath & Body Works (BBWI) reported earnings of $0.35 per share on revenue of $1.59 billion for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $0.40 per share on  revenue of $1.63 billion. The Earnings Whisper number was $0.42 per share. The company missed expectations by 16.67% while revenue fell 0.99% compared to the same quarter a year ago.<br /><br />Home of America’s Favorite Fragrances®, Bath & Body Works is a global leader in personal care and home fragrance, including top-selling collections for fine fragrance mist, body lotion and body cream, 3-wick candles, home fragrance diffusers and liquid hand soap.",
+    "subject": "Bath & Body Works Missed Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511209381",
+    "eps": 0.35,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.4,
+    "whisper": 0.42,
+    "highEstimate": 0.43,
+    "lowEstimate": 0.34,
+    "revenue": 1594,
+    "revenueEstimate": 1630,
+    "earningsGrowth": -0.2857142857142857,
+    "revenueGrowth": -0.009937888198757764,
+    "earningsSurprise": -0.16666666666666666,
+    "revenueSurprise": -0.022085889570552148,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.01507208387942333
   }
 ]
