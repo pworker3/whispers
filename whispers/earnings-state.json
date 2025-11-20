@@ -38758,5 +38758,29 @@
     "revenueSurprise": -0.7534579881656804,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11905278120684959
+  },
+  {
+    "epsDate": "2025-11-20T06:30:00",
+    "ticker": "ALLT",
+    "name": "Allot Communications Ltd",
+    "summary": "Allot Communications (ALLT) reported earnings of $0.10 per share on  for the  third quarter ended September 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $26.00 million. The Earnings Whisper number was $0.07 per share. The company beat expectations by 42.86%.<br /><br />Allot Communications Ltd provides broadband solutions, focused on developing mobile, fixed and enterprise networks. Its deep packet inspection technology identifies and leverage the business intelligence in data networks and in network traffics.",
+    "subject": "Allot Communications Beat Expectations",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511205650",
+    "eps": 0.1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 0.07,
+    "highEstimate": 0.04,
+    "lowEstimate": 0.04,
+    "revenue": null,
+    "revenueEstimate": 26,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.42857142857142855,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
