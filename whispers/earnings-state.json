@@ -39070,5 +39070,29 @@
     "revenueSurprise": 0.02444309743900591,
     "prevEarningsGrowth": 1.2190476190476192,
     "prevRevenueGrowth": 0.1669671286238448
+  },
+  {
+    "epsDate": "2025-11-20T18:36:00",
+    "ticker": "HD",
+    "name": "Home Depot, Inc.",
+    "summary": "Home Depot (HD) reported earnings of $3.74 per share on revenue of $41.35 billion for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $3.81 per share on  revenue of $41.04 billion. The Earnings Whisper number was $3.80 per share. The company missed expectations by 1.58% while revenue grew 2.82% on a year-over-year basis.<br /><br />The company  said it expects fiscal  2026  earnings of approximately $14.48 per share on revenue of approximately $164.30 billion. The company's previous guidance was  earnings of approximately $14.94 per share on revenue of approximately $164.0 billion, and the current consensus earnings estimate is $14.96 per share on revenue of $164.1 billion for the year ending January 31, 2026.<br /><br />Home Depot, Inc., is a home improvement retailer. Its stores sell an assortment of building materials, home improvement and lawn and garden products and provide a number of services.",
+    "subject": "Home Depot Missed Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511200467",
+    "eps": 3.74,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.81,
+    "whisper": 3.8,
+    "highEstimate": 4.02,
+    "lowEstimate": 3.7,
+    "revenue": 41352,
+    "revenueEstimate": 41040,
+    "earningsGrowth": -0.010582010582010581,
+    "revenueGrowth": 0.028221896213044235,
+    "earningsSurprise": -0.015789473684210527,
+    "revenueSurprise": 0.00760233918128655,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04868558193398958
   }
 ]
