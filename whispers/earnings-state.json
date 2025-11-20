@@ -38878,5 +38878,29 @@
     "revenueSurprise": -0.07917098445595855,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.1536272379178309
+  },
+  {
+    "epsDate": "2025-11-20T07:00:00",
+    "ticker": "ROAD",
+    "name": "Construction Partners, Inc.",
+    "summary": "Construction Partners (ROAD) reported earnings of $1.07 per share on revenue of $899.85 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $1.11 per share on  revenue of $907.00 million. The Earnings Whisper number was $1.16 per share. The company missed expectations by 7.76% while revenue grew 67.21% on a year-over-year basis.<br /><br />The company  said it continues to expect fiscal  2026 revenue of $3.40 billion to $3.50 billion. The current consensus revenue estimate is $3.42 billion for the year ending September 30, 2026.<br /><br />Construction Partners, Inc. is a vertically integrated civil infrastructure company operating across five southeastern states, with 57 hot-mix asphalt plants, 14 aggregate facilities and one liquid asphalt terminal. ",
+    "subject": "Construction Partners Missed Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511209539",
+    "eps": 1.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.11,
+    "whisper": 1.16,
+    "highEstimate": 1.16,
+    "lowEstimate": 0.99,
+    "revenue": 899.849,
+    "revenueEstimate": 907,
+    "earningsGrowth": 0.8448275862068966,
+    "revenueGrowth": 0.6720751891155654,
+    "earningsSurprise": -0.07758620689655173,
+    "revenueSurprise": -0.007884233737596473,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.5049942641282055
   }
 ]
