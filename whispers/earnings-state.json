@@ -39382,5 +39382,29 @@
     "revenueSurprise": 0.025568360728005543,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.24848000230520978
+  },
+  {
+    "epsDate": "2025-11-21T09:00:00",
+    "ticker": "VFS",
+    "name": "VinFast Auto Ltd.",
+    "summary": "VinFast Auto (VFS) reported a loss of $0.41 per share on  for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.25 per share on  revenue of $822.83 million. The company missed consensus estimates by 64.00%.<br /><br />VinFast, a subsidiary of Vingroup JSC, one of Vietnam’s largest conglomerates, is a pure-play electric vehicle (“EV”) manufacturer with the mission of making EVs accessible to everyone. ",
+    "subject": "VinFast Auto Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511210991",
+    "eps": -0.41,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.25,
+    "whisper": 999,
+    "highEstimate": -0.25,
+    "lowEstimate": -0.25,
+    "revenue": null,
+    "revenueEstimate": 822.83,
+    "earningsGrowth": -0.782608695652174,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.64,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.855107054517779
   }
 ]
