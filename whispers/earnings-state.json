@@ -39358,5 +39358,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.16704569785138507
+  },
+  {
+    "epsDate": "2025-11-20T23:05:00",
+    "ticker": "MNSO",
+    "name": "MINISO Group Holding Limited",
+    "summary": "MINISO Group Holding Limited (MNSO) reported earnings of $0.20 per share on revenue of $814.25 million for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $793.95 million. Revenue grew 26.35% on a year-over-year basis.<br /><br />MINISO is a fast-growing global value retailer offering a variety of design-led lifestyle products. ",
+    "subject": "MINISO Group Holding Limited Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511200201",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 814.25,
+    "revenueEstimate": 793.95,
+    "earningsGrowth": -0.3333333333333333,
+    "revenueGrowth": 0.2634569610000279,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.025568360728005543,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.24848000230520978
   }
 ]
