@@ -40174,5 +40174,29 @@
     "revenueSurprise": 30.770291262135924,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.28663413336682714
+  },
+  {
+    "epsDate": "2025-11-24T17:00:00",
+    "ticker": "TUYA",
+    "name": "Tuya Inc.",
+    "summary": "Tuya (TUYA) reported earnings of $0.02 per share on revenue of $82.49 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $82.17 million. The company reported in-line with consensus estimates while revenue grew 1.07% on a year-over-year basis.<br /><br />Tuya Inc. is a global leading IoT cloud development platform with a mission to build an IoT developer ecosystem and enable everything to be smart. ",
+    "subject": "Tuya Reported In-line with Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511241949",
+    "eps": 0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.03,
+    "lowEstimate": 0.03,
+    "revenue": 82.487,
+    "revenueEstimate": 82.17,
+    "earningsGrowth": 3,
+    "revenueGrowth": 0.010659543967555779,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.0038578556650845806,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09349199634274485
   }
 ]
