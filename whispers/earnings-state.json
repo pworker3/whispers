@@ -39838,5 +39838,29 @@
     "revenueSurprise": 0.011088082901554405,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1331172512851527
+  },
+  {
+    "epsDate": "2025-11-24T08:31:00",
+    "ticker": "CAAP",
+    "name": "Corporación América Airports S.A.",
+    "summary": "Corporación América Airports S.A. (CAAP) reported earnings of $0.34 per share on revenue of $527.30 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.53 per share on  revenue of $491.50 million. The company missed consensus estimates by 35.85% while revenue grew 14.18% on a year-over-year basis.<br /><br />Corporación América Airports acquires, develops and operates airport concessions. Currently, the Company operates 52 airports in 7 countries across Latin America and Europe (Argentina, Brazil, Uruguay, Peru, Ecuador, Armenia and Italy). ",
+    "subject": "Corporación América Airports S.A. Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511247713",
+    "eps": 0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.53,
+    "whisper": 999,
+    "highEstimate": 0.53,
+    "lowEstimate": 0.53,
+    "revenue": 527.3,
+    "revenueEstimate": 491.5,
+    "earningsGrowth": 2.7777777777777777,
+    "revenueGrowth": 0.1418362927674318,
+    "earningsSurprise": -0.3584905660377358,
+    "revenueSurprise": 0.0728382502543235,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14560307544449783
   }
 ]
