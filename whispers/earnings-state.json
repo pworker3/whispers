@@ -40966,5 +40966,29 @@
     "revenueSurprise": -0.06327693080918077,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.9080570177123756
+  },
+  {
+    "epsDate": "2025-11-25T16:00:00",
+    "ticker": "ARWR",
+    "name": "Arrowhead Pharmaceuticals, Inc.",
+    "summary": "Arrowhead Pharmaceuticals (ARWR) reported a loss of $0.18 per share on revenue of $256.47 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $160.66 million. The company missed consensus estimates by 250.00%.<br /><br />Arrowhead Research Corp is engaged in developing novel drugs to treat\r\nintractable diseases by silencing the genes. The Company' drug candidate\r\nARC-520 is designed to treat chronic hepatitis B infection.",
+    "subject": "Arrowhead Pharmaceuticals Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511259358",
+    "eps": -0.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 999,
+    "highEstimate": 1.25,
+    "lowEstimate": -0.67,
+    "revenue": 256.472,
+    "revenueEstimate": 160.66,
+    "earningsGrowth": 0.8695652173913043,
+    "revenueGrowth": null,
+    "earningsSurprise": -2.5,
+    "revenueSurprise": 0.5963649943981078,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
