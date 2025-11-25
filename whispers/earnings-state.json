@@ -40558,5 +40558,29 @@
     "revenueSurprise": -0.7789160583941606,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0830547214083377
+  },
+  {
+    "epsDate": "2025-11-25T07:00:00",
+    "ticker": "DKS",
+    "name": "DICK'S Sporting Goods, Inc.",
+    "summary": "DICK'S Sporting Goods (DKS) reported earnings of $2.78 per share on  for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $2.68 per share on  revenue of $3.19 billion. The Earnings Whisper number was $2.77 per share. The company beat expectations by 0.36%.<br /><br />The company  said it expects fiscal  2026 non-GAAP earnings of $14.25 to $14.55 per share on revenue of $13.95 billion to $14.00 billion. The company's previous guidance was earnings of $13.90 to $14.50 per share on revenue of $13.75 billion to $13.95 billion, and the current consensus earnings estimate is $14.32 per share on revenue of $14.00 billion for the year ending January 31, 2026.<br /><br />Dick' Sporting Goods, Inc., is an authentic full-line sporting goods retailer offering a assortment of brand name sporting goods equipment, apparel, and footwear in a specialty store environment.",
+    "subject": "DICK'S Sporting Goods Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511252710",
+    "eps": 2.78,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.68,
+    "whisper": 2.77,
+    "highEstimate": 2.84,
+    "lowEstimate": 2.55,
+    "revenue": null,
+    "revenueEstimate": 3190,
+    "earningsGrowth": 0.01090909090909091,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.0036101083032490976,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04979826608149676
   }
 ]
