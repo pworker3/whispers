@@ -40942,5 +40942,29 @@
     "revenueSurprise": -0.0038020408163265307,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.023117889686990363
+  },
+  {
+    "epsDate": "2025-11-25T16:02:00",
+    "ticker": "CLSK",
+    "name": "CleanSpark, Inc.",
+    "summary": "CleanSpark (CLSK) reported a loss of $0.01 per share on revenue of $223.65 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $238.76 million. The company missed consensus estimates by 125.00% while revenue grew 150.52% on a year-over-year basis.<br /><br />CleanSpark, Inc., a Nevada corporation, is an energy technology and clean Bitcoin mining Company that is focused on solving modern energy challenges. ",
+    "subject": "CleanSpark Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2511253262",
+    "eps": -0.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 999,
+    "highEstimate": 0.14,
+    "lowEstimate": -0.03,
+    "revenue": 223.652,
+    "revenueEstimate": 238.76,
+    "earningsGrowth": 0.9629629629629629,
+    "revenueGrowth": 1.5052030243629235,
+    "earningsSurprise": -1.25,
+    "revenueSurprise": -0.06327693080918077,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9080570177123756
   }
 ]
