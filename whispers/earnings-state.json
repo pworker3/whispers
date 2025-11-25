@@ -40318,5 +40318,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-11-25T06:45:00",
+    "ticker": "BURL",
+    "name": "Burlington Stores Inc",
+    "summary": "Burlington Stores (BURL) reported earnings of $1.68 per share on  for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $1.59 per share on  revenue of $2.72 billion. The Earnings Whisper number was $1.65 per share. The company beat expectations by 1.82%.<br /><br />Burlington Stores Inc is an off-price apparel and home product retailer. It offers ladies sportswear, menswear, coats, and family footwear, as well as baby furniture, accessories, home decor and gifts.",
+    "subject": "Burlington Stores Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2511251592",
+    "eps": 1.68,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.59,
+    "whisper": 1.65,
+    "highEstimate": 1.67,
+    "lowEstimate": 1.49,
+    "revenue": null,
+    "revenueEstimate": 2720,
+    "earningsGrowth": 0.08387096774193549,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.01818181818181818,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09908934407013184
   }
 ]
