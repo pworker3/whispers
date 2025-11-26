@@ -41134,5 +41134,29 @@
     "revenueSurprise": -0.3855723746452223,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4633850975922496
+  },
+  {
+    "epsDate": "2025-11-26T07:30:00",
+    "ticker": "CLGN",
+    "name": "CollPlant Biotechnologies",
+    "summary": "CollPlant Biotechnologies (CLGN) reported a loss of $0.27 per share on revenue of $0.08 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $9.53 million. The company missed consensus estimates by 171.05% while revenue grew 1,825.00% on a year-over-year basis.<br /><br />CollPlant is a regenerative and aesthetic medicine company focused on 3D bioprinting of tissues and organs, and medical aesthetics. ",
+    "subject": "CollPlant Biotechnologies Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511263339",
+    "eps": -0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 999,
+    "highEstimate": 0.38,
+    "lowEstimate": 0.38,
+    "revenue": 0.077,
+    "revenueEstimate": 9.53,
+    "earningsGrowth": 0.2894736842105263,
+    "revenueGrowth": 18.25,
+    "earningsSurprise": -1.7105263157894737,
+    "revenueSurprise": -0.9919202518363064,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.484149855907781
   }
 ]
