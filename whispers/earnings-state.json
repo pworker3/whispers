@@ -41062,5 +41062,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03142099317931349
+  },
+  {
+    "epsDate": "2025-11-26T06:27:00",
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "summary": "Deere (DE) reported earnings of $3.93 per share on  for the  fiscal fourth quarter ended October 2025.  The consensus earnings estimate was $3.96 per share on  revenue of $9.99 billion. The Earnings Whisper number was $4.21 per share. The company missed expectations by 6.65%.<br /><br />Deere & Company is a world leader in providing advanced products, technology and services for customers whose work is revolutionizing agriculture and construction.",
+    "subject": "Deere Missed Expectations",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2511263521",
+    "eps": 3.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.96,
+    "whisper": 4.21,
+    "highEstimate": 4.27,
+    "lowEstimate": 3.72,
+    "revenue": null,
+    "revenueEstimate": 9990,
+    "earningsGrowth": -0.13626373626373625,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.0665083135391924,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.08622262773722628
   }
 ]
