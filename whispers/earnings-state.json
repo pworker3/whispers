@@ -41158,5 +41158,29 @@
     "revenueSurprise": -0.9919202518363064,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.484149855907781
+  },
+  {
+    "epsDate": "2025-11-26T17:42:00",
+    "ticker": "BMA",
+    "name": "Banco Macro S.A.",
+    "summary": "Banco Macro S.A. (BMA) reported a loss of $0.39 per share on revenue of $1.05 billion for the  third quarter ended September 2025.  The consensus earnings estimate was $0.67 per share on  revenue of $716.25 million. The company missed consensus estimates by 158.21% while revenue fell 1.02% compared to the same quarter a year ago.<br /><br />Macro Bank Inc provides standard banking products and services. The Company has two categories of customers: retail customers and corporate customers.",
+    "subject": "Banco Macro S.A. Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2511264172",
+    "eps": -0.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.67,
+    "whisper": 999,
+    "highEstimate": 0.92,
+    "lowEstimate": 0.42,
+    "revenue": 1048.128,
+    "revenueEstimate": 716.25,
+    "earningsGrowth": -1.2582781456953642,
+    "revenueGrowth": -0.010205536694886844,
+    "earningsSurprise": -1.5820895522388059,
+    "revenueSurprise": 0.46335497382198954,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14586824037345011
   }
 ]
