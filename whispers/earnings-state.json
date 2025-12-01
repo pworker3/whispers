@@ -41254,5 +41254,29 @@
     "revenueSurprise": -0.01666557570203574,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.9745866692747704
+  },
+  {
+    "epsDate": "2025-12-01T01:43:00",
+    "ticker": "HAFN",
+    "name": "Hafnia Limited ",
+    "summary": "Hafnia Limited (HAFN) reported earnings of $0.18 per share on revenue of $247.00 million for the  third quarter ended September 2025. . Revenue fell 31.68% compared to the same quarter a year ago.<br /><br />Hafnia is one of the world's leading tanker owners, transporting oil, oil products and chemicals for major national and international oil companies, chemical companies, as well as trading and utility companies.",
+    "subject": "Hafnia Limited Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512012110",
+    "eps": 0.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 247,
+    "revenueEstimate": null,
+    "earningsGrowth": -0.5714285714285714,
+    "revenueGrowth": -0.3168454300554821,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.4461410919615966
   }
 ]
