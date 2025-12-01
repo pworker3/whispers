@@ -41374,5 +41374,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03501477984899348
+  },
+  {
+    "epsDate": "2025-12-01T17:00:00",
+    "ticker": "CANG",
+    "name": "Cango Inc.",
+    "summary": "Cango (CANG) reported earnings of $0.19 per share on revenue of $224.64 million for the  third quarter ended September 2025.  The consensus estimate was a loss of $0.20 per share on  revenue of $173.70 million. The company beat consensus estimates by 195.00% while revenue grew 5,748.37% on a year-over-year basis.<br /><br />Cango Inc. is a leading automotive transaction service platform in China connecting car buyers, dealers, financial institutions, and other industry participants.",
+    "subject": "Cango Beat Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512015943",
+    "eps": 0.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.2,
+    "whisper": 999,
+    "highEstimate": -0.2,
+    "lowEstimate": -0.2,
+    "revenue": 224.636,
+    "revenueEstimate": 173.7,
+    "earningsGrowth": 1.1111111111111112,
+    "revenueGrowth": 57.48372819578235,
+    "earningsSurprise": 1.95,
+    "revenueSurprise": 0.2932412204951065,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 21.544091568595842
   }
 ]
