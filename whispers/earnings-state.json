@@ -41350,5 +41350,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.09809102674719586
+  },
+  {
+    "epsDate": "2025-12-01T16:10:00",
+    "ticker": "VSTS",
+    "name": "Vestis",
+    "summary": "Vestis (VSTS) reported earnings of $0.03 per share on  for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.03 per share on  revenue of $703.41 million. The company reported in-line with consensus estimates.<br /><br />The company  said it expects fiscal  2026 revenue of $2.680 billion to $2.735 billion. The current consensus revenue estimate is $2.72 billion for the year ending September 30, 2026.<br /><br />Vestis is a leader in the B2B uniform and workplace supplies category. ",
+    "subject": "Vestis Reported In-line with Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512019852",
+    "eps": 0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.03,
+    "whisper": 999,
+    "highEstimate": 0.08,
+    "lowEstimate": 0,
+    "revenue": null,
+    "revenueEstimate": 703.41,
+    "earningsGrowth": -0.7272727272727273,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03501477984899348
   }
 ]
