@@ -41686,5 +41686,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -2.186046511627907,
     "prevRevenueGrowth": 0.09889962725710331
+  },
+  {
+    "epsDate": "2025-12-02T16:15:00",
+    "ticker": "LESL",
+    "name": "Leslie's, Inc.",
+    "summary": "Leslie's (LESL) reported earnings of $0.01 per share on revenue of $389.21 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $1.09 per share on  revenue of $368.43 million. The Earnings Whisper number was $1.05 per share. The company missed expectations by 99.05% while revenue fell 2.17% compared to the same quarter a year ago.<br /><br />The company  said it expects fiscal  2026 revenue of $1.10 billion to $1.25 billion. The current consensus estimate is revenue of $1.21 billion for the year ending September 30, 2026.<br /><br />Leslie's is the largest direct-to-consumer brand in the U.S. pool and spa care industry, serving residential, professional, and commercial consumers. ",
+    "subject": "Leslie's Missed Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512025499",
+    "eps": 0.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.09,
+    "whisper": 1.05,
+    "highEstimate": 1.2,
+    "lowEstimate": 1,
+    "revenue": 389.206,
+    "revenueEstimate": 368.43,
+    "earningsGrowth": -0.5,
+    "revenueGrowth": -0.021748911046375725,
+    "earningsSurprise": -0.9904761904761905,
+    "revenueSurprise": 0.05639063051325896,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.12164041022544142
   }
 ]
