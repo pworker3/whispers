@@ -41782,5 +41782,29 @@
     "revenueSurprise": 0.07037037037037037,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01903453689167975
+  },
+  {
+    "epsDate": "2025-12-03T07:05:00",
+    "ticker": "CXM",
+    "name": "Sprinklr, Inc",
+    "summary": "Sprinklr (CXM) reported earnings of $0.12 per share on revenue of $219.07 million for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $0.09 per share on  revenue of $209.55 million. The Earnings Whisper number was $0.10 per share. The company beat expectations by 20.00% while revenue grew 9.16% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  non-GAAP earnings of $0.09 to $0.10 per share on revenue of $216.50 million to $217.5 million. The current consensus earnings estimate is $0.08 per share on revenue of $210.96 million for the quarter ending January 31, 2026.<br /><br />Sprinklr is a leading enterprise software company for all customer-facing functions. ",
+    "subject": "Sprinklr Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2512032368",
+    "eps": 0.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.09,
+    "whisper": 0.1,
+    "highEstimate": 0.09,
+    "lowEstimate": 0.09,
+    "revenue": 219.068,
+    "revenueEstimate": 209.55,
+    "earningsGrowth": 2,
+    "revenueGrowth": 0.09157950859289747,
+    "earningsSurprise": 0.2,
+    "revenueSurprise": 0.045421140539250775,
+    "prevEarningsGrowth": -0.5,
+    "prevRevenueGrowth": 0.07520993063161738
   }
 ]
