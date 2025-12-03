@@ -42070,5 +42070,29 @@
     "revenueSurprise": 0.019627465303140978,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.07129129903540926
+  },
+  {
+    "epsDate": "2025-12-03T16:05:00",
+    "ticker": "NOTV",
+    "name": "Inotiv, Inc.",
+    "summary": "Inotiv (NOTV) reported a loss of $0.14 per share on revenue of $138.14 million for the  fiscal fourth quarter ended September 2025. . Revenue grew 5.92% on a year-over-year basis.<br /><br />Inotiv, Inc. is a leading contract research organization dedicated to providing nonclinical and analytical drug discovery and development services and research models and related products and services. ",
+    "subject": "Inotiv Reported Earnings",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512036404",
+    "eps": -0.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 138.142,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.125,
+    "revenueGrowth": 0.059233075442618674,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2353525041120753
   }
 ]
