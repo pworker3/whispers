@@ -42214,5 +42214,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-12-04T06:50:00",
+    "ticker": "DG",
+    "name": "Dollar General Corporation",
+    "summary": "Dollar General (DG) reported earnings of $1.28 per share on  for the .  The consensus earnings estimate was $0.92 per share on  revenue of $10.61 billion. The Earnings Whisper number was $1.00 per share. The company beat expectations by 28.00%.<br /><br />The company  said it expects fiscal  2026  earnings of $6.30 to $6.50 per share on revenue of $42.52 billion to $42.60 billion. The company's previous guidance was earnings of $5.80 to $6.30 per share on revenue of $42.36 billion to $42.56 billion, and the current consensus earnings estimate is $6.15 per share on revenue of $42.50 billion for the year ending January 31, 2026.<br /><br />Dollar General Corp is a discount retailer in the United States, which offers a selection of merchandise, including consumables, seasonal, home products and apparel.",
+    "subject": "Dollar General Beat Expectations",
+    "quarter": "",
+    "fileName": "2512045133",
+    "eps": 1.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.92,
+    "whisper": 1,
+    "highEstimate": 1.07,
+    "lowEstimate": 0.84,
+    "revenue": null,
+    "revenueEstimate": 10610,
+    "earningsGrowth": 0.43820224719101125,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.28,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05067206249338907
   }
 ]
