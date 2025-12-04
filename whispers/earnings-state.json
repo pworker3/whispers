@@ -42358,5 +42358,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.018549989504346352
+  },
+  {
+    "epsDate": "2025-12-04T07:30:00",
+    "ticker": "WLY",
+    "name": "Wiley",
+    "summary": "Wiley (WLY) reported earnings of $1.10 per share on revenue of $421.75 million for the . . Revenue fell 1.14% compared to the same quarter a year ago.<br /><br />The company  said it continues to expect fiscal  2026  earnings of $3.90 to $4.35 per share but now expects revenue of approximately $1.70 billion. The company's previous guidance was revenue of $1.68 billion to $1.77 billion, and the current consensus earnings estimate is $4.00 per share on revenue of $1.68 billion for the year ending April 30, 2026.<br /><br />Wiley is a global leader in research and education, unlocking human potential by enabling discovery, powering education, and shaping workforces. ",
+    "subject": "Wiley Reported Earnings",
+    "quarter": "",
+    "fileName": "2512049114",
+    "eps": 1.1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": null,
+    "lowEstimate": null,
+    "revenue": 421.751,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.13402061855670103,
+    "revenueGrowth": -0.011355032290580058,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.017357215911482905
   }
 ]
