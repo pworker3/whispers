@@ -42118,5 +42118,29 @@
     "revenueSurprise": 0.02805105170902717,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10029065320483402
+  },
+  {
+    "epsDate": "2025-12-04T06:00:00",
+    "ticker": "DCI",
+    "name": "Donaldson Company, Inc.",
+    "summary": "Donaldson Company (DCI) reported earnings of $0.94 per share on  for the .  The consensus earnings estimate was $0.93 per share on  revenue of $923.52 million. The Earnings Whisper number was $0.95 per share. The company missed expectations by 1.05%.<br /><br />Donaldson Co Inc is a manufacturer of filtration systems and replacement parts. The Company’s product mix includes include dust, fume, and mist collectors, air filtration systems for gas turbines, PTFE membrane-based products, and others.",
+    "subject": "Donaldson Company Missed Expectations",
+    "quarter": "",
+    "fileName": "2512040399",
+    "eps": 0.94,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.93,
+    "whisper": 0.95,
+    "highEstimate": 0.94,
+    "lowEstimate": 0.9,
+    "revenue": null,
+    "revenueEstimate": 923.52,
+    "earningsGrowth": 0.13253012048192772,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.010526315789473684,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04842847979474022
   }
 ]
