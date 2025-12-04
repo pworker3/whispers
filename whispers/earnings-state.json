@@ -42382,5 +42382,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.017357215911482905
+  },
+  {
+    "epsDate": "2025-12-04T08:00:00",
+    "ticker": "KR",
+    "name": "Kroger Co.",
+    "summary": "Kroger (KR) reported earnings of $1.05 per share on revenue of $33.86 billion for the .  The consensus earnings estimate was $1.04 per share on  revenue of $34.31 billion. The Earnings Whisper number was $1.08 per share. The company missed expectations by 2.78% while revenue grew 0.67% on a year-over-year basis.<br /><br />The company  said it now expects fiscal  2026  earnings of $4.75 to $4.80 per share. The company's previous guidance was  earnings of $4.70 to $4.80 per share, and the current consensus earnings estimate is $4.78 per share for the year ending January 31, 2026.<br /><br />Kroger Co operates retail food and drug stores, multi-department stores, jewelry stores, and convenience stores throughout the United States. It also manufactures and processes some of the food for sale in its supermarkets.",
+    "subject": "Kroger Missed Expectations",
+    "quarter": "",
+    "fileName": "2512047334",
+    "eps": 1.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.04,
+    "whisper": 1.08,
+    "highEstimate": 1.07,
+    "lowEstimate": 1.02,
+    "revenue": 33859,
+    "revenueEstimate": 34310,
+    "earningsGrowth": 0.07142857142857142,
+    "revenueGrowth": 0.006689659273354344,
+    "earningsSurprise": -0.027777777777777776,
+    "revenueSurprise": -0.013144855727193238,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0008256664307619722
   }
 ]
