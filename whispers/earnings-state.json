@@ -42862,5 +42862,29 @@
     "revenueSurprise": 0.9561649484536082,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05891040906417219
+  },
+  {
+    "epsDate": "2025-12-04T16:05:00",
+    "ticker": "CHPT",
+    "name": "ChargePoint Holdings, Inc.",
+    "summary": "ChargePoint (CHPT) reported a loss of $1.98 per share on revenue of $105.67 million for the .  The consensus estimate was a loss of $0.55 per share on  revenue of $96.46 million. The Earnings Whisper number was a loss of $1.38 per share. The company missed expectations by 43.48% while revenue grew 6.09% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  revenue of $100.0 million to $110.0 million. The current consensus revenue estimate is $102.39 million for the quarter ending January 31, 2026.<br /><br />ChargePoint is creating the new fueling network to move all people and goods on electricity. ",
+    "subject": "ChargePoint Missed Expectations",
+    "quarter": "",
+    "fileName": "2512047982",
+    "eps": -1.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.55,
+    "whisper": -1.38,
+    "highEstimate": -1,
+    "lowEstimate": -1.61,
+    "revenue": 105.674,
+    "revenueEstimate": 96.46,
+    "earningsGrowth": -12.2,
+    "revenueGrowth": 0.06085612175239931,
+    "earningsSurprise": -0.43478260869565216,
+    "revenueSurprise": 0.09552145967240307,
+    "prevEarningsGrowth": -3.6626506024096384,
+    "prevRevenueGrowth": -0.09166290457807792
   }
 ]
