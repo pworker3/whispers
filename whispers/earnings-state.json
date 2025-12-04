@@ -42406,5 +42406,29 @@
     "revenueSurprise": -0.013144855727193238,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0008256664307619722
+  },
+  {
+    "epsDate": "2025-12-04T09:15:00",
+    "ticker": "HOV",
+    "name": "Hovnanian Enterprises, Inc.",
+    "summary": "Hovnanian Enterprises (HOV) reported earnings of $5.96 per share on revenue of $817.90 million for the .  The consensus earnings estimate was $0.63 per share on  revenue of $814.50 million. The company beat consensus estimates by 846.03% while revenue fell 16.51% compared to the same quarter a year ago.<br /><br />The company  said it expects  first quarter  revenue of $550.0 million to $650.0 million. The current consensus revenue estimate is $628.5 million for the quarter ending January 31, 2026.<br /><br />Hovnanian Enterprises Inc designs, constructs, markets and sells\r\nsingle-family detached homes, attached townhomes and condominiums, urban infill\r\nand active adult homes in planned residential developments.",
+    "subject": "Hovnanian Enterprises Beat Consensus Estimates",
+    "quarter": "",
+    "fileName": "2512046956",
+    "eps": 5.96,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.63,
+    "whisper": 999,
+    "highEstimate": 0.63,
+    "lowEstimate": 0.63,
+    "revenue": 817.904,
+    "revenueEstimate": 814.5,
+    "earningsGrowth": -0.5340109460516028,
+    "revenueGrowth": -0.1650956781994982,
+    "earningsSurprise": 8.46031746031746,
+    "revenueSurprise": 0.004179251074278699,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1077605769443645
   }
 ]
