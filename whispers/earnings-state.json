@@ -42334,5 +42334,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.5865137184487117
+  },
+  {
+    "epsDate": "2025-12-04T07:30:00",
+    "ticker": "CRMT",
+    "name": "Americas CarMart Inc",
+    "summary": "Americas CarMart (CRMT) reported a loss of $0.79 per share on revenue of $350.19 million for the . . Revenue grew 0.84% on a year-over-year basis.<br /><br />America' Car-Mart Inc is an automotive retailing company. It sells older model used vehicles & provides financing for customers.",
+    "subject": "Americas CarMart Reported Earnings",
+    "quarter": "",
+    "fileName": "2512046718",
+    "eps": -0.79,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 350.192,
+    "revenueEstimate": null,
+    "earningsGrowth": -2.2916666666666665,
+    "revenueGrowth": 0.008417106047473285,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.018549989504346352
   }
 ]
