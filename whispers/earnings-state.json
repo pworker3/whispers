@@ -43198,5 +43198,29 @@
     "revenueSurprise": 0.0016898360109880962,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.14826421191793565
+  },
+  {
+    "epsDate": "2025-12-08T16:24:00",
+    "ticker": "CMP",
+    "name": "Compass Minerals International Inc",
+    "summary": "Compass Minerals International (CMP) reported a loss of $0.17 per share on revenue of $227.50 million for the  fiscal fourth quarter ended September 2025.  The consensus estimate was a loss of $0.15 per share on  revenue of $223.72 million. The Earnings Whisper number was a loss of $0.20 per share. The company beat expectations by 15.00% while revenue grew 8.96% on a year-over-year basis.<br /><br />Compass Minerals International Inc is a producer of minerals, including salt, sulfate of potash specialty fertilizer (‘SOP’) and magnesium chloride. It operates 12 production and packaging facilities.",
+    "subject": "Compass Minerals International Beat Expectations",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512083438",
+    "eps": -0.17,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.15,
+    "whisper": -0.2,
+    "highEstimate": -0.15,
+    "lowEstimate": -0.15,
+    "revenue": 227.5,
+    "revenueEstimate": 223.72,
+    "earningsGrowth": 0.7792207792207793,
+    "revenueGrowth": 0.08955938697318008,
+    "earningsSurprise": 0.15,
+    "revenueSurprise": 0.016896120150187734,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05766387382947265
   }
 ]
