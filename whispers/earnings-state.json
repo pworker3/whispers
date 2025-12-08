@@ -43102,5 +43102,29 @@
     "revenueSurprise": -0.818943367540859,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.15064702681264355
+  },
+  {
+    "epsDate": "2025-12-08T16:05:00",
+    "ticker": "YEXT",
+    "name": "Yext, Inc.",
+    "summary": "Yext (YEXT) reported earnings of $0.14 per share on  for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $112.81 million. The company beat consensus estimates by 250.00%.<br /><br />Yext  is the AI Search Company and is on a mission to transform the enterprise with AI search.",
+    "subject": "Yext Beat Consensus Estimates",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2512080534",
+    "eps": 0.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 999,
+    "highEstimate": 0.12,
+    "lowEstimate": 0.12,
+    "revenue": null,
+    "revenueEstimate": 112.81,
+    "earningsGrowth": 2.4,
+    "revenueGrowth": null,
+    "earningsSurprise": 2.5,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.15535260044745472
   }
 ]
