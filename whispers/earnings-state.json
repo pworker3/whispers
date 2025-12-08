@@ -43222,5 +43222,29 @@
     "revenueSurprise": 0.016896120150187734,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05766387382947265
+  },
+  {
+    "epsDate": "2025-12-08T16:30:00",
+    "ticker": "TOL",
+    "name": "Toll Brothers, Inc.",
+    "summary": "Toll Brothers (TOL) reported earnings of $4.58 per share on revenue of $3.42 billion for the  fiscal fourth quarter ended October 2025.  The consensus earnings estimate was $4.87 per share on  revenue of $3.32 billion. The Earnings Whisper number was $4.95 per share. The company missed expectations by 7.47% while revenue grew 2.70% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $1.77 billion to $1.89 billion and fiscal  revenue of $9.99 billion to $10.59 billion. The current consensus revenue estimate is $1.87 billion for the quarter ending January 31, 2026 and revenue of $11.01 billion for the year ending October 31, 2026.<br /><br />Toll Brothers Inc designs, builds, markets and arranges financing for single-family detached and attached homes in luxury residential communities.",
+    "subject": "Toll Brothers Missed Expectations",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2512088820",
+    "eps": 4.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.87,
+    "whisper": 4.95,
+    "highEstimate": 5.12,
+    "lowEstimate": 4.76,
+    "revenue": 3423.398,
+    "revenueEstimate": 3320,
+    "earningsGrowth": -0.01079913606911447,
+    "revenueGrowth": 0.02697975858131876,
+    "earningsSurprise": -0.07474747474747474,
+    "revenueSurprise": 0.03114397590361446,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07961050520098653
   }
 ]
