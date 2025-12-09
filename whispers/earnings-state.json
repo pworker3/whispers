@@ -43558,5 +43558,29 @@
     "revenueSurprise": -0.008653846153846154,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06568228105906314
+  },
+  {
+    "epsDate": "2025-12-09T08:00:00",
+    "ticker": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "summary": "Academy Sports and Outdoors (ASO) reported earnings of $1.03 per share on revenue of $1.38 billion for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $1.00 per share on  revenue of $1.40 billion. The Earnings Whisper number was $0.98 per share. The company beat expectations by 5.10% while revenue grew 3.00% on a year-over-year basis.<br /><br />The company  said it expects fiscal  2026 non-GAAP earnings of $5.65 to $6.15 per share on revenue of $6.025 billion to $6.20 billion. The company's previous guidance was earnings of $5.60 to $6.30 per share on revenue of $6.00 billion to $6.265 billion, and the current consensus earnings estimate is $5.68 per share on revenue of $6.10 billion for the year ending January 31, 2026.<br /><br />Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. ",
+    "subject": "Academy Sports and Outdoors Beat Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2512098977",
+    "eps": 1.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1,
+    "whisper": 0.98,
+    "highEstimate": 1.2,
+    "lowEstimate": 0.95,
+    "revenue": 1383.696,
+    "revenueEstimate": 1400,
+    "earningsGrowth": 0.11956521739130435,
+    "revenueGrowth": 0.030049206077434436,
+    "earningsSurprise": 0.05102040816326531,
+    "revenueSurprise": -0.011645714285714285,
+    "prevEarningsGrowth": 25,
+    "prevRevenueGrowth": 0.032833219279784116
   }
 ]
