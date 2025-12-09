@@ -43774,5 +43774,29 @@
     "revenueSurprise": -0.14221662468513854,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.37533137993581694
+  },
+  {
+    "epsDate": "2025-12-09T16:30:00",
+    "ticker": "CASY",
+    "name": "Casey’s General Stores, Inc.",
+    "summary": "Casey’s General Stores (CASY) reported earnings of $5.53 per share on revenue of $4.51 billion for the  fiscal second quarter ended October 2025.  The consensus earnings estimate was $4.92 per share on  revenue of $4.55 billion. The Earnings Whisper number was $5.22 per share. The company beat expectations by 5.94% while revenue grew 14.17% on a year-over-year basis.<br /><br />The company   said it now expects fiscal 2026 EBITDA of $1.38 billion to $1.40 billion for the year ending April 30, 2026.  The company's previous guidance was EBITDA of $1.32 billion to $1.34 billion for the year ending April 30, 2026.<br /><br />Casey' General Stores Inc, together with its subsidiaries, operates convenience stores under the Caseys General Store name in 14 Midwestern states. Its stores offers a selection of food, beverage, and tobacco products, as well as other nonfood items.",
+    "subject": "Casey’s General Stores Beat Expectations",
+    "quarter": " fiscal second quarter ended October 2025",
+    "fileName": "2512095639",
+    "eps": 5.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.92,
+    "whisper": 5.22,
+    "highEstimate": 4.94,
+    "lowEstimate": 4.9,
+    "revenue": 4506.084,
+    "revenueEstimate": 4550,
+    "earningsGrowth": 0.1402061855670103,
+    "revenueGrowth": 0.14171407461948007,
+    "earningsSurprise": 0.05938697318007663,
+    "revenueSurprise": -0.009651868131868132,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11454346630835507
   }
 ]
