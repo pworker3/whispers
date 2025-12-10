@@ -44254,5 +44254,29 @@
     "revenueSurprise": -0.019474004256612953,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.025721697435393237
+  },
+  {
+    "epsDate": "2025-12-10T16:30:00",
+    "ticker": "NDSN",
+    "name": "Nordson Corp.",
+    "summary": "Nordson (NDSN) reported earnings of $3.03 per share on revenue of $751.82 million for the  fiscal fourth quarter ended October 2025.  The consensus earnings estimate was $2.93 per share on  revenue of $769.00 million. The Earnings Whisper number was $2.96 per share. The company beat expectations by 2.36% while revenue grew 0.99% on a year-over-year basis.<br /><br />Nordson Corp engineers, manufactures and markets differentiated products and systems used for adhesive, coating, sealant and biomaterial dispensing, fluid management, testing and inspection, curing, and surface treatment.",
+    "subject": "Nordson Beat Expectations",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2512100295",
+    "eps": 3.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.93,
+    "whisper": 2.96,
+    "highEstimate": 2.95,
+    "lowEstimate": 2.92,
+    "revenue": 751.82,
+    "revenueEstimate": 769,
+    "earningsGrowth": 0.08992805755395683,
+    "revenueGrowth": 0.0098565176861227,
+    "earningsSurprise": 0.02364864864864865,
+    "revenueSurprise": -0.0223407022106632,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.12077466278922135
   }
 ]
