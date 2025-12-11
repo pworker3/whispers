@@ -44494,5 +44494,29 @@
     "revenueSurprise": -0.15477797513321492,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.36310760282509347
+  },
+  {
+    "epsDate": "2025-12-11T14:29:00",
+    "ticker": "LAKE",
+    "name": "Lakeland Industries, Inc.",
+    "summary": "Lakeland Industries (LAKE) reported a loss of $0.70 per share on revenue of $47.59 million for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $56.30 million. The company missed consensus estimates by 511.76% while revenue grew 3.99% on a year-over-year basis.<br /><br />The company  said it is withdrawing its previous guidance for fiscal 2026 revenue of $210.0 million to $220.0 million. The current consensus revenue estimate is $213.5 million for the year ending January 31, 2026.<br /><br />Lakeland Industries Inc manufactures & sells safety garments & accessories. It offers limited use / disposable protective clothing, high-end chemical protective suits, firefighting & heat protective apparel & reusable woven garments, among others.",
+    "subject": "Lakeland Industries Missed Consensus Estimates",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2512117817",
+    "eps": -0.7,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 999,
+    "highEstimate": 0.19,
+    "lowEstimate": 0.19,
+    "revenue": 47.586,
+    "revenueEstimate": 56.3,
+    "earningsGrowth": -71,
+    "revenueGrowth": 0.03988112147898866,
+    "earningsSurprise": -5.117647058823529,
+    "revenueSurprise": -0.15477797513321492,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.36310760282509347
   }
 ]
