@@ -44710,5 +44710,29 @@
     "revenueSurprise": -0.046608277520178605,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03309269282278451
+  },
+  {
+    "epsDate": "2025-12-11T16:46:00",
+    "ticker": "RH",
+    "name": "RH",
+    "summary": "RH (RH) reported earnings of $1.71 per share on revenue of $883.81 million for the  fiscal third quarter ended October 2025.  The consensus earnings estimate was $2.13 per share on  revenue of $882.95 million. The Earnings Whisper number was $2.08 per share. The company missed expectations by 17.79% while revenue grew 8.88% on a year-over-year basis.<br /><br />The company  said in its <a href=\"ttps://d1io3yog0oux5.cloudfront.net/_7ec15d93692ae2bc1d8de6064cbeff24/rh/db/3613/33682/shareholder_letter/RH+Q3+2025+Financial+Results+and+Shareholder+Letter.pdf\">shareholders letter</a> it expects  fourth quarter  revenue of $869.274 million to $877.398 million. The current consensus revenue estimate is $902.86 million for the quarter ending January 31, 2026.<br /><br />Restoration Hardware Holdings Inc, together with its subsidiaries, is a luxury home furnishings retailer that provides number of categories including furniture, lighting, textiles, bathware, decor, outdoor and garden, tableware & children’s furnishings.",
+    "subject": "RH Missed Expectations",
+    "quarter": " fiscal third quarter ended October 2025",
+    "fileName": "2512110633",
+    "eps": 1.71,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.13,
+    "whisper": 2.08,
+    "highEstimate": 2.32,
+    "lowEstimate": 1.98,
+    "revenue": 883.81,
+    "revenueEstimate": 882.95,
+    "earningsGrowth": -0.31048387096774194,
+    "revenueGrowth": 0.08879531668087497,
+    "earningsSurprise": -0.1778846153846154,
+    "revenueSurprise": 0.0009740075881986523,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0837649384382665
   }
 ]
