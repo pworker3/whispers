@@ -44806,5 +44806,29 @@
     "revenueSurprise": 0.15798362333674515,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.04744538243888863
+  },
+  {
+    "epsDate": "2025-12-12T11:10:00",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "summary": "Synopsys (SNPS) reported earnings of $2.90 per share on revenue of $2.25 billion for the  fiscal fourth quarter ended October 2025.  The consensus earnings estimate was $2.78 per share on  revenue of $2.25 billion. The Earnings Whisper number was $2.75 per share. The company beat expectations by 5.45% while revenue grew 37.83% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  non-GAAP earnings of $3.52 to $3.58 per share on revenue of $2.365 billion to $2.415 billion. The current consensus earnings estimate is $3.42 per share on revenue of $2.42 billion for the quarter ending January 31, 2026. The company said it expects fiscal  2026 non-GAAP earnings of $14.32 to $14.40 per share on revenue of $9.56 billion to $9.66 billion. The current consensus earnings estimate is $14.11 per share on revenue of $9.63 billion for the year ending October 31, 2026.<br /><br />Synopsys Inc is a provider of software, intellectual property and services used to design integrated circuits and electronics systems. It also provides software & services used to develop electronic systems that incorporate chips.",
+    "subject": "Synopsys Beat Expectations",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2512124959",
+    "eps": 2.9,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.78,
+    "whisper": 2.75,
+    "highEstimate": 2.81,
+    "lowEstimate": 2.78,
+    "revenue": 2254.86,
+    "revenueEstimate": 2250,
+    "earningsGrowth": 0.17886178861788618,
+    "revenueGrowth": 0.3782880782598384,
+    "earningsSurprise": 0.05454545454545454,
+    "revenueSurprise": 0.00216,
+    "prevEarningsGrowth": 1.5340314136125655,
+    "prevRevenueGrowth": 0.14025111600925186
   }
 ]
