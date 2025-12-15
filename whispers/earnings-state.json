@@ -44854,5 +44854,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.09146810146041506
+  },
+  {
+    "epsDate": "2025-12-15T07:30:00",
+    "ticker": "QIPT",
+    "name": "Quipt Home Medical Corp.",
+    "summary": "Quipt Home Medical (QIPT) reported a loss of $0.08 per share on revenue of $68.30 million for the  fiscal fourth quarter ended September 2025.  The consensus revenue estimate was  revenue of $70.00 million. Revenue grew 11.36% on a year-over-year basis.<br /><br />The Company provides in-home monitoring and disease management services including end-to-end respiratory solutions for patients in the United States healthcare market. ",
+    "subject": "Quipt Home Medical Reported Earnings",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512152173",
+    "eps": -0.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 68.3,
+    "revenueEstimate": 70,
+    "earningsGrowth": -0.14285714285714285,
+    "revenueGrowth": 0.1136111654601187,
+    "earningsSurprise": null,
+    "revenueSurprise": -0.024285714285714285,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.08876451920521519
   }
 ]
