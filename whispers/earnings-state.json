@@ -45022,5 +45022,29 @@
     "revenueSurprise": 0.08535631421942327,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.18032474699581824
+  },
+  {
+    "epsDate": "2025-12-16T16:30:00",
+    "ticker": "LEN",
+    "name": "Lennar Corp.",
+    "summary": "Lennar (LEN) reported earnings of $2.03 per share on  for the  fiscal fourth quarter ended November 2025.  The consensus earnings estimate was $2.23 per share on  revenue of $9.15 billion. The Earnings Whisper number was $2.18 per share. The company missed expectations by 6.88%.<br /><br />Lennar Corporation is one of the nation's leading builders of quality homes for all generations. Lennar builds affordable, move-up and active adult homes primarily under the Lennar brand name. ",
+    "subject": "Lennar Missed Expectations",
+    "quarter": " fiscal fourth quarter ended November 2025",
+    "fileName": "2512168176",
+    "eps": 2.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.23,
+    "whisper": 2.18,
+    "highEstimate": 2.78,
+    "lowEstimate": 2.19,
+    "revenue": null,
+    "revenueEstimate": 9150,
+    "earningsGrowth": -0.49627791563275436,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.06880733944954129,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.06433318797855829
   }
 ]
