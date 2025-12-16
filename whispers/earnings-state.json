@@ -44998,5 +44998,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-12-16T16:16:00",
+    "ticker": "WOR",
+    "name": "Worthington Industries, Inc.",
+    "summary": "Worthington Industries (WOR) reported earnings of $0.65 per share on revenue of $327.45 million for the  fiscal second quarter ended November 2025.  The consensus earnings estimate was $0.72 per share on  revenue of $301.70 million. The company missed consensus estimates by 9.72% while revenue grew 19.49% on a year-over-year basis.<br /><br />Worthington Industries Inc is a metal manufacturing company. It is engaged in steel processing including design & manufacturing steel custom platforms, racks & pallets; manufacturing pressure cylinders including CNG & LPG; & manufacturing engineered cabs.",
+    "subject": "Worthington Industries Missed Consensus Estimates",
+    "quarter": " fiscal second quarter ended November 2025",
+    "fileName": "2512163190",
+    "eps": 0.65,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.72,
+    "whisper": 999,
+    "highEstimate": 0.71,
+    "lowEstimate": 0.71,
+    "revenue": 327.452,
+    "revenueEstimate": 301.7,
+    "earningsGrowth": 0.08333333333333333,
+    "revenueGrowth": 0.19487969173058536,
+    "earningsSurprise": -0.09722222222222222,
+    "revenueSurprise": 0.08535631421942327,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.18032474699581824
   }
 ]
