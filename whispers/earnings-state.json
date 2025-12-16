@@ -44974,5 +44974,29 @@
     "revenueSurprise": -0.029805743243243244,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.06992705781003962
+  },
+  {
+    "epsDate": "2025-12-15T16:07:00",
+    "ticker": "ABVX",
+    "name": "ABIVAX Société Anonyme",
+    "summary": "ABIVAX Société Anonyme (ABVX) reported a loss of $2.45 per share on revenue of $0.00 million for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $1.62 million.<br /><br />Abivax is a clinical-stage biotechnology company focused on developing therapeutics that harness the body’s natural regulatory mechanisms to stabilize the immune response in patients with chronic inflammatory diseases",
+    "subject": "ABIVAX Société Anonyme Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512155064",
+    "eps": -2.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 0,
+    "revenueEstimate": 1.62,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": null,
+    "revenueSurprise": -1,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
