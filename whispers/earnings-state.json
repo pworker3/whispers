@@ -44926,5 +44926,29 @@
     "revenueSurprise": -0.98,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-12-16T06:00:00",
+    "ticker": "OGI",
+    "name": "OrganiGram",
+    "summary": "OrganiGram (OGI) reported a loss of $0.20 per share on revenue of $56.91 million for the  fiscal fourth quarter ended September 2025.  The consensus estimate was a loss of $0.01 per share on  revenue of $53.14 million. The company missed consensus estimates by 1,900.00% while revenue grew 73.67% on a year-over-year basis.<br /><br />Organigram Holdings Inc. is a NASDAQ Global Select and TSX listed company whose wholly owned subsidiary, Organigram Inc., is a licensed producer of cannabis and cannabis-derived products in Canada.",
+    "subject": "OrganiGram Missed Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512169580",
+    "eps": -0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.01,
+    "whisper": 999,
+    "highEstimate": -0.01,
+    "lowEstimate": -0.01,
+    "revenue": 56.905,
+    "revenueEstimate": 53.14,
+    "earningsGrowth": -4,
+    "revenueGrowth": 0.7366557817316203,
+    "earningsSurprise": -19,
+    "revenueSurprise": 0.07085058336469703,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.704865044985005
   }
 ]
