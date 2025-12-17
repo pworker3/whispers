@@ -45094,5 +45094,29 @@
     "revenueSurprise": 0.011145374449339208,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.061980708623818166
+  },
+  {
+    "epsDate": "2025-12-17T07:30:00",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "summary": "Jabil (JBL) reported earnings of $2.85 per share on revenue of $8.31 billion for the  fiscal first quarter ended November 2025.  The consensus earnings estimate was $2.74 per share on  revenue of $8.01 billion. The Earnings Whisper number was $2.87 per share. The company missed expectations by 0.70% while revenue grew 18.74% on a year-over-year basis.<br /><br />The company  said it expects second-quarter non-GAAP earnings of $2.27 to $2.67 per share on revenue of $7.50 billion to $8.00 billion. The current consensus earnings estimate is $2.56 per share on revenue of $7.50 billion for the quarter ending February 28, 2026. The company also said it now expects fiscal  2026 non-GAAP earnings of approximately $11.55 per share on revenue of approximately $32.40 billion. The company's previous guidance was earnings of approximately $11.00 per share on revenue of approximately $31.30 billion, and the current consensus earnings estimate is $11.12 per share on revenue of $31.32 billion for the year ending August 31, 2026.<br /><br />Jabil Circuit Inc, together with its subsidiaries is a provider of electronic manufacturing services and solutions. It provides electronic design, production &product management services to companies in the aerospace, automotive, & among others.",
+    "subject": "Jabil Missed Expectations",
+    "quarter": " fiscal first quarter ended November 2025",
+    "fileName": "2512179938",
+    "eps": 2.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.74,
+    "whisper": 2.87,
+    "highEstimate": 2.75,
+    "lowEstimate": 2.68,
+    "revenue": 8305,
+    "revenueEstimate": 8010,
+    "earningsGrowth": 0.7065868263473054,
+    "revenueGrowth": 0.18744638261366886,
+    "earningsSurprise": -0.006968641114982578,
+    "revenueSurprise": 0.03682896379525593,
+    "prevEarningsGrowth": 21.91304347826087,
+    "prevRevenueGrowth": 0.18495117748420448
   }
 ]
