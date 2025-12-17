@@ -45238,5 +45238,29 @@
     "revenueSurprise": 0.014712912306793434,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10934416715031921
+  },
+  {
+    "epsDate": "2025-12-17T16:30:00",
+    "ticker": "EPAC",
+    "name": "Enerpac Tool Group",
+    "summary": "Enerpac Tool Group (EPAC) reported earnings of $0.36 per share on revenue of $144.21 million for the  fiscal first quarter ended November 2025.  The consensus earnings estimate was $0.37 per share on  revenue of $148.90 million. The company missed consensus estimates by 2.70% while revenue fell 0.68% compared to the same quarter a year ago.<br /><br />The company  said it continues to expect fiscal  2026  earnings of $1.85 to $2.00 per share on revenue of $635.0 million to $655.0 million. The current consensus earnings estimate is $1.91 per share on revenue of $644.00 million for the year ending August 31, 2026.<br /><br />Enerpac Tool Group is a premier industrial tools and services company serving a broad and diverse set of customers in more than 100 countries. The Company’s businesses are global leaders in high pressure hydraulic tools, controlled force products and solutions for precise positioning of heavy loads that help customers safely and reliably tackle some of the most challenging jobs around the world. The Company was founded in 1910 and is headquartered in Menomonee Falls, Wisconsin.",
+    "subject": "Enerpac Tool Group Missed Consensus Estimates",
+    "quarter": " fiscal first quarter ended November 2025",
+    "fileName": "2512174000",
+    "eps": 0.36,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.37,
+    "whisper": 999,
+    "highEstimate": 0.42,
+    "lowEstimate": 0.42,
+    "revenue": 144.208,
+    "revenueEstimate": 148.9,
+    "earningsGrowth": -0.1,
+    "revenueGrowth": -0.006804595167910962,
+    "earningsSurprise": -0.02702702702702703,
+    "revenueSurprise": -0.03151108126259235,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05545194500800182
   }
 ]
