@@ -45142,5 +45142,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2025-12-17T08:30:00",
+    "ticker": "TTC",
+    "name": "Toro Company",
+    "summary": "Toro (TTC) reported earnings of $0.91 per share on revenue of $1.07 billion for the  fiscal fourth quarter ended October 2025.  The consensus earnings estimate was $0.86 per share on  revenue of $1.04 billion. The company beat consensus estimates by 5.81% while revenue fell 0.91% compared to the same quarter a year ago.<br /><br />The company  said it expects fiscal  2026  earnings of $4.35 to $4.50 per share on revenue of $4.60 billion to $4.74 billion. The current consensus earnings estimate is $4.67 per share on revenue of $4.66 billion for the year ending October 31, 2026.<br /><br />The Toro Company is a leading worldwide provider of innovative solutions for the outdoor environment including turf and landscape maintenance, snow and ice management, underground utility construction, rental and specialty construction, and irrigation and outdoor lighting solutions. ",
+    "subject": "Toro Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2512171416",
+    "eps": 0.91,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.86,
+    "whisper": 999,
+    "highEstimate": 0.86,
+    "lowEstimate": 0.85,
+    "revenue": 1066.2,
+    "revenueEstimate": 1040,
+    "earningsGrowth": -0.042105263157894736,
+    "revenueGrowth": -0.009107806691449814,
+    "earningsSurprise": 0.05813953488372093,
+    "revenueSurprise": 0.02519230769230769,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.022128100959460627
   }
 ]
