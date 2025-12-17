@@ -45166,5 +45166,29 @@
     "revenueSurprise": 0.02519230769230769,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.022128100959460627
+  },
+  {
+    "epsDate": "2025-12-17T16:01:00",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "summary": "Micron Technology (MU) reported earnings of $4.78 per share on  for the  fiscal first quarter ended November 2025.  The consensus earnings estimate was $3.89 per share on  revenue of $12.54 billion. The Earnings Whisper number was $4.00 per share. The company beat expectations by 19.50%.<br /><br />The company  said it expects  second quarter   earnings of $8.22 to $8.62 per share on revenue of $18.30 billion to $19.10 billion. The current consensus earnings estimate is $4.29 per share on revenue of $13.09 billion for the quarter ending February 28, 2026.<br /><br />Micron Technology Inc is a manufacturer and marketer of DRAM, NAND Flash memory, CMOS image sensors and other semiconductor components. It has two segments, Memory and Imaging.",
+    "subject": "Micron Technology Beat Expectations",
+    "quarter": " fiscal first quarter ended November 2025",
+    "fileName": "2512173942",
+    "eps": 4.78,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.89,
+    "whisper": 4,
+    "highEstimate": 3.86,
+    "lowEstimate": 3.74,
+    "revenue": null,
+    "revenueEstimate": 12540,
+    "earningsGrowth": 1.9506172839506173,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.195,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 9.694444444444445,
+    "prevRevenueGrowth": 0.46
   }
 ]
