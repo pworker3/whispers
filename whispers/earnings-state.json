@@ -45118,5 +45118,29 @@
     "revenueSurprise": 0.03682896379525593,
     "prevEarningsGrowth": 21.91304347826087,
     "prevRevenueGrowth": 0.18495117748420448
+  },
+  {
+    "epsDate": "2025-12-17T07:30:00",
+    "ticker": "SPIR",
+    "name": "Spire Corp.",
+    "summary": "Spire (SPIR) reported a loss of $0.52 per share on revenue of $12.67 million for the  third quarter ended September 2025. . Revenue fell 55.65% compared to the same quarter a year ago.<br /><br />The company  said it expects  a fourth quarter  non-GAAP loss of $0.47 to $0.44 per share on revenue of $14.80 million to $16.80 million. There are currently no estimates for the quarter ending December 31, 2025.<br /><br />Spire is a leading global provider of space-based data, analytics, and space services, offering access to unique datasets and powerful insights about Earth from the ultimate vantage point so that organizations can make decisions with confidence, accuracy, and speed.",
+    "subject": "Spire Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512170364",
+    "eps": -0.52,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 12.67,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.1746031746031746,
+    "revenueGrowth": -0.5564967796135536,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
