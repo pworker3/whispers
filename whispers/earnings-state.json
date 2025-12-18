@@ -45430,5 +45430,29 @@
     "revenueSurprise": 0.22035106966538673,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.0520992690804012
+  },
+  {
+    "epsDate": "2025-12-18T09:21:00",
+    "ticker": "SDA",
+    "name": "SunCar Technology Group Inc.",
+    "summary": "SunCar Technology Group (SDA) reported breakeven results on revenue of $115.78 million for the  third quarter ended September 2025.  The consensus earnings estimate was $0.05 per share on  revenue of $143.50 million. The company missed consensus estimates by 100.00%.<br /><br />SunCar is transforming the customer journey for auto services and auto insurance in China, the largest passenger vehicle market in the world. ",
+    "subject": "SunCar Technology Group Missed Consensus Estimates",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512184513",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.05,
+    "whisper": 999,
+    "highEstimate": 0.06,
+    "lowEstimate": 0.06,
+    "revenue": 115.775,
+    "revenueEstimate": 143.5,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -1,
+    "revenueSurprise": -0.19320557491289198,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
