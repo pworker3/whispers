@@ -45286,5 +45286,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07256205419783955
+  },
+  {
+    "epsDate": "2025-12-18T06:50:00",
+    "ticker": "KMX",
+    "name": "CarMax, Inc.",
+    "summary": "CarMax (KMX) reported earnings of $0.43 per share on  for the  fiscal third quarter ended November 2025.  The consensus earnings estimate was $0.32 per share on  revenue of $5.77 billion. The Earnings Whisper number was $0.29 per share. The company beat expectations by 48.28%.<br /><br />CarMax, the nation’s largest retailer of used autos, revolutionized the automotive retail industry by driving integrity, honesty and transparency in every interaction. ",
+    "subject": "CarMax Beat Expectations",
+    "quarter": " fiscal third quarter ended November 2025",
+    "fileName": "2512188199",
+    "eps": 0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.32,
+    "whisper": 0.29,
+    "highEstimate": 0.82,
+    "lowEstimate": 0.24,
+    "revenue": null,
+    "revenueEstimate": 5770,
+    "earningsGrowth": -0.4691358024691358,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.4827586206896552,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05971957911630507
   }
 ]
