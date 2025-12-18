@@ -45358,5 +45358,29 @@
     "revenueSurprise": 0.007175324675324675,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1043525571273123
+  },
+  {
+    "epsDate": "2025-12-18T07:30:00",
+    "ticker": "FCEL",
+    "name": "FuelCell Energy, Inc.",
+    "summary": "FuelCell Energy (FCEL) reported a loss of $0.85 per share on  for the  fiscal fourth quarter ended October 2025.  The consensus estimate was a loss of $0.97 per share on  revenue of $47.88 million. The Earnings Whisper number was a loss of $0.92 per share. The company beat expectations by 7.61%.<br /><br />FuelCell Energy, Inc. is a global leader in sustainable energy technologies that address some of the world’s most critical challenges around energy, safety, and global urbanization.",
+    "subject": "FuelCell Energy Beat Expectations",
+    "quarter": " fiscal fourth quarter ended October 2025",
+    "fileName": "2512184199",
+    "eps": -0.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.97,
+    "whisper": -0.92,
+    "highEstimate": -0.85,
+    "lowEstimate": -1.35,
+    "revenue": null,
+    "revenueEstimate": 47.88,
+    "earningsGrowth": 0.5952380952380952,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.07608695652173914,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9726946613209538
   }
 ]
