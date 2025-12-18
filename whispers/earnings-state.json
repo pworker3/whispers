@@ -45406,5 +45406,29 @@
     "revenueSurprise": 0.014489855072463769,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08655905231359133
+  },
+  {
+    "epsDate": "2025-12-18T09:00:00",
+    "ticker": "ISSC",
+    "name": "Innovative Solutions & Support, Inc.",
+    "summary": "Innovative Solutions & Support (ISSC) reported earnings of $0.34 per share on revenue of $22.25 million for the  fiscal fourth quarter ended September 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $18.23 million. The company beat consensus estimates by 183.33% while revenue grew 44.60% on a year-over-year basis.<br /><br />Innovative Solutions & Support, Inc. is a systems integrator that designs and manufactures flight guidance and cockpit display systems for Original Equipment Manufacturers (OEM’s) and retrofit applications. ",
+    "subject": "Innovative Solutions & Support Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended September 2025",
+    "fileName": "2512180508",
+    "eps": 0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 999,
+    "highEstimate": 0.17,
+    "lowEstimate": 0.06,
+    "revenue": 22.247,
+    "revenueEstimate": 18.23,
+    "earningsGrowth": 0.6190476190476191,
+    "revenueGrowth": 0.4460188495287618,
+    "earningsSurprise": 1.8333333333333333,
+    "revenueSurprise": 0.22035106966538673,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.0520992690804012
   }
 ]
