@@ -45790,5 +45790,29 @@
     "revenueSurprise": 0.017672955974842766,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0031437035245752976
+  },
+  {
+    "epsDate": "2025-12-19T09:15:00",
+    "ticker": "CCL",
+    "name": "Carnival Corp.",
+    "summary": "Carnival (CCL) reported earnings of $0.34 per share on  for the  fiscal fourth quarter ended November 2025.  The consensus earnings estimate was $0.25 per share on  revenue of $6.36 billion. The Earnings Whisper number was $0.30 per share. The company beat expectations by 13.33%.<br /><br />The company  said it expects  first quarter  earnings of approximately $0.17 per share and fiscal 2026 earnings of approximately $2.48 per share. The current consensus estimate is earnings of $0.16 per share for the quarter ending February 28, 2026 and earnings of $2.39 per share for the year ending November 30, 2026.<br /><br />Carnival Corporation & plc is the largest global cruise company, and among the largest leisure travel companies",
+    "subject": "Carnival Beat Expectations",
+    "quarter": " fiscal fourth quarter ended November 2025",
+    "fileName": "2512191422",
+    "eps": 0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.25,
+    "whisper": 0.3,
+    "highEstimate": 0.28,
+    "lowEstimate": 0.23,
+    "revenue": null,
+    "revenueEstimate": 6360,
+    "earningsGrowth": 1.4285714285714286,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.13333333333333333,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03254812563323202
   }
 ]
