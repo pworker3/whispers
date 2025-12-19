@@ -45718,5 +45718,29 @@
     "revenueSurprise": 0.0041500866551126515,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05971957911630507
+  },
+  {
+    "epsDate": "2025-12-19T07:30:00",
+    "ticker": "CAG",
+    "name": "Conagra Brands, Inc.",
+    "summary": "Conagra Brands (CAG) reported earnings of $0.45 per share on revenue of $2.98 billion for the  fiscal second quarter ended November 2025.  The consensus earnings estimate was $0.44 per share on  revenue of $3.00 billion. The Earnings Whisper number was $0.46 per share. The company missed expectations by 2.17% while revenue fell 6.76% compared to the same quarter a year ago.<br /><br />The company  said it continues to expect fiscal  2026  earnings of $1.70 to $1.85 per share on revenue of $11.50 billion to $11.73 billion. The current consensus earnings estimate is $1.75 per share on revenue of $11.27 billion for the year ending May 31, 2026.<br /><br />ConAgra Foods Inc is a packaged foods company. It sells its products through grocery, convenience, mass merchandise, club, and drug stores.",
+    "subject": "Conagra Brands Missed Expectations",
+    "quarter": " fiscal second quarter ended November 2025",
+    "fileName": "2512191029",
+    "eps": 0.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.44,
+    "whisper": 0.46,
+    "highEstimate": 0.45,
+    "lowEstimate": 0.43,
+    "revenue": 2979.1,
+    "revenueEstimate": 3000,
+    "earningsGrowth": -0.35714285714285715,
+    "revenueGrowth": -0.06760351788676411,
+    "earningsSurprise": -0.021739130434782608,
+    "revenueSurprise": -0.006966666666666667,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.058070056173745034
   }
 ]
