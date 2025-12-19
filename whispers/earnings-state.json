@@ -45670,5 +45670,29 @@
     "revenueSurprise": -0.022068965517241378,
     "prevEarningsGrowth": 2,
     "prevRevenueGrowth": -0.10620689655172413
+  },
+  {
+    "epsDate": "2025-12-19T07:00:00",
+    "ticker": "WGO",
+    "name": "Winnebago Industries, Inc.",
+    "summary": "Winnebago Industries (WGO) reported earnings of $0.38 per share on revenue of $702.70 million for the  fiscal first quarter ended November 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $631.25 million. The Earnings Whisper number was $0.20 per share. The company beat expectations by 90.00% while revenue grew 12.32% on a year-over-year basis.<br /><br />Winnebago Industries Inc manufactures recreational vehicles. Its products include OEM parts, extruded aluminum and component products for manufacturers and commercial vehicles.",
+    "subject": "Winnebago Industries Beat Expectations",
+    "quarter": " fiscal first quarter ended November 2025",
+    "fileName": "2512194922",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 0.2,
+    "highEstimate": 0.21,
+    "lowEstimate": 0.04,
+    "revenue": 702.7,
+    "revenueEstimate": 631.25,
+    "earningsGrowth": 13.666666666666666,
+    "revenueGrowth": 0.12324168797953965,
+    "earningsSurprise": 0.9,
+    "revenueSurprise": 0.11318811881188119,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07823553890969621
   }
 ]
