@@ -45910,5 +45910,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.2500118474054182
+  },
+  {
+    "epsDate": "2025-12-29T08:10:00",
+    "ticker": "CODI",
+    "name": "Compass Diversified Holdings",
+    "summary": "Compass Diversified (CODI) reported a loss of $0.07 per share on revenue of $478.69 million for the  third quarter ended September 2025.  The consensus revenue estimate was  revenue of $578.68 million. Revenue fell 11.78% compared to the same quarter a year ago.<br /><br />Compass Diversified Holdings acquires controlling interests in and actively manage businesses that the company thinks operate in industries with long-term macroeconomic growth opportunities.",
+    "subject": "Compass Diversified Reported Earnings",
+    "quarter": " third quarter ended September 2025",
+    "fileName": "2512297676",
+    "eps": -0.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 0.57,
+    "lowEstimate": 0.28,
+    "revenue": 478.69,
+    "revenueEstimate": 578.68,
+    "earningsGrowth": -1.0843373493975903,
+    "revenueGrowth": -0.11777661054746173,
+    "earningsSurprise": null,
+    "revenueSurprise": -0.17278979747010437,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
