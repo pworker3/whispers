@@ -45934,5 +45934,29 @@
     "revenueSurprise": -0.17278979747010437,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-01-06T06:00:00",
+    "ticker": "ANGO",
+    "name": "AngioDynamics",
+    "summary": "AngioDynamics (ANGO) reported breakeven results on  for the  fiscal second quarter ended November 2025.  The consensus estimate was a loss of $0.10 per share on  revenue of $76.05 million. The Earnings Whisper number was a loss of $0.06 per share. The company beat expectations by 100.00%.<br /><br />AngioDynamics Inc designs, manufactures and sells medical, surgical and diagnostic devices used by professional healthcare providers for vascular access, for the treatment of peripheral vascular disease and for use in oncology and surgical settings.",
+    "subject": "AngioDynamics Beat Expectations",
+    "quarter": " fiscal second quarter ended November 2025",
+    "fileName": "2601060585",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.1,
+    "whisper": -0.06,
+    "highEstimate": -0.1,
+    "lowEstimate": -0.1,
+    "revenue": null,
+    "revenueEstimate": 76.05,
+    "earningsGrowth": 1,
+    "revenueGrowth": null,
+    "earningsSurprise": 1,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.12179401698004179
   }
 ]
