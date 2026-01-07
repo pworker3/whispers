@@ -46030,5 +46030,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.04600513958649691
+  },
+  {
+    "epsDate": "2026-01-07T07:30:00",
+    "ticker": "ACI",
+    "name": "Albertsons Companies, Inc.",
+    "summary": "Albertsons Companies (ACI) reported earnings of $0.72 per share on  for the  fiscal third quarter ended November 2025.  The consensus earnings estimate was $0.63 per share on  revenue of $19.16 billion. The Earnings Whisper number was $0.67 per share. The company beat expectations by 7.46%.<br /><br />The company  said it now expects fiscal 2026 non-GAAP earnings of $2.08 to $2.16 per share. The company's previous guidance was earnings of $2.06 to $2.19 per share, and the current consensus earnings estimate is $2.15 per share for the year ending February 28, 2026.<br /><br />Albertsons Companies is one of the largest food and drug retailers in the United States, with both a strong local presence and national scale. ",
+    "subject": "Albertsons Companies Beat Expectations",
+    "quarter": " fiscal third quarter ended November 2025",
+    "fileName": "2601076352",
+    "eps": 0.72,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.63,
+    "whisper": 0.67,
+    "highEstimate": 0.7,
+    "lowEstimate": 0.59,
+    "revenue": null,
+    "revenueEstimate": 19160,
+    "earningsGrowth": 0.058823529411764705,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.07462686567164178,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.01963722610031534
   }
 ]
