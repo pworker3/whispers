@@ -46054,5 +46054,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.01963722610031534
+  },
+  {
+    "epsDate": "2026-01-07T08:00:00",
+    "ticker": "UNF",
+    "name": "UniFirst Corporation",
+    "summary": "UniFirst (UNF) reported earnings of $1.98 per share on revenue of $621.32 million for the  fiscal first quarter ended November 2025.  The consensus earnings estimate was $2.05 per share on  revenue of $615.00 million. The company missed consensus estimates by 3.41% while revenue grew 2.71% on a year-over-year basis.<br /><br />UniFirst Corp together with its subsidiaries is engaged in designing, manufacturing, personalizing, renting, cleaning, delivering and selling uniforms & protective clothing, including shirts, jackets, coveralls, lab coats and specialized protective wear.",
+    "subject": "UniFirst Missed Consensus Estimates",
+    "quarter": " fiscal first quarter ended November 2025",
+    "fileName": "2601071251",
+    "eps": 1.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.05,
+    "whisper": 999,
+    "highEstimate": 2.05,
+    "lowEstimate": 2.05,
+    "revenue": 621.318,
+    "revenueEstimate": 615,
+    "earningsGrowth": -0.175,
+    "revenueGrowth": 0.027128092205756908,
+    "earningsSurprise": -0.03414634146341464,
+    "revenueSurprise": 0.010273170731707318,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03972700576838624
   }
 ]
