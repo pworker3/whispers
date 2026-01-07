@@ -46294,5 +46294,29 @@
     "revenueSurprise": 0.04785571142284569,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.016416938110749187
+  },
+  {
+    "epsDate": "2026-01-07T16:48:00",
+    "ticker": "APLD",
+    "name": "Applied Digital Corporation",
+    "summary": "Applied Digital (APLD) reported breakeven results on  for the  fiscal second quarter ended November 2025.  The consensus estimate was a loss of $0.09 per share on  revenue of $75.95 million. The Earnings Whisper number was a loss of $0.10 per share. The company beat expectations by 100.00%.<br /><br />Applied Digital designs, develops and operates next-generation data centers across North America to provide digital infrastructure solutions to the rapidly growing high-performance computing (HPC) industry. ",
+    "subject": "Applied Digital Beat Expectations",
+    "quarter": " fiscal second quarter ended November 2025",
+    "fileName": "2601071797",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.09,
+    "whisper": -0.1,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.15,
+    "revenue": null,
+    "revenueEstimate": 75.95,
+    "earningsGrowth": 1,
+    "revenueGrowth": null,
+    "earningsSurprise": 1,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05785450711649974
   }
 ]
