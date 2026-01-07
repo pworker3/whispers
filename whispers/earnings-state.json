@@ -46006,5 +46006,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 1,
     "prevRevenueGrowth": 0.08604908275161659
+  },
+  {
+    "epsDate": "2026-01-07T06:32:00",
+    "ticker": "APOG",
+    "name": "Apogee Enterprises, Inc.",
+    "summary": "Apogee Enterprises (APOG) reported earnings of $1.02 per share on  for the  fiscal third quarter ended November 2025.  The consensus earnings estimate was $1.03 per share on  revenue of $350.06 million. The Earnings Whisper number was $1.05 per share. The company missed expectations by 2.86%.<br /><br />Apogee Enterprises Inc provides technologies, involving the design and development of value-added glass products, services and systems.",
+    "subject": "Apogee Enterprises Missed Expectations",
+    "quarter": " fiscal third quarter ended November 2025",
+    "fileName": "2601075677",
+    "eps": 1.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.03,
+    "whisper": 1.05,
+    "highEstimate": 1.04,
+    "lowEstimate": 1.02,
+    "revenue": null,
+    "revenueEstimate": 350.06,
+    "earningsGrowth": -0.14285714285714285,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02857142857142857,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04600513958649691
   }
 ]
