@@ -46510,5 +46510,29 @@
     "revenueSurprise": 0.07128349384952799,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03583543813720248
+  },
+  {
+    "epsDate": "2026-01-08T08:00:00",
+    "ticker": "NTIC",
+    "name": "Northern Technologies International Corporation",
+    "summary": "Northern Technologies International (NTIC) reported earnings of $0.04 per share on revenue of $23.31 million for the .  The consensus earnings estimate was $0.05 per share on  revenue of $22.10 million. The company missed consensus estimates by 20.00% while revenue grew 9.24% on a year-over-year basis.<br /><br />Northern Technologies International Corporation develops and markets proprietary environmentally beneficial products and services in over 60 countries either directly or via a network of subsidiaries, joint ventures, independent distributors and agents. ",
+    "subject": "Northern Technologies International Missed Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601080035",
+    "eps": 0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.05,
+    "whisper": 999,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.05,
+    "revenue": 23.309,
+    "revenueEstimate": 22.1,
+    "earningsGrowth": -0.42857142857142855,
+    "revenueGrowth": 0.09237041897085013,
+    "earningsSurprise": -0.2,
+    "revenueSurprise": 0.054705882352941174,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.04424172341427898
   }
 ]
