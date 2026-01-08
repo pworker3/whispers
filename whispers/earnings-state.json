@@ -46630,5 +46630,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.27872744539411204
+  },
+  {
+    "epsDate": "2026-01-08T16:05:00",
+    "ticker": "AEHR",
+    "name": "Aehr Test Systems",
+    "summary": "Aehr Test Systems (AEHR) reported a loss of $0.04 per share on revenue of $9.88 million for the .  The consensus estimate was a loss of $0.08 per share on  revenue of $11.05 million. The Earnings Whisper number was a loss of $0.06 per share. The company beat expectations by 33.33% while revenue fell 26.53% compared to the same quarter a year ago.<br /><br />The company  said it expects fiscal  a 2026 non-GAAP loss of $0.13 to $0.09 per share on revenue of $45.85 million to $50.85 million. The current consensus earnings estimate is $0.06 per share on revenue of $59.28 million for the year ending May 31, 2026.<br /><br />Aehr Test Systems is a worldwide provider of test systems for burning-in and testing logic, optical and memory integrated circuits and has installed over 2,500 systems worldwide.",
+    "subject": "Aehr Test Systems Beat Expectations",
+    "quarter": "",
+    "fileName": "2601085687",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.08,
+    "whisper": -0.06,
+    "highEstimate": -0.08,
+    "lowEstimate": -0.08,
+    "revenue": 9.884,
+    "revenueEstimate": 11.05,
+    "earningsGrowth": -3,
+    "revenueGrowth": -0.265293986471419,
+    "earningsSurprise": 0.3333333333333333,
+    "revenueSurprise": -0.10552036199095023,
+    "prevEarningsGrowth": -2.6666666666666665,
+    "prevRevenueGrowth": -0.1638844424117692
   }
 ]
