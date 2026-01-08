@@ -46318,5 +46318,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05785450711649974
+  },
+  {
+    "epsDate": "2026-01-08T06:00:00",
+    "ticker": "AYI",
+    "name": "Acuity Brands, Inc.",
+    "summary": "Acuity Brands (AYI) reported earnings of $4.69 per share on  for the .  The consensus earnings estimate was $4.55 per share on  revenue of $1.13 billion. The Earnings Whisper number was $4.67 per share. The company beat expectations by 0.43%.<br /><br />Acuity Brands Inc is engaged in designing, producing and distributing lighting solutions, components, and services for commercial, institutional, industrial, infrastructure, and residential applications throughout North America and international markets.",
+    "subject": "Acuity Brands Beat Expectations",
+    "quarter": "",
+    "fileName": "2601081947",
+    "eps": 4.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.55,
+    "whisper": 4.67,
+    "highEstimate": 4.52,
+    "lowEstimate": 4.39,
+    "revenue": null,
+    "revenueEstimate": 1130,
+    "earningsGrowth": 0.2779291553133515,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.004282655246252677,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 9.406976744186046,
+    "prevRevenueGrowth": 0.17126804223578418
   }
 ]
