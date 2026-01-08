@@ -46534,5 +46534,29 @@
     "revenueSurprise": 0.054705882352941174,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04424172341427898
+  },
+  {
+    "epsDate": "2026-01-08T16:05:00",
+    "ticker": "WDFC",
+    "name": "WD-40 Co.",
+    "summary": "WD-40 (WDFC) reported earnings of $1.28 per share on  for the .  The consensus earnings estimate was $1.36 per share. The company missed consensus estimates by 5.88%.<br /><br />WD-40 Co manufactures lubricants & cleaners. It offers multi-purpose maintenance products under the WD-40 brand for household, marine, automotive, construction, repair, sporting goods, gardening, and industrial applications.",
+    "subject": "WD-40 Missed Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601081987",
+    "eps": 1.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.36,
+    "whisper": 999,
+    "highEstimate": 1.36,
+    "lowEstimate": 1.36,
+    "revenue": null,
+    "revenueEstimate": null,
+    "earningsGrowth": -0.07913669064748201,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.058823529411764705,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.047951484380509134
   }
 ]
