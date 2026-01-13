@@ -46750,5 +46750,29 @@
     "revenueSurprise": -0.05406427221172023,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.00019372336303758234
+  },
+  {
+    "epsDate": "2026-01-13T07:30:00",
+    "ticker": "CNXC",
+    "name": "Concentrix Corporation",
+    "summary": "Concentrix (CNXC) reported earnings of $2.95 per share on  for the  fiscal fourth quarter ended November 2025.  The consensus earnings estimate was $2.50 per share on  revenue of $2.54 billion. The company beat consensus estimates by 18.00%.<br /><br />The company  said it expects  first quarter  non-GAAP earnings of $2.57 to $2.69 per share on revenue of $2.475 billion to $2.500 billion. The current consensus earnings estimate is $2.90 per share on revenue of $2.49 billion for the quarter ending February 28, 2026. The company also said it expects fiscal  2026 non-GAAP earnings of $11.48 to $12.07 per share on revenue of $10.035 billion to $10.180 billion. The current consensus earnings estimate is $12.25 per share on revenue of $10.11 billion for the year ending November 30, 2026.<br /><br />Concentrix Corporation (Nasdaq: CNXC), is a leading technology-enabled global business services company specializing in customer engagement and improving business performance for some of the world’s best brands including over 95 Global Fortune 500 clients and over 90 global disruptor clients. Every day, from more than 40 countries and across 6 continents, our staff delivers next generation customer experience and helps companies better connect with their customers. We create better business outcomes and help differentiate our clients through technology, design, data, process, and people. Concentrix provides services to clients in our key industry verticals: technology & consumer electronics; retail, travel & ecommerce; banking, financial services & insurance; healthcare; communications & media; automotive; and energy & public sector. ",
+    "subject": "Concentrix Beat Consensus Estimates",
+    "quarter": " fiscal fourth quarter ended November 2025",
+    "fileName": "2601134499",
+    "eps": 2.95,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.5,
+    "whisper": 999,
+    "highEstimate": 2.94,
+    "lowEstimate": 2.91,
+    "revenue": null,
+    "revenueEstimate": 2540,
+    "earningsGrowth": -0.0033783783783783786,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.18,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04014430688963614
   }
 ]
