@@ -46654,5 +46654,29 @@
     "revenueSurprise": -0.10552036199095023,
     "prevEarningsGrowth": -2.6666666666666665,
     "prevRevenueGrowth": -0.1638844424117692
+  },
+  {
+    "epsDate": "2026-01-13T06:30:00",
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "summary": "Delta Air Lines (DAL) reported earnings of $1.55 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.53 per share on  revenue of $15.45 billion. The Earnings Whisper number was $1.61 per share. The company missed expectations by 3.73%.<br /><br />Delta Air Lines Inc provides scheduled air transportation for passengers and cargo throughout the United States and around the world. The Company' business segments are airline and refinery.",
+    "subject": "Delta Air Lines Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601131847",
+    "eps": 1.55,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.53,
+    "whisper": 1.61,
+    "highEstimate": 1.7,
+    "lowEstimate": 1.45,
+    "revenue": null,
+    "revenueEstimate": 15450,
+    "earningsGrowth": -0.16216216216216217,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.037267080745341616,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0635325636282452
   }
 ]
