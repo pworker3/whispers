@@ -46942,5 +46942,29 @@
     "revenueSurprise": 0.46125,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.007293047925743512
+  },
+  {
+    "epsDate": "2026-01-14T16:05:00",
+    "ticker": "FUL",
+    "name": "H.B. Fuller Company",
+    "summary": "H.B. Fuller (FUL) reported earnings of $1.28 per share on revenue of $894.79 million for the  fiscal fourth quarter ended November 2025.  The consensus earnings estimate was $1.24 per share on  revenue of $901.69 million. The Earnings Whisper number was $1.26 per share. The company beat expectations by 1.59% while revenue fell 3.09% compared to the same quarter a year ago.<br /><br />The company  said it expects fiscal  2026  earnings of $4.35 to $4.70 per share on revenue of $3.47 billion to $3.54 billion. The current consensus earnings estimate is $4.69 per share on revenue of $3.57 billion for the year ending November 30, 2026.<br /><br />H.B. Fuller Company is a formulator, manufacturer and marketer of adhesives, sealants, paints and other specialty chemical products. The products of Company include H.B. Fuller, Swift, Advantra, Clarity, Sesame, TEC, Foster, Rakoll and Rapidex.",
+    "subject": "H.B. Fuller Beat Expectations",
+    "quarter": " fiscal fourth quarter ended November 2025",
+    "fileName": "2601147976",
+    "eps": 1.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.24,
+    "whisper": 1.26,
+    "highEstimate": 1.24,
+    "lowEstimate": 1.24,
+    "revenue": 894.788,
+    "revenueEstimate": 901.69,
+    "earningsGrowth": 0.391304347826087,
+    "revenueGrowth": -0.03086374290034269,
+    "earningsSurprise": 0.015873015873015872,
+    "revenueSurprise": -0.0076545154099524225,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.028198320781500055
   }
 ]
