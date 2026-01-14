@@ -46846,5 +46846,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01325993983916184
+  },
+  {
+    "epsDate": "2026-01-14T07:30:00",
+    "ticker": "UCB",
+    "name": "United Community Banks, Inc. ",
+    "summary": "United Community Banks, Inc. (UCB) reported earnings of $0.71 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.73 per share on  revenue of $273.80 million. The company missed consensus estimates by 2.74%.<br /><br />United Community Banks, Inc. is the financial holding company for United Community, a top 100 U.S. financial institution that is committed to improving the financial health and well-being of its customers and the communities it serves. ",
+    "subject": "United Community Banks, Inc. Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601145065",
+    "eps": 0.71,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.73,
+    "whisper": 999,
+    "highEstimate": 0.74,
+    "lowEstimate": 0.72,
+    "revenue": null,
+    "revenueEstimate": 273.8,
+    "earningsGrowth": 0.12698412698412698,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.0273972602739726,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.032995478503379416
   }
 ]
