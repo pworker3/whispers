@@ -46990,5 +46990,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.11777661054746173
+  },
+  {
+    "epsDate": "2026-01-14T17:15:00",
+    "ticker": "HOMB",
+    "name": "Home BancShares Inc.",
+    "summary": "Home BancShares (HOMB) reported earnings of $0.60 per share on revenue of $374.13 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.60 per share on  revenue of $270.20 million. The Earnings Whisper number was $0.62 per share. The company missed expectations by 3.23% while revenue grew 2.80% on a year-over-year basis.<br /><br />Home BancShares Inc through its wholly owned community bank subsidiary, Centennial Bank provides commercial and retail banking and related financial services to businesses, real estate developers and investors, individuals and municipalities.",
+    "subject": "Home BancShares Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601145867",
+    "eps": 0.6,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.6,
+    "whisper": 0.62,
+    "highEstimate": 0.61,
+    "lowEstimate": 0.59,
+    "revenue": 374.131,
+    "revenueEstimate": 270.2,
+    "earningsGrowth": 0.2,
+    "revenueGrowth": 0.02801316715026818,
+    "earningsSurprise": -0.03225806451612903,
+    "revenueSurprise": 0.38464470762398223,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.0015627329457116692
   }
 ]
