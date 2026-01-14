@@ -46822,5 +46822,29 @@
     "revenueSurprise": 0.08353585657370519,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.054197797786839634
+  },
+  {
+    "epsDate": "2026-01-14T06:45:00",
+    "ticker": "BAC",
+    "name": "Bank of America Corp.",
+    "summary": "Bank of America (BAC) reported earnings of $0.98 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.96 per share on  revenue of $27.34 billion. The Earnings Whisper number was $1.00 per share. The company missed expectations by 2.00%.<br /><br />Bank of America Corporation is a bank holding and a financial holding company. Through its subsidiaries, it provides banking and non-banking financial services and products throughout the United States and in selected international markets.",
+    "subject": "Bank of America Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601143244",
+    "eps": 0.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.96,
+    "whisper": 1,
+    "highEstimate": 1,
+    "lowEstimate": 0.93,
+    "revenue": null,
+    "revenueEstimate": 27340,
+    "earningsGrowth": 0.1951219512195122,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.01325993983916184
   }
 ]
