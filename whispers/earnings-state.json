@@ -46894,5 +46894,29 @@
     "revenueSurprise": 0.001768172888015717,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.037188393951777685
+  },
+  {
+    "epsDate": "2026-01-14T08:00:00",
+    "ticker": "C",
+    "name": "Citigroup, Inc.",
+    "summary": "Citigroup (C) reported earnings of $1.81 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.65 per share on  revenue of $20.94 billion. The Earnings Whisper number was $1.84 per share. The company missed expectations by 1.63%.<br /><br />Citi is a preeminent banking partner for institutions with cross-border needs, a global leader in wealth management and a valued personal bank in its home market of the United States.",
+    "subject": "Citigroup Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601143370",
+    "eps": 1.81,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.65,
+    "whisper": 1.84,
+    "highEstimate": 1.84,
+    "lowEstimate": 1.42,
+    "revenue": null,
+    "revenueEstimate": 20940,
+    "earningsGrowth": 0.35074626865671643,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.016304347826086956,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.009928816604851528
   }
 ]
