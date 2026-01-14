@@ -46966,5 +46966,29 @@
     "revenueSurprise": -0.0076545154099524225,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.028198320781500055
+  },
+  {
+    "epsDate": "2026-01-14T16:10:00",
+    "ticker": "CODI",
+    "name": "Compass Diversified Holdings",
+    "summary": "Compass Diversified (CODI) reported a loss of $0.98 per share on revenue of $472.56 million for the  fourth quarter ended December 2025. . Revenue fell 18.89% compared to the same quarter a year ago.<br /><br />Compass Diversified Holdings acquires controlling interests in and actively manage businesses that the company thinks operate in industries with long-term macroeconomic growth opportunities.",
+    "subject": "Compass Diversified Reported Earnings",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601145962",
+    "eps": -0.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": null,
+    "lowEstimate": null,
+    "revenue": 472.562,
+    "revenueEstimate": null,
+    "earningsGrowth": -3.6486486486486487,
+    "revenueGrowth": -0.18890603357574282,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.11777661054746173
   }
 ]
