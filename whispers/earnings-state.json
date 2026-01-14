@@ -46870,5 +46870,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.032995478503379416
+  },
+  {
+    "epsDate": "2026-01-14T07:55:00",
+    "ticker": "INFY",
+    "name": "Infosys Technologies Ltd.",
+    "summary": "Infosys Technologies (INFY) reported earnings of $0.21 per share on revenue of $5.10 billion for the  fiscal third quarter ended December 2025.  The consensus earnings estimate was $0.20 per share on  revenue of $5.09 billion. The Earnings Whisper number was $0.20 per share. The company beat expectations by 5.00% while revenue grew 3.24% on a year-over-year basis.<br /><br />Infosys Ltd provides end-to-end business solutions, including consulting, design, development, software re-engineering, maintenance, systems integration, package evaluation and implementation and infrastructure management services.",
+    "subject": "Infosys Technologies Beat Expectations",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2601142037",
+    "eps": 0.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.2,
+    "whisper": 0.2,
+    "highEstimate": 0.21,
+    "lowEstimate": 0.2,
+    "revenue": 5099,
+    "revenueEstimate": 5090,
+    "earningsGrowth": 0.10526315789473684,
+    "revenueGrowth": 0.03239522170479854,
+    "earningsSurprise": 0.05,
+    "revenueSurprise": 0.001768172888015717,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.037188393951777685
   }
 ]
