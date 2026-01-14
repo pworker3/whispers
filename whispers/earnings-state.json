@@ -46918,5 +46918,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.009928816604851528
+  },
+  {
+    "epsDate": "2026-01-14T06:43:00",
+    "ticker": "WFC",
+    "name": "Wells Fargo & Co.",
+    "summary": "Wells Fargo (WFC) reported earnings of $1.76 per share on revenue of $31.56 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.66 per share on  revenue of $21.60 billion. The Earnings Whisper number was $1.72 per share. The company beat expectations by 2.33% while revenue grew 3.16% on a year-over-year basis.<br /><br />Wells Fargo & Co is a diversified financial services company. It provides retail, corporate and commercial banking services through banking stores and offices, the internet and other distribution channels to individuals, businesses and institutions.",
+    "subject": "Wells Fargo Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601140178",
+    "eps": 1.76,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.66,
+    "whisper": 1.72,
+    "highEstimate": 1.7,
+    "lowEstimate": 1.61,
+    "revenue": 31563,
+    "revenueEstimate": 21600,
+    "earningsGrowth": 0.23943661971830985,
+    "revenueGrowth": 0.031571722717913524,
+    "earningsSurprise": 0.023255813953488372,
+    "revenueSurprise": 0.46125,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.007293047925743512
   }
 ]
