@@ -47158,5 +47158,29 @@
     "revenueSurprise": 0.7395011600928074,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.13944907204442497
+  },
+  {
+    "epsDate": "2026-01-15T08:00:00",
+    "ticker": "BSVN",
+    "name": "Bank7 Corp.",
+    "summary": "Bank7 (BSVN) reported earnings of $1.12 per share on revenue of $34.66 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.03 per share on  revenue of $24.20 million. The company beat consensus estimates by 8.74% while revenue fell 0.22% compared to the same quarter a year ago.<br /><br />Bank7 Corp. is a bank holding company headquartered in Oklahoma City, Oklahoma. ",
+    "subject": "Bank7 Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601153742",
+    "eps": 1.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.03,
+    "whisper": 999,
+    "highEstimate": 1.03,
+    "lowEstimate": 1.03,
+    "revenue": 34.655,
+    "revenueEstimate": 24.2,
+    "earningsGrowth": -0.034482758620689655,
+    "revenueGrowth": -0.002188246811206127,
+    "earningsSurprise": 0.08737864077669903,
+    "revenueSurprise": 0.43202479338842975,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03331091080317503
   }
 ]
