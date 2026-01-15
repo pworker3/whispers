@@ -47086,5 +47086,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.25245333846449874
+  },
+  {
+    "epsDate": "2026-01-15T02:00:00",
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "summary": "Taiwan Semiconductor Manufacturing Company Limited (TSM) reported earnings of $3.14 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.82 per share on  revenue of $32.63 billion. The Earnings Whisper number was $2.92 per share. The company beat expectations by 7.53%.<br /><br />The company  said it expects  first quarter  revenue of $34.60 billion to $35.80 billion. The current consensus revenue estimate is $33.58 billion for the quarter ending March 31, 2026.<br /><br />Taiwan Semiconductor Manufacturing Co Ltd engages in the manufacturing, selling, packaging, testing and computer-aided design of integrated circuits and other semiconductor devices, it also manufactures masks.",
+    "subject": "Taiwan Semiconductor Manufacturing Company Limited Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "4000000266",
+    "eps": 3.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.82,
+    "whisper": 2.92,
+    "highEstimate": 2.95,
+    "lowEstimate": 2.55,
+    "revenue": null,
+    "revenueEstimate": 32630,
+    "earningsGrowth": 0.4017857142857143,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.07534246575342465,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.408143294758339
   }
 ]
