@@ -47182,5 +47182,29 @@
     "revenueSurprise": 0.43202479338842975,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03331091080317503
+  },
+  {
+    "epsDate": "2026-01-15T16:05:00",
+    "ticker": "JBHT",
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "summary": "J.B. Hunt Transport Services (JBHT) reported earnings of $1.90 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.81 per share on  revenue of $3.09 billion. The Earnings Whisper number was $1.84 per share. The company beat expectations by 3.26%.<br /><br />JB Hunt Transport Services Inc, together with its wholly owned subsidiaries provides transportation and delivery services to a group of customers and consumers throughout the continental United States, Canada and Mexico.",
+    "subject": "J.B. Hunt Transport Services Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601158495",
+    "eps": 1.9,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.81,
+    "whisper": 1.84,
+    "highEstimate": 1.87,
+    "lowEstimate": 1.6,
+    "revenue": null,
+    "revenueEstimate": 3090,
+    "earningsGrowth": 0.24183006535947713,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.03260869565217391,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.004978210145392809
   }
 ]
