@@ -47278,5 +47278,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.012090828664110882
+  },
+  {
+    "epsDate": "2026-01-15T17:00:00",
+    "ticker": "WAFD",
+    "name": "Washington Federal, Inc.",
+    "summary": "Washington Federal (WAFD) reported earnings of $0.75 per share on revenue of $342.75 million for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $0.76 per share on  revenue of $193.53 million. The company missed consensus estimates by 1.32% while revenue fell 5.01% compared to the same quarter a year ago.<br /><br />Washington Federal Inc is a bank holding company which\r\noperates through its subsidiaries. It activities include accepting deposits &\r\nlending out loans of various types. The Bank is also engaged in\r\nreal estate investment & insurance brokerage activities.",
+    "subject": "Washington Federal Missed Consensus Estimates",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2601156416",
+    "eps": 0.75,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.76,
+    "whisper": 999,
+    "highEstimate": 0.78,
+    "lowEstimate": 0.74,
+    "revenue": 342.751,
+    "revenueEstimate": 193.53,
+    "earningsGrowth": 0.20967741935483872,
+    "revenueGrowth": -0.05007496833592466,
+    "earningsSurprise": -0.013157894736842105,
+    "revenueSurprise": 0.771048416266212,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.11552022565549074
   }
 ]
