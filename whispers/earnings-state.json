@@ -47302,5 +47302,29 @@
     "revenueSurprise": 0.771048416266212,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.11552022565549074
+  },
+  {
+    "epsDate": "2026-01-16T09:48:00",
+    "ticker": "WIT",
+    "name": "Wipro Limited",
+    "summary": "Wipro Limited (WIT) reported earnings of $0.03 per share on revenue of $2.62 billion for the  fiscal third quarter ended December 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $2.58 billion. The Earnings Whisper number was $0.04 per share. The company missed expectations by 25.00% while revenue grew 0.50% on a year-over-year basis.<br /><br />Wipro Limited is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. ",
+    "subject": "Wipro Limited Missed Expectations",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2601167946",
+    "eps": 0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 0.04,
+    "highEstimate": 0.04,
+    "lowEstimate": 0.03,
+    "revenue": 2622,
+    "revenueEstimate": 2580,
+    "earningsGrowth": -0.25,
+    "revenueGrowth": 0.004982752012265236,
+    "earningsSurprise": -0.25,
+    "revenueSurprise": 0.01627906976744186,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.039804731505820506
   }
 ]
