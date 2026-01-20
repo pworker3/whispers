@@ -47926,5 +47926,29 @@
     "revenueSurprise": 0.3223460817301518,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.019700364123638344
+  },
+  {
+    "epsDate": "2026-01-20T16:36:00",
+    "ticker": "KARO",
+    "name": "Karooooo Ltd.",
+    "summary": "Karooooo (KARO) reported earnings of $0.49 per share on revenue of $81.39 million for the  fiscal third quarter ended November 2025.  The consensus earnings estimate was $0.44 per share on  revenue of $79.18 million. The company beat consensus estimates by 11.36% while revenue grew 24.25% on a year-over-year basis.<br /><br />Karooooo, headquartered in Singapore, is a leading global provider of a mobility SaaS platform that maximizes the value of automotive and workflow\r\ndata by providing real-time data analytics solutions for smart transportation to over 1.4 million connected vehicles. ",
+    "subject": "Karooooo Beat Consensus Estimates",
+    "quarter": " fiscal third quarter ended November 2025",
+    "fileName": "2601207253",
+    "eps": 0.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.44,
+    "whisper": 999,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.43,
+    "revenue": 81.394,
+    "revenueEstimate": 79.18,
+    "earningsGrowth": 0.13953488372093023,
+    "revenueGrowth": 0.24248576531468957,
+    "earningsSurprise": 0.11363636363636363,
+    "revenueSurprise": 0.027961606466279362,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2542297490980379
   }
 ]
