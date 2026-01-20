@@ -47614,5 +47614,29 @@
     "revenueSurprise": 0.5098705501618123,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.031714994789372467
+  },
+  {
+    "epsDate": "2026-01-20T08:00:00",
+    "ticker": "SPWR",
+    "name": "SunPower Corp.",
+    "summary": "SunPower (SPWR) reported a loss of $0.06 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.17 per share on  revenue of $83.30 million. The company beat consensus estimates by 64.71%.<br /><br />The company  said it expects first-quarter revenue of $80.0 million to $84.0 million. The current consensus revenue estimate is $80.3 million for the quarter ending March 31, 2026.<br /><br />SunPower Corp is engaged in designing, manufacturing, installation and ongoing maintenance and monitoring of solar system.",
+    "subject": "SunPower Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601208516",
+    "eps": -0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.17,
+    "whisper": 999,
+    "highEstimate": -0.17,
+    "lowEstimate": -0.17,
+    "revenue": 999,
+    "revenueEstimate": 83.3,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.6470588235294118,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
