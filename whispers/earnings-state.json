@@ -48670,5 +48670,29 @@
     "revenueSurprise": 0.8473926380368099,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.12790370266084752
+  },
+  {
+    "epsDate": "2026-01-21T16:45:00",
+    "ticker": "EQBK",
+    "name": "Equity Bancshares",
+    "summary": "Equity Bancshares (EQBK) reported earnings of $1.26 per share on revenue of $100.40 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.22 per share on  revenue of $71.75 million. The company beat consensus estimates by 3.28% while revenue grew 19.81% on a year-over-year basis.<br /><br />Equity Bancshares, Inc. is the holding company for Equity Bank, offering a full range of financial solutions, including commercial loans, consumer banking, mortgage loans, trust and wealth management services and treasury management services, while delivering the high-quality, relationship-based customer service of a community bank.",
+    "subject": "Equity Bancshares Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601212116",
+    "eps": 1.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.22,
+    "whisper": 999,
+    "highEstimate": 1.35,
+    "lowEstimate": 1.14,
+    "revenue": 100.398,
+    "revenueEstimate": 71.75,
+    "earningsGrowth": 0.14545454545454545,
+    "revenueGrowth": 0.19813831374187005,
+    "earningsSurprise": 0.03278688524590164,
+    "revenueSurprise": 0.3992752613240418,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.18614888113713485
   }
 ]
