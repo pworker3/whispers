@@ -48718,5 +48718,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0729261690122416
+  },
+  {
+    "epsDate": "2026-01-21T18:00:00",
+    "ticker": "GSBC",
+    "name": "Great Southern Bancorp, Inc.",
+    "summary": "Great Southern Bancorp (GSBC) reported earnings of $1.45 per share on revenue of $80.62 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.38 per share on  revenue of $55.90 million. The company beat consensus estimates by 5.07% while revenue fell 9.94% compared to the same quarter a year ago.<br /><br />Great Southern Bancorp Inc is a bank holding company & a financial holding company. Its banking operation is engaged in the business of originating residential & commercial real estate loans, construction loans, commercial business loans & consumer loans.",
+    "subject": "Great Southern Bancorp Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601210168",
+    "eps": 1.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.38,
+    "whisper": 999,
+    "highEstimate": 1.38,
+    "lowEstimate": 1.38,
+    "revenue": 80.623,
+    "revenueEstimate": 55.9,
+    "earningsGrowth": 0.14173228346456693,
+    "revenueGrowth": -0.09937555155888694,
+    "earningsSurprise": 0.050724637681159424,
+    "revenueSurprise": 0.44227191413237926,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05118517865797242
   }
 ]
