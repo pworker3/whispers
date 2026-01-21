@@ -48358,5 +48358,29 @@
     "revenueSurprise": 0.4572978168337224,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.09573586923472116
+  },
+  {
+    "epsDate": "2026-01-21T09:00:00",
+    "ticker": "PLBC",
+    "name": "Plumas Bancorp",
+    "summary": "Plumas Bancorp (PLBC) reported earnings of $1.56 per share on revenue of $33.33 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.37 per share on  revenue of $27.55 million. The company beat consensus estimates by 13.87% while revenue grew 41.97% on a year-over-year basis.<br /><br />Plumas Bank is a locally managed, full-service award-winning community bank. With 19 branch offices in Northeastern California and Northern Nevada, and loan production offices in California and southern Oregon.",
+    "subject": "Plumas Bancorp Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601218847",
+    "eps": 1.56,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.37,
+    "whisper": 999,
+    "highEstimate": 1.41,
+    "lowEstimate": 1.33,
+    "revenue": 33.331,
+    "revenueEstimate": 27.55,
+    "earningsGrowth": 0.20930232558139536,
+    "revenueGrowth": 0.41972994846019507,
+    "earningsSurprise": 0.1386861313868613,
+    "revenueSurprise": 0.20983666061705988,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.3297232250300842
   }
 ]
