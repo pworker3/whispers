@@ -48310,5 +48310,29 @@
     "revenueSurprise": -0.0032863849765258214,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.030908226343319068
+  },
+  {
+    "epsDate": "2026-01-21T08:00:00",
+    "ticker": "PLD",
+    "name": "Prologis, Inc.",
+    "summary": "Prologis (PLD) reported earnings of $1.44 per share on revenue of $2.25 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.44 per share on  revenue of $2.10 billion. The Earnings Whisper number was $1.48 per share. The company missed expectations by 2.70% while revenue grew 2.37% on a year-over-year basis.<br /><br />The company  said it expects   funds from operations of $6.05 to $6.25 per share. The current consensus FFO estimate is $6.11 per share for the year ending December 31, 2025.<br /><br />Prologis Inc is the owner, operator and developer of industrial real estate, focused on hub and gateway distribution markets in the Americas, Europe and Asia.",
+    "subject": "Prologis Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601217320",
+    "eps": 1.44,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.44,
+    "whisper": 1.48,
+    "highEstimate": 1.45,
+    "lowEstimate": 1.43,
+    "revenue": 2252.712,
+    "revenueEstimate": 2100,
+    "earningsGrowth": -0.04,
+    "revenueGrowth": 0.023659416371374586,
+    "earningsSurprise": -0.02702702702702703,
+    "revenueSurprise": 0.07272,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08716016438902391
   }
 ]
