@@ -48694,5 +48694,29 @@
     "revenueSurprise": 0.3992752613240418,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.18614888113713485
+  },
+  {
+    "epsDate": "2026-01-21T16:51:00",
+    "ticker": "PNFP",
+    "name": "Pinnacle Financial Partners, Inc",
+    "summary": "Pinnacle Financial Partners (PNFP) reported earnings of $2.24 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.32 per share on  revenue of $557.02 million. The Earnings Whisper number was $2.40 per share. The company missed expectations by 6.67%.<br /><br />Pinnacle Financial Partners Inc is a bank holding company of Pinnacle Bank. It operates as a community bank in the urban markets of Nashville and Knoxville, Tennessee.",
+    "subject": "Pinnacle Financial Partners Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601215219",
+    "eps": 2.24,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.32,
+    "whisper": 2.4,
+    "highEstimate": 2.4,
+    "lowEstimate": 2.22,
+    "revenue": null,
+    "revenueEstimate": 557.02,
+    "earningsGrowth": 0.17894736842105263,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.06666666666666667,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0729261690122416
   }
 ]
