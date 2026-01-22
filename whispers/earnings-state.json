@@ -48790,5 +48790,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.026848434337421123
+  },
+  {
+    "epsDate": "2026-01-22T06:55:00",
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares Incorporated",
+    "summary": "Huntington Bancshares (HBAN) reported earnings of $0.37 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.39 per share on  revenue of $2.21 billion. The Earnings Whisper number was $0.41 per share. The company missed expectations by 9.76%.<br /><br />Huntington Bancshares Inc is a multi-state financial holding company. It provides full-service commercial, small business, consumer, and mortgage banking services, as well as automobile financing, investment management services, & among others..",
+    "subject": "Huntington Bancshares Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601229022",
+    "eps": 0.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.39,
+    "whisper": 0.41,
+    "highEstimate": 0.42,
+    "lowEstimate": 0.37,
+    "revenue": null,
+    "revenueEstimate": 2210,
+    "earningsGrowth": 0.08823529411764706,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.0975609756097561,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04873294346978557
   }
 ]
