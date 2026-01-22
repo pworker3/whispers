@@ -48742,5 +48742,29 @@
     "revenueSurprise": 0.44227191413237926,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05118517865797242
+  },
+  {
+    "epsDate": "2026-01-22T06:00:00",
+    "ticker": "TCBI",
+    "name": "Texas Capital Bancshares, Inc. ",
+    "summary": "Texas Capital Bancshares, Inc. (TCBI) reported earnings of $2.08 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.78 per share on  revenue of $323.08 million. The company beat consensus estimates by 16.85%.<br /><br />Texas Capital Bancshares Inc is a registered bank holding company and a financial holding company. It provides commercial banking services to its customers in Texas.",
+    "subject": "Texas Capital Bancshares, Inc. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601220220",
+    "eps": 2.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.78,
+    "whisper": 999,
+    "highEstimate": 1.95,
+    "lowEstimate": 1.68,
+    "revenue": null,
+    "revenueEstimate": 323.08,
+    "earningsGrowth": 0.45454545454545453,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.16853932584269662,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.022915164600661456
   }
 ]
