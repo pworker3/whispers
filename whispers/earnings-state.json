@@ -48910,5 +48910,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06901739539257169
+  },
+  {
+    "epsDate": "2026-01-22T08:00:00",
+    "ticker": "FCX",
+    "name": "Freeport-McMoRan Copper & Gold, Inc.",
+    "summary": "Freeport-McMoRan Copper & Gold (FCX) reported earnings of $0.47 per share on revenue of $5.63 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.28 per share on  revenue of $5.05 billion. The Earnings Whisper number was $0.33 per share. The company beat expectations by 42.42% while revenue fell 1.52% compared to the same quarter a year ago.<br /><br />Freeport-McMoRan Inc, formerly Freeport-McMoRan Copper & Gold, deals in the mining of copper, gold and molybdenum.",
+    "subject": "Freeport-McMoRan Copper & Gold Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601227105",
+    "eps": 0.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.28,
+    "whisper": 0.33,
+    "highEstimate": 0.33,
+    "lowEstimate": 0.06,
+    "revenue": 5633,
+    "revenueEstimate": 5050,
+    "earningsGrowth": 0.5161290322580645,
+    "revenueGrowth": -0.01520979020979021,
+    "earningsSurprise": 0.42424242424242425,
+    "revenueSurprise": 0.11544554455445545,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.026804123711340205
   }
 ]
