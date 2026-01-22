@@ -49150,5 +49150,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05995640411490014
+  },
+  {
+    "epsDate": "2026-01-22T18:44:00",
+    "ticker": "ALK",
+    "name": "Alaska Air Group, Inc.",
+    "summary": "Alaska Air Group (ALK) reported earnings of $0.43 per share on revenue of $3.63 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.11 per share on  revenue of $3.64 billion. The Earnings Whisper number was $0.13 per share. The company beat expectations by 230.77% while revenue grew 2.77% on a year-over-year basis.<br /><br />Alaska Air Group Inc through its subsidiaries, provides passenger air, freight and mail services within the state of Alaska and on the West Coast.",
+    "subject": "Alaska Air Group Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601229506",
+    "eps": 0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.11,
+    "whisper": 0.13,
+    "highEstimate": 0.13,
+    "lowEstimate": 0.08,
+    "revenue": 3632,
+    "revenueEstimate": 3640,
+    "earningsGrowth": -0.5567010309278351,
+    "revenueGrowth": 0.027730616864742503,
+    "earningsSurprise": 2.3076923076923075,
+    "revenueSurprise": -0.002197802197802198,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.22591145833333334
   }
 ]
