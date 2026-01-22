@@ -48766,5 +48766,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.022915164600661456
+  },
+  {
+    "epsDate": "2026-01-22T06:30:00",
+    "ticker": "MKC",
+    "name": "McCormick & Company, Incorporated",
+    "summary": "McCormick & Company, (MKC) reported earnings of $0.86 per share on  for the  fiscal fourth quarter ended November 2025.  The consensus earnings estimate was $0.87 per share on  revenue of $1.85 billion. The Earnings Whisper number was $0.92 per share. The company missed expectations by 6.52%.<br /><br />McCormick & Company Inc manufactures, markets and distributes spices, seasoning mixes, condiments and other flavorful products to the entire food industryretail outlets, food manufacturers and foodservice businesses.",
+    "subject": "McCormick & Company, Missed Expectations",
+    "quarter": " fiscal fourth quarter ended November 2025",
+    "fileName": "2601228423",
+    "eps": 0.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.87,
+    "whisper": 0.92,
+    "highEstimate": 0.89,
+    "lowEstimate": 0.87,
+    "revenue": null,
+    "revenueEstimate": 1850,
+    "earningsGrowth": 0.075,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.06521739130434782,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.026848434337421123
   }
 ]
