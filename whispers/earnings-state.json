@@ -48886,5 +48886,29 @@
     "revenueSurprise": -0.003231597845601436,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.029856925978745917
+  },
+  {
+    "epsDate": "2026-01-22T07:30:00",
+    "ticker": "ABT",
+    "name": "Abbott",
+    "summary": "Abbott (ABT) reported earnings of $1.50 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.50 per share on  revenue of $11.79 billion. The Earnings Whisper number was $1.51 per share. The company missed expectations by 0.66%.<br /><br />The company  said it expects  first quarter  earnings of $1.12 to $1.18 per share and 2026 earnings of $5.55 to $5.80 per share on revenue of $47.21 billion to $47.65 billion. The current consensus estimate is earnings of $1.19 per share for the quarter ending March 31, 2026 and earnings of $5.67 per share on revenue of $48.05 billion for the year ending December 31, 2026.<br /><br />Abbott Laboratories discovers, develops, manufactures and sells health care products. Its products include branded generic pharmaceuticals manufactured internationally, marketed and sold outside the United States.",
+    "subject": "Abbott Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601228222",
+    "eps": 1.5,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.5,
+    "whisper": 1.51,
+    "highEstimate": 1.51,
+    "lowEstimate": 1.49,
+    "revenue": null,
+    "revenueEstimate": 11790,
+    "earningsGrowth": 0.11940298507462686,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.006622516556291391,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06901739539257169
   }
 ]
