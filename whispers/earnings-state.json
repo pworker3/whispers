@@ -48862,5 +48862,29 @@
     "revenueSurprise": 0.13646112600536192,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.23765494818126398
+  },
+  {
+    "epsDate": "2026-01-22T07:00:00",
+    "ticker": "PG",
+    "name": "Procter & Gamble Co.",
+    "summary": "Procter & Gamble (PG) reported earnings of $1.88 per share on revenue of $22.21 billion for the  fiscal second quarter ended December 2025.  The consensus earnings estimate was $1.87 per share on  revenue of $22.28 billion. The Earnings Whisper number was $1.91 per share. The company missed expectations by 1.57% while revenue grew 1.49% on a year-over-year basis.<br /><br />The company  said it continues to expect fiscal  2026  earnings of $6.83 to $7.09 per share on revenue of $85.16 billion to $88.50 billion. The current consensus earnings estimate is $6.97 per share on revenue of $86.84 billion for the year ending June 30, 2026.<br /><br />Procter & Gamble Co provides branded consumer packaged goods. It markets its products in about 180 countries through mass merchandisers, grocery stores, membership club stores, drug stores, department stores among others.",
+    "subject": "Procter & Gamble Missed Expectations",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2601229111",
+    "eps": 1.88,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.87,
+    "whisper": 1.91,
+    "highEstimate": 1.92,
+    "lowEstimate": 1.82,
+    "revenue": 22208,
+    "revenueEstimate": 22280,
+    "earningsGrowth": 0,
+    "revenueGrowth": 0.01489808975413582,
+    "earningsSurprise": -0.015706806282722512,
+    "revenueSurprise": -0.003231597845601436,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.029856925978745917
   }
 ]
