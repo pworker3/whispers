@@ -49366,5 +49366,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.08148586982016828
+  },
+  {
+    "epsDate": "2026-01-23T02:00:00",
+    "ticker": "ERIC",
+    "name": "Ericsson",
+    "summary": "Ericsson (ERIC) reported earnings of $0.27 per share on revenue of $7.37 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.23 per share on  revenue of $7.03 billion. The company beat consensus estimates by 17.39% while revenue grew 8.90% on a year-over-year basis.<br /><br />LM Ericsson Telephone Company is a provider of communications networks, telecom services and support solutions. Its segments include Networks, Global Services, Support Solutions and ST-Ericsson.",
+    "subject": "Ericsson Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "4000000270",
+    "eps": 0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.23,
+    "whisper": 999,
+    "highEstimate": 0.25,
+    "lowEstimate": 0.22,
+    "revenue": 7366.935,
+    "revenueEstimate": 7030,
+    "earningsGrowth": 0.5882352941176471,
+    "revenueGrowth": 0.08895915458064577,
+    "earningsSurprise": 0.17391304347826086,
+    "revenueSurprise": 0.047928165007112375,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.018800140324212317
   }
 ]
