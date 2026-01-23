@@ -49390,5 +49390,29 @@
     "revenueSurprise": 0.047928165007112375,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.018800140324212317
+  },
+  {
+    "epsDate": "2026-01-23T07:30:00",
+    "ticker": "WBS",
+    "name": "Webster Financial Corp.",
+    "summary": "Webster Financial (WBS) reported earnings of $1.59 per share on revenue of $1.13 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.52 per share on  revenue of $728.95 million. The Earnings Whisper number was $1.55 per share. The company beat expectations by 2.58% while revenue grew 8.10% on a year-over-year basis.<br /><br />Webster Financial Corp through its Webster Bank and non-banking financial services subsidiaries, delivers financial services to individuals, families and businesses throughout southern New England and eastern New York State.",
+    "subject": "Webster Financial Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601232617",
+    "eps": 1.59,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.52,
+    "whisper": 1.55,
+    "highEstimate": 1.54,
+    "lowEstimate": 1.48,
+    "revenue": 1132.482,
+    "revenueEstimate": 728.95,
+    "earningsGrowth": 0.11188811188811189,
+    "revenueGrowth": 0.08103139193237074,
+    "earningsSurprise": 0.025806451612903226,
+    "revenueSurprise": 0.5535798065710954,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06348064237844273
   }
 ]
