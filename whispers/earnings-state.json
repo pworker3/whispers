@@ -49294,5 +49294,29 @@
     "revenueSurprise": 0.41935260115606937,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.04915519350792151
+  },
+  {
+    "epsDate": "2026-01-23T06:30:00",
+    "ticker": "FCNCA",
+    "name": "First Citizens BancShares Inc.",
+    "summary": "First Citizens BancShares (FCNCA) reported earnings of $51.27 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $44.21 per share. The company beat consensus estimates by 15.97%.<br /><br /> First Citizens is a bank holding company engaged in general banking business. The Bank is the fifth largest commercial bank in North Carolina based upon total deposits. Its growth has been generated principally by acquisitions and de novo branching that have occurred under the leadership of the R.P. Holding family.   \n",
+    "subject": "First Citizens BancShares Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601239553",
+    "eps": 51.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 44.21,
+    "whisper": 999,
+    "highEstimate": null,
+    "lowEstimate": null,
+    "revenue": null,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.1368070953436807,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.15969237729020583,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.02402323125659979
   }
 ]
