@@ -50446,5 +50446,29 @@
     "revenueSurprise": 0.6366797385620915,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08442466407475616
+  },
+  {
+    "epsDate": "2026-01-26T17:00:00",
+    "ticker": "BRO",
+    "name": "Brown & Brown Inc.",
+    "summary": "Brown & Brown (BRO) reported earnings of $0.93 per share on  for the .  The consensus earnings estimate was $0.91 per share on  revenue of $1.65 billion. The Earnings Whisper number was $0.94 per share. The company missed expectations by 1.06%.<br /><br />Brown & Brown Inc is an insurance agency, wholesale brokerage,\r\ninsurance programs and services organization that markets and sells its\r\ncustomers insurance products and services, mainly in the property &\r\ncasualty areas.",
+    "subject": "Brown & Brown Missed Expectations",
+    "quarter": "",
+    "fileName": "2601262798",
+    "eps": 0.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.91,
+    "whisper": 0.94,
+    "highEstimate": 0.99,
+    "lowEstimate": 0.88,
+    "revenue": null,
+    "revenueEstimate": 1650,
+    "earningsGrowth": 0.08139534883720931,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.010638297872340425,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.35413153456998314
   }
 ]
