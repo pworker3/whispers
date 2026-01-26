@@ -50038,5 +50038,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.008472436526862113
+  },
+  {
+    "epsDate": "2026-01-26T07:05:00",
+    "ticker": "HBT",
+    "name": "HBT Financial, Inc.",
+    "summary": "HBT Financial (HBT) reported earnings of $0.64 per share on revenue of $74.29 million for the .  The consensus earnings estimate was $0.64 per share on  revenue of $60.70 million. The Earnings Whisper number was $0.67 per share. The company missed expectations by 4.48% while revenue fell 0.19% compared to the same quarter a year ago.<br /><br /> HBT Financial Inc. is the holding company for Heartland Bank and Trust Company and State Bank of Lincoln. It provides business, commercial, wealth management and retail banking products and services to businesses, families and local governments. HBT Financial Inc. is headquartered in Bloomington, Illinois.   \n",
+    "subject": "HBT Financial Missed Expectations",
+    "quarter": "",
+    "fileName": "2601262040",
+    "eps": 0.64,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.64,
+    "whisper": 0.67,
+    "highEstimate": 0.65,
+    "lowEstimate": 0.63,
+    "revenue": 74.286,
+    "revenueEstimate": 60.7,
+    "earningsGrowth": 0.03225806451612903,
+    "revenueGrowth": -0.0019078841296286343,
+    "earningsSurprise": -0.04477611940298507,
+    "revenueSurprise": 0.22382207578253707,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0187168712751641
   }
 ]
