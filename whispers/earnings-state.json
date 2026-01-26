@@ -50062,5 +50062,29 @@
     "revenueSurprise": 0.22382207578253707,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0187168712751641
+  },
+  {
+    "epsDate": "2026-01-26T08:30:00",
+    "ticker": "BMRC",
+    "name": "Bank of Marin Bancorp",
+    "summary": "Bank of Marin Bancorp (BMRC) reported earnings of $0.59 per share on revenue of $44.65 million for the .  The consensus earnings estimate was $0.51 per share on  revenue of $33.35 million. The company beat consensus estimates by 15.69% while revenue grew 13.82% on a year-over-year basis.<br /><br />Bank of Marin Bancorp is a bank holding company for Bank of Marin which offers commercial and retail deposit and lending programs, personal and business checking and savings accounts and wealth management and trust services.",
+    "subject": "Bank of Marin Bancorp Beat Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601264425",
+    "eps": 0.59,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.51,
+    "whisper": 999,
+    "highEstimate": 0.52,
+    "lowEstimate": 0.49,
+    "revenue": 44.65,
+    "revenueEstimate": 33.35,
+    "earningsGrowth": 0.5526315789473685,
+    "revenueGrowth": 0.13818858497540085,
+    "earningsSurprise": 0.1568627450980392,
+    "revenueSurprise": 0.33883058470764615,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06649322825005739
   }
 ]
