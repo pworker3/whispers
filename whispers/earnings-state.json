@@ -50494,5 +50494,29 @@
     "revenueSurprise": 0.39628826876185314,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1443480675068567
+  },
+  {
+    "epsDate": "2026-01-26T18:30:00",
+    "ticker": "FSBC",
+    "name": "Five Star Bancorp",
+    "summary": "Five Star Bancorp (FSBC) reported earnings of $0.83 per share on revenue of $67.82 million for the .  The consensus earnings estimate was $0.77 per share on  revenue of $42.25 million. The company beat consensus estimates by 7.79% while revenue grew 14.16% on a year-over-year basis.<br /><br />Five Star is a bank holding company headquartered in Rancho Cordova, California. ",
+    "subject": "Five Star Bancorp Beat Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601262785",
+    "eps": 0.83,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.77,
+    "whisper": 999,
+    "highEstimate": 0.79,
+    "lowEstimate": 0.75,
+    "revenue": 67.821,
+    "revenueEstimate": 42.25,
+    "earningsGrowth": 0.31746031746031744,
+    "revenueGrowth": 0.14155627745703658,
+    "earningsSurprise": 0.07792207792207792,
+    "revenueSurprise": 0.6052307692307692,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2361419478981646
   }
 ]
