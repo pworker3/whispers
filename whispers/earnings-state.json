@@ -49942,5 +49942,29 @@
     "revenueSurprise": 0.23213959645759152,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.008516399199386925
+  },
+  {
+    "epsDate": "2026-01-25T17:00:00",
+    "ticker": "BKR",
+    "name": "Baker Hughes",
+    "summary": "Baker Hughes (BKR) reported earnings of $0.78 per share on  for the .  The consensus earnings estimate was $0.67 per share on  revenue of $7.06 billion. The Earnings Whisper number was $0.71 per share. The company beat expectations by 9.86%.<br /><br />Baker Hughes   is an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and with operations in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet. ",
+    "subject": "Baker Hughes Beat Expectations",
+    "quarter": "",
+    "fileName": "2601252029",
+    "eps": 0.78,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.67,
+    "whisper": 0.71,
+    "highEstimate": 0.71,
+    "lowEstimate": 0.61,
+    "revenue": null,
+    "revenueEstimate": 7060,
+    "earningsGrowth": 0.11428571428571428,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.09859154929577464,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.014765489287782282
   }
 ]
