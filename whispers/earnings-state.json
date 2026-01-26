@@ -50422,5 +50422,29 @@
     "revenueSurprise": 0.4052233676975945,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.044173349703508266
+  },
+  {
+    "epsDate": "2026-01-26T16:45:00",
+    "ticker": "FRBA",
+    "name": "First Bank",
+    "summary": "First Bank (FRBA) reported earnings of $0.49 per share on revenue of $62.60 million for the .  The consensus earnings estimate was $0.49 per share on  revenue of $38.25 million. The company reported in-line with consensus estimates while revenue grew 6.08% on a year-over-year basis.<br /><br />First Bank Williamstown NJ provides its customers with a variety of financial services targeting all segments of the retail and corporate market, in addition to Fund Management, Brokerage, Leasing, Property Management businesses and Private Banking.",
+    "subject": "First Bank Reported In-line with Estimates",
+    "quarter": "",
+    "fileName": "2601262783",
+    "eps": 0.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.49,
+    "whisper": 999,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.47,
+    "revenue": 62.603,
+    "revenueEstimate": 38.25,
+    "earningsGrowth": 0.16666666666666666,
+    "revenueGrowth": 0.06079810217741252,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.6366797385620915,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08442466407475616
   }
 ]
