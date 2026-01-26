@@ -50470,5 +50470,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.35413153456998314
+  },
+  {
+    "epsDate": "2026-01-26T17:20:00",
+    "ticker": "EFSC",
+    "name": "Enterprise Financial Services",
+    "summary": "Enterprise Financial Services (EFSC) reported earnings of $1.36 per share on revenue of $257.69 million for the .  The consensus earnings estimate was $1.37 per share on  revenue of $184.55 million. The company missed consensus estimates by 0.73% while revenue grew 9.18% on a year-over-year basis.<br /><br />Enterprise Financial Services Corporation is a financial holding company. It offers banking and wealth management services to individuals and business customers located in the St. Louis, Kansas City and Phoenix metropolitan markets.",
+    "subject": "Enterprise Financial Services Missed Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601260746",
+    "eps": 1.36,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.37,
+    "whisper": 999,
+    "highEstimate": 1.37,
+    "lowEstimate": 1.35,
+    "revenue": 257.685,
+    "revenueEstimate": 184.55,
+    "earningsGrowth": 0.030303030303030304,
+    "revenueGrowth": 0.09183470261979315,
+    "earningsSurprise": -0.0072992700729927005,
+    "revenueSurprise": 0.39628826876185314,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1443480675068567
   }
 ]
