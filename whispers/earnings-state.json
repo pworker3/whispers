@@ -49966,5 +49966,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.014765489287782282
+  },
+  {
+    "epsDate": "2026-01-26T06:45:00",
+    "ticker": "BOH",
+    "name": "Bank of Hawaii Corp.",
+    "summary": "Bank of Hawaii (BOH) reported earnings of $1.39 per share on  for the .  The consensus earnings estimate was $1.25 per share on  revenue of $182.45 million. The company beat consensus estimates by 11.20%.<br /><br />Bank of Hawaii Corp is a regional financial services company serving businesses, consumers, and governments in Hawaii, Guam, and other Pacific Islands.",
+    "subject": "Bank of Hawaii Beat Consensus Estimates",
+    "quarter": "",
+    "fileName": "2601263394",
+    "eps": 1.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.25,
+    "whisper": 999,
+    "highEstimate": 1.28,
+    "lowEstimate": 1.17,
+    "revenue": null,
+    "revenueEstimate": 182.45,
+    "earningsGrowth": 0.6352941176470588,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.112,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.02978649749019785
   }
 ]
