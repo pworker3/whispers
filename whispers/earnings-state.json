@@ -50710,5 +50710,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.12240626859750049
+  },
+  {
+    "epsDate": "2026-01-27T06:00:00",
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "summary": "Synchrony Financial (SYF) reported earnings of $2.04 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.02 per share on  revenue of $4.79 billion. The Earnings Whisper number was $2.17 per share. The company missed expectations by 5.99%.<br /><br />Synchrony Financial provides credit products through programs established with a diverse group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations and healthcare service providers.",
+    "subject": "Synchrony Financial Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601271118",
+    "eps": 2.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.02,
+    "whisper": 2.17,
+    "highEstimate": 2.16,
+    "lowEstimate": 1.8,
+    "revenue": null,
+    "revenueEstimate": 4790,
+    "earningsGrowth": 0.06806282722513089,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.059907834101382486,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.00933448573898012
   }
 ]
