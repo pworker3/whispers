@@ -51166,5 +51166,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.053648303317228446
+  },
+  {
+    "epsDate": "2026-01-27T07:33:00",
+    "ticker": "NEE",
+    "name": "NextEra Energy Inc",
+    "summary": "NextEra Energy (NEE) reported earnings of $0.54 per share on revenue of $6.50 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.53 per share on  revenue of $6.64 billion. The Earnings Whisper number was $0.60 per share. The company missed expectations by 10.00% while revenue grew 20.71% on a year-over-year basis.<br /><br />NextEra Energy Inc is an electric power company in North America, with approximately 42,500 MW of generating capacity in 26 states in the U.S. and 4 provinces in Canada.",
+    "subject": "NextEra Energy Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601271329",
+    "eps": 0.54,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.53,
+    "whisper": 0.6,
+    "highEstimate": 0.61,
+    "lowEstimate": 0.53,
+    "revenue": 6500,
+    "revenueEstimate": 6640,
+    "earningsGrowth": 0.018867924528301886,
+    "revenueGrowth": 0.20705663881151345,
+    "earningsSurprise": -0.1,
+    "revenueSurprise": -0.02108433734939759,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05272895467160037
   }
 ]
