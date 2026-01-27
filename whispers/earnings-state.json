@@ -51598,5 +51598,29 @@
     "revenueSurprise": -0.023305785123966943,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06002565982404692
+  },
+  {
+    "epsDate": "2026-01-27T17:38:00",
+    "ticker": "BXP",
+    "name": "BXP, Inc. ",
+    "summary": "BXP, Inc. (BXP) reported earnings of $1.76 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.80 per share on  revenue of $814.66 million. The Earnings Whisper number was $1.82 per share. The company missed expectations by 3.30%.<br /><br />The company  said it expects first-quarter funds from operations of $1.56 to $1.58 per share and 2026 FFO of $6.88 to $7.04 per share. The current consensus estimate is FFO of $1.63 per share for the quarter ending March 31, 2026, and FFO of $7.01 per share for the year ending December 31, 2026.<br /><br />Boston Properties Inc is a fully integrated, self-administered and self-managed real estate investment trust, or REIT, and the owners and developers of office properties in the United States.",
+    "subject": "BXP, Inc. Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601272201",
+    "eps": 1.76,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.8,
+    "whisper": 1.82,
+    "highEstimate": 1.82,
+    "lowEstimate": 1.8,
+    "revenue": null,
+    "revenueEstimate": 814.66,
+    "earningsGrowth": -0.01675977653631285,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.03296703296703297,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.014295407383613411
   }
 ]
