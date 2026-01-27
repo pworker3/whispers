@@ -51550,5 +51550,29 @@
     "revenueSurprise": 0.015342142857142856,
     "prevEarningsGrowth": 6.566666666666666,
     "prevRevenueGrowth": 0.06274181610954505
+  },
+  {
+    "epsDate": "2026-01-27T16:30:00",
+    "ticker": "RNST",
+    "name": "Renasant Corporation",
+    "summary": "Renasant (RNST) reported earnings of $0.91 per share on revenue of $398.06 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.80 per share on  revenue of $269.00 million. The company beat consensus estimates by 13.75% while revenue grew 53.36% on a year-over-year basis.<br /><br />Renasant Corp owns and operates Renasant Bank, a Mississippi banking association with operations in Mississippi, Tennessee, Alabama and Georgia. It provides banking & insurnace services.",
+    "subject": "Renasant Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601273728",
+    "eps": 0.91,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.8,
+    "whisper": 999,
+    "highEstimate": 0.82,
+    "lowEstimate": 0.78,
+    "revenue": 398.058,
+    "revenueEstimate": 269,
+    "earningsGrowth": 0.2465753424657534,
+    "revenueGrowth": 0.5335757930667817,
+    "earningsSurprise": 0.1375,
+    "revenueSurprise": 0.47976951672862456,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.24747598494700668
   }
 ]
