@@ -51094,5 +51094,29 @@
     "revenueSurprise": 0.5440431266846362,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06567636857185945
+  },
+  {
+    "epsDate": "2026-01-27T07:00:00",
+    "ticker": "CCBG",
+    "name": "Capital City Bank Group",
+    "summary": "Capital City Bank Group (CCBG) reported earnings of $0.80 per share on revenue of $71.82 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.89 per share on  revenue of $64.10 million. The company missed consensus estimates by 10.11% while revenue grew 4.84% on a year-over-year basis.<br /><br />Capital\r\nCity Bank Group Inc is a financial holding company providing traditional\r\ndeposit & credit services, asset management, trust, mortgage banking,\r\nmerchant services, bank cards, data processing, & securities brokerage\r\nservices.",
+    "subject": "Capital City Bank Group Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601272992",
+    "eps": 0.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.89,
+    "whisper": 999,
+    "highEstimate": 0.89,
+    "lowEstimate": 0.89,
+    "revenue": 71.818,
+    "revenueEstimate": 64.1,
+    "earningsGrowth": 0.03896103896103896,
+    "revenueGrowth": 0.048392041224471924,
+    "earningsSurprise": -0.10112359550561797,
+    "revenueSurprise": 0.12040561622464899,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07148356357403292
   }
 ]
