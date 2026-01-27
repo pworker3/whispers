@@ -51574,5 +51574,29 @@
     "revenueSurprise": 0.47976951672862456,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.24747598494700668
+  },
+  {
+    "epsDate": "2026-01-27T17:23:00",
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "summary": "Packaging Corporation of America (PKG) reported earnings of $2.32 per share on revenue of $2.36 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.41 per share on  revenue of $2.42 billion. The Earnings Whisper number was $2.46 per share. The company missed expectations by 5.69% while revenue grew 10.13% on a year-over-year basis.<br /><br />Packaging Corp of America is a producer of container board and corrugated products in the United States. The Company also produces multi-color boxes and displays, as well as meat boxes and wax-coated boxes for the agricultural industry.",
+    "subject": "Packaging Corporation of America Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601277087",
+    "eps": 2.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.41,
+    "whisper": 2.46,
+    "highEstimate": 2.41,
+    "lowEstimate": 2.38,
+    "revenue": 2363.6,
+    "revenueEstimate": 2420,
+    "earningsGrowth": -0.06072874493927125,
+    "revenueGrowth": 0.10134662876846373,
+    "earningsSurprise": -0.056910569105691054,
+    "revenueSurprise": -0.023305785123966943,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06002565982404692
   }
 ]
