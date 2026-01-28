@@ -51742,5 +51742,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07040989366484106
+  },
+  {
+    "epsDate": "2026-01-28T06:32:00",
+    "ticker": "T",
+    "name": "AT&T Corp.",
+    "summary": "AT&T (T) reported earnings of $0.52 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.46 per share on  revenue of $32.75 billion. The Earnings Whisper number was $0.49 per share. The company beat expectations by 6.12%.<br /><br />AT&T Inc. is a diversified, global leader in telecommunications, media and entertainment, and technology.",
+    "subject": "AT&T Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601282588",
+    "eps": 0.52,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.46,
+    "whisper": 0.49,
+    "highEstimate": 0.52,
+    "lowEstimate": 0.43,
+    "revenue": null,
+    "revenueEstimate": 32750,
+    "earningsGrowth": -0.037037037037037035,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.061224489795918366,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.016416774236255916
   }
 ]
