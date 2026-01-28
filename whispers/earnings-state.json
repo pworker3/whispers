@@ -51958,5 +51958,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.5337228879865307
+  },
+  {
+    "epsDate": "2026-01-28T08:14:00",
+    "ticker": "PGR",
+    "name": "Progressive Corp.",
+    "summary": "Progressive (PGR) reported earnings of $5.02 per share on revenue of $22.75 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.44 per share on  revenue of $21.94 billion. The Earnings Whisper number was $4.37 per share. The company beat expectations by 14.87% while revenue grew 12.18% on a year-over-year basis.<br /><br />Progressive Corp is an insurance holding company, whose subsidiaries provides personal and commercial automobile insurance and other property-casualty insurance and related services throughout the United States.",
+    "subject": "Progressive Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601284373",
+    "eps": 5.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.44,
+    "whisper": 4.37,
+    "highEstimate": 4.71,
+    "lowEstimate": 4.35,
+    "revenue": 22746,
+    "revenueEstimate": 21940,
+    "earningsGrowth": 0.23039215686274508,
+    "revenueGrowth": 0.12180783381501464,
+    "earningsSurprise": 0.14874141876430205,
+    "revenueSurprise": 0.03673655423883318,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14164004259850904
   }
 ]
