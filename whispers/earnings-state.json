@@ -52270,5 +52270,29 @@
     "revenueSurprise": 0.015708023632551936,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.31875213615942066
+  },
+  {
+    "epsDate": "2026-01-28T17:00:00",
+    "ticker": "WM",
+    "name": "WM",
+    "summary": "WM (WM) reported earnings of $1.93 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.96 per share on  revenue of $6.38 billion. The Earnings Whisper number was $2.00 per share. The company missed expectations by 3.50%.<br /><br />The company  said it expects  2026 revenue of $26.425 billion to $26.625 billion. The current consensus revenue estimate is $26.630 billion for the year ending December 31, 2026.<br /><br />WM is North America's largest comprehensive waste management environmental solutions provider. ",
+    "subject": "WM Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601287591",
+    "eps": 1.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.96,
+    "whisper": 2,
+    "highEstimate": 2.06,
+    "lowEstimate": 1.83,
+    "revenue": null,
+    "revenueEstimate": 6380,
+    "earningsGrowth": 0.13529411764705881,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.035,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14868960599037262
   }
 ]
