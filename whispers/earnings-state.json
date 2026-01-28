@@ -51934,5 +51934,29 @@
     "revenueSurprise": 0.09123505976095618,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11847862672500842
+  },
+  {
+    "epsDate": "2026-01-28T08:00:00",
+    "ticker": "APH",
+    "name": "Amphenol Corp.",
+    "summary": "Amphenol (APH) reported earnings of $0.97 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.93 per share on  revenue of $5.84 billion. The Earnings Whisper number was $0.98 per share. The company missed expectations by 1.02%.<br /><br />Amphenol Corporation designs, manufactures and markets electrical, electronic and fiber optic connectors, interconnect systems and coaxial and flat-ribbon cable.",
+    "subject": "Amphenol Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601289510",
+    "eps": 0.97,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.93,
+    "whisper": 0.98,
+    "highEstimate": 0.96,
+    "lowEstimate": 0.9,
+    "revenue": null,
+    "revenueEstimate": 5840,
+    "earningsGrowth": 0.7636363636363637,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.01020408163265306,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.5337228879865307
   }
 ]
