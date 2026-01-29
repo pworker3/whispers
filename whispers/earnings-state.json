@@ -52510,5 +52510,29 @@
     "revenueSurprise": -0.002576112412177986,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.05178059762586983
+  },
+  {
+    "epsDate": "2026-01-29T07:20:00",
+    "ticker": "LMT",
+    "name": "Lockheed Martin Corp.",
+    "summary": "Lockheed Martin (LMT) reported earnings of $5.80 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $6.24 per share on  revenue of $19.74 billion. The Earnings Whisper number was $6.38 per share. The company missed expectations by 9.09%.<br /><br />Lockheed Martin Corp is a security and aerospace company. The Company is engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services.",
+    "subject": "Lockheed Martin Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601292208",
+    "eps": 5.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 6.24,
+    "whisper": 6.38,
+    "highEstimate": 6.66,
+    "lowEstimate": 5.17,
+    "revenue": null,
+    "revenueEstimate": 19740,
+    "earningsGrowth": -0.2438070404172099,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.09090909090909091,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0879911131898971
   }
 ]
