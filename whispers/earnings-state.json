@@ -52750,5 +52750,29 @@
     "revenueSurprise": 0.08223350921746911,
     "prevEarningsGrowth": 3.218543046357616,
     "prevRevenueGrowth": 0.08493130871036088
+  },
+  {
+    "epsDate": "2026-01-29T16:16:00",
+    "ticker": "FFIV",
+    "name": "F5 Networks, Inc.",
+    "summary": "F5 Networks (FFIV) reported earnings of $4.45 per share on revenue of $822.47 million for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $3.66 per share on  revenue of $759.97 million. The Earnings Whisper number was $3.79 per share. The company beat expectations by 17.41% while revenue grew 7.30% on a year-over-year basis.<br /><br />The company  said it expects  second quarter non-GAAP earnings of $3.34 to $3.46 per share on revenue of $770.0 million to $790.0 million. The current consensus earnings estimate is $3.32 per share on revenue of $747.22 million for the quarter ending March 31, 2026. The company also said it expects fiscal  2026 non-GAAP earnings of $15.65 to $16.05 per share on revenue of $3.242 billion to $3.273 billion. The company's previous guidance was earnings of $14.50 to $15.50 per share on revenue of $3.088 billion to $3.212 billion, and the current consensus earnings estimate is $14.93 per share on revenue of $3.16 billion for the year ending September 30, 2026.<br /><br />F5 is a multicloud application security and delivery company committed to bringing a better digital world to life.",
+    "subject": "F5 Networks Beat Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2601295730",
+    "eps": 4.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.66,
+    "whisper": 3.79,
+    "highEstimate": 3.75,
+    "lowEstimate": 3.57,
+    "revenue": 822.465,
+    "revenueEstimate": 759.97,
+    "earningsGrowth": 0.43086816720257237,
+    "revenueGrowth": 0.07302909761262066,
+    "earningsSurprise": 0.1741424802110818,
+    "revenueSurprise": 0.08223350921746911,
+    "prevEarningsGrowth": 3.218543046357616,
+    "prevRevenueGrowth": 0.08493130871036088
   }
 ]
