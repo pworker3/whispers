@@ -52558,5 +52558,29 @@
     "revenueSurprise": 0.0730790802019069,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0951198311188377
+  },
+  {
+    "epsDate": "2026-01-29T08:01:00",
+    "ticker": "MA",
+    "name": "Mastercard Inc",
+    "summary": "Mastercard (MA) reported earnings of $4.76 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.20 per share on  revenue of $8.77 billion. The Earnings Whisper number was $4.26 per share. The company beat expectations by 11.74%.<br /><br />Mastercard powers economies and empowers people in 200+ countries and territories worldwide. ",
+    "subject": "Mastercard Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601291587",
+    "eps": 4.76,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.2,
+    "whisper": 4.26,
+    "highEstimate": 4.39,
+    "lowEstimate": 4.05,
+    "revenue": null,
+    "revenueEstimate": 8770,
+    "earningsGrowth": 0.24607329842931938,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.11737089201877934,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1673225675125526
   }
 ]
