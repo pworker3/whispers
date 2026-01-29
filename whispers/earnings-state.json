@@ -52390,5 +52390,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.13968913662622315
+  },
+  {
+    "epsDate": "2026-01-29T06:55:00",
+    "ticker": "LHX",
+    "name": "L3Harris Technologies",
+    "summary": "L3Harris Technologies (LHX) reported earnings of $2.86 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.76 per share on  revenue of $5.80 billion. The Earnings Whisper number was $2.85 per share. The company beat expectations by 0.35%.<br /><br />L3Harris Technologies is an agile global aerospace and defense technology innovator, delivering end-to-end solutions that meet customers’ mission-critical needs. ",
+    "subject": "L3Harris Technologies Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601295050",
+    "eps": 2.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.76,
+    "whisper": 2.85,
+    "highEstimate": 2.82,
+    "lowEstimate": 2.72,
+    "revenue": null,
+    "revenueEstimate": 5800,
+    "earningsGrowth": -0.17579250720461095,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.0035087719298245615,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06934996220710507
   }
 ]
