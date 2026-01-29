@@ -52798,5 +52798,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07938480985989677
+  },
+  {
+    "epsDate": "2026-01-29T17:07:00",
+    "ticker": "CVLT",
+    "name": "Commvault Systems Inc",
+    "summary": "Commvault Systems (CVLT) reported earnings of $1.17 per share on revenue of $313.83 million for the  fiscal third quarter ended December 2025.  The consensus earnings estimate was $0.98 per share on  revenue of $299.00 million. The Earnings Whisper number was $0.96 per share. The company beat expectations by 21.88% while revenue grew 19.50% on a year-over-year basis.<br /><br />The company  said it expects  fourth quarter  revenue of $305.0 million to $308.0 million. The current consensus revenue estimate is $305.9 million for the quarter ending March 31, 2026.<br /><br />CommVault Systems Inc is a provider of data and information management software applications and related services. It develops, markets and sells a suite of software applications and services, primarily in North America, Europe, Australia and Asia.",
+    "subject": "Commvault Systems Beat Expectations",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2601295774",
+    "eps": 1.17,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.98,
+    "whisper": 0.96,
+    "highEstimate": 1.05,
+    "lowEstimate": 0.92,
+    "revenue": 313.832,
+    "revenueEstimate": 299,
+    "earningsGrowth": 1.853658536585366,
+    "revenueGrowth": 0.1949586871263755,
+    "earningsSurprise": 0.21875,
+    "revenueSurprise": 0.049605351170568565,
+    "prevEarningsGrowth": -0.1276595744680851,
+    "prevRevenueGrowth": 0.18394362091581717
   }
 ]
