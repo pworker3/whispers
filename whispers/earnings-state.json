@@ -52534,5 +52534,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0879911131898971
+  },
+  {
+    "epsDate": "2026-01-29T06:30:00",
+    "ticker": "CAT",
+    "name": "Caterpillar, Inc.",
+    "summary": "Caterpillar (CAT) reported earnings of $5.16 per share on revenue of $19.13 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.67 per share on  revenue of $17.83 billion. The Earnings Whisper number was $4.83 per share. The company beat expectations by 6.83% while revenue grew 18.00% on a year-over-year basis.<br /><br />Caterpillar Inc is a manufacturer of construction and mining\r\nequipment, diesel and natural gas engines, industrial gas turbines and\r\ndiesel-electric locomotives. The Company is also a U.S. exporter.",
+    "subject": "Caterpillar Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601293217",
+    "eps": 5.16,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.67,
+    "whisper": 4.83,
+    "highEstimate": 4.95,
+    "lowEstimate": 4.18,
+    "revenue": 19133,
+    "revenueEstimate": 17830,
+    "earningsGrowth": 0.0038910505836575876,
+    "revenueGrowth": 0.1799568300955905,
+    "earningsSurprise": 0.06832298136645963,
+    "revenueSurprise": 0.0730790802019069,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0951198311188377
   }
 ]
