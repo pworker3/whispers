@@ -52582,5 +52582,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1673225675125526
+  },
+  {
+    "epsDate": "2026-01-29T07:30:00",
+    "ticker": "PH",
+    "name": "Parker-Hannifin Corporation",
+    "summary": "Parker-Hannifin (PH) reported earnings of $7.65 per share on revenue of $5.17 billion for the  fiscal second quarter ended December 2025.  The consensus earnings estimate was $7.15 per share on  revenue of $5.06 billion. The Earnings Whisper number was $7.42 per share. The company beat expectations by 3.10% while revenue grew 9.10% on a year-over-year basis.<br /><br />The company  said it expects fiscal  2026  earnings of $30.40 to $31.00 per share on revenue of $20.94 billion to $21.34 billion. The company's previous guidance was  earnings of $29.60 to $30.40 per share on revenue of $20.64 billion to $21.24 billion, and the current consensus earnings estimate is $30.41 per share on revenue of $21.09 billion for the year ending June 30, 2026.<br /><br />Parker Hannifin Corp is a diversified manufacturer of motion and control technologies and systems, providing precision engineered solutions for mobile, industrial and aerospace markets.",
+    "subject": "Parker-Hannifin Beat Expectations",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2601295216",
+    "eps": 7.65,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 7.15,
+    "whisper": 7.42,
+    "highEstimate": 7.27,
+    "lowEstimate": 7.09,
+    "revenue": 5174,
+    "revenueEstimate": 5060,
+    "earningsGrowth": 0.17151607963246554,
+    "revenueGrowth": 0.09096437328693396,
+    "earningsSurprise": 0.03099730458221024,
+    "revenueSurprise": 0.022529644268774702,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0367081132401737
   }
 ]
