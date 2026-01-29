@@ -52318,5 +52318,29 @@
     "revenueSurprise": 0.08223350921746911,
     "prevEarningsGrowth": 3.218543046357616,
     "prevRevenueGrowth": 0.08493130871036088
+  },
+  {
+    "epsDate": "2026-01-28T16:15:00",
+    "ticker": "NLY",
+    "name": "Annaly Capital Management, Inc.",
+    "summary": "Annaly Capital Management (NLY) reported earnings of $0.74 per share on revenue of $1.69 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.72 per share on  revenue of $469.00 million. The company beat consensus estimates by 2.78% while revenue grew 26.28% on a year-over-year basis.<br /><br />Annaly Capital Management Inc is a mortgage REIT company. The Company owns a portfolio of real estate related investments, including mortgage pass-through certificates, collateralized mortgage obligations, agency callable debentures & other securities.",
+    "subject": "Annaly Capital Management Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601287928",
+    "eps": 0.74,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.72,
+    "whisper": 999,
+    "highEstimate": 0.73,
+    "lowEstimate": 0.72,
+    "revenue": 1690.707,
+    "revenueEstimate": 469,
+    "earningsGrowth": 0.027777777777777776,
+    "revenueGrowth": 0.2627770972753346,
+    "earningsSurprise": 0.027777777777777776,
+    "revenueSurprise": 2.604918976545842,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.24660041436834856
   }
 ]
