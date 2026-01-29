@@ -52774,5 +52774,29 @@
     "revenueSurprise": 0.08223350921746911,
     "prevEarningsGrowth": 3.218543046357616,
     "prevRevenueGrowth": 0.08493130871036088
+  },
+  {
+    "epsDate": "2026-01-29T16:30:00",
+    "ticker": "AAPL",
+    "name": "Apple, Inc.",
+    "summary": "Apple (AAPL) reported earnings of $2.84 per share on  for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $2.65 per share on  revenue of $137.40 billion. The Earnings Whisper number was $2.73 per share. The company beat expectations by 4.03%.<br /><br />Apple Inc designs, manufactures, & markets mobile communication & media devices, personal computers, & portable digital music players, & sells a variety of related software, services, accessories, networking solutions, & third-party digital content.",
+    "subject": "Apple Beat Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2601295756",
+    "eps": 2.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.65,
+    "whisper": 2.73,
+    "highEstimate": 2.69,
+    "lowEstimate": 2.56,
+    "revenue": null,
+    "revenueEstimate": 137400,
+    "earningsGrowth": 0.18333333333333332,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.040293040293040296,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07938480985989677
   }
 ]
