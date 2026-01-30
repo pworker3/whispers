@@ -53110,5 +53110,29 @@
     "revenueSurprise": 0.04395706240006518,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.3793875094854408
+  },
+  {
+    "epsDate": "2026-01-30T07:30:00",
+    "ticker": "CNI",
+    "name": "Canadian National Railway Company",
+    "summary": "Canadian National Railway (CNI) reported earnings of $1.49 per share on revenue of $3.20 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.43 per share on  revenue of $3.17 billion. The Earnings Whisper number was $1.46 per share. The company beat expectations by 2.05% while revenue grew 2.80% on a year-over-year basis.<br /><br />Canadian National Railway Co is engaged in the rail and related\r\ntransportation business. It transports goods for business sectors, ranging from\r\nresource products to manufactured products to consumer goods.",
+    "subject": "Canadian National Railway Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601305869",
+    "eps": 1.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.43,
+    "whisper": 1.46,
+    "highEstimate": 1.44,
+    "lowEstimate": 1.38,
+    "revenue": 3202.197,
+    "revenueEstimate": 3170,
+    "earningsGrowth": 0.14615384615384616,
+    "revenueGrowth": 0.028039150407771267,
+    "earningsSurprise": 0.02054794520547945,
+    "revenueSurprise": 0.010156782334384858,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.00385608421916286
   }
 ]
