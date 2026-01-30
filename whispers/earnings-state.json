@@ -53086,5 +53086,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10759798028372204
+  },
+  {
+    "epsDate": "2026-01-30T07:00:00",
+    "ticker": "SOFI",
+    "name": "SoFi",
+    "summary": "SoFi (SOFI) reported earnings of $0.13 per share on revenue of $1.03 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $981.89 million. The Earnings Whisper number was $0.13 per share. The company reported in-line with expectations while revenue grew 39.63% on a year-over-year basis.<br /><br />SoFi helps people achieve financial independence to realize their ambitions.  SoFi membership comes with the key essentials for getting ahead, including career advisors and connection to a thriving community of like-minded, ambitious people. ",
+    "subject": "SoFi Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601304251",
+    "eps": 0.13,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 0.13,
+    "highEstimate": 0.14,
+    "lowEstimate": 0.11,
+    "revenue": 1025.051,
+    "revenueEstimate": 981.89,
+    "earningsGrowth": 1.6,
+    "revenueGrowth": 0.39628946024178446,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.04395706240006518,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.3793875094854408
   }
 ]
