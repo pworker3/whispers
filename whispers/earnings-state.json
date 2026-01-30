@@ -53062,5 +53062,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01861098502042669
+  },
+  {
+    "epsDate": "2026-01-30T07:00:00",
+    "ticker": "AXP",
+    "name": "American Express Co.",
+    "summary": "American Express (AXP) reported earnings of $3.53 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $3.55 per share on  revenue of $18.86 billion. The Earnings Whisper number was $3.62 per share. The company missed expectations by 2.49%.<br /><br />American Express Co is a payments, network and travel company, which offers credit payment card products and travel-related services to consumers and businesses.",
+    "subject": "American Express Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2601305485",
+    "eps": 3.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.55,
+    "whisper": 3.62,
+    "highEstimate": 3.63,
+    "lowEstimate": 3.39,
+    "revenue": null,
+    "revenueEstimate": 18860,
+    "earningsGrowth": 0.1611842105263158,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.024861878453038673,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10759798028372204
   }
 ]
