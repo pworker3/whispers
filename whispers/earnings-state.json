@@ -53686,5 +53686,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.004872862585275095
+  },
+  {
+    "epsDate": "2026-02-02T07:00:00",
+    "ticker": "NSSC",
+    "name": "NAPCO Security Technologies, Inc.",
+    "summary": "NAPCO Security Technologies (NSSC) reported earnings of $0.38 per share on  for the  fiscal second quarter ended December 2025.  The consensus earnings estimate was $0.33 per share on  revenue of $47.70 million. The company beat consensus estimates by 15.15%.<br /><br />NAPCO Security Technologies Inc is engaged in manufacturing of security products, encompassing access control systems, door security products, intrusion and fire alarm systems and video surveillance products.",
+    "subject": "NAPCO Security Technologies Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2602025815",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.33,
+    "whisper": 999,
+    "highEstimate": 0.33,
+    "lowEstimate": 0.33,
+    "revenue": null,
+    "revenueEstimate": 47.7,
+    "earningsGrowth": 0.35714285714285715,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.15151515151515152,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11737836056632503
   }
 ]
