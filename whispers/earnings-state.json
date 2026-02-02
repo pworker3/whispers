@@ -53710,5 +53710,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11737836056632503
+  },
+  {
+    "epsDate": "2026-02-02T07:00:00",
+    "ticker": "TSN",
+    "name": "Tyson Foods Inc.",
+    "summary": "Tyson Foods (TSN) reported earnings of $0.97 per share on revenue of $14.31 billion for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $1.01 per share on  revenue of $14.12 billion. The Earnings Whisper number was $1.12 per share. The company missed expectations by 13.39% while revenue grew 5.06% on a year-over-year basis.<br /><br />The company  said it continues to expect fiscal  2026 revenue of $55.53 billion to $56.62 billion. The current consensus revenue estimate is $55.74 billion for the year ending September 30, 2026.<br /><br />Tyson Foods Inc and its subsidiaries produce, distribute and market chicken, beef, pork, prepared foods and related allied products, including animal and pet food ingredients.",
+    "subject": "Tyson Foods Missed Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2602026819",
+    "eps": 0.97,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.01,
+    "whisper": 1.12,
+    "highEstimate": 1.04,
+    "lowEstimate": 0.98,
+    "revenue": 14313,
+    "revenueEstimate": 14120,
+    "earningsGrowth": -0.14912280701754385,
+    "revenueGrowth": 0.050649636643911033,
+    "earningsSurprise": -0.13392857142857142,
+    "revenueSurprise": 0.013668555240793202,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.021747143383708072
   }
 ]
