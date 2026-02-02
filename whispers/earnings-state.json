@@ -53590,5 +53590,29 @@
     "revenueSurprise": -0.002109704641350211,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-02T06:00:00",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc. ",
+    "summary": "Revvity, Inc. (RVTY) reported earnings of $1.70 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.59 per share on  revenue of $767.20 million. The Earnings Whisper number was $1.64 per share. The company beat expectations by 3.66%.<br /><br />Revvity provides health science solutions, technologies, expertise, and services that deliver complete workflows from discovery to development, and diagnosis to cure.",
+    "subject": "Revvity, Inc. Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602026709",
+    "eps": 1.7,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.59,
+    "whisper": 1.64,
+    "highEstimate": 1.63,
+    "lowEstimate": 1.53,
+    "revenue": null,
+    "revenueEstimate": 767.2,
+    "earningsGrowth": 0.19718309859154928,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.036585365853658534,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.021782065319882055
   }
 ]
