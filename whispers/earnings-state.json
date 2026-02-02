@@ -53614,5 +53614,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.021782065319882055
+  },
+  {
+    "epsDate": "2026-02-02T06:30:00",
+    "ticker": "IDXX",
+    "name": "IDEXX Laboratories, Inc.",
+    "summary": "IDEXX Laboratories (IDXX) reported earnings of $3.08 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.93 per share on  revenue of $1.07 billion. The Earnings Whisper number was $3.11 per share. The company missed expectations by 0.96%.<br /><br />IDEXX Laboratories Inc develops, manufactures and distributes products and provide services for the veterinary, bioresearch, water, livestock, poultry and dairy markets.",
+    "subject": "IDEXX Laboratories Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602028354",
+    "eps": 3.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.93,
+    "whisper": 3.11,
+    "highEstimate": 3,
+    "lowEstimate": 2.87,
+    "revenue": null,
+    "revenueEstimate": 1070,
+    "earningsGrowth": 0.17557251908396945,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.00964630225080386,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1329474969324776
   }
 ]
