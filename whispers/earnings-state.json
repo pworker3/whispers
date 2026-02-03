@@ -55006,5 +55006,29 @@
     "revenueSurprise": -0.0029781601588352085,
     "prevEarningsGrowth": 30.208333333333332,
     "prevRevenueGrowth": 0.08748063842683008
+  },
+  {
+    "epsDate": "2026-02-03T16:51:00",
+    "ticker": "SMCI",
+    "name": "Supermicro",
+    "summary": "Supermicro (SMCI) reported earnings of $0.69 per share on  for the  fiscal second quarter ended December 2025.  The consensus earnings estimate was $0.49 per share on  revenue of $10.43 billion. The Earnings Whisper number was $0.55 per share. The company beat expectations by 25.45%.<br /><br />The company  said it expects  third quarter  non-GAAP earnings of at least $0.60 per share on revenue of  at least $12.30 billion. The current consensus earnings estimate is $0.62 per share on revenue of $10.19 billion for the quarter ending March 31, 2026.<br /><br />Super Micro Computer Inc is a server technology and green computing company. It develops and provides high performance server solutions based upon an modular and open-standard architecture.",
+    "subject": "Supermicro Beat Expectations",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2602034970",
+    "eps": 0.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.49,
+    "whisper": 0.55,
+    "highEstimate": 0.5,
+    "lowEstimate": 0.45,
+    "revenue": null,
+    "revenueEstimate": 10430,
+    "earningsGrowth": 0.35294117647058826,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.2545454545454545,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
