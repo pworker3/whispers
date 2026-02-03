@@ -55030,5 +55030,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-03T16:01:00",
+    "ticker": "DOX",
+    "name": "Amdocs, Ltd.",
+    "summary": "Amdocs, (DOX) reported earnings of $1.81 per share on revenue of $1.16 billion for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $1.76 per share on  revenue of $1.15 billion. The Earnings Whisper number was $1.79 per share. The company beat expectations by 1.12% while revenue grew 4.13% on a year-over-year basis.<br /><br />Amdocs Ltd is a provider of software products and services to the communications, media and entertainment industry. It provides software and services solutions in North America and Europe.",
+    "subject": "Amdocs, Beat Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2602033421",
+    "eps": 1.81,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.76,
+    "whisper": 1.79,
+    "highEstimate": 1.76,
+    "lowEstimate": 1.74,
+    "revenue": 1155.939,
+    "revenueEstimate": 1150,
+    "earningsGrowth": 0.2482758620689655,
+    "revenueGrowth": 0.04133488881181563,
+    "earningsSurprise": 0.0111731843575419,
+    "revenueSurprise": 0.005164347826086956,
+    "prevEarningsGrowth": 7.051282051282051,
+    "prevRevenueGrowth": -0.0899324462252014
   }
 ]
