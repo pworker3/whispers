@@ -54598,5 +54598,29 @@
     "revenueSurprise": 0.015555555555555555,
     "prevEarningsGrowth": 14.48031496062992,
     "prevRevenueGrowth": 0.11533180778032037
+  },
+  {
+    "epsDate": "2026-02-03T07:30:00",
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "summary": "Hubbell (HUBB) reported earnings of $4.73 per share on revenue of $1.49 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.70 per share on  revenue of $1.49 billion. The Earnings Whisper number was $4.84 per share. The company missed expectations by 2.27% while revenue grew 11.87% on a year-over-year basis.<br /><br />Hubbell Incorporated is an international manufacturer of high quality, reliable electrical and utility solutions for a broad range of customer and end market applications. ",
+    "subject": "Hubbell Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602037402",
+    "eps": 4.73,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.7,
+    "whisper": 4.84,
+    "highEstimate": 4.76,
+    "lowEstimate": 4.62,
+    "revenue": 1492.7,
+    "revenueEstimate": 1490,
+    "earningsGrowth": 0.15365853658536585,
+    "revenueGrowth": 0.11871393239901072,
+    "earningsSurprise": -0.022727272727272728,
+    "revenueSurprise": 0.0018120805369127517,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.04145293220573964
   }
 ]
