@@ -54574,5 +54574,29 @@
     "revenueSurprise": 0.13874117647058823,
     "prevEarningsGrowth": -1.3333333333333333,
     "prevRevenueGrowth": -0.023334636606793767
+  },
+  {
+    "epsDate": "2026-02-03T07:15:00",
+    "ticker": "TDG",
+    "name": "TransDigm Group Inc.",
+    "summary": "TransDigm Group (TDG) reported earnings of $8.23 per share on revenue of $2.29 billion for the  fiscal first quarter ended December 2025.  The consensus earnings estimate was $8.04 per share on  revenue of $2.25 billion. The Earnings Whisper number was $8.41 per share. The company missed expectations by 2.14% while revenue grew 13.91% on a year-over-year basis.<br /><br />TransDigm Group Inc is a designer, producer and supplier of engineered aircraft components for use on commercial and military aircraft in service. The Company' business segments are Power & Control, Airframe and Non-aviation.",
+    "subject": "TransDigm Group Missed Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2602036654",
+    "eps": 8.23,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 8.04,
+    "whisper": 8.41,
+    "highEstimate": 8.61,
+    "lowEstimate": 7.51,
+    "revenue": 2285,
+    "revenueEstimate": 2250,
+    "earningsGrowth": 0.08718626155878467,
+    "revenueGrowth": 0.1390827517447657,
+    "earningsSurprise": -0.02140309155766944,
+    "revenueSurprise": 0.015555555555555555,
+    "prevEarningsGrowth": 14.48031496062992,
+    "prevRevenueGrowth": 0.11533180778032037
   }
 ]
