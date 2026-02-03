@@ -54262,5 +54262,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.1271869328493648
+  },
+  {
+    "epsDate": "2026-02-03T06:00:00",
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "summary": "Ball (BALL) reported earnings of $0.91 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.90 per share on  revenue of $3.11 billion. The Earnings Whisper number was $0.93 per share. The company missed expectations by 2.15%.<br /><br />Ball Corporation supplies innovative, sustainable aluminum packaging solutions for beverage, personal care and household products customers, as well as aerospace and other technologies and services primarily for the U.S. government. ",
+    "subject": "Ball Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602037117",
+    "eps": 0.91,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.9,
+    "whisper": 0.93,
+    "highEstimate": 0.93,
+    "lowEstimate": 0.86,
+    "revenue": null,
+    "revenueEstimate": 3110,
+    "earningsGrowth": 0.08333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.021505376344086023,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0963659961064244
   }
 ]
