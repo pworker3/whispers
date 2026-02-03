@@ -54622,5 +54622,29 @@
     "revenueSurprise": 0.0018120805369127517,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.04145293220573964
+  },
+  {
+    "epsDate": "2026-02-03T06:00:00",
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "summary": "PepsiCo (PEP) reported earnings of $2.26 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.24 per share on  revenue of $29.01 billion. The Earnings Whisper number was $2.25 per share. The company beat expectations by 0.44%.<br /><br />PepsiCo products are enjoyed by consumers more than one billion times a day in more than 200 countries and territories around the world. ",
+    "subject": "PepsiCo Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "4000000273",
+    "eps": 2.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.24,
+    "whisper": 2.25,
+    "highEstimate": 2.24,
+    "lowEstimate": 2.22,
+    "revenue": null,
+    "revenueEstimate": 29010,
+    "earningsGrowth": 0.15306122448979592,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.0044444444444444444,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.02650199408207899
   }
 ]
