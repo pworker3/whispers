@@ -55630,5 +55630,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.15949154846603525
+  },
+  {
+    "epsDate": "2026-02-04T16:15:00",
+    "ticker": "MOD",
+    "name": "Modine Manufacturing Co.",
+    "summary": "Modine Manufacturing (MOD) reported earnings of $1.19 per share on  for the  fiscal third quarter ended December 2025.  The consensus earnings estimate was $0.99 per share on  revenue of $763.38 million. The Earnings Whisper number was $1.06 per share. The company beat expectations by 12.26%.<br /><br />Modine Manufacturing Co manufactures thermal management systems and components, bringing heating and cooling technology and solutions to diversified global markets.",
+    "subject": "Modine Manufacturing Beat Expectations",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2602047621",
+    "eps": 1.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.99,
+    "whisper": 1.06,
+    "highEstimate": 1.15,
+    "lowEstimate": 0.91,
+    "revenue": null,
+    "revenueEstimate": 763.38,
+    "earningsGrowth": 0.29347826086956524,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.12264150943396226,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1229483282674772
   }
 ]
