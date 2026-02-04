@@ -55174,5 +55174,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11781448896792139
+  },
+  {
+    "epsDate": "2026-02-04T06:00:00",
+    "ticker": "BG",
+    "name": "Bunge Ltd.",
+    "summary": "Bunge (BG) reported earnings of $1.99 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.82 per share on  revenue of $22.00 billion. The Earnings Whisper number was $1.90 per share. The company beat expectations by 4.74%.<br /><br />Bunge Ltd is an agribusiness and food company with integrated operations that stretch from the farm field to consumer foods.",
+    "subject": "Bunge Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602045074",
+    "eps": 1.99,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.82,
+    "whisper": 1.9,
+    "highEstimate": 1.92,
+    "lowEstimate": 1.75,
+    "revenue": null,
+    "revenueEstimate": 22000,
+    "earningsGrowth": -0.06572769953051644,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.04736842105263158,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.7163774403470716
   }
 ]
