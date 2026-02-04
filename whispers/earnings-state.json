@@ -55246,5 +55246,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07355273592386995
+  },
+  {
+    "epsDate": "2026-02-04T06:45:00",
+    "ticker": "LLY",
+    "name": "Eli Lilly & Co.",
+    "summary": "Eli Lilly (LLY) reported earnings of $7.54 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $6.99 per share on  revenue of $17.87 billion. The Earnings Whisper number was $7.16 per share. The company beat expectations by 5.31%.<br /><br />Eli Lilly and Co is a drug manufacturing company. It discovers, develops, manufactures, and sells human pharmaceutical products and animal health products.",
+    "subject": "Eli Lilly Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602048083",
+    "eps": 7.54,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 6.99,
+    "whisper": 7.16,
+    "highEstimate": 7.86,
+    "lowEstimate": 6.51,
+    "revenue": null,
+    "revenueEstimate": 17870,
+    "earningsGrowth": 0.41729323308270677,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05307262569832402,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.5386525163692948
   }
 ]
