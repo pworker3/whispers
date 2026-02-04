@@ -55654,5 +55654,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1229483282674772
+  },
+  {
+    "epsDate": "2026-02-04T16:30:00",
+    "ticker": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "summary": "O'Reilly Automotive (ORLY) reported earnings of $0.71 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.72 per share on  revenue of $4.40 billion. The Earnings Whisper number was $0.74 per share. The company missed expectations by 4.05%.<br /><br />O&#39;Reilly Automotive Inc is a specialty retailer of automotive aftermarket parts, tools, supplies, equipment and accessories in the United States, selling its products to both do-it-yourself \"DIY\" and professional service provider customers.",
+    "subject": "O'Reilly Automotive Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602049137",
+    "eps": 0.71,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.72,
+    "whisper": 0.74,
+    "highEstimate": 0.75,
+    "lowEstimate": 0.7,
+    "revenue": null,
+    "revenueEstimate": 4400,
+    "earningsGrowth": -0.928714859437751,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.04054054054054054,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07819084110963224
   }
 ]
