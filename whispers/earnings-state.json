@@ -55894,5 +55894,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.14098794472214055
+  },
+  {
+    "epsDate": "2026-02-05T07:30:00",
+    "ticker": "CMI",
+    "name": "Cummins, Inc.",
+    "summary": "Cummins (CMI) reported earnings of $5.81 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $5.20 per share on  revenue of $8.15 billion. The Earnings Whisper number was $5.68 per share. The company beat expectations by 2.29%.<br /><br />The company  said it expects  2026 revenue of $34.68 billion to $36.36 billion. The current consensus revenue estimate is $35.07 billion for the year ending December 31, 2026.<br /><br />Cummins Inc designs, manufactures, distributes and services diesel and natural gas engines, electric power generation systems and engine-related component products.",
+    "subject": "Cummins Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602054135",
+    "eps": 5.81,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.2,
+    "whisper": 5.68,
+    "highEstimate": 6.35,
+    "lowEstimate": 4.89,
+    "revenue": null,
+    "revenueEstimate": 8150,
+    "earningsGrowth": 0.12596899224806202,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.022887323943661973,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.01643803216650899
   }
 ]
