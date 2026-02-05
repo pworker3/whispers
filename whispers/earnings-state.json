@@ -55750,5 +55750,29 @@
     "revenueSurprise": 0.009768558414378924,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.0004695871190830244
+  },
+  {
+    "epsDate": "2026-02-05T06:00:00",
+    "ticker": "EL",
+    "name": "Estée Lauder Companies, Inc.",
+    "summary": "Estée Lauder Companies (EL) reported earnings of $0.89 per share on  for the  fiscal second quarter ended December 2025.  The consensus earnings estimate was $0.83 per share on  revenue of $4.23 billion. The Earnings Whisper number was $0.91 per share. The company missed expectations by 2.20%.<br /><br />Estee Lauder Cos Inc is engaged in manufacturing & marketing skin care, makeup, fragrance and hair care products.",
+    "subject": "Estée Lauder Companies Missed Expectations",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2602059487",
+    "eps": 0.89,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.83,
+    "whisper": 0.91,
+    "highEstimate": 0.92,
+    "lowEstimate": 0.74,
+    "revenue": null,
+    "revenueEstimate": 4230,
+    "earningsGrowth": 0.43548387096774194,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.02197802197802198,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03570365962511157
   }
 ]
