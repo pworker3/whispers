@@ -55846,5 +55846,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.22441991698069896
+  },
+  {
+    "epsDate": "2026-02-05T06:59:00",
+    "ticker": "BMY",
+    "name": "Bristol Myers Squibb ",
+    "summary": "Bristol Myers Squibb (BMY) reported earnings of $1.26 per share on revenue of $12.50 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.15 per share on  revenue of $12.26 billion. The Earnings Whisper number was $1.42 per share. The company missed expectations by 11.27% while revenue grew 1.30% on a year-over-year basis.<br /><br />Bristol-Myers Squibb Co is a biopharmaceutical company. It discovers, develops, licenses, manufactures, markets, distributes and sells biopharmaceutical products.",
+    "subject": "Bristol Myers Squibb Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602053283",
+    "eps": 1.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.15,
+    "whisper": 1.42,
+    "highEstimate": 1.69,
+    "lowEstimate": 1.12,
+    "revenue": 12502,
+    "revenueEstimate": 12260,
+    "earningsGrowth": -0.24550898203592814,
+    "revenueGrowth": 0.012963863231242911,
+    "earningsSurprise": -0.11267605633802817,
+    "revenueSurprise": 0.01973898858075041,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.027749747729566093
   }
 ]
