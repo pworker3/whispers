@@ -56254,5 +56254,29 @@
     "revenueSurprise": -0.19741004693203545,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 3.4179996322853468
+  },
+  {
+    "epsDate": "2026-02-05T16:05:00",
+    "ticker": "RBLX",
+    "name": "Roblox Corporation",
+    "summary": "Roblox (RBLX) reported a loss of $0.45 per share on revenue of $1.42 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.49 per share on  revenue of $2.07 billion. The Earnings Whisper number was a loss of $0.44 per share. The company missed expectations by 2.27% while revenue grew 43.19% on a year-over-year basis.<br /><br />The company  said in its <a href=\"https://s27.q4cdn.com/984876518/files/doc_financials/2025/q4/Q4-2025-Supplemental-Materials.pdf\">earnings presentation</a> it expects  first quarter  bookings of $1.69 billion to $1.74 billion and bookings of $8.282 billion to $8.553 billion. The current consensus bookings estimate is $1.74 billion for the quarter ending March 31, 2026, and $8.08 billion for the year ending December 31, 2026.<br /><br />Roblox is an immersive platform for connection and communication.",
+    "subject": "Roblox Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602053874",
+    "eps": -0.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.49,
+    "whisper": -0.44,
+    "highEstimate": -0.33,
+    "lowEstimate": -0.7,
+    "revenue": 1415.021,
+    "revenueEstimate": 2070,
+    "earningsGrowth": -0.36363636363636365,
+    "revenueGrowth": 0.4319422617065867,
+    "earningsSurprise": -0.022727272727272728,
+    "revenueSurprise": -0.3164149758454106,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.47955989044053393
   }
 ]
