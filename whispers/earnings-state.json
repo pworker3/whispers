@@ -55870,5 +55870,29 @@
     "revenueSurprise": 0.01973898858075041,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.027749747729566093
+  },
+  {
+    "epsDate": "2026-02-05T07:00:00",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "summary": "ConocoPhillips (COP) reported earnings of $1.02 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.08 per share on  revenue of $14.14 billion. The Earnings Whisper number was $1.15 per share. The company missed expectations by 11.30%.<br /><br />ConocoPhillips is engaged in exploration, development and production of crude oil and natural gas.",
+    "subject": "ConocoPhillips Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602052149",
+    "eps": 1.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.08,
+    "whisper": 1.15,
+    "highEstimate": 1.29,
+    "lowEstimate": 0.98,
+    "revenue": null,
+    "revenueEstimate": 14140,
+    "earningsGrowth": -0.48484848484848486,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.11304347826086956,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14098794472214055
   }
 ]
