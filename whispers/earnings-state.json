@@ -55774,5 +55774,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03570365962511157
+  },
+  {
+    "epsDate": "2026-02-05T06:00:00",
+    "ticker": "CI",
+    "name": "CIGNA Corp.",
+    "summary": "CIGNA (CI) reported earnings of $8.08 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $7.87 per share on  revenue of $69.93 billion. The Earnings Whisper number was $7.94 per share. The company beat expectations by 1.76%.<br /><br />Cigna Corp is a health services organization with insurance subsidiaries that are providers of medical, dental, disability, life and accident insurance and related products and services.",
+    "subject": "CIGNA Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602058758",
+    "eps": 8.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 7.87,
+    "whisper": 7.94,
+    "highEstimate": 7.93,
+    "lowEstimate": 7.84,
+    "revenue": null,
+    "revenueEstimate": 69930,
+    "earningsGrowth": 0.21686746987951808,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.017632241813602016,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.09504819920243665
   }
 ]
