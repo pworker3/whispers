@@ -55918,5 +55918,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01643803216650899
+  },
+  {
+    "epsDate": "2026-02-05T09:10:00",
+    "ticker": "SNAP",
+    "name": "Snap Inc.",
+    "summary": "Snap (SNAP) reported earnings of $0.03 per share on revenue of $1.72 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.02 per share on  revenue of $1.70 billion. The Earnings Whisper number was a loss of $0.04 per share. The company beat expectations by 175.00% while revenue grew 10.22% on a year-over-year basis.<br /><br />The company  said during its <a href=\"https://events.q4inc.com/attendee/972637140\">conference call</a> it expects  first quarter  revenue of $1.50 billion to $1.53 billion. The current consensus revenue estimate is $1.53 billion for the quarter ending March 31, 2026.<br /><br />Snap Inc. is a technology company. ",
+    "subject": "Snap Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602050063",
+    "eps": 0.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.02,
+    "whisper": -0.04,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.13,
+    "revenue": 1716.461,
+    "revenueEstimate": 1700,
+    "earningsGrowth": 2,
+    "revenueGrowth": 0.10221520430133765,
+    "earningsSurprise": 1.75,
+    "revenueSurprise": 0.009682941176470589,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0978198625356447
   }
 ]
