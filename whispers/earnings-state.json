@@ -56230,5 +56230,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -1.0769230769230769,
     "prevRevenueGrowth": 0.5709732777641578
+  },
+  {
+    "epsDate": "2026-02-05T16:03:00",
+    "ticker": "IREN",
+    "name": "IREN Limited",
+    "summary": "IREN Limited (IREN) reported a loss of $0.44 per share on revenue of $184.69 million for the  fiscal second quarter ended December 2025.  The consensus estimate was a loss of $0.09 per share on  revenue of $230.12 million. The Earnings Whisper number was a loss of $0.13 per share. The company missed expectations by 238.46% while revenue grew 54.44% on a year-over-year basis.<br /><br />IREN is a leading AI Cloud Service Provider, delivering large-scale GPU clusters for AI training and inference.",
+    "subject": "IREN Limited Missed Expectations",
+    "quarter": " fiscal second quarter ended December 2025",
+    "fileName": "2602059995",
+    "eps": -0.44,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.09,
+    "whisper": -0.13,
+    "highEstimate": 0,
+    "lowEstimate": -0.15,
+    "revenue": 184.692,
+    "revenueEstimate": 230.12,
+    "earningsGrowth": -5.888888888888889,
+    "revenueGrowth": 0.544415362873891,
+    "earningsSurprise": -2.3846153846153846,
+    "revenueSurprise": -0.19741004693203545,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 3.4179996322853468
   }
 ]
