@@ -56494,5 +56494,29 @@
     "revenueSurprise": 0.9368434599359747,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08146253670550346
+  },
+  {
+    "epsDate": "2026-02-06T13:29:00",
+    "ticker": "BSX",
+    "name": "Boston Scientific Corporation",
+    "summary": "Boston Scientific (BSX) reported earnings of $0.80 per share on revenue of $5.29 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.78 per share on  revenue of $5.27 billion. The Earnings Whisper number was $0.80 per share. The company reported in-line with expectations while revenue grew 15.90% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  earnings of $0.77 to $0.79 per share and 2026 earnings of $3.43 to $3.49 per share. The current consensus estimate is earnings of $0.79 per share for the quarter ending March 31, 2026 and earnings of $3.45 per share for the year ending December 31, 2026.<br /><br />Boston Scientific Inc is a developer, manufacturer and marketer of medical devices that are used in a range of interventional medical specialties.",
+    "subject": "Boston Scientific Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602065702",
+    "eps": 0.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.78,
+    "whisper": 0.8,
+    "highEstimate": 0.78,
+    "lowEstimate": 0.77,
+    "revenue": 5286,
+    "revenueEstimate": 5270,
+    "earningsGrowth": 0.14285714285714285,
+    "revenueGrowth": 0.1589563692172769,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.0030360531309297912,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.20337372297457829
   }
 ]
