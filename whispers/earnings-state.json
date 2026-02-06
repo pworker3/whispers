@@ -56446,5 +56446,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.18244770720795755
+  },
+  {
+    "epsDate": "2026-02-06T07:00:00",
+    "ticker": "CGC",
+    "name": "Canopy Growth Corporation",
+    "summary": "Canopy Growth (CGC) reported a loss of $0.13 per share on revenue of $64.84 million for the  fiscal third quarter ended December 2025.  The consensus estimate was a loss of $0.03 per share on  revenue of $50.59 million. The company missed consensus estimates by 333.33% while revenue grew 5.19% on a year-over-year basis.<br /><br />Canopy Growth is a world-leading diversified cannabis and cannabinoid-based consumer product company, driven by a passion to improve lives, end prohibition, and strengthen communities by unleashing the full potential of cannabis.",
+    "subject": "Canopy Growth Missed Consensus Estimates",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2602061519",
+    "eps": -0.13,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.03,
+    "whisper": 999,
+    "highEstimate": 0.01,
+    "lowEstimate": -0.07,
+    "revenue": 64.841,
+    "revenueEstimate": 50.59,
+    "earningsGrowth": 0.8289473684210527,
+    "revenueGrowth": 0.051879369920347806,
+    "earningsSurprise": -3.3333333333333335,
+    "revenueSurprise": 0.28169598734927853,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11168289803747972
   }
 ]
