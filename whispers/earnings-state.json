@@ -56470,5 +56470,29 @@
     "revenueSurprise": 0.28169598734927853,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11168289803747972
+  },
+  {
+    "epsDate": "2026-02-06T07:30:00",
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets, Inc",
+    "summary": "Cboe Global Markets (CBOE) reported earnings of $3.06 per share on revenue of $1.20 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.93 per share on  revenue of $621.63 million. The Earnings Whisper number was $2.94 per share. The company beat expectations by 4.08% while revenue grew 8.70% on a year-over-year basis.<br /><br />CBOE Holdings Inc is engaged in trading of listed or exchange-traded, derivatives contracts on four categories; index options, futures on VIX, options on the stocks of individual equity, on the other exchange-traded funds and exchange traded notes.",
+    "subject": "Cboe Global Markets Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602061119",
+    "eps": 3.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.93,
+    "whisper": 2.94,
+    "highEstimate": 2.98,
+    "lowEstimate": 2.26,
+    "revenue": 1204,
+    "revenueEstimate": 621.63,
+    "earningsGrowth": 0.45714285714285713,
+    "revenueGrowth": 0.08703503069700252,
+    "earningsSurprise": 0.04081632653061224,
+    "revenueSurprise": 0.9368434599359747,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08146253670550346
   }
 ]
