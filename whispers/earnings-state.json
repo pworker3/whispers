@@ -56422,5 +56422,29 @@
     "revenueSurprise": 0.25460251046025106,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-06T06:00:00",
+    "ticker": "CNC",
+    "name": "Centene Corporation",
+    "summary": "Centene (CNC) reported a loss of $1.19 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $1.25 per share on  revenue of $48.24 billion. The Earnings Whisper number was a loss of $1.00 per share. The company missed expectations by 19.00%.<br /><br />Centene Corp is a diversified multi-national healthcare enterprise. The Company provides programs and services to government sponsored healthcare\r\nprograms, focusing on under-insured and uninsured individuals.",
+    "subject": "Centene Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602062208",
+    "eps": -1.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -1.25,
+    "whisper": -1,
+    "highEstimate": -1.21,
+    "lowEstimate": -1.3,
+    "revenue": null,
+    "revenueEstimate": 48240,
+    "earningsGrowth": -2.4875,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.19,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.18244770720795755
   }
 ]
