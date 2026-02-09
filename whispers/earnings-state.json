@@ -57070,5 +57070,29 @@
     "revenueSurprise": 0.015725409469256244,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.45003765353553715
+  },
+  {
+    "epsDate": "2026-02-09T07:30:00",
+    "ticker": "AVXL",
+    "name": "Anavex Life Sciences",
+    "summary": "Anavex Life Sciences (AVXL) reported a loss of $0.06 per share on revenue of $0.00 million for the  fiscal first quarter ended December 2025.  The consensus estimate was a loss of $0.10 per share. The Earnings Whisper number was a loss of $0.08 per share. The company beat expectations by 25.00%.<br /><br />Anavex Life Sciences Corp.  is a publicly traded biopharmaceutical company dedicated to the development of differentiated therapeutics for the treatment of neurodegenerative and neurodevelopmental disorders including Alzheimer’s disease, Parkinson’s disease, Rett syndrome and other central nervous system (CNS) diseases, pain, and various types of cancer.",
+    "subject": "Anavex Life Sciences Beat Expectations",
+    "quarter": " fiscal first quarter ended December 2025",
+    "fileName": "2602090664",
+    "eps": -0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.1,
+    "whisper": -0.08,
+    "highEstimate": -0.1,
+    "lowEstimate": -0.1,
+    "revenue": 0,
+    "revenueEstimate": null,
+    "earningsGrowth": 0.5714285714285714,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.25,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
