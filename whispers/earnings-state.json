@@ -56902,5 +56902,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.03611293499671701
+  },
+  {
+    "epsDate": "2026-02-09T06:30:00",
+    "ticker": "APO",
+    "name": "Apollo Global Management, LLC",
+    "summary": "Apollo Global Management, LLC (APO) reported earnings of $2.47 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.04 per share on  revenue of $1.19 billion. The Earnings Whisper number was $2.03 per share. The company beat expectations by 21.67%.<br /><br />Apollo Global Management LLC along with its subsidiaries operates as an alternative asset management company. It raises, invests & manages private equity, credit & real estate funds as well as strategic investment accounts, on behalf of it clients.",
+    "subject": "Apollo Global Management, LLC Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602090938",
+    "eps": 2.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.04,
+    "whisper": 2.03,
+    "highEstimate": 2.12,
+    "lowEstimate": 1.99,
+    "revenue": null,
+    "revenueEstimate": 1190,
+    "earningsGrowth": 0.30687830687830686,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.21674876847290642,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2637334362536987
   }
 ]
