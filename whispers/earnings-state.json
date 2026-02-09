@@ -57238,5 +57238,29 @@
     "revenueSurprise": -0.07522904648795385,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.23413698630136986
+  },
+  {
+    "epsDate": "2026-02-09T16:30:00",
+    "ticker": "GT",
+    "name": "Goodyear Tire & Rubber Company",
+    "summary": "Goodyear Tire & Rubber (GT) reported earnings of $0.39 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.45 per share on  revenue of $4.93 billion. The Earnings Whisper number was $0.49 per share. The company missed expectations by 20.41%.<br /><br />Goodyear Tire &\r\nRubber Co is engaged in manufacturing of tires. The Company develops,\r\nmanufactures, markets and distributes tires for various applications. It also\r\nmanufactures and markets rubber-related chemicals for various applications.",
+    "subject": "Goodyear Tire & Rubber Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602093784",
+    "eps": 0.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.45,
+    "whisper": 0.49,
+    "highEstimate": 0.48,
+    "lowEstimate": 0.4,
+    "revenue": null,
+    "revenueEstimate": 4930,
+    "earningsGrowth": 0,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.20408163265306123,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.037106135986733
   }
 ]
