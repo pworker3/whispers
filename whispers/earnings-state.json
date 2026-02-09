@@ -56878,5 +56878,29 @@
     "revenueSurprise": -0.0767355828220859,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4672663331973137
+  },
+  {
+    "epsDate": "2026-02-09T06:00:00",
+    "ticker": "CLF",
+    "name": "Cleveland-Cliffs Inc",
+    "summary": "Cleveland-Cliffs (CLF) reported a loss of $0.43 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.62 per share on  revenue of $4.62 billion. The Earnings Whisper number was a loss of $0.45 per share. The company beat expectations by 4.44%.<br /><br />Cliffs Natural Resources Inc is a mining and natural resources company. The Company is a supplier of iron ore pellets to the North American steel industry from its mines and pellet plants located in Michigan and Minnesota.",
+    "subject": "Cleveland-Cliffs Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602098433",
+    "eps": -0.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.62,
+    "whisper": -0.45,
+    "highEstimate": -0.57,
+    "lowEstimate": -0.66,
+    "revenue": null,
+    "revenueEstimate": 4620,
+    "earningsGrowth": 0.36764705882352944,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.044444444444444446,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03611293499671701
   }
 ]
