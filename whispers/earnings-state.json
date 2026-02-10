@@ -58270,5 +58270,29 @@
     "revenueSurprise": -0.03994565217391304,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05851727317099626
+  },
+  {
+    "epsDate": "2026-02-10T16:05:00",
+    "ticker": "Z",
+    "name": "Zillow, Inc.",
+    "summary": "Zillow (Z) reported earnings of $0.01 per share on revenue of $654.00 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.01 per share on  revenue of $649.81 million. The company beat consensus estimates by 200.00% while revenue grew 18.05% on a year-over-year basis.<br /><br />Zillow Group Inc operates\r\nthe real estate and home-related information marketplaces on mobile and the\r\nWeb, with a complementary portfolio of brands and products to help people find\r\nvital information about homes and connect with local professionals.",
+    "subject": "Zillow Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602104415",
+    "eps": 0.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.01,
+    "whisper": 999,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.37,
+    "revenue": 654,
+    "revenueEstimate": 649.81,
+    "earningsGrowth": 1.0454545454545454,
+    "revenueGrowth": 0.18050541516245489,
+    "earningsSurprise": 2,
+    "revenueSurprise": 0.006448038657453717,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.16351118760757316
   }
 ]
