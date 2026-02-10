@@ -58366,5 +58366,29 @@
     "revenueSurprise": -0.09505681818181819,
     "prevEarningsGrowth": -0.5238095238095238,
     "prevRevenueGrowth": 0.10672086016082044
+  },
+  {
+    "epsDate": "2026-02-10T16:05:00",
+    "ticker": "ZG",
+    "name": "Zillow Group, Inc.",
+    "summary": "Zillow Group (ZG) reported earnings of $0.39 per share on revenue of $654.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.40 per share on  revenue of $649.76 million. The Earnings Whisper number was $0.42 per share. The company missed expectations by 7.14% while revenue grew 18.05% on a year-over-year basis.<br /><br />Zillow Group, Inc.  is reimagining real estate to make home a reality for more and more people. ",
+    "subject": "Zillow Group Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602104415",
+    "eps": 0.39,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.4,
+    "whisper": 0.42,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.37,
+    "revenue": 654,
+    "revenueEstimate": 649.76,
+    "earningsGrowth": 2.772727272727273,
+    "revenueGrowth": 0.18050541516245489,
+    "earningsSurprise": -0.07142857142857142,
+    "revenueSurprise": 0.006525486333415415,
+    "prevEarningsGrowth": -1.0263157894736843,
+    "prevRevenueGrowth": 0.16351118760757316
   }
 ]
