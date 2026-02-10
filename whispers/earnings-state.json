@@ -58294,5 +58294,29 @@
     "revenueSurprise": 0.006448038657453717,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.16351118760757316
+  },
+  {
+    "epsDate": "2026-02-10T16:05:00",
+    "ticker": "KVYO",
+    "name": "Klaviyo ",
+    "summary": "Klaviyo (KVYO) reported earnings of $0.07 per share on revenue of $350.20 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $333.34 million. The Earnings Whisper number was $0.19 per share. The company missed expectations by 63.16% while revenue grew 29.62% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $346.0 million to $350.0 million and 2026 revenue of $1.501 billion to $1.509 billion. The current consensus revenue estimate is $342.63 million for the quarter ending March 31, 2026 and revenue of $1.48 billion for the year ending December 31, 2026.<br /><br />Klaviyo (CLAY-vee-oh) powers smarter digital relationships, making it easy for businesses to capture, store, analyze, and predictively use their own data to drive measurable, high-value outcomes.",
+    "subject": "Klaviyo Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602109244",
+    "eps": 0.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 0.19,
+    "highEstimate": 0.19,
+    "lowEstimate": 0.13,
+    "revenue": 350.195,
+    "revenueEstimate": 333.34,
+    "earningsGrowth": 2.1666666666666665,
+    "revenueGrowth": 0.2962311780992286,
+    "earningsSurprise": -0.631578947368421,
+    "revenueSurprise": 0.0505639887202256,
+    "prevEarningsGrowth": -0.7142857142857143,
+    "prevRevenueGrowth": 0.3223646711528155
   }
 ]
