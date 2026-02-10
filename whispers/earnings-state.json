@@ -57646,5 +57646,29 @@
     "revenueSurprise": 0.019805825242718445,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0833180062534486
+  },
+  {
+    "epsDate": "2026-02-09T19:01:00",
+    "ticker": "SVM",
+    "name": "Silvercorp Metals Inc",
+    "summary": "Silvercorp Metals (SVM) reported earnings of $0.22 per share on revenue of $126.11 million for the  fiscal third quarter ended December 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $126.10 million. The Earnings Whisper number was $0.18 per share. The company beat expectations by 22.22% while revenue grew 50.83% on a year-over-year basis.<br /><br />Silvercorp Metals Inc is engaged in the acquisition, exploration, development, and mining of precious and base metal mineral properties. The Company’s producing mines are in China, with current exploration and development projects in China and Canada.",
+    "subject": "Silvercorp Metals Beat Expectations",
+    "quarter": " fiscal third quarter ended December 2025",
+    "fileName": "2602098487",
+    "eps": 0.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 0.18,
+    "highEstimate": 0.2,
+    "lowEstimate": 0.13,
+    "revenue": 126.112,
+    "revenueEstimate": 126.1,
+    "earningsGrowth": 1.2,
+    "revenueGrowth": 0.5082641662879422,
+    "earningsSurprise": 0.2222222222222222,
+    "revenueSurprise": 0.00009516256938937351,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.22538711527432614
   }
 ]
