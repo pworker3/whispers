@@ -58390,5 +58390,29 @@
     "revenueSurprise": 0.006525486333415415,
     "prevEarningsGrowth": -1.0263157894736843,
     "prevRevenueGrowth": 0.16351118760757316
+  },
+  {
+    "epsDate": "2026-02-10T16:17:00",
+    "ticker": "AIG",
+    "name": "American International Group, Inc.",
+    "summary": "American International Group (AIG) reported earnings of $1.96 per share on revenue of $6.55 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.89 per share on  revenue of $7.10 billion. The Earnings Whisper number was $2.09 per share. The company missed expectations by 6.22% while revenue fell 8.74% compared to the same quarter a year ago.<br /><br />American International Group Inc is a holding company. The Company, through its subsidiaries, provides insurance and related services in the United States and abroad.",
+    "subject": "American International Group Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602104236",
+    "eps": 1.96,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.89,
+    "whisper": 2.09,
+    "highEstimate": 1.92,
+    "lowEstimate": 1.86,
+    "revenue": 6550,
+    "revenueEstimate": 7100,
+    "earningsGrowth": 0.5076923076923077,
+    "revenueGrowth": -0.08736240769123589,
+    "earningsSurprise": -0.06220095693779904,
+    "revenueSurprise": -0.07746478873239436,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.05925048141016146
   }
 ]
