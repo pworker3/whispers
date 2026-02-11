@@ -58990,5 +58990,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-11T16:15:00",
+    "ticker": "ALB",
+    "name": "Albemarle Corp.",
+    "summary": "Albemarle (ALB) reported a loss of $0.53 per share on revenue of $1.43 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.40 per share on  revenue of $1.34 billion. The Earnings Whisper number was a loss of $0.20 per share. The company missed expectations by 165.00% while revenue grew 15.94% on a year-over-year basis.<br /><br />The company  said it expects  2026 revenue of $5.7 billion to $6.0 billion. The current consensus revenue estimate is $6.0 billion for the year ending December 31, 2026.<br /><br />Albemarle Corp is a developer, manufacturer and marketer of engineered specialty chemicals. It provides its sevices to end markes including petroleum refining, consumer electronics, construction, automotive, lubricants and pharmaceuticals.",
+    "subject": "Albemarle Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602115599",
+    "eps": -0.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.4,
+    "whisper": -0.2,
+    "highEstimate": -0.03,
+    "lowEstimate": -1.3,
+    "revenue": 1428.031,
+    "revenueEstimate": 1340,
+    "earningsGrowth": 0.5137614678899083,
+    "revenueGrowth": 0.15938615570347964,
+    "earningsSurprise": -1.65,
+    "revenueSurprise": 0.06569477611940298,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03459310308173371
   }
 ]
