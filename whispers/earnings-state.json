@@ -58702,5 +58702,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08902886618391033
+  },
+  {
+    "epsDate": "2026-02-11T03:30:00",
+    "ticker": "NTES",
+    "name": "NetEase, Inc.",
+    "summary": "NetEase (NTES) reported earnings of $1.58 per share on revenue of $3.94 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.03 per share on  revenue of $4.10 billion. The Earnings Whisper number was $2.09 per share. The company missed expectations by 24.40% while revenue grew 7.50% on a year-over-year basis.<br /><br />NetEase Inc operates an interactive online community in China and is a major provider of Chinese language content and services through its online games, Internet portal, e-mail and wireless value-added services businesses.",
+    "subject": "NetEase Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602115568",
+    "eps": 1.58,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.03,
+    "whisper": 2.09,
+    "highEstimate": 2.04,
+    "lowEstimate": 2.02,
+    "revenue": 3939.165,
+    "revenueEstimate": 4100,
+    "earningsGrowth": -0.15508021390374332,
+    "revenueGrowth": 0.07497199431836013,
+    "earningsSurprise": -0.24401913875598086,
+    "revenueSurprise": -0.03922804878048781,
+    "prevEarningsGrowth": 8.4,
+    "prevRevenueGrowth": 0.06657084916829947
   }
 ]
