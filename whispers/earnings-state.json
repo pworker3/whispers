@@ -58678,5 +58678,29 @@
     "revenueSurprise": 0.001674744578697067,
     "prevEarningsGrowth": 5,
     "prevRevenueGrowth": 0.06789253789350952
+  },
+  {
+    "epsDate": "2026-02-11T07:35:00",
+    "ticker": "TMUS",
+    "name": "T-Mobile US Inc.",
+    "summary": "T-Mobile US (TMUS) reported earnings of $1.88 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.03 per share on  revenue of $23.64 billion. The Earnings Whisper number was $2.13 per share. The company missed expectations by 11.74%.<br /><br />T-Mobile US Inc provides wireless communication services in the postpaid, prepaid, and wholesale markets. The Company' products and services include voice, messaging, data services, wireless devices, smartphones and other mobile communication devices.",
+    "subject": "T-Mobile US Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602111033",
+    "eps": 1.88,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.03,
+    "whisper": 2.13,
+    "highEstimate": 2.64,
+    "lowEstimate": 1.97,
+    "revenue": null,
+    "revenueEstimate": 23640,
+    "earningsGrowth": -0.26848249027237353,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.11737089201877934,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08902886618391033
   }
 ]
