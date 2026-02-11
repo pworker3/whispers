@@ -58510,5 +58510,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.29047504219918013
+  },
+  {
+    "epsDate": "2026-02-11T06:45:00",
+    "ticker": "THC",
+    "name": "Tenet Healthcare Corp.",
+    "summary": "Tenet Healthcare (THC) reported earnings of $4.70 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.08 per share on  revenue of $5.45 billion. The Earnings Whisper number was $4.25 per share. The company beat expectations by 10.59%.<br /><br />Tenet Healthcare Corp is a health care services company whose subsidiaries and affiliates operate regionally focused, integrated health care delivery networks.",
+    "subject": "Tenet Healthcare Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602119836",
+    "eps": 4.7,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.08,
+    "whisper": 4.25,
+    "highEstimate": 4.25,
+    "lowEstimate": 3.83,
+    "revenue": null,
+    "revenueEstimate": 5450,
+    "earningsGrowth": 0.36627906976744184,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.10588235294117647,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.03260445138617728
   }
 ]
