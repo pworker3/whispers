@@ -58726,5 +58726,29 @@
     "revenueSurprise": -0.03922804878048781,
     "prevEarningsGrowth": 8.4,
     "prevRevenueGrowth": 0.06657084916829947
+  },
+  {
+    "epsDate": "2026-02-11T07:00:00",
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "summary": "Shopify (SHOP) reported earnings of $0.38 per share on revenue of $3.67 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.51 per share on  revenue of $3.58 billion. The Earnings Whisper number was $0.53 per share. The company missed expectations by 28.30% while revenue grew 30.58% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of approximately $3.13 billion. The current consensus revenue estimate is $2.93 billion for the quarter ending March 31, 2026.<br /><br />Shopify is a leading provider of essential internet infrastructure for commerce, offering trusted tools to start, grow, market, and manage a retail business of any size.",
+    "subject": "Shopify Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "26021107_1",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.51,
+    "whisper": 0.53,
+    "highEstimate": 0.57,
+    "lowEstimate": 0.38,
+    "revenue": 3672,
+    "revenueEstimate": 3580,
+    "earningsGrowth": 0.11764705882352941,
+    "revenueGrowth": 0.3058321479374111,
+    "earningsSurprise": -0.2830188679245283,
+    "revenueSurprise": 0.02569832402234637,
+    "prevEarningsGrowth": 0.8620689655172413,
+    "prevRevenueGrowth": 0.3154486586493987
   }
 ]
