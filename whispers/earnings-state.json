@@ -59278,5 +59278,29 @@
     "revenueSurprise": -0.012768702290076336,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11434790785383442
+  },
+  {
+    "epsDate": "2026-02-12T06:25:00",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corp.",
+    "summary": "Zebra Technologies (ZBRA) reported earnings of $4.33 per share on revenue of $1.48 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.33 per share on  revenue of $1.46 billion. The Earnings Whisper number was $4.43 per share. The company missed expectations by 2.26% while revenue grew 10.57% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  non-GAAP earnings of $4.05 to $4.35 per share on revenue of $1.45 billion to $1.50 billion. The current consensus earnings estimate is $4.11 per share on revenue of $1.43 billion for the quarter ending March 31, 2026. The company said it expects  2026 non-GAAP earnings of $17.70 to $18.30 per share on revenue of $5.88 billion to $6.09 billion. The current consensus earnings estimate is $17.62 per share on revenue of $5.87 billion for the year ending December 31, 2026.<br /><br />Zebra Technologies Corp designs, manufactures, sells and supports direct thermal and thermal transfer label printers, radio frequency identification printer/encoders, dye sublimation card printers, real-time locating solutions, and support software.",
+    "subject": "Zebra Technologies Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602127937",
+    "eps": 4.33,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.33,
+    "whisper": 4.43,
+    "highEstimate": 4.45,
+    "lowEstimate": 4.28,
+    "revenue": 1475,
+    "revenueEstimate": 1460,
+    "earningsGrowth": 0.19613259668508287,
+    "revenueGrowth": 0.10569715142428786,
+    "earningsSurprise": -0.022573363431151242,
+    "revenueSurprise": 0.010273972602739725,
+    "prevEarningsGrowth": 5.516129032258065,
+    "prevRevenueGrowth": 0.05179282868525897
   }
 ]
