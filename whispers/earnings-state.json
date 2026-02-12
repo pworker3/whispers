@@ -59110,5 +59110,29 @@
     "revenueSurprise": 0.0029297414825597465,
     "prevEarningsGrowth": 2.8028169014084505,
     "prevRevenueGrowth": 0.09153106427044656
+  },
+  {
+    "epsDate": "2026-02-11T16:10:00",
+    "ticker": "MSI",
+    "name": "Motorola Solutions, Inc.",
+    "summary": "Motorola Solutions (MSI) reported earnings of $4.59 per share on revenue of $3.38 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $4.35 per share on  revenue of $3.34 billion. The Earnings Whisper number was $4.43 per share. The company beat expectations by 3.61% while revenue grew 12.29% on a year-over-year basis.<br /><br />The company  said it expects  first quarter non-GAAP earnings of $3.20 to $3.25 per share on revenue of $2.68 billion to $2.71 billion. The current consensus earnings estimate is $3.25 per share on revenue of $2.75 billion for the quarter ending March 31, 2026. The company said it expects  2026 non-GAAP earnings of $16.70 to $16.85 per share on revenue of approximately $12.70 billion. The current consensus earnings estimate is $16.32 per share on revenue of $12.59 billion for the year ending December 31, 2026.<br /><br />Motorola Solutions Inc designs, manufactures and sells communications infrastructure, devices, system software and applications, and provide services associated with their use. Its products include bar code scanners, mobile computers, & among others.",
+    "subject": "Motorola Solutions Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602115521",
+    "eps": 4.59,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 4.35,
+    "whisper": 4.43,
+    "highEstimate": 4.47,
+    "lowEstimate": 4.31,
+    "revenue": 3380,
+    "revenueEstimate": 3340,
+    "earningsGrowth": 0.224,
+    "revenueGrowth": 0.12292358803986711,
+    "earningsSurprise": 0.03611738148984198,
+    "revenueSurprise": 0.011976047904191617,
+    "prevEarningsGrowth": 11.327586206896552,
+    "prevRevenueGrowth": 0.07849462365591398
   }
 ]
