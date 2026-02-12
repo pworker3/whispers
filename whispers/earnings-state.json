@@ -59254,5 +59254,29 @@
     "revenueSurprise": 0.010273972602739725,
     "prevEarningsGrowth": 5.516129032258065,
     "prevRevenueGrowth": 0.05179282868525897
+  },
+  {
+    "epsDate": "2026-02-12T07:56:00",
+    "ticker": "MLCO",
+    "name": "Melco Resorts & Entertainment Limited",
+    "summary": "Melco Resorts & Entertainment Limited (MLCO) reported earnings of $0.14 per share on revenue of $1.29 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $1.31 billion. The Earnings Whisper number was $0.20 per share. The company missed expectations by 30.00% while revenue grew 8.59% on a year-over-year basis.<br /><br /> Melco Resorts & Entertainment Ltd is a developer, owner and operator of casino gaming and entertainment casino resort facilities primarily in Asia. Melco Resorts & Entertainment Ltd, formerly known as Melco Crown Entertainment Limited, is based in Hong Kong.   \n",
+    "subject": "Melco Resorts & Entertainment Limited Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602123693",
+    "eps": 0.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 0.2,
+    "highEstimate": 0.14,
+    "lowEstimate": 0.09,
+    "revenue": 1293.273,
+    "revenueEstimate": 1310,
+    "earningsGrowth": 15,
+    "revenueGrowth": 0.08585512561523,
+    "earningsSurprise": -0.3,
+    "revenueSurprise": -0.012768702290076336,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11434790785383442
   }
 ]
