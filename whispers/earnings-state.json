@@ -59086,5 +59086,29 @@
     "revenueSurprise": -0.024492045724364846,
     "prevEarningsGrowth": 3.27,
     "prevRevenueGrowth": 0.09670241489167865
+  },
+  {
+    "epsDate": "2026-02-11T16:05:00",
+    "ticker": "PAYC",
+    "name": "Paycom Software Inc.",
+    "summary": "Paycom Software (PAYC) reported earnings of $2.45 per share on revenue of $544.30 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.45 per share on  revenue of $542.71 million. The Earnings Whisper number was $2.55 per share. The company missed expectations by 3.92% while revenue grew 10.23% on a year-over-year basis.<br /><br />The company  said it expects  2026 revenue of $2.175 billion to $2.195 billion. The current consensus revenue estimate is $2.23 billion for the year ending December 31, 2026.<br /><br />Paycom Software Inc is a provider of cloud-based HCM software solution delivered as Software-as-a-Services. It provides functionality and data analytics that businesses need to manage the complete employment life cycle from recruitment to retirement.",
+    "subject": "Paycom Software Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602112693",
+    "eps": 2.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.45,
+    "whisper": 2.55,
+    "highEstimate": 2.6,
+    "lowEstimate": 2.33,
+    "revenue": 544.3,
+    "revenueEstimate": 542.71,
+    "earningsGrowth": 0.21287128712871287,
+    "revenueGrowth": 0.10226812474686107,
+    "earningsSurprise": -0.0392156862745098,
+    "revenueSurprise": 0.0029297414825597465,
+    "prevEarningsGrowth": 2.8028169014084505,
+    "prevRevenueGrowth": 0.09153106427044656
   }
 ]
