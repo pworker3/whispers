@@ -59302,5 +59302,29 @@
     "revenueSurprise": 0.010273972602739725,
     "prevEarningsGrowth": 5.516129032258065,
     "prevRevenueGrowth": 0.05179282868525897
+  },
+  {
+    "epsDate": "2026-02-12T08:34:00",
+    "ticker": "NBIS",
+    "name": "Nebius Group",
+    "summary": "Nebius Group (NBIS) reported a loss of $0.69 per share on revenue of $227.70 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.44 per share on  revenue of $232.19 million. The Earnings Whisper number was a loss of $0.39 per share. The company missed expectations by 76.92%.",
+    "subject": "Nebius Group Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602124404",
+    "eps": -0.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.44,
+    "whisper": -0.39,
+    "highEstimate": -0.16,
+    "lowEstimate": -0.61,
+    "revenue": 227.7,
+    "revenueEstimate": 232.19,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.7692307692307693,
+    "revenueSurprise": -0.01933761143890779,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
