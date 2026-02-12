@@ -59662,5 +59662,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -0.44666666666666666,
     "prevRevenueGrowth": 0.1470940299863538
+  },
+  {
+    "epsDate": "2026-02-12T16:05:00",
+    "ticker": "FROG",
+    "name": "JFrog Ltd.",
+    "summary": "JFrog (FROG) reported earnings of $0.22 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.19 per share on  revenue of $137.97 million. The Earnings Whisper number was $0.21 per share. The company beat expectations by 4.76%.<br /><br />JFrog, the creator of the DevOps platform, is on a “Liquid Software” mission to enable the flow of software seamlessly and securely from the developer’s keystrokes to production. ",
+    "subject": "JFrog Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602122245",
+    "eps": 0.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.19,
+    "whisper": 0.21,
+    "highEstimate": 0.2,
+    "lowEstimate": 0.18,
+    "revenue": null,
+    "revenueEstimate": 137.97,
+    "earningsGrowth": 2.5714285714285716,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.047619047619047616,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -1.5217391304347827,
+    "prevRevenueGrowth": 0.2553825557511737
   }
 ]
