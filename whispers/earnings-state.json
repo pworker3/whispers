@@ -59806,5 +59806,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.021206225680933853
+  },
+  {
+    "epsDate": "2026-02-13T06:32:00",
+    "ticker": "CCJ",
+    "name": "Cameco Corp.",
+    "summary": "Cameco (CCJ) reported earnings of $0.50 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.29 per share on  revenue of $2.37 billion. The company beat consensus estimates by 72.41%.<br /><br />Cameco Corp is engaged in the exploration for and the development, mining, refining, conversion, fabrication and trading of uranium for sale as fuel for generating electricity in nuclear power reactors in Canada and other countries.",
+    "subject": "Cameco Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602133756",
+    "eps": 0.5,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.29,
+    "whisper": 999,
+    "highEstimate": 0.3,
+    "lowEstimate": 0.27,
+    "revenue": null,
+    "revenueEstimate": 2370,
+    "earningsGrowth": 0.9230769230769231,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.7241379310344828,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1551745026919378
   }
 ]
