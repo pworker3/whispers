@@ -59926,5 +59926,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.02557498104860997
+  },
+  {
+    "epsDate": "2026-02-13T08:01:00",
+    "ticker": "ENB",
+    "name": "Enbridge, Inc.",
+    "summary": "Enbridge (ENB) reported earnings of $0.63 per share on revenue of $12.32 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.60 per share on  revenue of $11.75 billion. The Earnings Whisper number was $0.62 per share. The company beat expectations by 1.61% while revenue grew 6.30% on a year-over-year basis.<br /><br />The company  said it continues to expect  adjusted EBITDA of $20.2 billion to $20.8 billion for the year ending December 31, 2026.<br /><br />Enbridge Inc transports and distributes crude oil and natural gas. It is also engaged in natural gas gathering, transmission and midstream businesses and power transmission.",
+    "subject": "Enbridge Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602137510",
+    "eps": 0.63,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.6,
+    "whisper": 0.62,
+    "highEstimate": 0.66,
+    "lowEstimate": 0.56,
+    "revenue": 12321.715,
+    "revenueEstimate": 11750,
+    "earningsGrowth": 0.18867924528301888,
+    "revenueGrowth": 0.06303974973729663,
+    "earningsSurprise": 0.016129032258064516,
+    "revenueSurprise": 0.04865659574468085,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.02557498104860997
   }
 ]
