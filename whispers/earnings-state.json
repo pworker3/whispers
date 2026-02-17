@@ -60790,5 +60790,29 @@
     "revenueSurprise": 0.027290836653386455,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.05479157713794585
+  },
+  {
+    "epsDate": "2026-02-17T09:00:00",
+    "ticker": "SON",
+    "name": "Sonoco",
+    "summary": "Sonoco (SON) reported earnings of $1.05 per share on revenue of $1.77 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.01 per share on  revenue of $1.72 billion. The Earnings Whisper number was $1.04 per share. The company beat expectations by 0.96% while revenue grew 29.69% on a year-over-year basis.<br /><br />The company  said it expects  2026  earnings of $5.80 to $6.20 per share. The current consensus earnings estimate is $6.00 per share for the year ending December 31, 2026.<br /><br />Sonoco Products Co provides consumer packaging, industrial products, protective packaging and packaging supply chain services. The Company' products include flexible packaging, high density film products, and folding cartons.",
+    "subject": "Sonoco Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602175410",
+    "eps": 1.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.01,
+    "whisper": 1.04,
+    "highEstimate": 1.03,
+    "lowEstimate": 0.99,
+    "revenue": 1767.976,
+    "revenueEstimate": 1720,
+    "earningsGrowth": -0.10256410256410256,
+    "revenueGrowth": 0.29685844979299864,
+    "earningsSurprise": 0.009615384615384616,
+    "revenueSurprise": 0.027893023255813953,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2716458237114423
   }
 ]
