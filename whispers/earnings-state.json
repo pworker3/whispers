@@ -61174,5 +61174,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.4992422947201542
+  },
+  {
+    "epsDate": "2026-02-17T16:45:00",
+    "ticker": "KVUE",
+    "name": "Kenvue Inc.",
+    "summary": "Kenvue (KVUE) reported earnings of $0.27 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.22 per share on  revenue of $3.71 billion. The Earnings Whisper number was $0.24 per share. The company beat expectations by 12.50%.<br /><br />Kenvue is the world’s largest pure-play consumer health company by revenue.",
+    "subject": "Kenvue Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602175258",
+    "eps": 0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.22,
+    "whisper": 0.24,
+    "highEstimate": 0.23,
+    "lowEstimate": 0.21,
+    "revenue": null,
+    "revenueEstimate": 3710,
+    "earningsGrowth": 0.038461538461538464,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.125,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03462426263144396
   }
 ]
