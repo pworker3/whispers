@@ -60718,5 +60718,29 @@
     "revenueSurprise": -0.014123711340206185,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.14352013573531613
+  },
+  {
+    "epsDate": "2026-02-17T07:00:00",
+    "ticker": "ETOR",
+    "name": "eToro Group Ltd. ",
+    "summary": "eToro Group Ltd. (ETOR) reported earnings of $0.71 per share on revenue of $3.87 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.65 per share. The company beat consensus estimates by 9.23%.<br /><br />eToro is the trading and investing platform that empowers you to invest, share and learn. ",
+    "subject": "eToro Group Ltd. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602175728",
+    "eps": 0.71,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.65,
+    "whisper": 999,
+    "highEstimate": 0.69,
+    "lowEstimate": 0.63,
+    "revenue": 3874.781,
+    "revenueEstimate": null,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.09230769230769231,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
