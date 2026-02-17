@@ -61030,5 +61030,29 @@
     "revenueSurprise": 0.025124378109452738,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07629224652087475
+  },
+  {
+    "epsDate": "2026-02-17T16:20:00",
+    "ticker": "FE",
+    "name": "FirstEnergy Corp.",
+    "summary": "FirstEnergy (FE) reported earnings of $0.53 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.52 per share on  revenue of $3.24 billion. The Earnings Whisper number was $0.57 per share. The company missed expectations by 7.02%.<br /><br />FirstEnergy Corp FirstEnergy Corp. is the holding, directly or indirectly, of all of the outstanding common stock of its principal subsidiaries. It is a diversified energy company dedicated to safety, reliability and operational excellence.",
+    "subject": "FirstEnergy Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602179716",
+    "eps": 0.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.52,
+    "whisper": 0.57,
+    "highEstimate": 0.53,
+    "lowEstimate": 0.51,
+    "revenue": null,
+    "revenueEstimate": 3240,
+    "earningsGrowth": -0.208955223880597,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.07017543859649122,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11236256368999732
   }
 ]
