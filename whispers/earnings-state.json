@@ -61630,5 +61630,29 @@
     "revenueSurprise": -0.06016907011437096,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.0817174515235457
+  },
+  {
+    "epsDate": "2026-02-18T01:00:00",
+    "ticker": "FVRR",
+    "name": "Fiverr International Ltd.",
+    "summary": "Fiverr International (FVRR) reported earnings of $0.86 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.74 per share on  revenue of $108.71 million. The Earnings Whisper number was $0.77 per share. The company beat expectations by 11.69%.<br /><br />The company  said it expects  first quarter  revenue of $100.0 million to $108.0 million and  revenue of $380.0 million to $420.0 million. The current consensus revenue estimate is $111.29 million for the quarter ending March 31, 2026 and revenue of $453.57 million for the year ending December 31, 2026.<br /><br />Fiverr’s mission is to change how the world works together. ",
+    "subject": "Fiverr International Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602186380",
+    "eps": 0.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.74,
+    "whisper": 0.77,
+    "highEstimate": 0.79,
+    "lowEstimate": 0.73,
+    "revenue": null,
+    "revenueEstimate": 108.71,
+    "earningsGrowth": 2.185185185185185,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.11688311688311688,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": -0.039473684210526314,
+    "prevRevenueGrowth": 0.08305897940338057
   }
 ]
