@@ -61870,5 +61870,29 @@
     "revenueSurprise": 0.02146403763700103,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2985842985842986
+  },
+  {
+    "epsDate": "2026-02-18T07:01:00",
+    "ticker": "MCW",
+    "name": "Mister Car Wash, Inc.",
+    "summary": "Mister Car Wash (MCW) reported earnings of $0.09 per share on revenue of $261.24 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.10 per share on  revenue of $262.28 million. The Earnings Whisper number was $0.11 per share. The company missed expectations by 18.18% while revenue grew 4.01% on a year-over-year basis.<br /><br />Mister Car Wash, Inc. operates over 425 car washes nationwide and has the largest car wash subscription program in North America. ",
+    "subject": "Mister Car Wash Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602186558",
+    "eps": 0.09,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.1,
+    "whisper": 0.11,
+    "highEstimate": 0.1,
+    "lowEstimate": 0.1,
+    "revenue": 261.243,
+    "revenueEstimate": 262.28,
+    "earningsGrowth": 0.2857142857142857,
+    "revenueGrowth": 0.04009602981224022,
+    "earningsSurprise": -0.18181818181818182,
+    "revenueSurprise": -0.003953789842915968,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.056503655812199946
   }
 ]
