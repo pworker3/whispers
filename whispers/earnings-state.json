@@ -62374,5 +62374,29 @@
     "revenueSurprise": 0.08181818181818182,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.25844972067039107
+  },
+  {
+    "epsDate": "2026-02-18T17:26:00",
+    "ticker": "NTR",
+    "name": "Nutrien Ltd.",
+    "summary": "Nutrien (NTR) reported earnings of $0.76 per share on revenue of $5.34 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.82 per share on  revenue of $5.21 billion. The Earnings Whisper number was $0.88 per share. The company missed expectations by 13.64% while revenue grew 5.14% on a year-over-year basis.<br /><br />Nutrien is the world's largest provider of crop inputs and services, playing a critical role in helping growers increase food production in a sustainable manner.",
+    "subject": "Nutrien Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602182647",
+    "eps": 0.76,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.82,
+    "whisper": 0.88,
+    "highEstimate": 0.96,
+    "lowEstimate": 0.76,
+    "revenue": 5340,
+    "revenueEstimate": 5210,
+    "earningsGrowth": 1.7142857142857142,
+    "revenueGrowth": 0.05138806851742469,
+    "earningsSurprise": -0.13636363636363635,
+    "revenueSurprise": 0.02495201535508637,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.12322363500373971
   }
 ]
