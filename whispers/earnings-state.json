@@ -61942,5 +61942,29 @@
     "revenueSurprise": 0.03802182810368349,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10932388222464558
+  },
+  {
+    "epsDate": "2026-02-18T07:45:00",
+    "ticker": "WING",
+    "name": "Wingstop Inc.",
+    "summary": "Wingstop (WING) reported earnings of $1.00 per share on revenue of $175.69 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.84 per share on  revenue of $176.35 million. The Earnings Whisper number was $0.96 per share. The company beat expectations by 4.17% while revenue grew 8.57% on a year-over-year basis.<br /><br />Wingstop Inc. operates and franchises more than 1,850 locations worldwide. ",
+    "subject": "Wingstop Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602180168",
+    "eps": 1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.84,
+    "whisper": 0.96,
+    "highEstimate": 0.88,
+    "lowEstimate": 0.82,
+    "revenue": 175.694,
+    "revenueEstimate": 176.35,
+    "earningsGrowth": 0.13636363636363635,
+    "revenueGrowth": 0.08573052941212822,
+    "earningsSurprise": 0.041666666666666664,
+    "revenueSurprise": -0.0037198752480861923,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.08146561803837586
   }
 ]
