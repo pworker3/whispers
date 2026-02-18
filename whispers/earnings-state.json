@@ -61846,5 +61846,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 17.757575757575758,
     "prevRevenueGrowth": -0.22829257304870323
+  },
+  {
+    "epsDate": "2026-02-18T07:00:00",
+    "ticker": "PODD",
+    "name": "Insulet Corp.",
+    "summary": "Insulet (PODD) reported earnings of $1.55 per share on revenue of $783.80 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.48 per share on  revenue of $767.33 million. The Earnings Whisper number was $1.60 per share. The company missed expectations by 3.13% while revenue grew 31.18% on a year-over-year basis.<br /><br />Insulet Corp is a medical device company that develops, manufactures and markets OmniPod Insulin Management System, an insulin infusion system for people with insulin-dependent diabetes.",
+    "subject": "Insulet Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602188620",
+    "eps": 1.55,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.48,
+    "whisper": 1.6,
+    "highEstimate": 1.86,
+    "lowEstimate": 1.32,
+    "revenue": 783.8,
+    "revenueEstimate": 767.33,
+    "earningsGrowth": 0.34782608695652173,
+    "revenueGrowth": 0.3117991631799163,
+    "earningsSurprise": -0.03125,
+    "revenueSurprise": 0.02146403763700103,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2985842985842986
   }
 ]
