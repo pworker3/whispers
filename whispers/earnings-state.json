@@ -62254,5 +62254,29 @@
     "revenueSurprise": 0.03911620294599018,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1268451338503878
+  },
+  {
+    "epsDate": "2026-02-18T16:30:00",
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts Inc",
+    "summary": "Host Hotels & Resorts (HST) reported earnings of $0.20 per share on revenue of $1.60 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.47 per share on  revenue of $1.54 billion. The Earnings Whisper number was $0.50 per share. The company missed expectations by 60.00% while revenue grew 12.25% on a year-over-year basis.<br /><br />Host Hotels & Resorts Inc operates as a self-managed and self-administered REIT. It owns properties and conducts operations through Host L.P., of which Host Inc. is the sole general partner.",
+    "subject": "Host Hotels & Resorts Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602187001",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.47,
+    "whisper": 0.5,
+    "highEstimate": 0.48,
+    "lowEstimate": 0.46,
+    "revenue": 1603,
+    "revenueEstimate": 1540,
+    "earningsGrowth": -0.5454545454545454,
+    "revenueGrowth": 0.12254901960784313,
+    "earningsSurprise": -0.6,
+    "revenueSurprise": 0.04090909090909091,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.009097801364670205
   }
 ]
