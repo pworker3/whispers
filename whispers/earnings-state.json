@@ -62278,5 +62278,29 @@
     "revenueSurprise": 0.04090909090909091,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.009097801364670205
+  },
+  {
+    "epsDate": "2026-02-18T16:30:00",
+    "ticker": "CDE",
+    "name": "Coeur D’Alene Mines Corp.",
+    "summary": "Coeur D’Alene Mines (CDE) reported earnings of $0.35 per share on revenue of $674.70 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.43 per share on  revenue of $668.70 million. The Earnings Whisper number was $0.47 per share. The company missed expectations by 25.53% while revenue grew 120.92% on a year-over-year basis.<br /><br />Coeur Mining Inc is a silver producer with gold\r\nproduction and mines located in the United States, Mexico and Bolivia; a silver\r\nstreaming interest in Australia; and exploration projects in Mexico and\r\nArgentina.",
+    "subject": "Coeur D’Alene Mines Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602185114",
+    "eps": 0.35,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.43,
+    "whisper": 0.47,
+    "highEstimate": 0.48,
+    "lowEstimate": 0.36,
+    "revenue": 674.7,
+    "revenueEstimate": 668.7,
+    "earningsGrowth": 2.1818181818181817,
+    "revenueGrowth": 1.2092337917485265,
+    "earningsSurprise": -0.2553191489361702,
+    "revenueSurprise": 0.008972633467922835,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.7690891806709286
   }
 ]
