@@ -62926,5 +62926,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -4.571428571428571,
     "prevRevenueGrowth": -0.3355119825708061
+  },
+  {
+    "epsDate": "2026-02-19T16:05:00",
+    "ticker": "VICR",
+    "name": "Vicor Corporation",
+    "summary": "Vicor (VICR) reported earnings of $1.01 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $111.40 million. The Earnings Whisper number was $0.45 per share. The company beat expectations by 124.44%.<br /><br />Vicor Corporation designs, develops, manufactures, and markets modular power components and complete power systems based upon a portfolio of patented technologies.",
+    "subject": "Vicor Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602197981",
+    "eps": 1.01,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 0.45,
+    "highEstimate": 0.44,
+    "lowEstimate": 0.32,
+    "revenue": null,
+    "revenueEstimate": 111.4,
+    "earningsGrowth": 3.391304347826087,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.2444444444444445,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.18522851684090763
   }
 ]
