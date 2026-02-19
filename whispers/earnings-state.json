@@ -62734,5 +62734,29 @@
     "revenueSurprise": 0.011214953271028037,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-19T09:33:00",
+    "ticker": "KLAR",
+    "name": "Klarna",
+    "summary": "Klarna (KLAR) reported a loss of $0.12 per share on revenue of $1.08 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.03 per share on  revenue of $1.07 billion. The Earnings Whisper number was $0.01 per share. The company missed expectations by 1,300.00%.<br /><br />The company  said in its <a href=\"https://s205.q4cdn.com/644747736/files/doc_earnings/2025/q4/earnings-result/Q4-25-Klarna-Group-plc-Earnings-Release.pdf\">earnings presentation</a> it expects  first quarter  revenue of $900.0 million to $980.0 million. The current consensus revenue estimate is $965.1 million for the quarter ending March 31, 2026.<br /><br />Klarna is a global digital bank and flexible payments provider.",
+    "subject": "Klarna Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602191057",
+    "eps": -0.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.03,
+    "whisper": 0.01,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.04,
+    "revenue": 1082,
+    "revenueEstimate": 1070,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -13,
+    "revenueSurprise": 0.011214953271028037,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
