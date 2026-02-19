@@ -62686,5 +62686,29 @@
     "revenueSurprise": 0.00018832178066184897,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.023574523331471444
+  },
+  {
+    "epsDate": "2026-02-19T07:30:00",
+    "ticker": "SO",
+    "name": "Southern Company",
+    "summary": "Southern (SO) reported earnings of $0.55 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.56 per share on  revenue of $6.86 billion. The Earnings Whisper number was $0.60 per share. The company missed expectations by 8.33%.<br /><br />Southern Co through its traditional operating companies, provides electric service in four Southeastern states.",
+    "subject": "Southern Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602191191",
+    "eps": 0.55,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.56,
+    "whisper": 0.6,
+    "highEstimate": 0.67,
+    "lowEstimate": 0.5,
+    "revenue": null,
+    "revenueEstimate": 6860,
+    "earningsGrowth": 0.1,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.08333333333333333,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0754742919989002
   }
 ]
