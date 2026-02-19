@@ -62542,5 +62542,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 3.213675213675214,
     "prevRevenueGrowth": 0.06092500612351677
+  },
+  {
+    "epsDate": "2026-02-19T06:21:00",
+    "ticker": "DE",
+    "name": "Deere & Company",
+    "summary": "Deere (DE) reported earnings of $2.42 per share on  for the  fiscal first quarter ended January 2026.  The consensus earnings estimate was $1.92 per share on  revenue of $7.60 billion. The Earnings Whisper number was $1.98 per share. The company beat expectations by 22.22%.<br /><br />Deere & Company is a world leader in providing advanced products, technology and services for customers whose work is revolutionizing agriculture and construction.",
+    "subject": "Deere Beat Expectations",
+    "quarter": " fiscal first quarter ended January 2026",
+    "fileName": "2602190758",
+    "eps": 2.42,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.92,
+    "whisper": 1.98,
+    "highEstimate": 2.08,
+    "lowEstimate": 1.81,
+    "revenue": null,
+    "revenueEstimate": 7600,
+    "earningsGrowth": -0.2413793103448276,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.2222222222222222,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1122677914385713
   }
 ]
