@@ -62566,5 +62566,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1122677914385713
+  },
+  {
+    "epsDate": "2026-02-19T06:55:00",
+    "ticker": "VC",
+    "name": "Visteon Corp.",
+    "summary": "Visteon (VC) reported earnings of $2.96 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.08 per share on  revenue of $930.62 million. The Earnings Whisper number was $2.14 per share. The company beat expectations by 38.32%.<br /><br />The company  said it expects  2026 revenue of $3.625 billion to $3.825 billion. The current consensus revenue estimate is $3.880 billion for the year ending December 31, 2026.<br /><br />Visteon is a global technology company serving the mobility industry, dedicated to creating a more enjoyable, connected and safe driving experience. ",
+    "subject": "Visteon Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602191208",
+    "eps": 2.96,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.08,
+    "whisper": 2.14,
+    "highEstimate": 2.2,
+    "lowEstimate": 2.02,
+    "revenue": null,
+    "revenueEstimate": 930.62,
+    "earningsGrowth": -0.3333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.38317757009345793,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.06428571428571428
   }
 ]
