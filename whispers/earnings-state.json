@@ -62974,5 +62974,29 @@
     "revenueSurprise": -0.026902382782475018,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.039379934527248216
+  },
+  {
+    "epsDate": "2026-02-19T16:05:00",
+    "ticker": "NEM",
+    "name": "Newmont Mining Corp.",
+    "summary": "Newmont Mining (NEM) reported earnings of $2.52 per share on revenue of $6.82 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.03 per share on  revenue of $5.76 billion. The Earnings Whisper number was $2.05 per share. The company beat expectations by 22.93% while revenue grew 20.63% on a year-over-year basis.<br /><br />Newmont is the world’s leading gold company and a producer of copper, silver, zinc and lead. ",
+    "subject": "Newmont Mining Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602192644",
+    "eps": 2.52,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.03,
+    "whisper": 2.05,
+    "highEstimate": 2.09,
+    "lowEstimate": 1.12,
+    "revenue": 6818,
+    "revenueEstimate": 5760,
+    "earningsGrowth": 0.8,
+    "revenueGrowth": 0.20629865534324132,
+    "earningsSurprise": 0.22926829268292684,
+    "revenueSurprise": 0.18368055555555557,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1995656894679696
   }
 ]
