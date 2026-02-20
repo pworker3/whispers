@@ -63262,5 +63262,29 @@
     "revenueSurprise": 0.011214953271028037,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-20T06:45:00",
+    "ticker": "DNOW",
+    "name": "NOW Inc.",
+    "summary": "NOW (DNOW) reported earnings of $0.15 per share on revenue of $959.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.12 per share on  revenue of $939.00 million. The Earnings Whisper number was $0.15 per share. The company reported in-line with expectations while revenue grew 67.95% on a year-over-year basis.<br /><br />Now Inc offers consumable maintenance, repair and operating supplies,\r\npipe, valves, electrical, artificial lift solutions, mill\r\ntools and spare parts. It offers services and solutions for upstream,\r\nmidstream & downstream energy and industrial sectors.",
+    "subject": "NOW Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602201495",
+    "eps": 0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.12,
+    "whisper": 0.15,
+    "highEstimate": 0.12,
+    "lowEstimate": 0.12,
+    "revenue": 959,
+    "revenueEstimate": 939,
+    "earningsGrowth": -0.4,
+    "revenueGrowth": 0.6795096322241682,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.021299254526091587,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.0462046204620462
   }
 ]
