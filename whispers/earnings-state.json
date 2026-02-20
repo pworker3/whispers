@@ -63214,5 +63214,29 @@
     "revenueSurprise": -0.6839010989010988,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2809642560266002
+  },
+  {
+    "epsDate": "2026-02-20T06:10:00",
+    "ticker": "AU",
+    "name": "AngloGold Ashanti Ltd.",
+    "summary": "AngloGold Ashanti (AU) reported earnings of $1.90 per share on revenue of $3.07 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.90 per share on  revenue of $3.03 billion. The company reported in-line with consensus estimates while revenue grew 75.31% on a year-over-year basis.<br /><br />Anglogold Ashanti Ltd is a gold mining and exploration company with a diverse portfolio of mining operations and projects on four continents. It has 21 operations in 11 countries.",
+    "subject": "AngloGold Ashanti Reported In-line with Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602203601",
+    "eps": 1.9,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.9,
+    "whisper": 999,
+    "highEstimate": 1.9,
+    "lowEstimate": 1.9,
+    "revenue": 3068,
+    "revenueEstimate": 3030,
+    "earningsGrowth": 1.1348314606741574,
+    "revenueGrowth": 0.7531428571428571,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.012541254125412541,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.6210596914822267
   }
 ]
