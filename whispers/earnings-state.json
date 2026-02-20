@@ -63286,5 +63286,29 @@
     "revenueSurprise": 0.021299254526091587,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.0462046204620462
+  },
+  {
+    "epsDate": "2026-02-20T17:10:00",
+    "ticker": "EQX",
+    "name": "Equinox Gold Corp.",
+    "summary": "Equinox Gold (EQX) reported earnings of $0.21 per share on revenue of $681.40 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.23 per share on  revenue of $2.71 billion. The Earnings Whisper number was $0.29 per share. The company missed expectations by 27.59% while revenue grew 18.50% on a year-over-year basis.<br /><br /> Equinox Gold Corp. engages in the acquisition, exploration and development of mineral deposits. It primarily explores for gold, copper and silver deposits. The company's principal properties include the Aurizona gold mine in Maranh?o State Brazil and the Mesquite gold mine, in California, the United States. Equinox Gold Corp. is headquartered in Vancouver, Canada.   \n",
+    "subject": "Equinox Gold Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602208647",
+    "eps": 0.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.23,
+    "whisper": 0.29,
+    "highEstimate": 0.19,
+    "lowEstimate": 0.19,
+    "revenue": 681.4,
+    "revenueEstimate": 2710,
+    "earningsGrowth": 0.23529411764705882,
+    "revenueGrowth": 0.18504347826086956,
+    "earningsSurprise": -0.27586206896551724,
+    "revenueSurprise": -0.7485608856088561,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9118505273281573
   }
 ]
