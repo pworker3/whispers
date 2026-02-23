@@ -63958,5 +63958,29 @@
     "revenueSurprise": -0.007372654155495978,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.24042037186742118
+  },
+  {
+    "epsDate": "2026-02-23T07:30:00",
+    "ticker": "D",
+    "name": "Dominion Energy, Inc.",
+    "summary": "Dominion Energy (D) reported earnings of $0.68 per share on  for the .  The consensus earnings estimate was $0.64 per share on  revenue of $3.56 billion. The Earnings Whisper number was $0.69 per share. The company missed expectations by 1.45%.<br /><br />The company  said it expects  2026  earnings of $3.45 to $3.69 per share. The current consensus earnings estimate is $3.60 per share for the year ending December 31, 2026.<br /><br />Dominion Resources Inc is a producer and transporter of energy. It manages its daily operations through three operating segments namely Dominion Virginia Power of DVP, Dominion Energy and Dominion Generation.",
+    "subject": "Dominion Energy Missed Expectations",
+    "quarter": "",
+    "fileName": "2602239245",
+    "eps": 0.68,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.64,
+    "whisper": 0.69,
+    "highEstimate": 0.66,
+    "lowEstimate": 0.62,
+    "revenue": null,
+    "revenueEstimate": 3560,
+    "earningsGrowth": 0.1724137931034483,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.014492753623188406,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.14869322506977925
   }
 ]
