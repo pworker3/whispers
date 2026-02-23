@@ -64006,5 +64006,29 @@
     "revenueSurprise": 0.006484375,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.03603202846975089
+  },
+  {
+    "epsDate": "2026-02-23T08:00:00",
+    "ticker": "LINC",
+    "name": "Lincoln Educational Services Corporation",
+    "summary": "Lincoln Educational Services (LINC) reported earnings of $0.50 per share on revenue of $142.87 million for the .  The consensus earnings estimate was $0.42 per share on  revenue of $132.27 million. The company beat consensus estimates by 19.05% while revenue grew 19.68% on a year-over-year basis.<br /><br />Lincoln Educational Services Corp provides career-oriented post-secondary education. It offers degree and diploma programs in automotive technology, health sciences, skilled trades, hospitality services and business and information technology.",
+    "subject": "Lincoln Educational Services Beat Consensus Estimates",
+    "quarter": "",
+    "fileName": "2602238909",
+    "eps": 0.5,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.42,
+    "whisper": 999,
+    "highEstimate": 0.43,
+    "lowEstimate": 0.41,
+    "revenue": 142.872,
+    "revenueEstimate": 132.27,
+    "earningsGrowth": 0.6129032258064516,
+    "revenueGrowth": 0.19684353376782213,
+    "earningsSurprise": 0.19047619047619047,
+    "revenueSurprise": 0.08015422998412339,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.23580980683506686
   }
 ]
