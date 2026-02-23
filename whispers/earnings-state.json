@@ -64294,5 +64294,29 @@
     "revenueSurprise": 0.06823191761329378,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2892004833649822
+  },
+  {
+    "epsDate": "2026-02-23T16:15:00",
+    "ticker": "BHF",
+    "name": "Brighthouse Financial, Inc.",
+    "summary": "Brighthouse Financial (BHF) reported earnings of $3.93 per share on revenue of $1.69 billion for the .  The consensus earnings estimate was $5.19 per share on  revenue of $2.23 billion. The company missed consensus estimates by 24.28% while revenue grew 40.17% on a year-over-year basis.<br /><br />Brighthouse Financial, Inc.  is on a mission to help people achieve financial security as one of the largest providers of annuities and life insurance in the U.S. ",
+    "subject": "Brighthouse Financial Missed Consensus Estimates",
+    "quarter": "",
+    "fileName": "2602238901",
+    "eps": 3.93,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.19,
+    "whisper": 999,
+    "highEstimate": 5.33,
+    "lowEstimate": 5.08,
+    "revenue": 1689,
+    "revenueEstimate": 2230,
+    "earningsGrowth": -0.33163265306122447,
+    "revenueGrowth": 0.4016597510373444,
+    "earningsSurprise": -0.24277456647398843,
+    "revenueSurprise": -0.24260089686098654,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.10009910802775025
   }
 ]
