@@ -64270,5 +64270,29 @@
     "revenueSurprise": -0.044783983140147525,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.718893091777822
+  },
+  {
+    "epsDate": "2026-02-23T16:10:00",
+    "ticker": "BWXT",
+    "name": "BWX Technologies, Inc.",
+    "summary": "BWX Technologies (BWXT) reported earnings of $1.08 per share on revenue of $885.84 million for the .  The consensus earnings estimate was $0.91 per share on  revenue of $829.26 million. The Earnings Whisper number was $1.00 per share. The company beat expectations by 8.00% while revenue grew 18.70% on a year-over-year basis.<br /><br />The company  said it expects  2026  earnings of $4.55 to $4.70 per share on revenue of approximately $3.75 billion. The current consensus earnings estimate is $4.26 per share on revenue of $3.64 billion for the year ending December 31, 2026.<br /><br /> BWX Technologies, Inc. supplies precision manufactured components and services to the commercial nuclear power industry. The company offers technical, management and site services to governments in complex facilities and environmental remediation activities. It operates primarily in Lynchburg, Va., Ohio and Cambridge, Ontario. BWX Technologies, Inc., formerly known as Babcock & Wilcox Company, is headquartered in Lynchburg, Va.   \n",
+    "subject": "BWX Technologies Beat Expectations",
+    "quarter": "",
+    "fileName": "2602238392",
+    "eps": 1.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.91,
+    "whisper": 1,
+    "highEstimate": 1.06,
+    "lowEstimate": 0.84,
+    "revenue": 885.842,
+    "revenueEstimate": 829.26,
+    "earningsGrowth": 0.17391304347826086,
+    "revenueGrowth": 0.18703091520863177,
+    "earningsSurprise": 0.08,
+    "revenueSurprise": 0.06823191761329378,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2892004833649822
   }
 ]
