@@ -65062,5 +65062,29 @@
     "revenueSurprise": 0.02974868092196612,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.32926148876816913
+  },
+  {
+    "epsDate": "2026-02-24T07:40:00",
+    "ticker": "NRG",
+    "name": "NRG Energy, Inc.",
+    "summary": "NRG Energy (NRG) reported earnings of $1.03 per share on revenue of $7.75 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.01 per share on  revenue of $7.32 billion. The Earnings Whisper number was $1.30 per share. The company missed expectations by 20.77% while revenue grew 13.70% on a year-over-year basis.<br /><br />NRG Energy Inc is engaged in ownership & operation of power generation facilities; the trading of energy, capacity & related products; transacting in & trading of fuel & transportation services & the direct sale of energy, services to retail customers.",
+    "subject": "NRG Energy Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602245324",
+    "eps": 1.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.01,
+    "whisper": 1.3,
+    "highEstimate": 1.3,
+    "lowEstimate": 1.05,
+    "revenue": 7753,
+    "revenueEstimate": 7320,
+    "earningsGrowth": -0.3223684210526316,
+    "revenueGrowth": 0.13697023023903798,
+    "earningsSurprise": -0.2076923076923077,
+    "revenueSurprise": 0.05915300546448087,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.057040011075730306
   }
 ]
