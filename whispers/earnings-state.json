@@ -64870,5 +64870,29 @@
     "revenueSurprise": -0.08703819661865998,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.039582013932868906
+  },
+  {
+    "epsDate": "2026-02-24T06:30:00",
+    "ticker": "PLNT",
+    "name": "Planet Fitness, Inc.",
+    "summary": "Planet Fitness (PLNT) reported earnings of $0.83 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.79 per share on  revenue of $365.11 million. The Earnings Whisper number was $0.83 per share. The company reported in-line with expectations.<br /><br />Planet Fitness is one of the largest and fastest-growing franchisors and operators of fitness centers in the United States by number of members and locations. ",
+    "subject": "Planet Fitness Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602243506",
+    "eps": 0.83,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.79,
+    "whisper": 0.83,
+    "highEstimate": 0.81,
+    "lowEstimate": 0.73,
+    "revenue": null,
+    "revenueEstimate": 365.11,
+    "earningsGrowth": 0.18571428571428572,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.13036619833975485
   }
 ]
