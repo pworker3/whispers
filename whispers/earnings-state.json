@@ -64774,5 +64774,29 @@
     "revenueSurprise": 0.019953574526952567,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.9943889917361681
+  },
+  {
+    "epsDate": "2026-02-23T07:41:00",
+    "ticker": "AMC",
+    "name": "AMC Entertainment Holdings, Inc",
+    "summary": "AMC Entertainment (AMC) reported a loss of $0.18 per share on revenue of $1.29 billion for the .  The consensus estimate was a loss of $0.20 per share on  revenue of $1.28 billion. The Earnings Whisper number was a loss of $0.21 per share. The company beat expectations by 14.29% while revenue fell 1.39% compared to the same quarter a year ago.<br /><br />AMC Entertainment Holdings Inc is engaged in theatrical exhibition. It is principally involved in the theatrical exhibition business and owns, operates or has interests in theatres located in the United States.",
+    "subject": "AMC Entertainment Beat Expectations",
+    "quarter": "",
+    "fileName": "2602230131",
+    "eps": -0.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.2,
+    "whisper": -0.21,
+    "highEstimate": -0.13,
+    "lowEstimate": -0.25,
+    "revenue": 1288.3,
+    "revenueEstimate": 1280,
+    "earningsGrowth": 0,
+    "revenueGrowth": -0.013854868340477649,
+    "earningsSurprise": 0.14285714285714285,
+    "revenueSurprise": 0.006484375,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.03603202846975089
   }
 ]
