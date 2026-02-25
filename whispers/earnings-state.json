@@ -66022,5 +66022,29 @@
     "revenueSurprise": 0.08241965973534972,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.5069203648124946
+  },
+  {
+    "epsDate": "2026-02-25T16:50:00",
+    "ticker": "NU",
+    "name": "Nu Holdings Ltd.",
+    "summary": "Nu Holdings (NU) reported earnings of $0.19 per share on revenue of $4.69 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.18 per share on  revenue of $4.55 billion. The Earnings Whisper number was $0.19 per share. The company reported in-line with expectations while revenue grew 56.75% on a year-over-year basis.<br /><br />Nu is one of the world’s largest digital banking platforms, serving more than 48 million customers across Brazil, Mexico and Colombia. ",
+    "subject": "Nu Holdings Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602257630",
+    "eps": 0.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.18,
+    "whisper": 0.19,
+    "highEstimate": 0.19,
+    "lowEstimate": 0.17,
+    "revenue": 4685.866,
+    "revenueEstimate": 4550,
+    "earningsGrowth": 0.5833333333333334,
+    "revenueGrowth": 0.5675488702185633,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.029860659340659342,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.41775380981439175
   }
 ]
