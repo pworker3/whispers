@@ -65686,5 +65686,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.07494844627746569
+  },
+  {
+    "epsDate": "2026-02-25T08:05:00",
+    "ticker": "TRIN",
+    "name": "Trinity Capital Inc.",
+    "summary": "Trinity Capital (TRIN) reported earnings of $0.52 per share on revenue of $83.24 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.51 per share on  revenue of $80.70 million. The company beat consensus estimates by 1.96% while revenue grew 17.51% on a year-over-year basis.<br /><br />Trinity, an internally managed specialty lending company that has elected to be regulated as a business development company under the Investment Company Act of 1940, as amended, is a leading provider of debt, including loans and equipment financing, to growth stage companies, including venture-backed companies and companies with institutional equity investors. Trinity's investment objective is to generate current income and, to a lesser extent, capital appreciation through investments consisting primarily of term loans and equipment financings and, to a lesser extent, working capital loans, equity and equity-related investments. Trinity believes it is one of only a select group of specialty lenders that has the depth of knowledge, experience, and track record in lending to growth stage companies.",
+    "subject": "Trinity Capital Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602254754",
+    "eps": 0.52,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.51,
+    "whisper": 999,
+    "highEstimate": 0.51,
+    "lowEstimate": 0.51,
+    "revenue": 83.235,
+    "revenueEstimate": 80.7,
+    "earningsGrowth": -0.07142857142857142,
+    "revenueGrowth": 0.1751044725547775,
+    "earningsSurprise": 0.0196078431372549,
+    "revenueSurprise": 0.03141263940520446,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.22316484797461386
   }
 ]
