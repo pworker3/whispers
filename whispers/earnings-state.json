@@ -65542,5 +65542,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-25T06:30:00",
+    "ticker": "BLMN",
+    "name": "Bloomin' Brands Inc",
+    "summary": "Bloomin' Brands (BLMN) reported earnings of $0.26 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.25 per share on  revenue of $981.54 million. The Earnings Whisper number was $0.24 per share. The company beat expectations by 8.33%.<br /><br />Bloomin Brands Inc is a casual dining restaurant company, with a portfolio of differentiated restaurant concepts. The Company' concepts include Outback Steakhouse, Carrabba’s Italian Grill, Bonefish Grill and Fleming’s Prime Steakhouse & Wine Bar.",
+    "subject": "Bloomin' Brands Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602257304",
+    "eps": 0.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.25,
+    "whisper": 0.24,
+    "highEstimate": 0.27,
+    "lowEstimate": 0.23,
+    "revenue": null,
+    "revenueEstimate": 981.54,
+    "earningsGrowth": -0.3157894736842105,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.08333333333333333,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.10585393700825302
   }
 ]
