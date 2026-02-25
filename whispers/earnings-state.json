@@ -65902,5 +65902,29 @@
     "revenueSurprise": 0.005845320536424864,
     "prevEarningsGrowth": 0.2,
     "prevRevenueGrowth": 0.17741108506789635
+  },
+  {
+    "epsDate": "2026-02-25T16:05:00",
+    "ticker": "PSTG",
+    "name": "Pure Storage, Inc.",
+    "summary": "Pure Storage (PSTG) reported earnings of $0.69 per share on revenue of $1.06 billion for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $0.64 per share on  revenue of $1.03 billion. The Earnings Whisper number was $0.67 per share. The company beat expectations by 2.99% while revenue grew 20.35% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $990.0 million to $1.01 billion and fiscal 2027 revenue of $4.30 billion to $4.40 billion. The current consensus revenue estimate is $915.29 million for the quarter ending April 30, 2026 and revenue of $4.29 billion for the year ending January 31, 2027.<br /><br />Pure Storage uncomplicates data storage, forever. Pure delivers a cloud experience that empowers every organization to get the most from their data while reducing the complexity and expense of managing the infrastructure behind it. ",
+    "subject": "Pure Storage Beat Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2602255343",
+    "eps": 0.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.64,
+    "whisper": 0.67,
+    "highEstimate": 0.7,
+    "lowEstimate": 0.61,
+    "revenue": 1058.903,
+    "revenueEstimate": 1030,
+    "earningsGrowth": 3.9285714285714284,
+    "revenueGrowth": 0.20351494927498345,
+    "earningsSurprise": 0.029850746268656716,
+    "revenueSurprise": 0.02806116504854369,
+    "prevEarningsGrowth": -0.3870967741935484,
+    "prevRevenueGrowth": 0.16049271302606755
   }
 ]
