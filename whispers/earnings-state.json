@@ -65662,5 +65662,29 @@
     "revenueSurprise": 0.04317204301075269,
     "prevEarningsGrowth": -3,
     "prevRevenueGrowth": 0.08087043272228457
+  },
+  {
+    "epsDate": "2026-02-25T07:30:00",
+    "ticker": "TJX",
+    "name": "TJX Companies Inc.",
+    "summary": "TJX Companies (TJX) reported earnings of $1.43 per share on  for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $1.38 per share on  revenue of $17.40 billion. The Earnings Whisper number was $1.41 per share. The company beat expectations by 1.42%.<br /><br />The company  said it expects  first quarter  earnings of $0.97 to $0.99 per share and fiscal 2027 earnings of $4.93 to $5.02 per share. The current consensus estimate is earnings of $1.01 per share for the quarter ending April 30, 2026 and earnings of $5.14 per share for the year ending January 31, 2027.<br /><br />TJX Companies is an off-price apparel and home fashions retailer in the United States and around the globe. Its stores offer family apparel, including footwear & accessories; home fashions, such as home basics, accent furniture, lamps, rugs, etc.",
+    "subject": "TJX Companies Beat Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2602253328",
+    "eps": 1.43,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.38,
+    "whisper": 1.41,
+    "highEstimate": 1.41,
+    "lowEstimate": 1.36,
+    "revenue": null,
+    "revenueEstimate": 17400,
+    "earningsGrowth": 0.16260162601626016,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.014184397163120567,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.07494844627746569
   }
 ]
