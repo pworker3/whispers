@@ -65974,5 +65974,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.7004355980398088
+  },
+  {
+    "epsDate": "2026-02-25T16:05:00",
+    "ticker": "STRL",
+    "name": "Sterling Construction Company, Inc.",
+    "summary": "Sterling Construction Company (STRL) reported earnings of $3.08 per share on revenue of $755.61 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.63 per share on  revenue of $648.60 million. The Earnings Whisper number was $2.79 per share. The company beat expectations by 10.39% while revenue grew 51.48% on a year-over-year basis.<br /><br />Sterling Construction Co Inc is a heavy civil construction company engaged in the building and reconstruction of transportation and water infrastructure projects in Texas, Utah, Nevada, Arizona, California, Hawaii and other states.",
+    "subject": "Sterling Construction Company Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602255881",
+    "eps": 3.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.63,
+    "whisper": 2.79,
+    "highEstimate": 2.66,
+    "lowEstimate": 2.6,
+    "revenue": 755.613,
+    "revenueEstimate": 648.6,
+    "earningsGrowth": 1.1095890410958904,
+    "revenueGrowth": 0.5147614532318431,
+    "earningsSurprise": 0.1039426523297491,
+    "revenueSurprise": 0.16499074930619798,
+    "prevEarningsGrowth": 22.785714285714285,
+    "prevRevenueGrowth": 0.16047064292342958
   }
 ]
