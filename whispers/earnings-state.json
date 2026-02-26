@@ -66766,5 +66766,29 @@
     "revenueSurprise": 0.07561929595827901,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.1261520737327189
+  },
+  {
+    "epsDate": "2026-02-26T16:15:00",
+    "ticker": "SMR",
+    "name": "NuScale Power Corporation",
+    "summary": "NuScale Power (SMR) reported a loss of $0.80 per share on revenue of $1.81 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.10 per share on  revenue of $7.17 million. The company missed consensus estimates by 700.00% while revenue fell 94.72% compared to the same quarter a year ago.<br /><br />NuScale Power Corporation is poised to meet the diverse energy needs of customers across the world.",
+    "subject": "NuScale Power Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602265472",
+    "eps": -0.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.1,
+    "whisper": 999,
+    "highEstimate": -0.07,
+    "lowEstimate": -0.12,
+    "revenue": 1.808,
+    "revenueEstimate": 7.17,
+    "earningsGrowth": -2.3333333333333335,
+    "revenueGrowth": -0.9471715755025713,
+    "earningsSurprise": -7,
+    "revenueSurprise": -0.7478382147838215,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 16.35157894736842
   }
 ]
