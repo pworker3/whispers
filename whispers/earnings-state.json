@@ -66742,5 +66742,29 @@
     "revenueSurprise": 0.02077922077922078,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-26T16:05:00",
+    "ticker": "OPK",
+    "name": "Opko Health Inc",
+    "summary": "Opko Health (OPK) reported a loss of $0.04 per share on revenue of $148.50 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.07 per share on  revenue of $138.06 million. The Earnings Whisper number was a loss of $0.09 per share. The company beat expectations by 55.56% while revenue fell 19.12% compared to the same quarter a year ago.<br /><br />Opko Health Inc is a biopharmaceutical and diagnostics company. The Company is engaged in the research and development of pharmaceutical products and vaccines.",
+    "subject": "Opko Health Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602262486",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.07,
+    "whisper": -0.09,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.09,
+    "revenue": 148.5,
+    "revenueEstimate": 138.06,
+    "earningsGrowth": -5,
+    "revenueGrowth": -0.19117647058823528,
+    "earningsSurprise": 0.5555555555555556,
+    "revenueSurprise": 0.07561929595827901,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1261520737327189
   }
 ]
