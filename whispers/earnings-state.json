@@ -66142,5 +66142,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 805.2142857142857
+  },
+  {
+    "epsDate": "2026-02-25T16:15:00",
+    "ticker": "ROOT",
+    "name": "Root, Inc.",
+    "summary": "Root (ROOT) reported earnings of $0.31 per share on revenue of $397.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.03 per share. The Earnings Whisper number was $0.08 per share. The company beat expectations by 287.50% while revenue grew 21.52% on a year-over-year basis.<br /><br />Root, Inc. is the parent company of Root Insurance Company. Root is a technology company revolutionizing personal insurance with a pricing model based upon fairness and a modern customer experience. ",
+    "subject": "Root Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602251355",
+    "eps": 0.31,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.03,
+    "whisper": 0.08,
+    "highEstimate": 0.03,
+    "lowEstimate": 0.03,
+    "revenue": 397,
+    "revenueEstimate": null,
+    "earningsGrowth": -0.7615384615384615,
+    "revenueGrowth": 0.21518212427303338,
+    "earningsSurprise": 2.875,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.26856395158652274
   }
 ]
