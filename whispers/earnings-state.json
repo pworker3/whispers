@@ -66334,5 +66334,29 @@
     "revenueSurprise": -0.3352657004830918,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.9994652406417113
+  },
+  {
+    "epsDate": "2026-02-26T07:00:00",
+    "ticker": "ACMR",
+    "name": "ACM Research, Inc.",
+    "summary": "ACM Research (ACMR) reported earnings of $0.15 per share on revenue of $244.43 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.47 per share on  revenue of $235.48 million. The Earnings Whisper number was $0.54 per share. The company missed expectations by 72.22% while revenue grew 9.38% on a year-over-year basis.<br /><br />ACM develops, manufactures and sells semiconductor process equipment for single-wafer or batch wet cleaning, electroplating, stress-free polishing and thermal processes that are critical to advanced semiconductor device manufacturing, as well as wafer-level packaging. ",
+    "subject": "ACM Research Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602262004",
+    "eps": 0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.47,
+    "whisper": 0.54,
+    "highEstimate": 0.39,
+    "lowEstimate": 0.39,
+    "revenue": 244.43,
+    "revenueEstimate": 235.48,
+    "earningsGrowth": -0.6511627906976745,
+    "revenueGrowth": 0.09378845577278483,
+    "earningsSurprise": -0.7222222222222222,
+    "revenueSurprise": 0.03800747409546458,
+    "prevEarningsGrowth": 0.5681818181818182,
+    "prevRevenueGrowth": 0.3195670078832804
   }
 ]
