@@ -66382,5 +66382,29 @@
     "revenueSurprise": -0.36426614052395045,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 34.72833723653396
+  },
+  {
+    "epsDate": "2026-02-26T15:18:00",
+    "ticker": "FSLR",
+    "name": "First Solar Inc",
+    "summary": "First Solar (FSLR) reported earnings of $4.84 per share on revenue of $1.68 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $5.22 per share on  revenue of $1.57 billion. The Earnings Whisper number was $5.18 per share. The company missed expectations by 6.56% while revenue grew 11.15% on a year-over-year basis.<br /><br />The company  said it expects  2026 revenue of $4.90 billion to $5.20 billion. The current consensus revenue estimate is $6.11 billion for the year ending December 31, 2026.<br /><br />First Solar is a leading global provider of comprehensive photovoltaic solar energy solutions which use its advanced module and system technology. The Company’s integrated power plant solutions deliver an economically attractive alternative to fossil-fuel electricity generation today. From raw material sourcing through end-of-life module recycling, First Solar’s renewable energy solutions protect and enhance the environment.",
+    "subject": "First Solar Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602267034",
+    "eps": 4.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 5.22,
+    "whisper": 5.18,
+    "highEstimate": 5.43,
+    "lowEstimate": 4.92,
+    "revenue": 1682.782,
+    "revenueEstimate": 1570,
+    "earningsGrowth": 0.32602739726027397,
+    "revenueGrowth": 0.11145808771418815,
+    "earningsSurprise": -0.06563706563706563,
+    "revenueSurprise": 0.07183566878980892,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.7966807409977604
   }
 ]
