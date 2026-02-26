@@ -66718,5 +66718,29 @@
     "revenueSurprise": -0.1160234899328859,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.14896626249463665
+  },
+  {
+    "epsDate": "2026-02-26T16:07:00",
+    "ticker": "CRWV",
+    "name": "CoreWeave, Inc.",
+    "summary": "CoreWeave (CRWV) reported a loss of $0.84 per share on revenue of $1.57 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.50 per share on  revenue of $1.54 billion. The Earnings Whisper number was a loss of $0.55 per share. The company missed expectations by 52.73%.<br /><br />CoreWeave, the AI Hyperscaler™, delivers a cloud platform of cutting-edge software powering the next wave of AI.",
+    "subject": "CoreWeave Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602261661",
+    "eps": -0.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.5,
+    "whisper": -0.55,
+    "highEstimate": -0.28,
+    "lowEstimate": -0.58,
+    "revenue": 1572,
+    "revenueEstimate": 1540,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.5272727272727272,
+    "revenueSurprise": 0.02077922077922078,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
