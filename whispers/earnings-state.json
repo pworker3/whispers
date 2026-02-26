@@ -66790,5 +66790,29 @@
     "revenueSurprise": -0.7478382147838215,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 16.35157894736842
+  },
+  {
+    "epsDate": "2026-02-26T16:05:00",
+    "ticker": "WULF",
+    "name": "TeraWulf Inc",
+    "summary": "TeraWulf (WULF) reported a loss of $0.28 per share on revenue of $35.84 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.13 per share on  revenue of $43.55 million. The Earnings Whisper number was a loss of $0.18 per share. The company missed expectations by 55.56% while revenue grew 2.43% on a year-over-year basis.<br /><br />TeraWulf  owns and operates vertically integrated, environmentally clean Bitcoin mining facilities in the United States.",
+    "subject": "TeraWulf Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602262480",
+    "eps": -0.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.13,
+    "whisper": -0.18,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.26,
+    "revenue": 35.836,
+    "revenueEstimate": 43.55,
+    "earningsGrowth": -2.5,
+    "revenueGrowth": 0.024324710590252964,
+    "earningsSurprise": -0.5555555555555556,
+    "revenueSurprise": -0.17712973593570608,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.8691747662515245
   }
 ]
