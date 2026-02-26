@@ -66814,5 +66814,29 @@
     "revenueSurprise": -0.17712973593570608,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.8691747662515245
+  },
+  {
+    "epsDate": "2026-02-26T16:20:00",
+    "ticker": "MARA",
+    "name": "Marathon Digital Holdings, Inc.",
+    "summary": "Marathon Digital (MARA) reported a loss of $0.46 per share on revenue of $202.31 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.23 per share on  revenue of $223.92 million. The Earnings Whisper number was a loss of $0.30 per share. The company missed expectations by 53.33% while revenue fell 5.63% compared to the same quarter a year ago.<br /><br />Marathon is a digital asset technology company that focuses on supporting and securing the Bitcoin ecosystem. ",
+    "subject": "Marathon Digital Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602262441",
+    "eps": -0.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.23,
+    "whisper": -0.3,
+    "highEstimate": -0.23,
+    "lowEstimate": -0.23,
+    "revenue": 202.314,
+    "revenueEstimate": 223.92,
+    "earningsGrowth": -1.3709677419354838,
+    "revenueGrowth": -0.05634486039721261,
+    "earningsSurprise": -0.5333333333333333,
+    "revenueSurprise": -0.0964898177920686,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9173243598410902
   }
 ]
