@@ -66118,5 +66118,29 @@
     "revenueSurprise": 0.03550531914893617,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-25T16:05:00",
+    "ticker": "JOBY",
+    "name": "Joby Aviation",
+    "summary": "Joby Aviation (JOBY) reported a loss of $0.14 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.20 per share on  revenue of $17.68 million. The company beat consensus estimates by 30.00%.<br /><br />Joby Aviation, Inc. is a California-based company developing an all-electric vertical take-off and landing aircraft which it intends to operate as part of a fast, quiet, and convenient air taxi service beginning in 2024. ",
+    "subject": "Joby Aviation Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602252017",
+    "eps": -0.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.2,
+    "whisper": 999,
+    "highEstimate": -0.18,
+    "lowEstimate": -0.2,
+    "revenue": null,
+    "revenueEstimate": 17.68,
+    "earningsGrowth": 0.2631578947368421,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.3,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 805.2142857142857
   }
 ]
