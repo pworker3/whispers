@@ -66046,5 +66046,29 @@
     "revenueSurprise": 0.029860659340659342,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.41775380981439175
+  },
+  {
+    "epsDate": "2026-02-25T20:00:00",
+    "ticker": "ODD",
+    "name": "ODDITY Tech Ltd. ",
+    "summary": "ODDITY Tech Ltd. (ODD) reported earnings of $0.20 per share on revenue of $152.73 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.14 per share on  revenue of $151.89 million. The Earnings Whisper number was $0.15 per share. The company beat expectations by 33.33% while revenue grew 23.52% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of approximately $187.67 million. The current consensus revenue estimate is $323.27 million for the quarter ending March 31, 2026.",
+    "subject": "ODDITY Tech Ltd. Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602254576",
+    "eps": 0.2,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.14,
+    "whisper": 0.15,
+    "highEstimate": 0.15,
+    "lowEstimate": 0.12,
+    "revenue": 152.726,
+    "revenueEstimate": 151.89,
+    "earningsGrowth": 2.3333333333333335,
+    "revenueGrowth": 0.23524749272080234,
+    "earningsSurprise": 0.3333333333333333,
+    "revenueSurprise": 0.005503983145697544,
+    "prevEarningsGrowth": 1.5454545454545454,
+    "prevRevenueGrowth": 0.24289483856871544
   }
 ]
