@@ -66358,5 +66358,29 @@
     "revenueSurprise": 0.03800747409546458,
     "prevEarningsGrowth": 0.5681818181818182,
     "prevRevenueGrowth": 0.3195670078832804
+  },
+  {
+    "epsDate": "2026-02-26T12:04:00",
+    "ticker": "EOSE",
+    "name": "Eos Energy Enterprises, Inc. ",
+    "summary": "Eos Energy Enterprises, Inc. (EOSE) reported a loss of $0.84 per share on revenue of $58.00 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.20 per share on  revenue of $91.23 million. The company missed consensus estimates by 320.00% while revenue grew 694.49% on a year-over-year basis.<br /><br />The company  said it expects  2026 revenue of $300.0 million to $400.0 million. The current consensus revenue estimate is $470.09 million for the year ending December 31, 2026.<br /><br />Eos Energy Enterprises, Inc. is accelerating the shift to clean energy with positively ingenious solutions that transform how the world stores power. ",
+    "subject": "Eos Energy Enterprises, Inc. Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602262251",
+    "eps": -0.84,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.2,
+    "whisper": 999,
+    "highEstimate": -0.17,
+    "lowEstimate": -0.22,
+    "revenue": 57.998,
+    "revenueEstimate": 91.23,
+    "earningsGrowth": 0.6181818181818182,
+    "revenueGrowth": 6.944931506849315,
+    "earningsSurprise": -3.2,
+    "revenueSurprise": -0.36426614052395045,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 34.72833723653396
   }
 ]
