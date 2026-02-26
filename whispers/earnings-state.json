@@ -66310,5 +66310,29 @@
     "revenueSurprise": 0.00042735042735042735,
     "prevEarningsGrowth": 3.3157894736842106,
     "prevRevenueGrowth": -0.08427436219155165
+  },
+  {
+    "epsDate": "2026-02-26T07:00:00",
+    "ticker": "QBTS",
+    "name": "D-Wave Quantum Inc.",
+    "summary": "D-Wave Quantum (QBTS) reported a loss of $0.12 per share on revenue of $2.75 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.05 per share on  revenue of $4.14 million. The Earnings Whisper number was a loss of $0.08 per share. The company missed expectations by 50.00% while revenue grew 19.19% on a year-over-year basis.<br /><br />D-Wave is a leader in the development and delivery of quantum computing systems, software, and services, and is the world’s first commercial supplier of quantum computers—and the only company building both annealing quantum computers and gate-model quantum computers. ",
+    "subject": "D-Wave Quantum Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602268591",
+    "eps": -0.12,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.05,
+    "whisper": -0.08,
+    "highEstimate": -0.04,
+    "lowEstimate": -0.06,
+    "revenue": 2.752,
+    "revenueEstimate": 4.14,
+    "earningsGrowth": 0.6756756756756757,
+    "revenueGrowth": 0.19185794716327415,
+    "earningsSurprise": -0.5,
+    "revenueSurprise": -0.3352657004830918,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9994652406417113
   }
 ]
