@@ -66982,5 +66982,29 @@
     "revenueSurprise": 0.02077922077922078,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-02-26T07:00:00",
+    "ticker": "VST",
+    "name": "Vistra Energy",
+    "summary": "Vistra Energy (VST) reported earnings of $2.18 per share on revenue of $4.58 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.51 per share on  revenue of $5.34 billion. The Earnings Whisper number was $2.60 per share. The company missed expectations by 16.15% while revenue grew 13.55% on a year-over-year basis.<br /><br />Vistra (NYSE: VST) is a leading retail electricity and power generation company based in Irving, Texas, providing essential resources for customers, commerce, and communities. ",
+    "subject": "Vistra Energy Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2602266367",
+    "eps": 2.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.51,
+    "whisper": 2.6,
+    "highEstimate": 5.64,
+    "lowEstimate": 1.08,
+    "revenue": 4584,
+    "revenueEstimate": 5340,
+    "earningsGrowth": 0.9122807017543859,
+    "revenueGrowth": 0.13549665593262322,
+    "earningsSurprise": -0.16153846153846155,
+    "revenueSurprise": -0.14157303370786517,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.20944656488549618
   }
 ]
