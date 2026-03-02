@@ -68086,5 +68086,29 @@
     "revenueSurprise": -0.4176470588235294,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 2.801980198019802
+  },
+  {
+    "epsDate": "2026-03-02T16:32:00",
+    "ticker": "ASTS",
+    "name": "AST SpaceMobile, Inc.",
+    "summary": "AST SpaceMobile (ASTS) reported a loss of $0.26 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.18 per share on  revenue of $40.69 million. The Earnings Whisper number was a loss of $0.22 per share. The company missed expectations by 18.18%.<br /><br />AST SpaceMobile, Inc. is building the first and only global cellular broadband network in space to operate directly with standard, unmodified mobile devices based on our extensive IP and patent portfolio. ",
+    "subject": "AST SpaceMobile Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603024918",
+    "eps": -0.26,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.18,
+    "whisper": -0.22,
+    "highEstimate": -0.13,
+    "lowEstimate": -0.22,
+    "revenue": null,
+    "revenueEstimate": 40.69,
+    "earningsGrowth": -1.1666666666666667,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.18181818181818182,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 12.399090909090908
   }
 ]
