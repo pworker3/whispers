@@ -68134,5 +68134,29 @@
     "revenueSurprise": 0.5221052631578947,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.40783615316117544
+  },
+  {
+    "epsDate": "2026-03-02T16:00:00",
+    "ticker": "RIOT",
+    "name": "Riot Platforms, Inc. ",
+    "summary": "Riot Platforms, Inc. (RIOT) reported a loss of $2.03 per share on revenue of $152.83 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.22 per share on  revenue of $157.36 million. The Earnings Whisper number was a loss of $0.29 per share. The company missed expectations by 600.00% while revenue grew 7.21% on a year-over-year basis.<br /><br />Riot's vision is to be the world's leading Bitcoin-driven infrastructure platform. ",
+    "subject": "Riot Platforms, Inc. Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603024287",
+    "eps": -2.03,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.22,
+    "whisper": -0.29,
+    "highEstimate": -0.18,
+    "lowEstimate": -0.25,
+    "revenue": 152.831,
+    "revenueEstimate": 157.36,
+    "earningsGrowth": -5.613636363636363,
+    "revenueGrowth": 0.07206189761360289,
+    "earningsSurprise": -6,
+    "revenueSurprise": -0.028781138790035587,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.1256929210011086
   }
 ]
