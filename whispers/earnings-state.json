@@ -67846,5 +67846,29 @@
     "revenueSurprise": -0.7478382147838215,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 16.35157894736842
+  },
+  {
+    "epsDate": "2026-03-02T08:01:00",
+    "ticker": "CRC",
+    "name": "California Resources Corporation",
+    "summary": "California Resources (CRC) reported earnings of $0.47 per share on revenue of $924.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.49 per share on  revenue of $786.68 million. The company missed consensus estimates by 4.08% while revenue grew 5.36% on a year-over-year basis.<br /><br />California\r\nResources Corp is oil and natural gas exploration and production company\r\noperates within the State of California.",
+    "subject": "California Resources Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603023584",
+    "eps": 0.47,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.49,
+    "whisper": 999,
+    "highEstimate": 0.65,
+    "lowEstimate": 0.23,
+    "revenue": 924,
+    "revenueEstimate": 786.68,
+    "earningsGrowth": -0.4835164835164835,
+    "revenueGrowth": 0.053591790193842644,
+    "earningsSurprise": -0.04081632653061224,
+    "revenueSurprise": 0.1745563634514669,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.36807095343680707
   }
 ]
