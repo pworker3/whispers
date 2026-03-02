@@ -68062,5 +68062,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": 8.462686567164178,
     "prevRevenueGrowth": 0.6304641633059066
+  },
+  {
+    "epsDate": "2026-03-02T16:05:00",
+    "ticker": "QUBT",
+    "name": "Quantum Computing Inc",
+    "summary": "Quantum Computing (QUBT) reported a loss of $0.04 per share on revenue of $0.20 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.04 per share on  revenue of $0.34 million. The Earnings Whisper number was a loss of $0.04 per share. The company reported in-line with expectations while revenue grew 219.35% on a year-over-year basis.<br /><br />Quantum Computing Inc. is an innovative, integrated photonics and quantum optics technology company that provides accessible and affordable quantum machines and foundry services for the production of photonic chips based on thin-film lithium niobate (TFLN). ",
+    "subject": "Quantum Computing Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603029350",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.04,
+    "whisper": -0.04,
+    "highEstimate": -0.03,
+    "lowEstimate": -0.04,
+    "revenue": 0.198,
+    "revenueEstimate": 0.34,
+    "earningsGrowth": 0.9148936170212766,
+    "revenueGrowth": 2.193548387096774,
+    "earningsSurprise": 0,
+    "revenueSurprise": -0.4176470588235294,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 2.801980198019802
   }
 ]
