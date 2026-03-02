@@ -67678,5 +67678,29 @@
     "revenueSurprise": -0.36426614052395045,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 34.72833723653396
+  },
+  {
+    "epsDate": "2026-03-02T06:30:00",
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line Holdings Ltd.",
+    "summary": "Norwegian Cruise Line Holdings (NCLH) reported earnings of $0.28 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.27 per share on  revenue of $2.35 billion. The Earnings Whisper number was $0.29 per share. The company missed expectations by 3.45%.<br /><br />Norwegian Cruise Line Holdings Ltd is a cruise line operator, offering cruise experiences for travelers with a wide variety of itineraries in North America, the Mediterranean, the Baltic, Central America, Bermuda and the Caribbean.",
+    "subject": "Norwegian Cruise Line Holdings Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603023530",
+    "eps": 0.28,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.27,
+    "whisper": 0.29,
+    "highEstimate": 0.32,
+    "lowEstimate": 0.26,
+    "revenue": null,
+    "revenueEstimate": 2350,
+    "earningsGrowth": 0.3333333333333333,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.034482758620689655,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 20.3,
+    "prevRevenueGrowth": 0.046877015354641845
   }
 ]
