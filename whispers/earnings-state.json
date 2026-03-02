@@ -68110,5 +68110,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 12.399090909090908
+  },
+  {
+    "epsDate": "2026-03-02T16:10:00",
+    "ticker": "OUST",
+    "name": "Ouster, Inc.",
+    "summary": "Ouster (OUST) reported earnings of $0.06 per share on revenue of $62.18 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.39 per share on  revenue of $40.85 million. The company beat consensus estimates by 115.38% while revenue grew 106.63% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $45.0 million to $48.0 million. The current consensus revenue estimate is $42.50 million for the quarter ending March 31, 2026.<br /><br />Ouster is a leading global provider of high-resolution scanning and solid-state digital lidar sensors, Velodyne Lidar sensors, and software solutions for the automotive, industrial, robotics, and smart infrastructure industries.",
+    "subject": "Ouster Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603023164",
+    "eps": 0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.39,
+    "whisper": 999,
+    "highEstimate": -0.39,
+    "lowEstimate": -0.39,
+    "revenue": 62.178,
+    "revenueEstimate": 40.85,
+    "earningsGrowth": 1.125,
+    "revenueGrowth": 1.0662634587265718,
+    "earningsSurprise": 1.1538461538461537,
+    "revenueSurprise": 0.5221052631578947,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.40783615316117544
   }
 ]
