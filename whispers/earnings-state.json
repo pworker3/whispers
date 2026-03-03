@@ -68830,5 +68830,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11496212404050059
+  },
+  {
+    "epsDate": "2026-03-03T06:50:00",
+    "ticker": "KTB",
+    "name": "Kontoor Brands Inc",
+    "summary": "Kontoor Brands (KTB) reported earnings of $1.73 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.65 per share on  revenue of $977.70 million. The Earnings Whisper number was $1.70 per share. The company beat expectations by 1.76%.<br /><br />Kontoor Brands, Inc.  is a global lifestyle apparel company, with a portfolio led by two of the world’s most iconic consumer brands: Wrangler® and Lee®. ",
+    "subject": "Kontoor Brands Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603039112",
+    "eps": 1.73,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.65,
+    "whisper": 1.7,
+    "highEstimate": 1.65,
+    "lowEstimate": 1.65,
+    "revenue": null,
+    "revenueEstimate": 977.7,
+    "earningsGrowth": 0.2536231884057971,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.01764705882352941,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.27308659880571895
   }
 ]
