@@ -68806,5 +68806,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.01550568801620695
+  },
+  {
+    "epsDate": "2026-03-03T06:30:00",
+    "ticker": "THO",
+    "name": "THOR Industries, Inc.",
+    "summary": "THOR Industries (THO) reported earnings of $0.34 per share on  for the  fiscal second quarter ended January 2026.  The consensus earnings estimate was $0.03 per share on  revenue of $1.98 billion. The company beat consensus estimates by 1,033.33%.<br /><br />Thor Industries Inc manufactures and sells a range of recreational vehicles and small and mid-size buses in the United States and Canada. The Company’s two reportable segments include towable recreational vehicles and motorized recreational vehicles.",
+    "subject": "THOR Industries Beat Consensus Estimates",
+    "quarter": " fiscal second quarter ended January 2026",
+    "fileName": "2603039864",
+    "eps": 0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.03,
+    "whisper": 999,
+    "highEstimate": 0.11,
+    "lowEstimate": -0.05,
+    "revenue": null,
+    "revenueEstimate": 1980,
+    "earningsGrowth": 35,
+    "revenueGrowth": null,
+    "earningsSurprise": 10.333333333333334,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.11496212404050059
   }
 ]
