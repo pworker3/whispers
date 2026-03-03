@@ -69118,5 +69118,29 @@
     "revenueSurprise": -0.00011459676264145538,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.25593505342904155
+  },
+  {
+    "epsDate": "2026-03-03T16:05:00",
+    "ticker": "EOLS",
+    "name": "Evolus, Inc.",
+    "summary": "Evolus (EOLS) reported breakeven results on revenue of $90.30 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.06 per share on  revenue of $89.42 million. The Earnings Whisper number was $0.03 per share. The company missed expectations by 100.00% while revenue grew 14.38% on a year-over-year basis.<br /><br />The company  said it continues to expect  2026 revenue of $327.0 million to $337.0 million. The current consensus revenue estimate is $330.94 million for the year ending December 31, 2026.<br /><br />Evolus is a performance beauty company with a customer-centric approach focused on delivering breakthrough products. ",
+    "subject": "Evolus Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603038532",
+    "eps": 0,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.06,
+    "whisper": 0.03,
+    "highEstimate": 0.09,
+    "lowEstimate": 0.04,
+    "revenue": 90.3,
+    "revenueEstimate": 89.42,
+    "earningsGrowth": 1,
+    "revenueGrowth": 0.14380533775824286,
+    "earningsSurprise": -1,
+    "revenueSurprise": 0.009841198836949228,
+    "prevEarningsGrowth": -4.538461538461538,
+    "prevRevenueGrowth": 0.12903331423426373
   }
 ]
