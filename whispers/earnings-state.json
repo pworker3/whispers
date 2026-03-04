@@ -69334,5 +69334,29 @@
     "revenueSurprise": 0.010394444444444444,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10042672477931752
+  },
+  {
+    "epsDate": "2026-03-04T01:00:00",
+    "ticker": "WIX",
+    "name": "Wix.com Ltd.",
+    "summary": "Wix.com (WIX) reported earnings of $1.81 per share on revenue of $524.27 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.47 per share on  revenue of $528.03 million. The Earnings Whisper number was $1.42 per share. The company beat expectations by 27.46% while revenue grew 13.86% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of approximately $544.7 million and 2026 revenue of approximately $2.29 billion. The current consensus revenue estimate is $541.9 million for the quarter ending March 31, 2026 and revenue of $2.28 billion for the year ending December 31, 2026.<br /><br />Wix.com Ltd provides web development platform. It provides an easy-to-use yet powerful cloud-based platform that eliminates the need for complex coding and supplants expensive design services.",
+    "subject": "Wix.com Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603048057",
+    "eps": 1.81,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.47,
+    "whisper": 1.42,
+    "highEstimate": 1.66,
+    "lowEstimate": 1.09,
+    "revenue": 524.269,
+    "revenueEstimate": 528.03,
+    "earningsGrowth": 0.967391304347826,
+    "revenueGrowth": 0.1385890043543886,
+    "earningsSurprise": 0.2746478873239437,
+    "revenueSurprise": -0.007122701361665057,
+    "prevEarningsGrowth": -0.7727272727272727,
+    "prevRevenueGrowth": 0.1361022594130968
   }
 ]
