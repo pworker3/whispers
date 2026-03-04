@@ -69574,5 +69574,29 @@
     "revenueSurprise": 0.09127314814814814,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.30541804649892457
+  },
+  {
+    "epsDate": "2026-03-04T16:15:00",
+    "ticker": "OOMA",
+    "name": "Ooma, Inc.",
+    "summary": "Ooma (OOMA) reported earnings of $0.21 per share on revenue of $74.58 million for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $0.31 per share on  revenue of $73.46 million. The Earnings Whisper number was $0.33 per share. The company missed expectations by 36.36% while revenue grew 14.57% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  non-GAAP earnings of $0.31 to $0.33 per share on revenue of $79.6 million to $80.4 million. The current consensus earnings estimate is $0.29 per share on revenue of $79.8 million for the quarter ending April 30, 2026. The company said it expects fiscal  2027 non-GAAP earnings of $1.26 to $1.31 per share on revenue of $321.0 million to $325.0 million. The current consensus earnings estimate is $1.25 per share on revenue of $319.2 million for the year ending January 31, 2027.<br /><br />Ooma   creates powerful connected experiences for businesses and consumers, delivered from its smart cloud-based SaaS platform. ",
+    "subject": "Ooma Missed Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603044290",
+    "eps": 0.21,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.31,
+    "whisper": 0.33,
+    "highEstimate": 0.31,
+    "lowEstimate": 0.31,
+    "revenue": 74.584,
+    "revenueEstimate": 73.46,
+    "earningsGrowth": 3.2,
+    "revenueGrowth": 0.1457363626588015,
+    "earningsSurprise": -0.36363636363636365,
+    "revenueSurprise": 0.015300843996732916,
+    "prevEarningsGrowth": -0.5333333333333333,
+    "prevRevenueGrowth": 0.03835582784405853
   }
 ]
