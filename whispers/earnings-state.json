@@ -69286,5 +69286,29 @@
     "revenueSurprise": 0.047692307692307694,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.009937888198757764
+  },
+  {
+    "epsDate": "2026-03-04T07:30:00",
+    "ticker": "ANF",
+    "name": "Abercrombie & Fitch Co.",
+    "summary": "Abercrombie & Fitch (ANF) reported earnings of $3.68 per share on  for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $3.56 per share on  revenue of $1.67 billion. The Earnings Whisper number was $3.60 per share. The company beat expectations by 2.22%.<br /><br />The company  said it expects  first quarter  earnings of $1.20 to $1.30 per share on revenue of $1.11 billion to $1.13 billion and fiscal 2027 earnings of $10.20 to $11.00 per share on revenue of $5.42 billion to $5.53 billion. The current consensus estimate is earnings of $1.51 per share on revenue of $1.16 billion for the quarter ending April 30, 2026, and earnings of $10.07 per share on revenue of $5.49 billion for the year ending January 31, 2027.<br /><br />Abercrombie & Fitch Co is a specialty retailer, which operates stores and direct-to-consumer operations. The Company sells products, including casual sportswear apparel, including knit and woven shirts, and graphic t-shirts.",
+    "subject": "Abercrombie & Fitch Beat Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603045400",
+    "eps": 3.68,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.56,
+    "whisper": 3.6,
+    "highEstimate": 3.6,
+    "lowEstimate": 3.52,
+    "revenue": null,
+    "revenueEstimate": 1670,
+    "earningsGrowth": 0.03081232492997199,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.022222222222222223,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.06753953378341492
   }
 ]
