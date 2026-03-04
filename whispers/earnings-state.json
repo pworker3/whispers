@@ -69310,5 +69310,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.06753953378341492
+  },
+  {
+    "epsDate": "2026-03-04T07:30:00",
+    "ticker": "DAKT",
+    "name": "Daktronics Inc.",
+    "summary": "Daktronics (DAKT) reported earnings of $0.09 per share on revenue of $181.87 million for the  fiscal third quarter ended January 2026.  The consensus earnings estimate was $0.18 per share on  revenue of $180.00 million. The Earnings Whisper number was $0.21 per share. The company missed expectations by 57.14% while revenue grew 21.65% on a year-over-year basis.<br /><br />Daktronics Inc along with its subsidiaries is engaged in the design, manufacture and sale of electronic display systems and related products for Commercial, Live Events, Schools and Theatres, and Transportation.",
+    "subject": "Daktronics Missed Expectations",
+    "quarter": " fiscal third quarter ended January 2026",
+    "fileName": "2603045526",
+    "eps": 0.09,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.18,
+    "whisper": 0.21,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.18,
+    "revenue": 181.871,
+    "revenueEstimate": 180,
+    "earningsGrowth": 8,
+    "revenueGrowth": 0.21647146956329805,
+    "earningsSurprise": -0.5714285714285714,
+    "revenueSurprise": 0.010394444444444444,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10042672477931752
   }
 ]
