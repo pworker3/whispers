@@ -70582,5 +70582,29 @@
     "revenueSurprise": -0.1044318131355744,
     "prevEarningsGrowth": -2.6666666666666665,
     "prevRevenueGrowth": -0.37072515044534915
+  },
+  {
+    "epsDate": "2026-03-05T16:15:00",
+    "ticker": "GAP",
+    "name": "Gap, Inc.",
+    "summary": "Gap (GAP) reported earnings of $0.45 per share on  for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $0.45 per share on  revenue of $4.20 billion. The Earnings Whisper number was $0.48 per share. The company missed expectations by 6.25%.<br /><br />The company  said it expects  first quarter  revenue of $3.50 billion to $3.53 billion and fiscal 2027 earnings of $2.20 to $2.35 per share on revenue of $15.67 billion to $15.83 billion. The current consensus revenue estimate is $3.50 billion for the quarter ending April 30, 2026, and earnings of $2.31 per share on revenue of $15.65 billion for the year ending January 31, 2027.<br /><br />Gap Inc., a house of iconic brands, is the largest specialty apparel company in America. ",
+    "subject": "Gap Missed Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603051953",
+    "eps": 0.45,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.45,
+    "whisper": 0.48,
+    "highEstimate": 0.46,
+    "lowEstimate": 0.43,
+    "revenue": null,
+    "revenueEstimate": 4200,
+    "earningsGrowth": -0.16666666666666666,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.0625,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.029511621833376862
   }
 ]
