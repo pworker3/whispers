@@ -70366,5 +70366,29 @@
     "revenueSurprise": 1.6,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0
+  },
+  {
+    "epsDate": "2026-03-05T07:30:00",
+    "ticker": "CRMD",
+    "name": "CorMedix, Inc.",
+    "summary": "CorMedix (CRMD) reported earnings of $0.61 per share on revenue of $128.62 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.86 per share on  revenue of $126.70 million. The company missed consensus estimates by 29.07% while revenue grew 312.11% on a year-over-year basis.<br /><br />Cormedix Inc is a development stage pharmaceutical and medical device company. It seeks to in-license, develop and commercialize therapeutic products for the treatment of cardiorenal and infectious diseases, including the dialysis and non-dialysis areas.",
+    "subject": "CorMedix Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603056256",
+    "eps": 0.61,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.86,
+    "whisper": 999,
+    "highEstimate": 0.94,
+    "lowEstimate": 0.81,
+    "revenue": 128.615,
+    "revenueEstimate": 126.7,
+    "earningsGrowth": 1.7727272727272727,
+    "revenueGrowth": 3.12108686596815,
+    "earningsSurprise": -0.29069767441860467,
+    "revenueSurprise": 0.015114443567482242,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 8.10221717877095
   }
 ]
