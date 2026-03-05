@@ -70414,5 +70414,29 @@
     "revenueSurprise": 0.013583523541589256,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10688022796212887
+  },
+  {
+    "epsDate": "2026-03-05T08:30:00",
+    "ticker": "TTC",
+    "name": "Toro Company",
+    "summary": "Toro (TTC) reported earnings of $0.74 per share on  for the  fiscal first quarter ended January 2026.  The consensus earnings estimate was $0.65 per share on  revenue of $1.00 billion. The Earnings Whisper number was $0.69 per share. The company beat expectations by 7.25%.<br /><br />The company  said it now expects fiscal  2026  earnings of $4.40 to $4.60 per share on revenue of $4.65 billion to $4.80 billion. The company's previous guidance was  earnings of $4.35 to $4.50 per share on revenue of $4.60 billion to $4.74 billion, and the current consensus earnings estimate is $4.59 per share on revenue of $4.65 billion for the year ending October 31, 2026.<br /><br />The Toro Company is a leading worldwide provider of innovative solutions for the outdoor environment including turf and landscape maintenance, snow and ice management, underground utility construction, rental and specialty construction, and irrigation and outdoor lighting solutions. ",
+    "subject": "Toro Beat Expectations",
+    "quarter": " fiscal first quarter ended January 2026",
+    "fileName": "2603056875",
+    "eps": 0.74,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.65,
+    "whisper": 0.69,
+    "highEstimate": 0.65,
+    "lowEstimate": 0.64,
+    "revenue": null,
+    "revenueEstimate": 1000,
+    "earningsGrowth": 0.13846153846153847,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.07246376811594203,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.009107806691449814
   }
 ]
