@@ -70390,5 +70390,29 @@
     "revenueSurprise": 0.015114443567482242,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 8.10221717877095
+  },
+  {
+    "epsDate": "2026-03-05T08:00:00",
+    "ticker": "GSL",
+    "name": "Global Ship Lease, Inc.",
+    "summary": "Global Ship Lease (GSL) reported earnings of $2.32 per share on revenue of $190.95 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $2.31 per share on  revenue of $188.39 million. The Earnings Whisper number was $2.54 per share. The company missed expectations by 8.66% while revenue grew 4.67% on a year-over-year basis.<br /><br />Global Ship Lease Inc owns a fleet of modern containerships of diverse sizes and charters the vessels out under long-term, fixed-rate charters to reputable container shipping companies.",
+    "subject": "Global Ship Lease Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603056118",
+    "eps": 2.32,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.31,
+    "whisper": 2.54,
+    "highEstimate": 2.31,
+    "lowEstimate": 2.31,
+    "revenue": 190.949,
+    "revenueEstimate": 188.39,
+    "earningsGrowth": -0.09019607843137255,
+    "revenueGrowth": 0.04668015106915964,
+    "earningsSurprise": -0.08661417322834646,
+    "revenueSurprise": 0.013583523541589256,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10688022796212887
   }
 ]
