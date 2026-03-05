@@ -70054,5 +70054,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.012267221367585587
+  },
+  {
+    "epsDate": "2026-03-05T06:30:00",
+    "ticker": "LQDA",
+    "name": "Liquidia Technologies, Inc.",
+    "summary": "Liquidia Technologies (LQDA) reported earnings of $0.15 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.08 per share on  revenue of $66.99 million. The company beat consensus estimates by 87.50%.<br /><br /> Liquidia Technologies, Inc. is a late-stage clinical biopharmaceutical company. It focused on the development and commercialization of human therapeutics using our proprietary PRINT technology to transform the lives of patients.  The company's product candidate consists of LIQ861 for the treatment of pulmonary arterial hypertension and LIQ865 for the treatment of local post-operative pain which are in clinical stage. Liquidia Technologies, Inc. is based in NC, United States.   \n",
+    "subject": "Liquidia Technologies Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603056227",
+    "eps": 0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.08,
+    "whisper": 999,
+    "highEstimate": 0.2,
+    "lowEstimate": -0.12,
+    "revenue": null,
+    "revenueEstimate": 66.99,
+    "earningsGrowth": 1.326086956521739,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.875,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 11.217176258992806
   }
 ]
