@@ -70630,5 +70630,29 @@
     "revenueSurprise": 0.047692307692307694,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.009937888198757764
+  },
+  {
+    "epsDate": "2026-03-05T16:01:00",
+    "ticker": "GEVO",
+    "name": "Gevo Inc",
+    "summary": "Gevo (GEVO) reported a loss of $0.02 per share on revenue of $45.35 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.03 per share on  revenue of $43.52 million. The Earnings Whisper number was a loss of $0.02 per share. The company reported in-line with expectations while revenue grew 695.58% on a year-over-year basis.<br /><br />Gevo Inc is a renewable chemicals and advanced biofuels company focused on the development and commercialization of alternatives to petroleum-based products based on isobutanol produced from renewable feedstocks.",
+    "subject": "Gevo Reported In-line with Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603056887",
+    "eps": -0.02,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.03,
+    "whisper": -0.02,
+    "highEstimate": -0.03,
+    "lowEstimate": -0.04,
+    "revenue": 45.348,
+    "revenueEstimate": 43.52,
+    "earningsGrowth": 0.7777777777777778,
+    "revenueGrowth": 6.95578947368421,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.04200367647058824,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 20.735368956743002
   }
 ]
