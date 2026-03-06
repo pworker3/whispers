@@ -70822,5 +70822,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-06T07:00:00",
+    "ticker": "ATAI",
+    "name": "atai Life Sciences N.V.",
+    "summary": "atai Life Sciences N.V. (ATAI) reported a loss of $0.05 per share on revenue of $1.07 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.12 per share on  revenue of $1.50 million. The company beat consensus estimates by 58.33% while revenue grew 21,220.00% on a year-over-year basis.<br /><br />atai Life Sciences is a clinical-stage biopharmaceutical company aiming to transform the treatment of mental health disorders.",
+    "subject": "atai Life Sciences N.V. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603067235",
+    "eps": -0.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.12,
+    "whisper": 999,
+    "highEstimate": -0.08,
+    "lowEstimate": -0.16,
+    "revenue": 1.066,
+    "revenueEstimate": 1.5,
+    "earningsGrowth": 0.7916666666666666,
+    "revenueGrowth": 212.2,
+    "earningsSurprise": 0.5833333333333334,
+    "revenueSurprise": -0.28933333333333333,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 17.725
   }
 ]
