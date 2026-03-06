@@ -70774,5 +70774,29 @@
     "revenueSurprise": 0.034121422490012446,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.002252381911862065
+  },
+  {
+    "epsDate": "2026-03-06T06:30:00",
+    "ticker": "AQN",
+    "name": "Algonquin Power & Utilities Corp.",
+    "summary": "Algonquin Power & Utilities (AQN) reported earnings of $0.06 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.04 per share on  revenue of $568.72 million. The company beat consensus estimates by 50.00%.<br /><br />The company  said it continues to expect  2026  earnings of $0.35 to $0.37 per share. The current consensus earnings estimate is $0.37 per share for the year ending December 31, 2026.<br /><br />Algonquin Power & Utilities Corp., parent company of Liberty, is a diversified international generation, transmission, and distribution utility with approximately $13 billion of total assets.",
+    "subject": "Algonquin Power & Utilities Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603063311",
+    "eps": 0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.04,
+    "whisper": 999,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.04,
+    "revenue": null,
+    "revenueEstimate": 568.72,
+    "earningsGrowth": 0,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.5,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.01657539528156888
   }
 ]
