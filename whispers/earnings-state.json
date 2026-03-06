@@ -70798,5 +70798,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.01657539528156888
+  },
+  {
+    "epsDate": "2026-03-06T05:06:00",
+    "ticker": "EMBJ",
+    "name": "Embraer S.A.",
+    "summary": "Embraer S.A. (EMBJ) reported earnings of $0.46 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.17 per share on  revenue of $2.47 billion. The company beat consensus estimates by 170.59%.",
+    "subject": "Embraer S.A. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "4000000278",
+    "eps": 0.46,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.17,
+    "whisper": 999,
+    "highEstimate": 0.84,
+    "lowEstimate": -0.27,
+    "revenue": null,
+    "revenueEstimate": 2470,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.7058823529411764,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
