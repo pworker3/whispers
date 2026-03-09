@@ -71302,5 +71302,29 @@
     "revenueSurprise": 0.07871498172959805,
     "prevEarningsGrowth": -5.166666666666667,
     "prevRevenueGrowth": -0.1920577297680184
+  },
+  {
+    "epsDate": "2026-03-09T07:00:00",
+    "ticker": "ACCO",
+    "name": "ACCO Brands Corporation",
+    "summary": "ACCO Brands (ACCO) reported earnings of $0.38 per share on revenue of $428.80 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.38 per share on  revenue of $431.93 million. The Earnings Whisper number was $0.40 per share. The company missed expectations by 5.00% while revenue fell 4.31% compared to the same quarter a year ago.<br /><br />The company  said it expects  a first quarter  loss of $0.06 to $0.03 per share on revenue of $317.4 million to $326.9 million and 2026 earnings of $0.84 to $0.89 per share on revenue of $1.52 billion to $1.57 billion. The current consensus estimate is earnings of $0.02 per share on revenue of $325.00 million for the quarter ending March 31, 2026, and earnings of $1.05 per share on revenue of $1.55 billion for the year ending December 31, 2026.<br /><br />ACCO Brands Corp is a manufacturer & marketer of office, school & calendar products and select computer and electronic accessories. It sell its products to consumers & commercial end-users through resellers, including traditional office supply resellers.",
+    "subject": "ACCO Brands Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603091159",
+    "eps": 0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.38,
+    "whisper": 0.4,
+    "highEstimate": 0.39,
+    "lowEstimate": 0.36,
+    "revenue": 428.8,
+    "revenueEstimate": 431.93,
+    "earningsGrowth": -0.02564102564102564,
+    "revenueGrowth": -0.04307074313769248,
+    "earningsSurprise": -0.05,
+    "revenueSurprise": -0.007246544578982705,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.08838203848895225
   }
 ]
