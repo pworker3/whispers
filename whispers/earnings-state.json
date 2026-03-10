@@ -72406,5 +72406,29 @@
     "revenueSurprise": 0.19869160151152365,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2977911266430958
+  },
+  {
+    "epsDate": "2026-03-10T14:48:00",
+    "ticker": "BNTX",
+    "name": "BioNTech SE",
+    "summary": "BioNTech SE (BNTX) reported a loss of $0.38 per share on revenue of $1.06 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.22 per share on  revenue of $881.23 million. The company missed consensus estimates by 72.73% while revenue fell 16.79% compared to the same quarter a year ago.<br /><br />The company  said it expects  2026 revenue of $2.33 billion to $2.91 billion. The current consensus revenue estimate is $2.95 billion for the year ending December 31, 2026.<br /><br />Biopharmaceutical New Technologies is a next generation immunotherapy company pioneering novel therapies for cancer and other serious diseases.",
+    "subject": "BioNTech SE Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603109445",
+    "eps": -0.38,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.22,
+    "whisper": 999,
+    "highEstimate": 0.04,
+    "lowEstimate": -1.46,
+    "revenue": 1056.323,
+    "revenueEstimate": 881.23,
+    "earningsGrowth": -1.3304347826086957,
+    "revenueGrowth": -0.1679089075842077,
+    "earningsSurprise": -0.7272727272727273,
+    "revenueSurprise": 0.19869160151152365,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2977911266430958
   }
 ]
