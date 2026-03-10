@@ -71926,5 +71926,29 @@
     "revenueSurprise": -0.004364005412719892,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.008627135215965951
+  },
+  {
+    "epsDate": "2026-03-10T06:00:00",
+    "ticker": "ESPR",
+    "name": "Esperion Therapeutics, Inc.",
+    "summary": "Esperion Therapeutics (ESPR) reported earnings of $0.22 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.23 per share on  revenue of $160.58 million. The company missed consensus estimates by 4.35%.<br /><br />Esperion Therapeutics Inc is engaged in the research, development and commercialization of therapies for the treatment of patients with elevated levels of elevated levels of LDL-C.",
+    "subject": "Esperion Therapeutics Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603108858",
+    "eps": 0.22,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.23,
+    "whisper": 999,
+    "highEstimate": 0.38,
+    "lowEstimate": 0.02,
+    "revenue": null,
+    "revenueEstimate": 160.58,
+    "earningsGrowth": 3.2,
+    "revenueGrowth": null,
+    "earningsSurprise": -0.043478260869565216,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.6909862101022621
   }
 ]
