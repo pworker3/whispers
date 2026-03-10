@@ -72190,5 +72190,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-10T07:30:00",
+    "ticker": "ADCT",
+    "name": "ADC Therapeutics SA",
+    "summary": "ADC Therapeutics SA (ADCT) reported a loss of $0.04 per share on revenue of $23.06 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.32 per share on  revenue of $19.15 million. The company beat consensus estimates by 87.50% while revenue grew 36.36% on a year-over-year basis.<br /><br />ADC Therapeutics is a commercial-stage biotechnology company improving the lives of those affected by cancer with its next-generation, targeted antibody drug conjugates (ADCs). ",
+    "subject": "ADC Therapeutics SA Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603105567",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.32,
+    "whisper": 999,
+    "highEstimate": -0.32,
+    "lowEstimate": -0.32,
+    "revenue": 23.058,
+    "revenueEstimate": 19.15,
+    "earningsGrowth": 0.8620689655172413,
+    "revenueGrowth": 0.363571850975754,
+    "earningsSurprise": 0.875,
+    "revenueSurprise": 0.20407310704960835,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.11032279029462738
   }
 ]
