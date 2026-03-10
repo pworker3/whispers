@@ -71902,5 +71902,29 @@
     "revenueSurprise": 1.4921052631578948,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-09T18:39:00",
+    "ticker": "ARQ",
+    "name": "ARQ INC",
+    "summary": "ARQ INC (ARQ) reported a loss of $0.07 per share on revenue of $29.43 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.05 per share on  revenue of $29.56 million. The company missed consensus estimates by 40.00% while revenue grew 8.84% on a year-over-year basis.",
+    "subject": "ARQ INC Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603098796",
+    "eps": -0.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.05,
+    "whisper": 999,
+    "highEstimate": -0.03,
+    "lowEstimate": -0.06,
+    "revenue": 29.431,
+    "revenueEstimate": 29.56,
+    "earningsGrowth": -1.3333333333333333,
+    "revenueGrowth": 0.08842455621301776,
+    "earningsSurprise": -0.4,
+    "revenueSurprise": -0.004364005412719892,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.008627135215965951
   }
 ]
