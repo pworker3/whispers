@@ -72718,5 +72718,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -1.9342105263157894,
     "prevRevenueGrowth": -0.004525851261220601
+  },
+  {
+    "epsDate": "2026-03-10T16:15:00",
+    "ticker": "AUNA",
+    "name": "Auna S.A.",
+    "summary": "Auna S.A. (AUNA) reported earnings of $0.53 per share on revenue of $337.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.13 per share on  revenue of $330.66 million. The company beat consensus estimates by 307.69% while revenue grew 19.50% on a year-over-year basis.<br /><br />Auna is a Latin American healthcare company with operations in Mexico, Peru and Colombia, prioritizing prevention and concentrating on high complexity diseases that contribute the most to healthcare expenditures. ",
+    "subject": "Auna S.A. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603105636",
+    "eps": 0.53,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.13,
+    "whisper": 999,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.07,
+    "revenue": 337,
+    "revenueEstimate": 330.66,
+    "earningsGrowth": 3.4166666666666665,
+    "revenueGrowth": 0.1950354609929078,
+    "earningsSurprise": 3.076923076923077,
+    "revenueSurprise": 0.01917377366479163,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.05921052631578947
   }
 ]
