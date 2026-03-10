@@ -71950,5 +71950,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.6909862101022621
+  },
+  {
+    "epsDate": "2026-03-10T06:30:00",
+    "ticker": "NIO",
+    "name": "NIO Inc.",
+    "summary": "NIO (NIO) reported earnings of $0.04 per share on  for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.05 per share on  revenue of $4.61 billion. The Earnings Whisper number was a loss of $0.07 per share. The company beat expectations by 160.00%.<br /><br />NIO Inc. is a pioneer and a leading company in the global smart electric vehicle market.",
+    "subject": "NIO Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603109117",
+    "eps": 0.042,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.05,
+    "whisper": -0.07,
+    "highEstimate": -0.07,
+    "lowEstimate": -0.07,
+    "revenue": null,
+    "revenueEstimate": 4610,
+    "earningsGrowth": 1.0893617021276596,
+    "revenueGrowth": null,
+    "earningsSurprise": 1.6,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.1504763701466691
   }
 ]
