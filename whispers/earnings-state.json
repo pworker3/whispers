@@ -72814,5 +72814,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.7689517591585057
+  },
+  {
+    "epsDate": "2026-03-10T17:38:00",
+    "ticker": "PANL",
+    "name": "Pangaea Logistics Solutions Ltd.",
+    "summary": "Pangaea Logistics Solutions (PANL) reported earnings of $0.16 per share on revenue of $183.88 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.18 per share on  revenue of $165.62 million. The company missed consensus estimates by 11.11% while revenue grew 24.94% on a year-over-year basis.<br /><br /> Pangaea Logistics Solutions Ltd. operates as a global logistics company. It provides seaborne drybulk transportation services. The Company provides logistics services to a broad base of industrial customers who require the transportation of a wide variety of dry bulk cargoes, including grains, pig iron, hot briquetted iron, bauxite, alumina, cement clinker, dolomite, and limestone. It provides dry bulk cargo transportation services for steel, aluminum, energy, agricultural, and other sectors. Pangaea Logistics Solutions Ltd. is headquartered in Newport, Rhode Island.   \n",
+    "subject": "Pangaea Logistics Solutions Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603106994",
+    "eps": 0.16,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.18,
+    "whisper": 999,
+    "highEstimate": 0.18,
+    "lowEstimate": 0.18,
+    "revenue": 183.88,
+    "revenueEstimate": 165.62,
+    "earningsGrowth": 0,
+    "revenueGrowth": 0.24939697638865296,
+    "earningsSurprise": -0.1111111111111111,
+    "revenueSurprise": 0.1102523849776597,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.10159030793847762
   }
 ]
