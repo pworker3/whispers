@@ -72790,5 +72790,29 @@
     "revenueSurprise": 0.05244474668480109,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.11225927392124443
+  },
+  {
+    "epsDate": "2026-03-10T17:11:00",
+    "ticker": "FNV",
+    "name": "Franco-Nevada Corporation",
+    "summary": "Franco-Nevada (FNV) reported earnings of $1.85 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.68 per share on  revenue of $1.67 billion. The Earnings Whisper number was $1.75 per share. The company beat expectations by 5.71%.<br /><br />Franco-Nevada Corp is a gold-focused royalty and stream company with additional interests in platinum group metals, oil & gas and other resource assets.",
+    "subject": "Franco-Nevada Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603100252",
+    "eps": 1.85,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.68,
+    "whisper": 1.75,
+    "highEstimate": 1.74,
+    "lowEstimate": 1.64,
+    "revenue": null,
+    "revenueEstimate": 1670,
+    "earningsGrowth": 0.9473684210526315,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.05714285714285714,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.7689517591585057
   }
 ]
