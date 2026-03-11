@@ -73366,5 +73366,29 @@
     "revenueSurprise": -0.04851179197154768,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.1354747079943644
+  },
+  {
+    "epsDate": "2026-03-11T18:19:00",
+    "ticker": "PATH",
+    "name": "UiPath, Inc.",
+    "summary": "UiPath (PATH) reported earnings of $0.30 per share on revenue of $481.11 million for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $0.25 per share on  revenue of $464.86 million. The Earnings Whisper number was $0.28 per share. The company beat expectations by 7.14% while revenue grew 13.56% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $395.0 million to $400.0 million and fiscal year revenue of $1.754 billion to $1.759 billion. The current consensus revenue estimate is $394.09 million for the quarter ending April 30, 2026 and revenue of $1.74 billion for the year ending January 31, 2027.<br /><br />UiPath is on a mission to uplevel knowledge work so more people can work more creatively, collaboratively, and strategically. ",
+    "subject": "UiPath Beat Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603110103",
+    "eps": 0.3,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.25,
+    "whisper": 0.28,
+    "highEstimate": 0.27,
+    "lowEstimate": 0.23,
+    "revenue": 481.107,
+    "revenueEstimate": 464.86,
+    "earningsGrowth": 2,
+    "revenueGrowth": 0.1356344684005042,
+    "earningsSurprise": 0.07142857142857142,
+    "revenueSurprise": 0.03495030761949834,
+    "prevEarningsGrowth": -1.064516129032258,
+    "prevRevenueGrowth": 0.1591978638274595
   }
 ]
