@@ -73270,5 +73270,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": -1.064516129032258,
     "prevRevenueGrowth": 0.1591978638274595
+  },
+  {
+    "epsDate": "2026-03-11T16:06:00",
+    "ticker": "FOSL",
+    "name": "Fossil, Inc.",
+    "summary": "Fossil (FOSL) reported a loss of $0.15 per share on revenue of $280.50 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.02 per share on  revenue of $249.20 million. The company missed consensus estimates by 850.00% while revenue fell 18.05% compared to the same quarter a year ago.<br /><br />The company  said it expects  2026 revenue of $944.14 million to $964.22 million. The current consensus revenue estimate is $875.80 million for the year ending December 31, 2026.<br /><br />Fossil Group Inc is a design, marketing and distribution company of consumer fashion accessories. It offers men' and women' fashion watches and jewelry, handbags, small leather goods, belts, sunglasses, soft accessories and select apparel.",
+    "subject": "Fossil Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603110332",
+    "eps": -0.15,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.02,
+    "whisper": 999,
+    "highEstimate": 0.02,
+    "lowEstimate": 0.02,
+    "revenue": 280.5,
+    "revenueEstimate": 249.2,
+    "earningsGrowth": -1.3846153846153846,
+    "revenueGrowth": -0.18054338299737072,
+    "earningsSurprise": -8.5,
+    "revenueSurprise": 0.12560192616372393,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.061153578874218205
   }
 ]
