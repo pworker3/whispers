@@ -73342,5 +73342,29 @@
     "revenueSurprise": null,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11214416080020859
+  },
+  {
+    "epsDate": "2026-03-11T17:30:00",
+    "ticker": "ASTL",
+    "name": "Algoma Steel Group Inc",
+    "summary": "Algoma Steel Group (ASTL) reported a loss of $2.11 per share on revenue of $326.39 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.32 per share on  revenue of $343.03 million. The company missed consensus estimates by 759.38% while revenue fell 22.64% compared to the same quarter a year ago.<br /><br />Algoma is a fully integrated producer of hot and cold rolled steel products including sheet and plate. ",
+    "subject": "Algoma Steel Group Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603110357",
+    "eps": -2.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.32,
+    "whisper": 999,
+    "highEstimate": 0.32,
+    "lowEstimate": 0.32,
+    "revenue": 326.389,
+    "revenueEstimate": 343.03,
+    "earningsGrowth": -3.7954545454545454,
+    "revenueGrowth": -0.2264086994031959,
+    "earningsSurprise": -7.59375,
+    "revenueSurprise": -0.04851179197154768,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.1354747079943644
   }
 ]
