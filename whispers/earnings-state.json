@@ -73294,5 +73294,29 @@
     "revenueSurprise": 0.12560192616372393,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.061153578874218205
+  },
+  {
+    "epsDate": "2026-03-11T16:30:00",
+    "ticker": "TBBB",
+    "name": "Tiendas 3B",
+    "summary": "Tiendas 3B (TBBB) reported a loss of $0.49 per share on revenue of $1.20 billion for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.28 per share on  revenue of $1.26 billion. The company missed consensus estimates by 75.00% while revenue grew 47.40% on a year-over-year basis.<br /><br />BBB Foods Inc., a proudly Mexican company, is a pioneer and leader of the grocery hard discount model in Mexico and one of the fastest growing retailers in the country as measured by its sales and store growth rates. ",
+    "subject": "Tiendas 3B Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603112268",
+    "eps": -0.49,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.28,
+    "whisper": 999,
+    "highEstimate": -0.27,
+    "lowEstimate": -0.27,
+    "revenue": 1200.445,
+    "revenueEstimate": 1260,
+    "earningsGrowth": -48,
+    "revenueGrowth": 0.474043730944303,
+    "earningsSurprise": -0.75,
+    "revenueSurprise": -0.04726587301587302,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.38775897779052354
   }
 ]
