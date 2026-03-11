@@ -72862,5 +72862,29 @@
     "revenueSurprise": 0.025511067249400818,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.09110111088437566
+  },
+  {
+    "epsDate": "2026-03-11T04:30:00",
+    "ticker": "RERE",
+    "name": "ATRenew Inc. ",
+    "summary": "ATRenew Inc. (RERE) reported earnings of $0.08 per share on revenue of $894.34 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.06 per share on  revenue of $861.10 million. The company beat consensus estimates by 33.33% while revenue grew 34.62% on a year-over-year basis.<br /><br />ATRenew Inc. is a pioneer in the technology-driven trade-in solutions and circular economy for consumer products in China. ",
+    "subject": "ATRenew Inc. Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603117602",
+    "eps": 0.08,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.06,
+    "whisper": 999,
+    "highEstimate": 0.07,
+    "lowEstimate": 0.07,
+    "revenue": 894.338,
+    "revenueEstimate": 861.1,
+    "earningsGrowth": 0.6,
+    "revenueGrowth": 0.3461768876231648,
+    "earningsSurprise": 0.3333333333333333,
+    "revenueSurprise": 0.0385994657995587,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2529027519630277
   }
 ]
