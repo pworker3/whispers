@@ -73390,5 +73390,29 @@
     "revenueSurprise": 0.03495030761949834,
     "prevEarningsGrowth": -1.064516129032258,
     "prevRevenueGrowth": 0.1591978638274595
+  },
+  {
+    "epsDate": "2026-03-11T19:49:00",
+    "ticker": "NTSK",
+    "name": "Netskope",
+    "summary": "Netskope (NTSK) reported a loss of $0.04 per share on revenue of $196.33 million for the  fiscal fourth quarter ended January 2026.  The consensus estimate was a loss of $0.06 per share on  revenue of $189.36 million. The Earnings Whisper number was a loss of $0.04 per share. The company reported in-line with expectations.<br /><br />The company  said it expects fiscal  a 2027  loss of approximately $0.19 per share on revenue of $870.0 million to $876.0 million. The current consensus estimate is a loss of $0.19 per share on revenue of $867.6 million for the year ending January 31, 2027.<br /><br />Netskope, a leader in modern security and networking for the cloud and AI era, addresses the needs of both security and networking teams by providing optimized access and real-time, context-based security for people, devices, and data anywhere they go.",
+    "subject": "Netskope Reported In-line with Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603110527",
+    "eps": -0.04,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.06,
+    "whisper": -0.04,
+    "highEstimate": -0.05,
+    "lowEstimate": -0.07,
+    "revenue": 196.33,
+    "revenueEstimate": 189.36,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0,
+    "revenueSurprise": 0.03680819602872835,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
