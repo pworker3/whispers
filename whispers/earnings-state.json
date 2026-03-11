@@ -73078,5 +73078,29 @@
     "revenueSurprise": 0.2123809523809524,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 7.053902302077485
+  },
+  {
+    "epsDate": "2026-03-11T07:45:00",
+    "ticker": "SNDA",
+    "name": "Sonida Senior Living",
+    "summary": "Sonida Senior Living (SNDA) reported a loss of $1.29 per share on revenue of $97.66 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $1.17 per share on  revenue of $88.89 million. The company missed consensus estimates by 10.26% while revenue grew 6.23% on a year-over-year basis.<br /><br />Dallas-based Sonida Senior Living, Inc. is a leading owner-operator of independent living, assisted living and memory care communities and services for senior adults. ",
+    "subject": "Sonida Senior Living Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603112026",
+    "eps": -1.29,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -1.17,
+    "whisper": 999,
+    "highEstimate": -1.17,
+    "lowEstimate": -1.17,
+    "revenue": 97.655,
+    "revenueEstimate": 88.89,
+    "earningsGrowth": -0.5542168674698795,
+    "revenueGrowth": 0.062264089371376355,
+    "earningsSurprise": -0.10256410256410256,
+    "revenueSurprise": 0.09860501743728203,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.31154515050167225
   }
 ]
