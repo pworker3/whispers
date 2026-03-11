@@ -73054,5 +73054,29 @@
     "revenueSurprise": 0.03892857142857143,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.2866120738906875
+  },
+  {
+    "epsDate": "2026-03-11T08:00:00",
+    "ticker": "VRCA",
+    "name": "Verrica Pharmaceuticals Inc.",
+    "summary": "Verrica Pharmaceuticals (VRCA) reported a loss of $0.56 per share on revenue of $5.09 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.44 per share on  revenue of $4.20 million. The company missed consensus estimates by 27.27% while revenue grew 1,380.23% on a year-over-year basis.<br /><br />Verrica is a dermatology therapeutics company developing medications for skin diseases requiring medical interventions. Verrica’s late-stage product candidate, VP-102, is in development to treat molluscum, common warts and external genital warts, three of the largest unmet needs in medical dermatology. Verrica is also developing VP-103, its second cantharidin-based product candidate, for the treatment of plantar warts. The Company has also entered a worldwide license agreement with Lytix Biopharma AS to develop and commercialize LTX-315 for dermatologic oncology conditions. ",
+    "subject": "Verrica Pharmaceuticals Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603119902",
+    "eps": -0.56,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.44,
+    "whisper": 999,
+    "highEstimate": -0.43,
+    "lowEstimate": -0.43,
+    "revenue": 5.092,
+    "revenueEstimate": 4.2,
+    "earningsGrowth": -1.3333333333333333,
+    "revenueGrowth": 13.80232558139535,
+    "earningsSurprise": -0.2727272727272727,
+    "revenueSurprise": 0.2123809523809524,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 7.053902302077485
   }
 ]
