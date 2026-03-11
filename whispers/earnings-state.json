@@ -72838,5 +72838,29 @@
     "revenueSurprise": 0.1102523849776597,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.10159030793847762
+  },
+  {
+    "epsDate": "2026-03-10T19:00:00",
+    "ticker": "JOYY",
+    "name": "JOYY Inc.",
+    "summary": "JOYY (JOYY) reported earnings of $1.19 per share on revenue of $581.92 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.33 per share on  revenue of $567.44 million. The company missed consensus estimates by 10.53% while revenue grew 5.91% on a year-over-year basis.<br /><br />The company  said it expects  first quarter  revenue of $538.0 million to $548.0 million. The current consensus revenue estimate is $551.0 million for the quarter ending March 31, 2026.<br /><br />JOYY is a leading global technology company with a mission to enrich lives through technology. ",
+    "subject": "JOYY Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603109378",
+    "eps": 1.19,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.33,
+    "whisper": 999,
+    "highEstimate": 1.42,
+    "lowEstimate": 1.42,
+    "revenue": 581.916,
+    "revenueEstimate": 567.44,
+    "earningsGrowth": -0.28313253012048195,
+    "revenueGrowth": 0.05909588931396352,
+    "earningsSurprise": -0.10526315789473684,
+    "revenueSurprise": 0.025511067249400818,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.09110111088437566
   }
 ]
