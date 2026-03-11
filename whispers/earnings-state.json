@@ -73102,5 +73102,29 @@
     "revenueSurprise": 0.09860501743728203,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.31154515050167225
+  },
+  {
+    "epsDate": "2026-03-11T12:12:00",
+    "ticker": "CDRE",
+    "name": "Cadre Holdings, Inc.",
+    "summary": "Cadre (CDRE) reported earnings of $0.27 per share on revenue of $167.22 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.41 per share on  revenue of $182.55 million. The company missed consensus estimates by 34.15% while revenue fell 4.98% compared to the same quarter a year ago.<br /><br />The company  said it expects  2026 revenue of $736.0 million to $758.0 million. The current consensus revenue estimate is $728.3 million for the year ending December 31, 2026.<br /><br />Cadre is a global leader in the manufacturing and distribution of safety and survivability products for first responders. ",
+    "subject": "Cadre Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603110186",
+    "eps": 0.27,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.41,
+    "whisper": 999,
+    "highEstimate": 0.46,
+    "lowEstimate": 0.31,
+    "revenue": 167.224,
+    "revenueEstimate": 182.55,
+    "earningsGrowth": -0.15625,
+    "revenueGrowth": -0.04977725247749795,
+    "earningsSurprise": -0.34146341463414637,
+    "revenueSurprise": -0.08395508079978088,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.42465816028078385
   }
 ]
