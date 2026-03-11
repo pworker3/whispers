@@ -73030,5 +73030,29 @@
     "revenueSurprise": -0.003129890453834116,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1354095744291435
+  },
+  {
+    "epsDate": "2026-03-11T07:30:00",
+    "ticker": "BWAY",
+    "name": "Brainsway Ltd.",
+    "summary": "Brainsway (BWAY) reported earnings of $0.14 per share on revenue of $14.55 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.06 per share on  revenue of $14.00 million. The company beat consensus estimates by 133.33% while revenue grew 27.43% on a year-over-year basis.<br /><br />BrainsWay is a global leader in advanced noninvasive neurostimulation treatments for mental health disorders. ",
+    "subject": "Brainsway Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603119979",
+    "eps": 0.14,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.06,
+    "whisper": 999,
+    "highEstimate": 0.07,
+    "lowEstimate": 0.02,
+    "revenue": 14.545,
+    "revenueEstimate": 14,
+    "earningsGrowth": 0.75,
+    "revenueGrowth": 0.27431224811634836,
+    "earningsSurprise": 1.3333333333333333,
+    "revenueSurprise": 0.03892857142857143,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.2866120738906875
   }
 ]
