@@ -74110,5 +74110,29 @@
     "revenueSurprise": 1.2858490566037737,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.5112750787597413
+  },
+  {
+    "epsDate": "2026-03-12T16:05:00",
+    "ticker": "ANGX",
+    "name": "Angel Studios, Inc.",
+    "summary": "Angel Studios (ANGX) reported a loss of $0.42 per share on revenue of $109.93 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.21 per share on  revenue of $95.30 million. The company missed consensus estimates by 100.00%.<br /><br />Angel is a media and technology company guided by two million grassroots Angel Guild paying members championing values-driven stories. ",
+    "subject": "Angel Studios Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603123348",
+    "eps": -0.42,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.21,
+    "whisper": 999,
+    "highEstimate": -0.2,
+    "lowEstimate": -0.21,
+    "revenue": 109.934,
+    "revenueEstimate": 95.3,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -1,
+    "revenueSurprise": 0.15355718782791186,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
