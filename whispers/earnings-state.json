@@ -73510,5 +73510,29 @@
     "revenueSurprise": -0.13445198329853864,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.30457548107725957
+  },
+  {
+    "epsDate": "2026-03-12T04:30:00",
+    "ticker": "LI",
+    "name": "Li Auto Inc.",
+    "summary": "Li Auto (LI) reported earnings of $0.04 per share on  for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.05 per share on  revenue of $4.28 billion. The Earnings Whisper number was $0.01 per share. The company beat expectations by 260.00%.<br /><br />Li Auto Inc. is an innovator in China’s new energy vehicle market. The Company designs, develops, manufactures, and sells premium smart electric vehicles. ",
+    "subject": "Li Auto Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603120755",
+    "eps": 0.036,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.05,
+    "whisper": 0.01,
+    "highEstimate": 0.05,
+    "lowEstimate": 0.05,
+    "revenue": null,
+    "revenueEstimate": 4280,
+    "earningsGrowth": -0.92,
+    "revenueGrowth": null,
+    "earningsSurprise": 2.6,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.3708364002647013
   }
 ]
