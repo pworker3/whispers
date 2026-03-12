@@ -73822,5 +73822,29 @@
     "revenueSurprise": -0.6581212121212121,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.030773277222514467
+  },
+  {
+    "epsDate": "2026-03-12T07:00:00",
+    "ticker": "LCUT",
+    "name": "Lifetime Brands Inc",
+    "summary": "Lifetime Brands (LCUT) reported earnings of $1.05 per share on revenue of $204.07 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.29 per share on  revenue of $202.44 million. The company beat consensus estimates by 262.07% while revenue fell 5.17% compared to the same quarter a year ago.<br /><br />Lifetime Brands is a leading global designer, developer and marketer of a broad range of branded consumer products used in the home. ",
+    "subject": "Lifetime Brands Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603120465",
+    "eps": 1.05,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.29,
+    "whisper": 999,
+    "highEstimate": 0.4,
+    "lowEstimate": 0.18,
+    "revenue": 204.074,
+    "revenueEstimate": 202.44,
+    "earningsGrowth": 0.9090909090909091,
+    "revenueGrowth": -0.051731588656502805,
+    "earningsSurprise": 2.6206896551724137,
+    "revenueSurprise": 0.008071527366133176,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.06486724652817441
   }
 ]
