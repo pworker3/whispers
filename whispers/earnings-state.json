@@ -73846,5 +73846,29 @@
     "revenueSurprise": 0.008071527366133176,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.06486724652817441
+  },
+  {
+    "epsDate": "2026-03-12T07:30:00",
+    "ticker": "BLDP",
+    "name": "Ballard Power Systems Inc.",
+    "summary": "Ballard Power Systems (BLDP) reported a loss of $0.06 per share on revenue of $33.60 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.07 per share on  revenue of $29.83 million. The Earnings Whisper number was a loss of $0.08 per share. The company beat expectations by 25.00% while revenue grew 37.03% on a year-over-year basis.<br /><br />Ballard Power Systems, Inc. is engaged in the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on commercial stage and development stage markets.",
+    "subject": "Ballard Power Systems Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603128626",
+    "eps": -0.06,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.07,
+    "whisper": -0.08,
+    "highEstimate": -0.06,
+    "lowEstimate": -0.07,
+    "revenue": 33.6,
+    "revenueEstimate": 29.83,
+    "earningsGrowth": 0.5714285714285714,
+    "revenueGrowth": 0.3703099510603589,
+    "earningsSurprise": 0.25,
+    "revenueSurprise": 0.1263828360710694,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.202561669829222
   }
 ]
