@@ -73870,5 +73870,29 @@
     "revenueSurprise": 0.1263828360710694,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.202561669829222
+  },
+  {
+    "epsDate": "2026-03-12T04:00:00",
+    "ticker": "FUTU",
+    "name": "Futu Holdings Ltd",
+    "summary": "Futu Holdings (FUTU) reported earnings of $3.07 per share on revenue of $827.22 million for the  fourth quarter ended December 2025.  The consensus revenue estimate was  revenue of $815.09 million. Revenue grew 44.96% on a year-over-year basis.<br /><br />utu Holdings Limited  is an advanced technology company transforming the investing experience by offering a fully digitized brokerage and wealth management platform. ",
+    "subject": "Futu Holdings Reported Earnings",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603120754",
+    "eps": 3.07,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 827.217,
+    "revenueEstimate": 815.09,
+    "earningsGrowth": 0.7848837209302325,
+    "revenueGrowth": 0.4496353204658645,
+    "earningsSurprise": null,
+    "revenueSurprise": 0.014878111619575753,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.8606326452167228
   }
 ]
