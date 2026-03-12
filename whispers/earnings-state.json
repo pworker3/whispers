@@ -74182,5 +74182,29 @@
     "revenueSurprise": -0.017538975501113586,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.009344241870509572
+  },
+  {
+    "epsDate": "2026-03-12T16:24:00",
+    "ticker": "ATLC",
+    "name": "Atlanticus Holdings Corporation",
+    "summary": "Atlanticus Holdings (ATLC) reported earnings of $1.75 per share on revenue of $734.39 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $1.65 per share on  revenue of $721.30 million. The company beat consensus estimates by 6.06% while revenue grew 107.75% on a year-over-year basis.<br /><br />Atlanticus Holdings Corporation empowers better financial outcomes for everyday Americans by enabling bank, retail, healthcare, and automotive partners to offer more inclusive financial solutions to consumers.",
+    "subject": "Atlanticus Holdings Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603121331",
+    "eps": 1.75,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.65,
+    "whisper": 999,
+    "highEstimate": 1.65,
+    "lowEstimate": 1.65,
+    "revenue": 734.394,
+    "revenueEstimate": 721.3,
+    "earningsGrowth": 0.2323943661971831,
+    "revenueGrowth": 1.0775465287659374,
+    "earningsSurprise": 0.06060606060606061,
+    "revenueSurprise": 0.018153334257590463,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.4084345033369018
   }
 ]
