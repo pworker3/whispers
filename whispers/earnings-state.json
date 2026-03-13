@@ -74278,5 +74278,29 @@
     "revenueSurprise": 0.06063109202048571,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-13T07:00:00",
+    "ticker": "BETR",
+    "name": "Better Home & Finance Holding Company ",
+    "summary": "Better Home & Finance Holding Company (BETR) reported a loss of $2.29 per share on revenue of $44.31 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $2.16 per share on  revenue of $39.32 million. The company missed consensus estimates by 6.02% while revenue grew 77.37% on a year-over-year basis.<br /><br />Better Home & Finance Holding Company is a leading digitally native homeownership company, serving customers in all 50 US states and the United Kingdom through its suite of products including residential mortgage, insurance and real estate services. ",
+    "subject": "Better Home & Finance Holding Company Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603137494",
+    "eps": -2.29,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -2.16,
+    "whisper": 999,
+    "highEstimate": -1.88,
+    "lowEstimate": -1.88,
+    "revenue": 44.31,
+    "revenueEstimate": 39.32,
+    "earningsGrowth": 0.18505338078291814,
+    "revenueGrowth": 0.7737480485168728,
+    "earningsSurprise": -0.06018518518518518,
+    "revenueSurprise": 0.12690742624618515,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.512968200317307
   }
 ]
