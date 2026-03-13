@@ -74230,5 +74230,29 @@
     "revenueSurprise": -0.13728910313332487,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.5072323806895966
+  },
+  {
+    "epsDate": "2026-03-12T16:05:00",
+    "ticker": "INO",
+    "name": "Inovio Biomedical Corp",
+    "summary": "Inovio Biomedical (INO) reported earnings of $0.31 per share on revenue of $0.00 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.37 per share on  revenue of $0.08 million. The Earnings Whisper number was a loss of $0.34 per share. The company beat expectations by 191.18% while revenue fell 100.00% compared to the same quarter a year ago.<br /><br />Inovio Pharmaceuticals Inc is a clinical stage biopharmaceutical company. The Company develops active DNA immunotherapies and vaccines in combination with proprietary electroporation delivery devices to prevent and treat cancers and infectious diseases.",
+    "subject": "Inovio Biomedical Beat Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603129145",
+    "eps": 0.31,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.37,
+    "whisper": -0.34,
+    "highEstimate": -0.36,
+    "lowEstimate": -0.38,
+    "revenue": 0,
+    "revenueEstimate": 0.08,
+    "earningsGrowth": 1.4492753623188406,
+    "revenueGrowth": -1,
+    "earningsSurprise": 1.911764705882353,
+    "revenueSurprise": -1,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
