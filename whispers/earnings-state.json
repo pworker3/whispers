@@ -74254,5 +74254,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-13T00:00:00",
+    "ticker": "KYIV",
+    "name": "Kyivstar Group Ltd.",
+    "summary": "Kyivstar Group (KYIV) reported earnings of $0.37 per share on revenue of $321.00 million for the  fourth quarter ended December 2025.  The consensus earnings estimate was $0.31 per share on  revenue of $302.65 million. The company beat consensus estimates by 19.35%.<br /><br />Kyivstar Group Ltd. operates JSC Kyivstar, Ukraine’s leading digital operator and the first Ukrainian company to have its shares traded on a U.S. stock exchange. ",
+    "subject": "Kyivstar Group Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603131476",
+    "eps": 0.37,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0.31,
+    "whisper": 999,
+    "highEstimate": 0.33,
+    "lowEstimate": 0.29,
+    "revenue": 321,
+    "revenueEstimate": 302.65,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.1935483870967742,
+    "revenueSurprise": 0.06063109202048571,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
