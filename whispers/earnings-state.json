@@ -75262,5 +75262,29 @@
     "revenueSurprise": 0.1834237288135593,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.253886815920398
+  },
+  {
+    "epsDate": "2026-03-16T17:00:00",
+    "ticker": "MVST",
+    "name": "Microvast Holdings, Inc. ",
+    "summary": "Microvast Holdings, Inc. (MVST) reported a loss of $0.11 per share on revenue of $96.40 million for the  fourth quarter ended December 2025. . Revenue fell 14.98% compared to the same quarter a year ago.<br /><br />Microvast is a technology innovator that designs, develops and manufactures lithium-ion battery solutions. ",
+    "subject": "Microvast Holdings, Inc. Reported Earnings",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603162850",
+    "eps": -0.11,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 999,
+    "whisper": 999,
+    "highEstimate": 999,
+    "lowEstimate": 999,
+    "revenue": 96.399,
+    "revenueEstimate": null,
+    "earningsGrowth": -10,
+    "revenueGrowth": -0.14982317196856781,
+    "earningsSurprise": null,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.21599203061506292
   }
 ]
