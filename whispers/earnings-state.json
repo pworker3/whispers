@@ -75334,5 +75334,29 @@
     "revenueSurprise": -1,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-16T16:41:00",
+    "ticker": "SMC",
+    "name": "Summit Midstream Corporation",
+    "summary": "Summit Midstream (SMC) reported a loss of $0.66 per share on revenue of $142.29 million for the  fourth quarter ended December 2025.  The consensus estimate was for breakeven results on  revenue of $146.71 million. Revenue grew 32.96% on a year-over-year basis.<br /><br />SMC is a value-driven corporation focused on developing, owning and operating midstream energy infrastructure assets that are strategically located in the core producing areas of unconventional resource basins, primarily shale formations, in the continental United States. ",
+    "subject": "Summit Midstream Reported Earnings",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603161159",
+    "eps": -0.66,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 0,
+    "whisper": 999,
+    "highEstimate": 0,
+    "lowEstimate": 0,
+    "revenue": 142.294,
+    "revenueEstimate": 146.71,
+    "earningsGrowth": 0.6986301369863014,
+    "revenueGrowth": 0.3296267917546581,
+    "earningsSurprise": null,
+    "revenueSurprise": -0.030100197668870562,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.4341942098325441
   }
 ]
