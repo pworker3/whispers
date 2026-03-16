@@ -75022,5 +75022,29 @@
     "revenueSurprise": 0.0009210526315789473,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.07416465038027595
+  },
+  {
+    "epsDate": "2026-03-16T09:00:00",
+    "ticker": "BTM",
+    "name": "Bitcoin Depot Inc.",
+    "summary": "Bitcoin Depot (BTM) reported a loss of $1.18 per share on revenue of $116.04 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.47 per share on  revenue of $113.93 million. The company missed consensus estimates by 151.06% while revenue fell 15.20% compared to the same quarter a year ago.<br /><br />Bitcoin Depot Inc. was founded in 2016 with the mission to connect those who prefer to use cash to the broader, digital financial system. ",
+    "subject": "Bitcoin Depot Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603162273",
+    "eps": -1.18,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.47,
+    "whisper": 999,
+    "highEstimate": -0.42,
+    "lowEstimate": -0.56,
+    "revenue": 116.035,
+    "revenueEstimate": 113.93,
+    "earningsGrowth": -4.619047619047619,
+    "revenueGrowth": -0.15195831232139856,
+    "earningsSurprise": -1.5106382978723405,
+    "revenueSurprise": 0.018476257351005002,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.20115915458597924
   }
 ]
