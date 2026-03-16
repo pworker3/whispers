@@ -75046,5 +75046,29 @@
     "revenueSurprise": 0.018476257351005002,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.20115915458597924
+  },
+  {
+    "epsDate": "2026-03-16T12:10:00",
+    "ticker": "KSPI",
+    "name": "Kaspi.kz ",
+    "summary": "Kaspi.kz (KSPI) reported earnings of $2.80 per share on revenue of $2.18 billion for the  fourth quarter ended December 2025.  The consensus earnings estimate was $3.10 per share on  revenue of $2.40 billion. The Earnings Whisper number was $2.95 per share. The company missed expectations by 5.08% while revenue grew 56.78% on a year-over-year basis.<br /><br />Kaspi.kz’s mission is to improve people’s lives by developing innovative mobile products and services. ",
+    "subject": "Kaspi.kz Missed Expectations",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603162732",
+    "eps": 2.8,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 3.1,
+    "whisper": 2.95,
+    "highEstimate": 3.6,
+    "lowEstimate": 2.6,
+    "revenue": 2180.585,
+    "revenueEstimate": 2400,
+    "earningsGrowth": -0.09385113268608414,
+    "revenueGrowth": 0.5677736397101116,
+    "earningsSurprise": -0.05084745762711865,
+    "revenueSurprise": -0.09142291666666667,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.9388151905562903
   }
 ]
