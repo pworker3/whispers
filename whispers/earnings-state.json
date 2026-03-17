@@ -75934,5 +75934,29 @@
     "revenueSurprise": -0.01774467580702517,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.08229962485281635
+  },
+  {
+    "epsDate": "2026-03-17T07:00:00",
+    "ticker": "TSAT",
+    "name": "Telesat Corp",
+    "summary": "Telesat (TSAT) reported a loss of $0.97 per share on revenue of $67.46 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.85 per share on  revenue of $65.22 million. The company missed consensus estimates by 14.12% while revenue fell 26.26% compared to the same quarter a year ago.<br /><br />Telesat  is one of the largest and most successful global satellite operators. ",
+    "subject": "Telesat Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603173174",
+    "eps": -0.97,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.85,
+    "whisper": 999,
+    "highEstimate": -1.05,
+    "lowEstimate": -1.05,
+    "revenue": 67.459,
+    "revenueEstimate": 65.22,
+    "earningsGrowth": 0.8355932203389831,
+    "revenueGrowth": -0.26261422762450265,
+    "earningsSurprise": -0.1411764705882353,
+    "revenueSurprise": 0.034329960134927937,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": -0.27687562816546124
   }
 ]
