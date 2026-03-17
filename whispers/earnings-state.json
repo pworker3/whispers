@@ -75982,5 +75982,29 @@
     "revenueSurprise": 0.11415263932015035,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.1418362927674318
+  },
+  {
+    "epsDate": "2026-03-17T07:30:00",
+    "ticker": "ABEO",
+    "name": "Abeona Therapeutics Inc.",
+    "summary": "Abeona Therapeutics (ABEO) reported a loss of $0.34 per share on revenue of $5.42 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.35 per share on  revenue of $6.19 million. The company beat consensus estimates by 2.86%.<br /><br />Abeona Therapeutics Inc. is a clinical-stage biopharmaceutical company developing cell and gene therapies for serious diseases. ",
+    "subject": "Abeona Therapeutics Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603173069",
+    "eps": -0.34,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.35,
+    "whisper": 999,
+    "highEstimate": -0.27,
+    "lowEstimate": -0.42,
+    "revenue": 5.42,
+    "revenueEstimate": 6.19,
+    "earningsGrowth": -0.4166666666666667,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.02857142857142857,
+    "revenueSurprise": -0.12439418416801293,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
