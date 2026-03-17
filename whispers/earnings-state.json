@@ -76006,5 +76006,29 @@
     "revenueSurprise": -0.12439418416801293,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": null
+  },
+  {
+    "epsDate": "2026-03-17T07:50:00",
+    "ticker": "STIM",
+    "name": "Neuronetics, Inc.",
+    "summary": "Neuronetics (STIM) reported a loss of $0.10 per share on revenue of $41.78 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.12 per share on  revenue of $36.45 million. The company beat consensus estimates by 16.67% while revenue grew 85.73% on a year-over-year basis.<br /><br />Neuronetics, Inc. is a commercial-stage medical technology company focused on designing, developing, and marketing products that improve the quality of life for patients who suffer from psychiatric disorders.",
+    "subject": "Neuronetics Beat Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603173265",
+    "eps": -0.1,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.12,
+    "whisper": 999,
+    "highEstimate": -0.12,
+    "lowEstimate": -0.12,
+    "revenue": 41.777,
+    "revenueEstimate": 36.45,
+    "earningsGrowth": 0.696969696969697,
+    "revenueGrowth": 0.8573333926110346,
+    "earningsSurprise": 0.16666666666666666,
+    "revenueSurprise": 0.14614540466392317,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 1.012790070156503
   }
 ]
