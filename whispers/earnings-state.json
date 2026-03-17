@@ -76318,5 +76318,29 @@
     "revenueSurprise": 0.01347122641509434,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.11880955804993983
+  },
+  {
+    "epsDate": "2026-03-17T16:15:00",
+    "ticker": "FLD",
+    "name": "Fold Holdings, Inc. ",
+    "summary": "Fold Holdings, Inc. (FLD) reported a loss of $0.86 per share on revenue of $9.13 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.14 per share on  revenue of $9.36 million. The company missed consensus estimates by 514.29%.<br /><br />Fold is the first publicly traded bitcoin financial services company, making it easy for individuals and businesses to earn, save, and use bitcoin.",
+    "subject": "Fold Holdings, Inc. Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603173741",
+    "eps": -0.86,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.14,
+    "whisper": 999,
+    "highEstimate": -0.11,
+    "lowEstimate": -0.18,
+    "revenue": 9.131,
+    "revenueEstimate": 9.36,
+    "earningsGrowth": null,
+    "revenueGrowth": null,
+    "earningsSurprise": -5.142857142857143,
+    "revenueSurprise": -0.024465811965811966,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": null
   }
 ]
