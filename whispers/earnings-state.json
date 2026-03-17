@@ -76054,5 +76054,29 @@
     "revenueSurprise": -0.023596022727272726,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 0.030049206077434436
+  },
+  {
+    "epsDate": "2026-03-16T18:00:00",
+    "ticker": "CANG",
+    "name": "Cango Inc.",
+    "summary": "Cango (CANG) reported a loss of $1.60 per share on revenue of $179.45 million for the  fourth quarter ended December 2025.  The consensus estimate was a loss of $0.27 per share on  revenue of $183.29 million. The company missed consensus estimates by 492.59% while revenue grew 96.08% on a year-over-year basis.<br /><br />Cango Inc. is a leading automotive transaction service platform in China connecting car buyers, dealers, financial institutions, and other industry participants.",
+    "subject": "Cango Missed Consensus Estimates",
+    "quarter": " fourth quarter ended December 2025",
+    "fileName": "2603160671",
+    "eps": -1.6,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": -0.27,
+    "whisper": 999,
+    "highEstimate": -0.02,
+    "lowEstimate": -0.51,
+    "revenue": 179.453,
+    "revenueEstimate": 183.29,
+    "earningsGrowth": -23.857142857142858,
+    "revenueGrowth": 0.9608063811188812,
+    "earningsSurprise": -4.925925925925926,
+    "revenueSurprise": -0.02093403895466201,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 57.48372819578235
   }
 ]
