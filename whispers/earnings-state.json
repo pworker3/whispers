@@ -76030,5 +76030,29 @@
     "revenueSurprise": 0.14614540466392317,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": 1.012790070156503
+  },
+  {
+    "epsDate": "2026-03-17T08:00:00",
+    "ticker": "ASO",
+    "name": "Academy Sports and Outdoors, Inc.",
+    "summary": "Academy Sports and Outdoors (ASO) reported earnings of $1.98 per share on revenue of $1.72 billion for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $1.99 per share on  revenue of $1.76 billion. The Earnings Whisper number was $2.03 per share. The company missed expectations by 2.46% while revenue grew 2.48% on a year-over-year basis.<br /><br />The company  said it expects fiscal  2027 non-GAAP earnings of $6.10 to $6.60 per share on revenue of $6.175 billion to $6.355 billion. The current consensus earnings estimate is $6.52 per share on revenue of $6.43 billion for the year ending January 31, 2027.<br /><br />Academy is a leading full-line sporting goods and outdoor recreation retailer in the United States. ",
+    "subject": "Academy Sports and Outdoors Missed Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603173120",
+    "eps": 1.98,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.99,
+    "whisper": 2.03,
+    "highEstimate": 2.1,
+    "lowEstimate": 1.92,
+    "revenue": 1718.471,
+    "revenueEstimate": 1760,
+    "earningsGrowth": 0.047619047619047616,
+    "revenueGrowth": 0.024778164730577486,
+    "earningsSurprise": -0.024630541871921183,
+    "revenueSurprise": -0.023596022727272726,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.030049206077434436
   }
 ]
