@@ -76534,5 +76534,29 @@
     "revenueSurprise": -0.7424265734265735,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.023288213949314813
+  },
+  {
+    "epsDate": "2026-03-18T07:30:00",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "summary": "Jabil (JBL) reported earnings of $2.69 per share on  for the  fiscal second quarter ended February 2026.  The consensus earnings estimate was $2.54 per share on  revenue of $7.75 billion. The Earnings Whisper number was $2.60 per share. The company beat expectations by 3.46%.<br /><br />The company  said it expects third-quarter non-GAAP earnings of $2.83 to $3.23 per share on revenue of $8.10 billion to $8.90 billion. The current consensus earnings estimate is $2.91 per share on revenue of $8.00 billion for the quarter ending May 31, 2026. The company also said it now expects fiscal  2026 non-GAAP earnings of approximately $12.25 per share on revenue of approximately $34.0 billion. The company's previous guidance was  earnings of approximately $11.55 per share on revenue of approximately $32.4 billion, and the current consensus earnings estimate is $11.64 per share on revenue of $32.4 billion for the year ending August 31, 2026.<br /><br />Jabil Circuit Inc, together with its subsidiaries is a provider of electronic manufacturing services and solutions. It provides electronic design, production &product management services to companies in the aerospace, automotive, & among others.",
+    "subject": "Jabil Beat Expectations",
+    "quarter": " fiscal second quarter ended February 2026",
+    "fileName": "2603186342",
+    "eps": 2.69,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 2.54,
+    "whisper": 2.6,
+    "highEstimate": 2.6,
+    "lowEstimate": 2.46,
+    "revenue": null,
+    "revenueEstimate": 7750,
+    "earningsGrowth": 0.5371428571428571,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.03461538461538462,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": 3.9625,
+    "prevRevenueGrowth": 0.18744638261366886
   }
 ]
