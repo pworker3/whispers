@@ -76414,5 +76414,29 @@
     "revenueSurprise": 0.09883720930232558,
     "prevEarningsGrowth": null,
     "prevRevenueGrowth": -0.44803982576228996
+  },
+  {
+    "epsDate": "2026-03-18T06:55:00",
+    "ticker": "M",
+    "name": "Macy's, Inc.",
+    "summary": "Macy's (M) reported earnings of $1.67 per share on  for the  fiscal fourth quarter ended January 2026.  The consensus earnings estimate was $1.53 per share on  revenue of $7.52 billion. The Earnings Whisper number was $1.60 per share. The company beat expectations by 4.38%.<br /><br />The company  said it expects fiscal  2027  earnings of $1.90 to $2.10 per share on revenue of $21.40 billion to $21.65 billion. The current consensus earnings estimate is $2.09 per share on revenue of $21.35 billion for the year ending January 31, 2027.<br /><br />Macy' Inc is an omnichannel retailer. It sells merchandise, including men', women' and children' apparel and accessories, cosmetics, home furnishings and other consumer goods.",
+    "subject": "Macy's Beat Expectations",
+    "quarter": " fiscal fourth quarter ended January 2026",
+    "fileName": "2603188750",
+    "eps": 1.67,
+    "ewGrade": null,
+    "pwrRating": null,
+    "estimate": 1.53,
+    "whisper": 1.6,
+    "highEstimate": 1.64,
+    "lowEstimate": 1.5,
+    "revenue": null,
+    "revenueEstimate": 7520,
+    "earningsGrowth": -0.07222222222222222,
+    "revenueGrowth": null,
+    "earningsSurprise": 0.04375,
+    "revenueSurprise": null,
+    "prevEarningsGrowth": null,
+    "prevRevenueGrowth": 0.002039567611666327
   }
 ]
